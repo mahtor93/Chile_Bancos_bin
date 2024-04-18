@@ -23,12 +23,14 @@ def look_in_links(arr_links):
             print(href + " is Down")
 
 ## Response obtiene toda la página donde están listadas las entidades bancarias
-response = requests.get("")
+response = requests.get("https://bincheck.io/es/cl")
 if response.status_code == 200:
     print('conectado')
     soup = get_soup(response)
     links = get_entidades_link(soup)
-    for link in links:
+    reads = 0
+    for index, link in enumerate(links):
+        index_str = str(index)
         res = requests.get(link.get('href'))
         if(res.status_code==200):
             print('Link accesado: '+link.get('href'))
@@ -47,7 +49,8 @@ if response.status_code == 200:
                 table_data.append(row_data)
             json_table = json.dumps(table_data, indent=4)
             print(json_table)
-            with open(name+'.json','w') as archivo:
+            with open(name+'_'+index_str+'.json','w') as archivo:
                 archivo.write(json_table)
-
+            reads = reads +1
+    print('total de archivos creados:' +str(reads))
     

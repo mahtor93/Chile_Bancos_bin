@@ -1,0 +1,1562 @@
+[
+    {
+        "ARIG_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "457360",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "ARIG BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457363",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "ARIG BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "489326",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "ARIG BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BOGD_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "403336",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "BOGD BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "477392",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "BOGD BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "629162",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "BOGD BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CAPITAL_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "457535",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457536",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "486285",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "486286",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "486287",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "621694",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "623416",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITAL BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CAPITRON_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "433147",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITRON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "468730",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITRON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484058",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITRON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484858",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITRON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "CAPITRON_BANK_LLC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "623480",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CAPITRON BANK LLC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CHINGGIS_KHAAN_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "406949",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CHINGGIS KHAAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "406960",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "CHINGGIS KHAAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "GOLOMT_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "621049",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "GOLOMT_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "402181",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "402967",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "405379",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "410137",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "418162",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "420731",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "420732",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "420733",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "420735",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "420736",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "421891",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "422071",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422259",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "462868",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483807",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "515023",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "516381",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522893",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "526735",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "528157",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531567",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "543153",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "544150",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548419",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "550160",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554616",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554835",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554848",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554849",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "558751",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "558752",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "621000",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "622445",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "626221",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "GOLOMT_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "402181",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "402967",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "405379",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "410137",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "418162",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "420731",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "420732",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "420733",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "420735",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "420736",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "421891",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "422071",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422259",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "462868",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483807",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "515023",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "516381",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522893",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "526735",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "528157",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531567",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "543153",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "544150",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548419",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "550160",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554616",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554835",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554848",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554849",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "558751",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "558752",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "621000",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "622445",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "626221",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "GOLOMT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "HUDALDAA_HUGJLIIN_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "450315",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "HUDALDAA HUGJLIIN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450316",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "HUDALDAA HUGJLIIN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "INN_FOR_UNIONPAY_CARD_NETWORK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "626205",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "INN FOR UNIONPAY CARD NETWORK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "626290",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "INN FOR UNIONPAY CARD NETWORK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "KHAAN_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "949618",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAAN BANK",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ATM CARD"
+            }
+        ]
+    },
+    {
+        "KHAN_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "402653",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "406157",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "438053",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "438054",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "438055",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "455128",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463772",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463773",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "463774",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "471238",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "499939",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "621224",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "622954",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ATM CARD"
+            },
+            {
+                "Numero BIN/IIN": "623458",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ATM CARD"
+            }
+        ]
+    },
+    {
+        "KHAN_BANK_LLC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "546401",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK LLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "558703",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK LLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "KHAN_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "624454",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "629277",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "KHAN BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "M_BANK_JSC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "420734",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "M BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "MONGOL_POST_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "410415",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOL POST BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "450012",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOL POST BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450015",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOL POST BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "450016",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOL POST BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "MONGOL_SHYYDAN_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "450013",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOL SHYYDAN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "MONGOLIAN_GOLEMT_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "622414",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOLIAN GOLEMT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "622444",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "MONGOLIAN GOLEMT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "NATIONAL_INVESTMENT_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "423339",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "NATIONAL INVESTMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "SAVINGS_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "428401",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "SAVINGS BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428467",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "SAVINGS BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "466550",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "SAVINGS BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "466551",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "SAVINGS BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "STATE_BANK_LLC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "623352",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATE BANK LLC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "STATEBANK_JSC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "406347",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "406348",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "406350",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "406351",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "428466",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "450317",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464931",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "466501",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "466549",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "STATEBANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "TERIYN_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "949612",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TERIYN BANK",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ATM CARD"
+            },
+            {
+                "Numero BIN/IIN": "949622",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TERIYN BANK",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TRADE_&_DEVELOPMENT_BANK_JSC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "407576",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "408399",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421806",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "439145",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "450319",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450320",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "479922",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "490249",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "TRADE_&_DEVELOPMENT_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "513206",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "514917",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "518983",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520078",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541334",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "556059",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE & DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "TRADE_AND_DEVELOPMENT_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "450318",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "468731",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "478905",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478906",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479923",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "487008",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "490248",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490251",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "621642",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "TRADE_DEVELOPMENT_BANK_OF_MONGOLIA_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "624366",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624453",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRADE DEVELOPMENT BANK OF MONGOLIA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TRANSPORT_AND_DEVELOPMENT_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "401766",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRANSPORT AND DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "405835",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRANSPORT AND DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "464164",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRANSPORT AND DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "TRANSPORT_AND_DEVELOPMENT_BANK_LLC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "629168",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "TRANSPORT AND DEVELOPMENT BANK LLC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "OTHER"
+            }
+        ]
+    },
+    {
+        "ULAANBAATAR_CITY_BANK_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "421925",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "ULAANBAATAR CITY BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421926",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "ULAANBAATAR CITY BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421928",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "ULAANBAATAR CITY BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "XACBANK_LLC_-_MONGOLIA": [
+            {
+                "Numero BIN/IIN": "414166",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "464939",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "490250",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "498738",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498739",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498740",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "498741",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "498742",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "498743",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "623414",
+                "Pais": "MONGOLIA",
+                "Nombre del emisor / Banco": "XACBANK LLC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ATM CARD"
+            }
+        ]
+    }
+]

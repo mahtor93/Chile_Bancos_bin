@@ -1,0 +1,494 @@
+[
+    {
+        "BANQUE_ATLANTIQUE_MALI_-_MALI": [
+            {
+                "Numero BIN/IIN": "472549",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE ATLANTIQUE MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "472550",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE ATLANTIQUE MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472551",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE ATLANTIQUE MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472552",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE ATLANTIQUE MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANQUE_CENTRALE_POPULAIRE_-_MALI": [
+            {
+                "Numero BIN/IIN": "543131",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "553759",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557900",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BANQUE_DE_DEVELOPPEMENT_DU_MALI_-_MALI": [
+            {
+                "Numero BIN/IIN": "412760",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE DE DEVELOPPEMENT DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418916",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE DE DEVELOPPEMENT DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418917",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE DE DEVELOPPEMENT DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "431908",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE DE DEVELOPPEMENT DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431909",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE DE DEVELOPPEMENT DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANQUE_INTERNATIONALE_POUR_LE_COMMERCE_ET_L'INDUSTRIE_DU_MALI_-_MALI": [
+            {
+                "Numero BIN/IIN": "406272",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "444212",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "448376",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "448383",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448384",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANQUE_INTERNATIONALE_POUR_LE_COMMERCE_ET_LINDUSTRIE_DU_MALI_-_MALI": [
+            {
+                "Numero BIN/IIN": "417366",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANQUE_INTERNATIONALE_POUR_LE_MALI(B.I.M.)_-_MALI": [
+            {
+                "Numero BIN/IIN": "486070",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "486071",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "486072",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "486073",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "486074",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE MALI S.A. (B.I.M.)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANQUE_MAROCAINE_DU_COMMERCE_EXTERIEUR_-_MALI": [
+            {
+                "Numero BIN/IIN": "511519",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            },
+            {
+                "Numero BIN/IIN": "513369",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "524875",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BANQUE_NATIONALE_DE_DEVELOPPEMENT_AGRICOLE_(BNDA)_-_MALI": [
+            {
+                "Numero BIN/IIN": "421563",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447336",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "484779",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "484780",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "CORIS_BANK_INTERNATIONAL_(CBI)_MALI_-_MALI": [
+            {
+                "Numero BIN/IIN": "404190",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "CORIS BANK INTERNATIONAL (CBI) MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "430513",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "CORIS BANK INTERNATIONAL (CBI) MALI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "CSCBANK_L._-_MALI": [
+            {
+                "Numero BIN/IIN": "559413",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "ECOBANK_MALI-_MALI": [
+            {
+                "Numero BIN/IIN": "401945",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD/PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "408087",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "413143",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "417843",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "458247",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "472452",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484687",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_MALI-_MALI": [
+            {
+                "Numero BIN/IIN": "401945",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD/PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "408087",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "413143",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "417843",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "458247",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "472452",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484687",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK MALI, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_NIGERIA_PLC_-_MALI": [
+            {
+                "Numero BIN/IIN": "532606",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "ORABANK_COTE_D'IVOIRE_-_MALI": [
+            {
+                "Numero BIN/IIN": "427399",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498809",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "498829",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498878",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "UNITED_BANK_FOR_AFRICA_PLC_-_MALI": [
+            {
+                "Numero BIN/IIN": "532748",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536986",
+                "Pais": "MALI",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            }
+        ]
+    }
+]

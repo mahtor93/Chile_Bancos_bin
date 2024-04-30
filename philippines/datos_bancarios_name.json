@@ -1,0 +1,4826 @@
+[
+    {
+        "ALLBANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "622934",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ALLBANK INC.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "AMERICAN_EXPRESS_COMPANY_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "377696",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS COMPANY",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "ASIA_UNITED_BANK_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "515103",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "515105",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520894",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "524405",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "533847",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "535892",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "536257",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "536910",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "539229",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541408",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "554045",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "558208",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ASIA UNITED BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "BANANA_FINTECH_SERVICES_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "466539",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANANA FINTECH SERVICES CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "468816",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANANA FINTECH SERVICES CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "468826",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANANA FINTECH SERVICES CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PURCHASING"
+            }
+        ]
+    },
+    {
+        "BANC_DE_ORO_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "541990",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANC DE ORO",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_DE_ORO_UNIBANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "400438",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "418358",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418359",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "439197",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "448458",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "455448",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "462408",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "464995",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "470913",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "486290",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488957",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489504",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "541788",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BANCO_DE_ORO_UNIBANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "400438",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "418358",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418359",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "439197",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "448458",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "455448",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "462408",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "464995",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "470913",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "486290",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488957",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489504",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "541788",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANCO DE ORO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BANK_DE_ORO_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "451194",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK DE ORO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "456752",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK DE ORO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "456753",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK DE ORO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_LIMITED_MANILA_BRANCH_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "621231",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF CHINA LIMITED MANILA BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANK_OF_COMMERCE_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "524633",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "528862",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "530050",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "536789",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539276",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "543788",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "548550",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "550214",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF COMMERCE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANK_OF_THE_PHILIPPINE_ISLANDS_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "413100",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "413101",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "418898",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453756",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "460888",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "518027",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "518324",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520365",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "523550",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526491",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "536347",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536348",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541572",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "542458",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545512",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "548809",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557753",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            },
+            {
+                "Numero BIN/IIN": "558769",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "628082",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BANK OF THE PHILIPPINE ISLANDS",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BDO_UNIBANK_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "360999",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK INC",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "361000",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK INC",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "361001",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK INC",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "361002",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK INC",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BDO_UNIBANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "11300",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11301",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11302",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11303",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11304",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11305",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11306",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11308",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "11309",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "512571",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518869",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "519463",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "519963",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "521069",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522452",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRONIC"
+            },
+            {
+                "Numero BIN/IIN": "523994",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524301",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524326",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "526727",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "529967",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531228",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531832",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536334",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541702",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541781",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "545275",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545635",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545636",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "548095",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548774",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "557751",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BDO UNIBANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BINANGONAN_RURAL_BANK_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "527507",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BINANGONAN RURAL BANK INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "531440",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BINANGONAN RURAL BANK INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "532375",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BINANGONAN RURAL BANK INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534915",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "BINANGONAN RURAL BANK INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE"
+            }
+        ]
+    },
+    {
+        "CEBUANA_LHUILLIER_RURAL_BANK_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "629115",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CEBUANA LHUILLIER RURAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CEBUANA_LHUILLIER_RURAL_BANK_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "408198",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CEBUANA LHUILLIER RURAL BANK, INC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "CHINA_BANKING_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "522604",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "522644",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528557",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541280",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541436",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "558569",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "589558",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINA BANKING CORPORATION",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CHINATRUST_(PHILIPPINES)_COMMERCIAL_BANK_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "421434",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID GOLD"
+            },
+            {
+                "Numero BIN/IIN": "421565",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "421679",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "428307",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "428346",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "428347",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "428354",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428356",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "449174",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "CIMB_BANK_BERHAD_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "436741",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CIMB BANK BERHAD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478267",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CIMB BANK BERHAD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484315",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CIMB BANK BERHAD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "CITIBANK_NA_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "541720",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK NA PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CITIBANK_SAVINGS_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "432156",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK SAVINGS, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "453913",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK SAVINGS, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453914",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK SAVINGS, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "466252",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK SAVINGS, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "CITIBANK_N.A._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "416511",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "457608",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "465479",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "466253",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488960",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "490236",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CITIBANK_N.A._PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "529543",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531229",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "533946",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "553532",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "555021",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "555260",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE PURCHASING"
+            }
+        ]
+    },
+    {
+        "CITIBANK_NATIONAL_ASSOCIATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "400996",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, NATIONAL ASSOCIATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "470586",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, NATIONAL ASSOCIATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "486638",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITIBANK, NATIONAL ASSOCIATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PURCHASING"
+            }
+        ]
+    },
+    {
+        "CITY_SAVINGS_BANK_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "403551",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITY SAVINGS BANK, INC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417972",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITY SAVINGS BANK, INC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "435346",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CITY SAVINGS BANK, INC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "CTBC_BANK_(PHILIPPINES)_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "417064",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421433",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421562",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428303",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428339",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428355",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428475",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450367",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "453035",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463791",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "CTBC BANK (PHILIPPINES) CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "DC_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "361693",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361694",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361849",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361850",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361851",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361852",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361853",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361854",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361856",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361857",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361858",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361859",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361861",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "361862",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "361863",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "361864",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "362611",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "362612",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364480",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364568",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364569",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364704",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364705",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364706",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364708",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365120",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365121",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365122",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365123",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365124",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365125",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365127",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365128",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365129",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365132",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365133",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365134",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365135",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365136",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365137",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365138",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365148",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365149",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365150",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365151",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365152",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365153",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365154",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365155",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365156",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365157",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365158",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "365197",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365198",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365199",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365200",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365201",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365202",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365203",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365204",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365205",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365206",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365619",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DC PHILIPPINES",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "DEBIT_ISIS_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "545008",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DEBIT ISIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "DEVELOPMENT_BANK_OF_THE_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "455366",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DEVELOPMENT BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457574",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DEVELOPMENT BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "466536",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DEVELOPMENT BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "467736",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DEVELOPMENT BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "470676",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "DEVELOPMENT BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "EAST_WEST_BANKING_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "400992",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "400993",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "402530",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "412611",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "412612",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "418542",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "437507",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437550",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445086",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "450177",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457556",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457557",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483892",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "514921",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "515463",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "515499",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "517988",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518096",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518886",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "519149",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520954",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "524224",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "548352",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548353",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "548924",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554550",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554601",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "558999",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EAST WEST BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "EQUICOM_SAVINGS_BANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "428410",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428428",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "461761",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461762",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "461764",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "461766",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464966",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "EQUICOM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "GCASH_CARD_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "503785",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "GCASH CARD",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "GOTYME_BANK_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "460186",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "GOTYME BANK CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "GPAY_NETWORK_PH_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "544044",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "GPAY NETWORK PH INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            }
+        ]
+    },
+    {
+        "HC_CONSUMER_FINANCE_PHILIPPINES_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "409440",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "HC CONSUMER FINANCE PHILIPPINES, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "HSBC_PHILIPPINE_AIRLINES_MABUHAY_MILES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "402843",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ING_BANK_N.V._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "418749",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ING BANK, N.V.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "LAND_BANK_OF_THE_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "457453",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "LAND BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "474844",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "LAND BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "531272",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "LAND BANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "533830",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "LAND BANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "535888",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "LAND BANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554541",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "LAND BANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "MAESTRO_INTERNATIONAL_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "571261",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "578058",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "578096",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "581915",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "MAYA_PHILIPPINES_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "483442",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYA PHILIPPINES, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "540295",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYA PHILIPPINES, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "542482",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYA PHILIPPINES, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MAYBANK_PHILIPPINES_INCORPORATED_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "469622",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES INCORPORATED",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554165",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES INCORPORATED",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "MAYBANK_PHILIPPINES_INCORPORATED_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "410254",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "457591",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457592",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "457593",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "486057",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "517706",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "532808",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547150",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MAYBANK PHILIPPINES, INCORPORATED",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "METROBANK_CARD_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "431179",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "449377",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "METROBANK_CARD_CORPORATION_(A_FINANCE_COMPANY)_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "416200",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "465164",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "511736",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID ELECTRONIC"
+            },
+            {
+                "Numero BIN/IIN": "512872",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "520683",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "521822",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524005",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524736",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "527643",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "532310",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "534507",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "540396",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "545235",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "546497",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "546498",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "556628",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "556658",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "METROPOLITAN_BANK_AND_TRUST_COMPANY_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "405598",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "405599",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "409461",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "492966",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "497225",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "METROPOLITAN_BANK_AND_TRUST_COMPANY_(METROBANK)_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "519597",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522839",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "524128",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "528667",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529978",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "536343",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536344",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536345",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536499",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "538752",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "544651",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "547152",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "557315",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "557317",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MICROFINANCE_MAXIMUM_SAVINGS_BANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "415714",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "446509",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "467928",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "467929",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "NETBANK_(A_RURAL_BANK)_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "539543",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "NETBANK (A RURAL BANK), INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539580",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "NETBANK (A RURAL BANK), INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "OMNIPAY_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "623349",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY INC.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "623398",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY INC.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "623492",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY INC.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "OMNIPAY_PHILIPPINES_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "650202",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY PHILIPPINES INC",
+                "Marca de carro": "DISCOVER",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "650203",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY PHILIPPINES INC",
+                "Marca de carro": "DISCOVER",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "650204",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY PHILIPPINES INC",
+                "Marca de carro": "DISCOVER",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "650205",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OMNIPAY PHILIPPINES INC",
+                "Marca de carro": "DISCOVER",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "ONECARD_COMPANY_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "510496",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ONECARD COMPANY, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "OWN_BANK_THE_RURAL_BANK_OF_CAVITE_CITY_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "540379",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "OWN BANK, THE RURAL BANK OF CAVITE CITY, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "PHILIPPINE_BANK_OF_COMMUNICATIONS_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "517080",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE BANK OF COMMUNICATIONS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "523736",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE BANK OF COMMUNICATIONS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "533325",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE BANK OF COMMUNICATIONS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "PHILIPPINE_BDO_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "625033",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE BDO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625035",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE BDO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "PHILIPPINE_NATIONAL_BANK_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "488907",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488908",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "510266",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512634",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520353",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520924",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "521387",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "523759",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524046",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "528204",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            },
+            {
+                "Numero BIN/IIN": "530570",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "530800",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "531405",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531406",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531864",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531888",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531946",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "533639",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "533653",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534154",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534172",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534187",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534189",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534195",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536306",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "536307",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "537007",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "540076",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "543761",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545143",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "548509",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "552280",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552413",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552414",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "553294",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE FLEET"
+            },
+            {
+                "Numero BIN/IIN": "622145",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625013",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE NATIONAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "PHILIPPINE_RCBC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "625007",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE RCBC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "PHILIPPINE_VETERANS_BANK_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "462895",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PHILIPPINE VETERANS BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "PVB_CARD_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "623302",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PVB CARD CORPORATION",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "623303",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PVB CARD CORPORATION",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "623324",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "PVB CARD CORPORATION",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "RIZAL_COMMERCIAL_BANKING_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "421585",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427934",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "429382",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "431170",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "436861",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "449915",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "453915",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "454710",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "457358",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "476683",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484063",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "517528",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "517968",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517982",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "520352",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524302",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524318",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "530063",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "530526",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "534399",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536151",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539599",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543431",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "550317",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "552366",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "553283",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE FLEET"
+            },
+            {
+                "Numero BIN/IIN": "553286",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "RIZAL COMMERCIAL BANKING CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE FLEET"
+            }
+        ]
+    },
+    {
+        "ROBINSONS_BANK_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "406159",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428946",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "456434",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "520315",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "523091",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "553233",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "FLEET"
+            },
+            {
+                "Numero BIN/IIN": "559169",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ROBINSONS BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "SEABANK_PHILIPPINES_INC_A_RURAL_BANK_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "529416",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SEABANK PHILIPPINES INC A RURAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "SECURITY_BANK_CORPORATION_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "510186",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "515603",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "518178",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518217",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522465",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            },
+            {
+                "Numero BIN/IIN": "525617",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526737",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "527366",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "531193",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ISIC"
+            },
+            {
+                "Numero BIN/IIN": "531210",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531826",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532910",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "533924",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "542551",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542594",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549832",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "SECURITY BANK CORPORATION",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "STANDARD_CHARTERED_BANK_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "405460",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "405461",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "STERLING_BANK_OF_ASIA_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "418903",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461753",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461769",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "461780",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461782",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "486392",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491257",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "STERLING BANK OF ASIA, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "THE_HONGKONG_AND_SHANGHAI_BANKING_CORPORATION_LTD._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "402892",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "402893",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "436367",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "436368",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "436446",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "436524",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "458535",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "458803",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "461984",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464551",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "464571",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "464943",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464944",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464945",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "486009",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "488935",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "513476",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517356",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE WORLD"
+            },
+            {
+                "Numero BIN/IIN": "517790",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "526548",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542375",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "544757",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544758",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548487",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "TONIK_DIGITAL_BANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "555562",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "TONIK DIGITAL BANK, INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "UNION_BANK_OF_THE_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "403418",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "403419",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "405191",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "406959",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "407170",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410705",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "415764",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "416295",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416296",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416297",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416298",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "429253",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431237",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433699",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "434348",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "435725",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "436512",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437315",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "438627",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "439196",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "440452",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440453",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "440454",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447381",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447779",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "450852",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453248",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "453971",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "453972",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "454494",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455968",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "458824",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "462267",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "462464",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "465117",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "465160",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "468767",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "474137",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "476407",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "484875",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "486038",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489012",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489013",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "492164",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "589721",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "590141",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION BANK OF THE PHILIPPINES",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "UNION_DIGITAL_BANK_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "461166",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNION DIGITAL BANK, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "UNIONBANK_OF_THE_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "510631",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524067",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524202",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524260",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "529247",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "529763",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "530220",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "536301",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "537726",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "540127",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "542339",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544538",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "544635",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "545420",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "545595",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "546069",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547322",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "548786",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "549419",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "552097",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552829",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "559744",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "559919",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNIONBANK OF THE PHILIPPINES",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "UNITED_OVERSEAS_BANK_PHILIPPINES_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "445051",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNITED OVERSEAS BANK PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "445052",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNITED OVERSEAS BANK PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "464008",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNITED OVERSEAS BANK PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "464020",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNITED OVERSEAS BANK PHILIPPINES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "UNOBANK_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "512163",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNOBANK INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539915",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "UNOBANK INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            }
+        ]
+    },
+    {
+        "USSC_MONEY_SERVICES_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "421564",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "USSC MONEY SERVICES, INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "WISE_PILIPINAS_INC._-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "421122",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "WISE PILIPINAS INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "431168",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "WISE PILIPINAS INC.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "ZED_PHILIPPINES_INC_-_PHILIPPINES": [
+            {
+                "Numero BIN/IIN": "527196",
+                "Pais": "PHILIPPINES",
+                "Nombre del emisor / Banco": "ZED PHILIPPINES INC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            }
+        ]
+    }
+]

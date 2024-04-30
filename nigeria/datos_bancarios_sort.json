@@ -1,0 +1,4962 @@
+[
+  {
+    "bin": "222701",
+    "country": "NIGERIA",
+    "bank": "SUNTRUST BANK NIGERIA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223509",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD FLEX"
+  },
+  {
+    "bin": "400066",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400683",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400691",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400845",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400890",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402159",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "402438",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402924",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403660",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "403737",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403753",
+    "country": "NIGERIA",
+    "bank": "INTERSWITCH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404905",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404930",
+    "country": "NIGERIA",
+    "bank": "OCEANIC BANK INTERNATIONAL (NIGERIA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405030",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405165",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405674",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406162",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406185",
+    "country": "NIGERIA",
+    "bank": "SPARKLE MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406234",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406995",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "407127",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "407586",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407591",
+    "country": "NIGERIA",
+    "bank": "PROVIDUSBANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407713",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408301",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408302",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408303",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408304",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408305",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "408378",
+    "country": "NIGERIA",
+    "bank": "OCEANIC BANK INTERNATIONAL PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408379",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408380",
+    "country": "NIGERIA",
+    "bank": "OCEANIC BANK INTERNATIONAL PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408407",
+    "country": "NIGERIA",
+    "bank": "MAINSTREET BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408408",
+    "country": "NIGERIA",
+    "bank": "MAINSTREET BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408421",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408422",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408423",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408424",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408425",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "409387",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409459",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409645",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410171",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410373",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410540",
+    "country": "NIGERIA",
+    "bank": "KUDA MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410561",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411736",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411737",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "411898",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412053",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412542",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412583",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "412666",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412702",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "413183",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413185",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413197",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415718",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416919",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417059",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417396",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418547",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418742",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418743",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418745",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418760",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419225",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419226",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419227",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419710",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419760",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419761",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419764",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419765",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419768",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419909",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420319",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420320",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420321",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420332",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420333",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420334",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420335",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420358",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420359",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421042",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421527",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422127",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422500",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422522",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422584",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422594",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422808",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422855",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423895",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "424226",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "424367",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424380",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424465",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424530",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426443",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427011",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427012",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427013",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427014",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "427872",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427873",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427875",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427876",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "427877",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427889",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427965",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427971",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428222",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428223",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428225",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428254",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428272",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428500",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428501",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428502",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428503",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428504",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428602",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428603",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430104",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430116",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431438",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432226",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432985",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433960",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434120",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434609",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434616",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435874",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "436376",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437360",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439077",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439358",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442176",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "442193",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "443822",
+    "country": "NIGERIA",
+    "bank": "PROVIDUSBANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "443862",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "443893",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "443910",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "444368",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444506",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444581",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444586",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445493",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445807",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445817",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446965",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447633",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447926",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "448189",
+    "country": "NIGERIA",
+    "bank": "INTERSWITCH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448838",
+    "country": "NIGERIA",
+    "bank": "GTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448839",
+    "country": "NIGERIA",
+    "bank": "CRDB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448935",
+    "country": "NIGERIA",
+    "bank": "CAJA RURAL DE ALMERIA Y MALAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448939",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450073",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450074",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450075",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450090",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450091",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450092",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450093",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450710",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457714",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457766",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457768",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457769",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "457770",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457771",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457773",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457789",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457790",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457803",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457804",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457805",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457806",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458140",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458274",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458301",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458302",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458478",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458536",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458587",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458588",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458792",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458793",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459262",
+    "country": "NIGERIA",
+    "bank": "DIAMOND BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460053",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460054",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460055",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460671",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460802",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "461370",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462091",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462153",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462516",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462517",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462526",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462752",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463662",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463958",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "464357",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464436",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464643",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "464782",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "464847",
+    "country": "NIGERIA",
+    "bank": "GLOBUS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465427",
+    "country": "NIGERIA",
+    "bank": "CARBON FINANCE AND INVESTMENTS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467768",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "467817",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467874",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467875",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467968",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468219",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468555",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468588",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469023",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469331",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "469665",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "469666",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469667",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470484",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470651",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470652",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470653",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "470654",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470655",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "471232",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471415",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471449",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471458",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471459",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471463",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471464",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472302",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472482",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472491",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472717",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472977",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473845",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475175",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475176",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475177",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "475186",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "476419",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "477515",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "478739",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481404",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482132",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "483427",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483953",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484776",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "484841",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484842",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "485429",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485451",
+    "country": "NIGERIA",
+    "bank": "CITIBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485483",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485484",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "486093",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486370",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "486508",
+    "country": "NIGERIA",
+    "bank": "CITIBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "488955",
+    "country": "NIGERIA",
+    "bank": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488992",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489164",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491212",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492069",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492584",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492586",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492587",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "496009",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496021",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496022",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496023",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "496024",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496026",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "496658",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "498733",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499908",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499909",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "499910",
+    "country": "NIGERIA",
+    "bank": "OCEANIC BANK INTERNATIONAL (NIGERIA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "506099",
+    "country": "NIGERIA",
+    "bank": "VERVE PILOT BIN",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "506100",
+    "country": "NIGERIA",
+    "bank": "VERVE PREPAID CARDS EXTENDED ALL BANKS",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "506101",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506102",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506103",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506104",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506105",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506106",
+    "country": "NIGERIA",
+    "bank": "SKYE BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506107",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506108",
+    "country": "NIGERIA",
+    "bank": "FCMB (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "506109",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CMI"
+  },
+  {
+    "bin": "506110",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CMI"
+  },
+  {
+    "bin": "506111",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK CREDIT CARD (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "506112",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CMI"
+  },
+  {
+    "bin": "506113",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CMI"
+  },
+  {
+    "bin": "506114",
+    "country": "NIGERIA",
+    "bank": "FCMB (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CMI"
+  },
+  {
+    "bin": "506115",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CMI"
+  },
+  {
+    "bin": "506116",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506117",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506118",
+    "country": "NIGERIA",
+    "bank": "ECOBANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506119",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506120",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "506121",
+    "country": "NIGERIA",
+    "bank": "ASO SAVINGS & LOANS PLC(NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "506122",
+    "country": "NIGERIA",
+    "bank": "GLOBUS BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE CARD"
+  },
+  {
+    "bin": "506123",
+    "country": "NIGERIA",
+    "bank": "UNION BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "PREPAID XPLORER"
+  },
+  {
+    "bin": "506125",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "506126",
+    "country": "NIGERIA",
+    "bank": "DIAMOND BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506127",
+    "country": "NIGERIA",
+    "bank": "HASAL MICROFINANCE BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506133",
+    "country": "NIGERIA",
+    "bank": "RESORT SAVINGS AND LOANS (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506134",
+    "country": "NIGERIA",
+    "bank": "VERVE GTP PREPAID",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "506135",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506136",
+    "country": "NIGERIA",
+    "bank": "MFBS (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE CARD"
+  },
+  {
+    "bin": "506137",
+    "country": "NIGERIA",
+    "bank": "JAIZ BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506139",
+    "country": "NIGERIA",
+    "bank": "INFINITY TRUST SAVINGS & LOANS LTD (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506140",
+    "country": "NIGERIA",
+    "bank": "NPF MFB (UBA PARTNERSHIP)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506141",
+    "country": "NIGERIA",
+    "bank": "UNION BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "506142",
+    "country": "NIGERIA",
+    "bank": "NIGERIA POLICE FORCE MICROFINANCE BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506143",
+    "country": "NIGERIA",
+    "bank": "ACCION MICROFINANCE BANK, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506144",
+    "country": "NIGERIA",
+    "bank": "EKONDO MICROFINANCE BANK, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506146",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506147",
+    "country": "NIGERIA",
+    "bank": "MUTUAL BENEFIT MFB",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506148",
+    "country": "NIGERIA",
+    "bank": "OHAFIA MICROFINANCE BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506149",
+    "country": "NIGERIA",
+    "bank": "HAGGAI SAVINGS AND LOANS LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506150",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506158",
+    "country": "NIGERIA",
+    "bank": "FIRST GENERATION MFB (FIRST BANK NIGERIA PLC)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506159",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506160",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506161",
+    "country": "NIGERIA",
+    "bank": "ECOBANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "506162",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506163",
+    "country": "NIGERIA",
+    "bank": "TITAN TRUST BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506166",
+    "country": "NIGERIA",
+    "bank": "TAJ BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506168",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506170",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506173",
+    "country": "NIGERIA",
+    "bank": "VERVE MPIN",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506176",
+    "country": "NIGERIA",
+    "bank": "VERVE TOKENIZATION",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506177",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506178",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506179",
+    "country": "NIGERIA",
+    "bank": "VERVE PAYCODE ON POS (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506180",
+    "country": "NIGERIA",
+    "bank": "SUNTRUST BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506184",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506187",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506188",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506189",
+    "country": "NIGERIA",
+    "bank": "UBA AFRICA SUBSIDIARIES",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506191",
+    "country": "NIGERIA",
+    "bank": "SMART MICRO SYSTEMS, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506193",
+    "country": "NIGERIA",
+    "bank": "EXIM BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506195",
+    "country": "NIGERIA",
+    "bank": "LAPO MICROFINANCE BANK LTD (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506197",
+    "country": "NIGERIA",
+    "bank": "VERVE ECASH (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "507848",
+    "country": "NIGERIA",
+    "bank": "CETELEM",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "507865",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507866",
+    "country": "NIGERIA",
+    "bank": "9PSB (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507868",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK CREDIT CARD (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507870",
+    "country": "NIGERIA",
+    "bank": "LOTUS BANK LIMITED (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507872",
+    "country": "NIGERIA",
+    "bank": "OPAY DIGITAL SERVICES, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507873",
+    "country": "NIGERIA",
+    "bank": "PARALLEX BANK, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507874",
+    "country": "NIGERIA",
+    "bank": "SAFE HAVEN MICROFINANCE BANK, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507875",
+    "country": "NIGERIA",
+    "bank": "PREMIUM TRUST BANK, LTD.",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507941",
+    "country": "NIGERIA",
+    "bank": "VERVE QR GLOBAL BIN",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510509",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511018",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511295",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512336",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512575",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512637",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512849",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "512934",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513420",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513469",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514103",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "514585",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515092",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515803",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515872",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516005",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516195",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516227",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516255",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516256",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516285",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516443",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516491",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517058",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517214",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517294",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517699",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "517731",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517868",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517897",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518304",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518539",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518973",
+    "country": "NIGERIA",
+    "bank": "SUNTRUST BANK NIGERIA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519626",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519789",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "519830",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519863",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519878",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519885",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519899",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519902",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519904",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519905",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519908",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519909",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519911",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520556",
+    "country": "NIGERIA",
+    "bank": "PARALLEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520725",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521090",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521773",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "521886",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521946",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "521952",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521958",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521963",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521973",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521982",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521988",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522066",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522340",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522453",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522462",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "522522",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "522712",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522901",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523046",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523080",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523288",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "523598",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "523740",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523776",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523947",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524271",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524275",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524282",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524289",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524429",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524687",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524910",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525495",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "525519",
+    "country": "NIGERIA",
+    "bank": "TAJBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525557",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "525603",
+    "country": "NIGERIA",
+    "bank": "PARALLEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525634",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526116",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526131",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA (NIGERIA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "526984",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527074",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD REWARDS"
+  },
+  {
+    "bin": "527282",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527678",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527699",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528253",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528649",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "528650",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528668",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529720",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529751",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529778",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529820",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529863",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530020",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530519",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530549",
+    "country": "NIGERIA",
+    "bank": "TAJBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531224",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531365",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "531499",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "531525",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531667",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531931",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531992",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532031",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532155",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532732",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532968",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533122",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533301",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533383",
+    "country": "NIGERIA",
+    "bank": "SMARTCASH PAYMENT SERVICE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533477",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533678",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "533797",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "533853",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533856",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533904",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "533962",
+    "country": "NIGERIA",
+    "bank": "TAJBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534438",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534625",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535398",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536024",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536135",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536399",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536439",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536579",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536613",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536838",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536902",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537010",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537011",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537610",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537691",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538115",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538858",
+    "country": "NIGERIA",
+    "bank": "JAIZ BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538908",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "538956",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539061",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "539115",
+    "country": "NIGERIA",
+    "bank": "CORONATION MERCHANT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "539185",
+    "country": "NIGERIA",
+    "bank": "TITAN TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539414",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "539586",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539818",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539923",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539941",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539948",
+    "country": "NIGERIA",
+    "bank": "OCEANIC BANK INTERNATIONAL PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "539983",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540473",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540746",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540754",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "540761",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540857",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541042",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541099",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541150",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541466",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541508",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541512",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541569",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541725",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541798",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "542054",
+    "country": "NIGERIA",
+    "bank": "HERITAGE BANKING COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "542231",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542390",
+    "country": "NIGERIA",
+    "bank": "FIRST CITY MONUMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543338",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "544127",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544219",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545361",
+    "country": "NIGERIA",
+    "bank": "UNIFIED PAYMENT SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545931",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545993",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546778",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546894",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547160",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547866",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "548365",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "548458",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548712",
+    "country": "NIGERIA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549021",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549479",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "549531",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549937",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549970",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550019",
+    "country": "NIGERIA",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550542",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "551609",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552160",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552264",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553188",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553396",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553415",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553534",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "553813",
+    "country": "NIGERIA",
+    "bank": "JAIZ BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555514",
+    "country": "NIGERIA",
+    "bank": "TITAN TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555681",
+    "country": "NIGERIA",
+    "bank": "TITAN TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555940",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556812",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556898",
+    "country": "NIGERIA",
+    "bank": "UNION BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557581",
+    "country": "NIGERIA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "557669",
+    "country": "NIGERIA",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557693",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557694",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "557972",
+    "country": "NIGERIA",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558760",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558786",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559113",
+    "country": "NIGERIA",
+    "bank": "PROVIDUS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "559424",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559432",
+    "country": "NIGERIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559441",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559443",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559447",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559453",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "559466",
+    "country": "NIGERIA",
+    "bank": "WEMA BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559754",
+    "country": "NIGERIA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559934",
+    "country": "NIGERIA",
+    "bank": "JAIZ BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "571081",
+    "country": "NIGERIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576880",
+    "country": "NIGERIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "579876",
+    "country": "NIGERIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "601586",
+    "country": "NIGERIA",
+    "bank": "SGMA",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603948",
+    "country": "NIGERIA",
+    "bank": "OBI PETROL CARD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "604851",
+    "country": "NIGERIA",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "623491",
+    "country": "NIGERIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623496",
+    "country": "NIGERIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624463",
+    "country": "NIGERIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624467",
+    "country": "NIGERIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626404",
+    "country": "NIGERIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "627309",
+    "country": "NIGERIA",
+    "bank": "TRANSNATIONAL BANK KENYA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "627629",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "627819",
+    "country": "NIGERIA",
+    "bank": "POLARIS BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "627858",
+    "country": "NIGERIA",
+    "bank": "STANBIC IBTC",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "627903",
+    "country": "NIGERIA",
+    "bank": "CONSOLIDATED BANK OF KENYA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "627955",
+    "country": "NIGERIA",
+    "bank": "KEYSTONE BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629136",
+    "country": "NIGERIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "636088",
+    "country": "NIGERIA",
+    "bank": "INTERCONTINENTAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "636092",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "636609",
+    "country": "NIGERIA",
+    "bank": "UNITY BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "636625",
+    "country": "NIGERIA",
+    "bank": "INDO AFRICA FINANCE",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "637058",
+    "country": "NIGERIA",
+    "bank": "SUMAC MICROFINANCE BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "637634",
+    "country": "NIGERIA",
+    "bank": "SIDIAN BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "639138",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "639203",
+    "country": "NIGERIA",
+    "bank": "FCMB",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "639245",
+    "country": "NIGERIA",
+    "bank": "JAMII BORA BANK",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "639249",
+    "country": "NIGERIA",
+    "bank": "STERLING BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "639383",
+    "country": "NIGERIA",
+    "bank": "GUARDIAN BANK KENYA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "639412",
+    "country": "NIGERIA",
+    "bank": "SGMA",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "VERVE"
+  },
+  {
+    "bin": "650003",
+    "country": "NIGERIA",
+    "bank": "FIRST BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE GLOBAL"
+  },
+  {
+    "bin": "650004",
+    "country": "NIGERIA",
+    "bank": "FIDELITY BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE GLOBAL"
+  },
+  {
+    "bin": "650005",
+    "country": "NIGERIA",
+    "bank": "FCMB (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "VERVE GLOBAL"
+  },
+  {
+    "bin": "650006",
+    "country": "NIGERIA",
+    "bank": "ACCESS BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "650007",
+    "country": "NIGERIA",
+    "bank": "ZENITH BANK (NIGERIA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "650034",
+    "country": "NIGERIA",
+    "bank": "DISCOVER ISSUER",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "903708",
+    "country": "NIGERIA",
+    "bank": "ECOBANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

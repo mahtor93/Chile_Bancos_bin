@@ -1,0 +1,114 @@
+[
+  {
+    "bin": "417319",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "COMMERCIAL BANK OF SYRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418740",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BEMO SAUDI FRANSA BANK SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418741",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BEMO SAUDI FRANSA BANK SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424131",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "THE COMMERCIAL BANK OF SYRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GIFT"
+  },
+  {
+    "bin": "427200",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "COMMERCIAL BANK OF SYRIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428236",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BANK AUDI SYRIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428648",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BANK OF SYRIA AND OVERSEAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429950",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BANK OF SYRIA AND OVERSEAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429951",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BANK OF SYRIA AND OVERSEAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431250",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BANK AUDI SYRIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526433",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533010",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551592",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "SYRIA GULF BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557952",
+    "country": "SYRIAN ARAB REPUBLIC",
+    "bank": "BYBLOS BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  }
+]

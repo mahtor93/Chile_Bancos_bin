@@ -1,0 +1,106 @@
+[
+    {
+        "ANZ_BANK_LTD._-_COOK_ISLANDS": [
+            {
+                "Numero BIN/IIN": "438223",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "ANZ BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "476051",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "ANZ BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "AUSTRALIA_AND_NEW_ZEALAND_BANKING_GROUP_LTD._-_COOK_ISLANDS": [
+            {
+                "Numero BIN/IIN": "437966",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "462872",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "470612",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "517849",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANZPAY_TECHNOLOGY_LTD._-_COOK_ISLANDS": [
+            {
+                "Numero BIN/IIN": "553807",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "BANZPAY TECHNOLOGY, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BSP_FINANCIAL_GROUP_LTD._-_COOK_ISLANDS": [
+            {
+                "Numero BIN/IIN": "421852",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "BSP FINANCIAL GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421859",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "BSP FINANCIAL GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "469527",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "BSP FINANCIAL GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481267",
+                "Pais": "COOK ISLANDS",
+                "Nombre del emisor / Banco": "BSP FINANCIAL GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    }
+]

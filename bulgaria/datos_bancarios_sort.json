@@ -1,0 +1,3642 @@
+[
+  {
+    "bin": "102011",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "12004",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "22004",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220542",
+    "country": "BULGARIA",
+    "bank": "EASYPAY",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "32004",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "32005",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "360207",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360830",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360831",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360832",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360833",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360834",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360835",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "360836",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361134",
+    "country": "BULGARIA",
+    "bank": "DC BULGARIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377665",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN REVOLVE"
+  },
+  {
+    "bin": "377758",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN CHARGE"
+  },
+  {
+    "bin": "400915",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401140",
+    "country": "BULGARIA",
+    "bank": "KBC BANK BULGARIA EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402995",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "403363",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404256",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404257",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404713",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404760",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404761",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406227",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISENBANK (BULGARIA) A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407375",
+    "country": "BULGARIA",
+    "bank": "HEBROSBANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407376",
+    "country": "BULGARIA",
+    "bank": "HEBROSBANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "407377",
+    "country": "BULGARIA",
+    "bank": "HEBROSBANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407509",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407533",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407810",
+    "country": "BULGARIA",
+    "bank": "PROCREDIT BANK (BULGARIA) AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408972",
+    "country": "BULGARIA",
+    "bank": "POSTBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409612",
+    "country": "BULGARIA",
+    "bank": "DZI BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409729",
+    "country": "BULGARIA",
+    "bank": "EUROBANK EFG BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409730",
+    "country": "BULGARIA",
+    "bank": "EUROBANK EFG BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409856",
+    "country": "BULGARIA",
+    "bank": "EUROBANK EFG BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409857",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410664",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411062",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411620",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411653",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411653",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411711",
+    "country": "BULGARIA",
+    "bank": "PIRAEUS BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411712",
+    "country": "BULGARIA",
+    "bank": "PIRAEUS BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411713",
+    "country": "BULGARIA",
+    "bank": "PIRAEUS BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411923",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414386",
+    "country": "BULGARIA",
+    "bank": "KBC BANK BULGARIA EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415596",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416379",
+    "country": "BULGARIA",
+    "bank": "PROCREDIT BANK (BULGARIA) AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416988",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416989",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416990",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416991",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417003",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417099",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417188",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417644",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417645",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417646",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417648",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417650",
+    "country": "BULGARIA",
+    "bank": "KBC BANK BULGARIA EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "419938",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "42005",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "420780",
+    "country": "BULGARIA",
+    "bank": "EUROBANK EFG BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "421634",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "421874",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421875",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421876",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422082",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422083",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422116",
+    "country": "BULGARIA",
+    "bank": "PROCREDIT BANK (BULGARIA) AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422863",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424092",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424092",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424326",
+    "country": "BULGARIA",
+    "bank": "PIRAEUS BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424468",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424520",
+    "country": "BULGARIA",
+    "bank": "DSK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424980",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424981",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424982",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426082",
+    "country": "BULGARIA",
+    "bank": "PROCREDIT BANK (BULGARIA) AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427312",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427312",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427372",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428463",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428546",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428547",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429510",
+    "country": "BULGARIA",
+    "bank": "DZI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "429527",
+    "country": "BULGARIA",
+    "bank": "DZI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "429778",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "429952",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431693",
+    "country": "BULGARIA",
+    "bank": "BNP PARIBAS (BULGARIA) A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431694",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432178",
+    "country": "BULGARIA",
+    "bank": "KBC BANK BULGARIA EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432179",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISENBANK (BULGARIA) EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433321",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433321",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433325",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433325",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433326",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433326",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433327",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433327",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433376",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433376",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433378",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433378",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437850",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437851",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437858",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437859",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439058",
+    "country": "BULGARIA",
+    "bank": "SOCIETE GENERALE EXPRESSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439501",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "439502",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "439549",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439787",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440255",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440278",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "444220",
+    "country": "BULGARIA",
+    "bank": "SOCIETE GENERALE EXPRESSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444221",
+    "country": "BULGARIA",
+    "bank": "SOCIETE GENERALE EXPRESSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444222",
+    "country": "BULGARIA",
+    "bank": "SOCIETE GENERALE EXPRESSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444223",
+    "country": "BULGARIA",
+    "bank": "SOCIETE GENERALE EXPRESSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450493",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450494",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450495",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450496",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450497",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450498",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "450499",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450500",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450501",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451464",
+    "country": "BULGARIA",
+    "bank": "PIRAEUS BANK BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453753",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457267",
+    "country": "BULGARIA",
+    "bank": "INTERCARD FINANCE A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459304",
+    "country": "BULGARIA",
+    "bank": "TBI CREDIT EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459335",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459887",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459888",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459889",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460006",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464591",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464592",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464593",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464594",
+    "country": "BULGARIA",
+    "bank": "CB INVESTBANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "466030",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467400",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISENBANK (BULGARIA) AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469722",
+    "country": "BULGARIA",
+    "bank": "SOCIETE GENERALE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469764",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "474284",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474835",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474836",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474845",
+    "country": "BULGARIA",
+    "bank": "KBC BANK BULGARIA EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477101",
+    "country": "BULGARIA",
+    "bank": "RYVYL (EU) EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479000",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479001",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479002",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479083",
+    "country": "BULGARIA",
+    "bank": "EUROBANK EFG BULGARIA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479123",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479626",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479645",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479676",
+    "country": "BULGARIA",
+    "bank": "VISA EUROPE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479687",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479701",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480256",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480682",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482095",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483697",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "483886",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483889",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483890",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "487002",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "487054",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "487094",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487098",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "487099",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "488000",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "488001",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "488002",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "488003",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "488005",
+    "country": "BULGARIA",
+    "bank": "TBI CREDIT EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID VPAY"
+  },
+  {
+    "bin": "488006",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "VPAY"
+  },
+  {
+    "bin": "488007",
+    "country": "BULGARIA",
+    "bank": "SG EXPRESSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "VPAY"
+  },
+  {
+    "bin": "488010",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "VPAY"
+  },
+  {
+    "bin": "489415",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "489481",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISENBANK (BULGARIA) AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "489482",
+    "country": "BULGARIA",
+    "bank": "KBC BANK BULGARIA EAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493411",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498595",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "498596",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498721",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498753",
+    "country": "BULGARIA",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498754",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498765",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510050",
+    "country": "BULGARIA",
+    "bank": "MUNICIPAL BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510078",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512532",
+    "country": "BULGARIA",
+    "bank": "EASY PAYMENT SERVICES EOOD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512560",
+    "country": "BULGARIA",
+    "bank": "HEBROS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512638",
+    "country": "BULGARIA",
+    "bank": "TRANSCARD FINANCIAL SERVICES EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513683",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513692",
+    "country": "BULGARIA",
+    "bank": "CIBANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514803",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514803",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515586",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515586",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516219",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516510",
+    "country": "BULGARIA",
+    "bank": "EASYPAY AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516786",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516810",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516811",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516849",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516861",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516862",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516868",
+    "country": "BULGARIA",
+    "bank": "CIBANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516869",
+    "country": "BULGARIA",
+    "bank": "CIBANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516878",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516895",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516901",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516905",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516907",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516910",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516924",
+    "country": "BULGARIA",
+    "bank": "EXPRESSBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516926",
+    "country": "BULGARIA",
+    "bank": "EXPRESSBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516963",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516964",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516975",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516975",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516976",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517046",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517660",
+    "country": "BULGARIA",
+    "bank": "TRANSCARD FINANCIAL SERVICES EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518417",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518452",
+    "country": "BULGARIA",
+    "bank": "INTERCARD FINANCE A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518585",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518658",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518784",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518972",
+    "country": "BULGARIA",
+    "bank": "MUNICIPAL BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518979",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518994",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520011",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520015",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520016",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520273",
+    "country": "BULGARIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520310",
+    "country": "BULGARIA",
+    "bank": "EXPRESSBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520679",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520950",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520950",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520992",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520992",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521170",
+    "country": "BULGARIA",
+    "bank": "TRANSCARD FINANCIAL SERVICES EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521500",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521816",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522056",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523249",
+    "country": "BULGARIA",
+    "bank": "EASYPAY AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524710",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525453",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525747",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525846",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526783",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "526833",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526997",
+    "country": "BULGARIA",
+    "bank": "TEXIM BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528637",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528874",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530405",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530436",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530436",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531011",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531220",
+    "country": "BULGARIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "531530",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531530",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531969",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532651",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532922",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533851",
+    "country": "BULGARIA",
+    "bank": "TBI CREDIT EAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533863",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533979",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534116",
+    "country": "BULGARIA",
+    "bank": "D COMMERCE BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "534228",
+    "country": "BULGARIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "534807",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534807",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534832",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534832",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535132",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535141",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535153",
+    "country": "BULGARIA",
+    "bank": "TRANSCARD FINANCIAL SERVICES EAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535159",
+    "country": "BULGARIA",
+    "bank": "MUNICIPAL BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535186",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535187",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535209",
+    "country": "BULGARIA",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535210",
+    "country": "BULGARIA",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535252",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535290",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535430",
+    "country": "BULGARIA",
+    "bank": "D COMMERCE BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535431",
+    "country": "BULGARIA",
+    "bank": "D COMMERCE BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535436",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535441",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535494",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535494",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535497",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535502",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535502",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535506",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535593",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535594",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535716",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535721",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535975",
+    "country": "BULGARIA",
+    "bank": "EASY PAYMENT SERVICES EOOD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536389",
+    "country": "BULGARIA",
+    "bank": "TBI CREDIT EAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "536543",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537126",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537444",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537460",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ISIC"
+  },
+  {
+    "bin": "537606",
+    "country": "BULGARIA",
+    "bank": "EASY PAYMENT SERVICES EOOD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537696",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539260",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "539625",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539713",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539720",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539728",
+    "country": "BULGARIA",
+    "bank": "EXPRESSBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540026",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISENBANK (BULGARIA) AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540600",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "540748",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540756",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540846",
+    "country": "BULGARIA",
+    "bank": "CIBANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540847",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "541186",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "541188",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541196",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541233",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541260",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542144",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542147",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542248",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542547",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542617",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542626",
+    "country": "BULGARIA",
+    "bank": "EASYPAY AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "542748",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543808",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543828",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544532",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545922",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545922",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546100",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546108",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "546643",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546667",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "546715",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547057",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547264",
+    "country": "BULGARIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547475",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547694",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547696",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547727",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547805",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548208",
+    "country": "BULGARIA",
+    "bank": "D COMMERCE BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548863",
+    "country": "BULGARIA",
+    "bank": "PROCREDIT BANK (BULGARIA) A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549625",
+    "country": "BULGARIA",
+    "bank": "PAYNETICS AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "549698",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549857",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "550221",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550354",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552126",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552208",
+    "country": "BULGARIA",
+    "bank": "COMMERCIAL BANK INVESTBANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552214",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552214",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552551",
+    "country": "BULGARIA",
+    "bank": "COMMERCIAL BANK INVESTBANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552607",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552621",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552622",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552625",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552646",
+    "country": "BULGARIA",
+    "bank": "EXPRESSBANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552711",
+    "country": "BULGARIA",
+    "bank": "MUNICIPAL BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552720",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552877",
+    "country": "BULGARIA",
+    "bank": "CIBANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552887",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552966",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552966",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553039",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553072",
+    "country": "BULGARIA",
+    "bank": "TRANSCARD FINANCIAL SERVICES EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553261",
+    "country": "BULGARIA",
+    "bank": "ICARD A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "FLEET"
+  },
+  {
+    "bin": "554369",
+    "country": "BULGARIA",
+    "bank": "D COMMERCE BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554723",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555962",
+    "country": "BULGARIA",
+    "bank": "COMMERCIAL BANK INVESTBANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556054",
+    "country": "BULGARIA",
+    "bank": "INVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556540",
+    "country": "BULGARIA",
+    "bank": "EASYPAY A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557477",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557478",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557479",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557709",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557916",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558338",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558648",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558657",
+    "country": "BULGARIA",
+    "bank": "BULGARIAN AMERICAN CREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558716",
+    "country": "BULGARIA",
+    "bank": "EASY PAYMENT SERVICES EOOD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559653",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "575797",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576462",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576479",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576952",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "580493",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581005",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581399",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "584911",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585256",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585450",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "586957",
+    "country": "BULGARIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "606269",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "606269",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "639163",
+    "country": "BULGARIA",
+    "bank": "EMPORIKI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670501",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670534",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670582",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670590",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670590",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670609",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670658",
+    "country": "BULGARIA",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670823",
+    "country": "BULGARIA",
+    "bank": "TBI BANK EAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671144",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676001",
+    "country": "BULGARIA",
+    "bank": "DSK BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676052",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676053",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK (FIB)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676054",
+    "country": "BULGARIA",
+    "bank": "POSTBANK BULGARIA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676056",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676057",
+    "country": "BULGARIA",
+    "bank": "SG EXPRESSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676058",
+    "country": "BULGARIA",
+    "bank": "CENTRAL COOPERATIVE BANK PLC.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676060",
+    "country": "BULGARIA",
+    "bank": "HEBROS BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676064",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676065",
+    "country": "BULGARIA",
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676066",
+    "country": "BULGARIA",
+    "bank": "CB MKB UNIONBANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676067",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676068",
+    "country": "BULGARIA",
+    "bank": "MUNICIPAL BANK PLC.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676069",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676071",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISENBANK (BULGARIA) A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676072",
+    "country": "BULGARIA",
+    "bank": "COMMERCIAL BANK INVESTBANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676073",
+    "country": "BULGARIA",
+    "bank": "D COMMERCE BANK AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676074",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676075",
+    "country": "BULGARIA",
+    "bank": "DSKBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "676076",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676078",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676081",
+    "country": "BULGARIA",
+    "bank": "PIRAEUS BANK BULGARIA AD",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676087",
+    "country": "BULGARIA",
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676889",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676952",
+    "country": "BULGARIA",
+    "bank": "UNITED BULGARIAN BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677101",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677101",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677242",
+    "country": "BULGARIA",
+    "bank": "EUROBANK BULGARIA A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679008",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679008",
+    "country": "BULGARIA",
+    "bank": "FIRST INVESTMENT BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "72005",
+    "country": "BULGARIA",
+    "bank": "TBI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "767001",
+    "country": "BULGARIA",
+    "bank": "EURO BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "770104",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISEN BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "770384",
+    "country": "BULGARIA",
+    "bank": "RAIFFEISEN BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "796600",
+    "country": "BULGARIA",
+    "bank": "UNICREDIT BULBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "950232",
+    "country": "BULGARIA",
+    "bank": "POSTBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "950233",
+    "country": "BULGARIA",
+    "bank": "POSTBANK",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  }
+]

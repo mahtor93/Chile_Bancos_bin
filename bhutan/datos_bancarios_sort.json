@@ -1,0 +1,130 @@
+[
+  {
+    "bin": "461125",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468783",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "468784",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470401",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477914",
+    "country": "BHUTAN",
+    "bank": "BHUTAN NATIONAL BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477927",
+    "country": "BHUTAN",
+    "bank": "BHUTAN NATIONAL BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488912",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488913",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488914",
+    "country": "BHUTAN",
+    "bank": "T BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488915",
+    "country": "BHUTAN",
+    "bank": "T BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489282",
+    "country": "BHUTAN",
+    "bank": "BHUTAN NATIONAL BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489311",
+    "country": "BHUTAN",
+    "bank": "BHUTAN NATIONAL BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "529176",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532542",
+    "country": "BHUTAN",
+    "bank": "DRUK PNB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546775",
+    "country": "BHUTAN",
+    "bank": "BANK OF BHUTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "555917",
+    "country": "BHUTAN",
+    "bank": "DRUK PNB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

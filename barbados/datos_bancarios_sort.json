@@ -1,0 +1,1026 @@
+[
+  {
+    "bin": "223201",
+    "country": "BARBADOS",
+    "bank": "SAGICOR BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232013",
+    "country": "BARBADOS",
+    "bank": "CAPITA FINANCIAL SERVICES INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232014",
+    "country": "BARBADOS",
+    "bank": "CAPITA FINANCIAL SERVICES INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233022",
+    "country": "BARBADOS",
+    "bank": "SAGICOR BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "233056",
+    "country": "BARBADOS",
+    "bank": "SAGICOR BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234022",
+    "country": "BARBADOS",
+    "bank": "SAGICOR BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "235014",
+    "country": "BARBADOS",
+    "bank": "SAGICOR BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "262600",
+    "country": "BARBADOS",
+    "bank": "SAGICOR BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406378",
+    "country": "BARBADOS",
+    "bank": "RBTT BANK BARBADOS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "410073",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410074",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419719",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419719",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419720",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419720",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419721",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419721",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419722",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419722",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421569",
+    "country": "BARBADOS",
+    "bank": "BUTTERFIELD BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423652",
+    "country": "BARBADOS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423654",
+    "country": "BARBADOS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423656",
+    "country": "BARBADOS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426311",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZENS BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426818",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "426819",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430999",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430999",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432004",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZENS BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432005",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZENS BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432006",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZENS BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432788",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "433251",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433251",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434774",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434774",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441031",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZENS BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441179",
+    "country": "BARBADOS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441179",
+    "country": "BARBADOS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443929",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443929",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443931",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443931",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446440",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446440",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446441",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446441",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446442",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "446442",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "446443",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "446443",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "448738",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448738",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448749",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448749",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450984",
+    "country": "BARBADOS",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452353",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452353",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455126",
+    "country": "BARBADOS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459308",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465749",
+    "country": "BARBADOS",
+    "bank": "ABSA GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465750",
+    "country": "BARBADOS",
+    "bank": "ABSA GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465751",
+    "country": "BARBADOS",
+    "bank": "ABSA GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466909",
+    "country": "BARBADOS",
+    "bank": "CAVE SHEPHERD CARD (BARBADOS) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "468111",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468111",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469256",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469256",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469257",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZENS BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472232",
+    "country": "BARBADOS",
+    "bank": "FIDELITY NATIONAL CARD SERVICES CARIBBEAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472233",
+    "country": "BARBADOS",
+    "bank": "FIDELITY NATIONAL CARD SERVICES CARIBBEAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472234",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472234",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473257",
+    "country": "BARBADOS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "479468",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479468",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491091",
+    "country": "BARBADOS",
+    "bank": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491093",
+    "country": "BARBADOS",
+    "bank": "MUTUAL BANK OF THE CARIBBEAN INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491400",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491409",
+    "country": "BARBADOS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491409",
+    "country": "BARBADOS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491424",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491429",
+    "country": "BARBADOS",
+    "bank": "BARBADOS NATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494180",
+    "country": "BARBADOS",
+    "bank": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499928",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499928",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499990",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499990",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499991",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499991",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499992",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499992",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512800",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZEN BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513680",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "513787",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513787",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515720",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "518220",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521625",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521634",
+    "country": "BARBADOS",
+    "bank": "FIRST CITIZEN BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "521720",
+    "country": "BARBADOS",
+    "bank": "CAPITA FINANCIAL SERVICES INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522899",
+    "country": "BARBADOS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524973",
+    "country": "BARBADOS",
+    "bank": "BUTTERFIELD BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "528929",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534119",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535832",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540837",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542902",
+    "country": "BARBADOS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "542902",
+    "country": "BARBADOS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "542930",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "544336",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544500",
+    "country": "BARBADOS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546000",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546090",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546610",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "546729",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "546896",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546897",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547521",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "547664",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548956",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548957",
+    "country": "BARBADOS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549082",
+    "country": "BARBADOS",
+    "bank": "REPUBLIC BANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552459",
+    "country": "BARBADOS",
+    "bank": "SCOTIABANK (BARBADOS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552996",
+    "country": "BARBADOS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "555464",
+    "country": "BARBADOS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "556523",
+    "country": "BARBADOS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "583805",
+    "country": "BARBADOS",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

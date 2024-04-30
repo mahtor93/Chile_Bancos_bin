@@ -1,0 +1,290 @@
+[
+  {
+    "bin": "400678",
+    "country": "ETHIOPIA",
+    "bank": "BANK OF ABYSSINIA SHARE COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415104",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419714",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419715",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "421665",
+    "country": "ETHIOPIA",
+    "bank": "AWASH INTERNATIONAL BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "424311",
+    "country": "ETHIOPIA",
+    "bank": "DASHEN BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424312",
+    "country": "ETHIOPIA",
+    "bank": "BUNNA BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424576",
+    "country": "ETHIOPIA",
+    "bank": "BANK OF ABYSSINIA SHARE COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427236",
+    "country": "ETHIOPIA",
+    "bank": "DASHEN BANK S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427237",
+    "country": "ETHIOPIA",
+    "bank": "DASHEN BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431997",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "437493",
+    "country": "ETHIOPIA",
+    "bank": "ZEMEN BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "455393",
+    "country": "ETHIOPIA",
+    "bank": "OROMIA INTERNATIONAL BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458300",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458543",
+    "country": "ETHIOPIA",
+    "bank": "WEGAGEN BANK SHARE COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458554",
+    "country": "ETHIOPIA",
+    "bank": "WEGAGEN BANK SHARE COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458571",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458572",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458573",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458805",
+    "country": "ETHIOPIA",
+    "bank": "WEGAGEN BANK SHARE COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462037",
+    "country": "ETHIOPIA",
+    "bank": "AWASH INTERNATIONAL BANK S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465372",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471297",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "475194",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "518982",
+    "country": "ETHIOPIA",
+    "bank": "DASHEN BANK S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521993",
+    "country": "ETHIOPIA",
+    "bank": "COMMERCIAL BANK OF ETHIOPIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525865",
+    "country": "ETHIOPIA",
+    "bank": "COOPERATIVE BANK OF OROMIA S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527051",
+    "country": "ETHIOPIA",
+    "bank": "UNITED BANK SHARE COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527141",
+    "country": "ETHIOPIA",
+    "bank": "UNITED BANK SHARE COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528661",
+    "country": "ETHIOPIA",
+    "bank": "AWASH INTERNATIONAL BANK S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530426",
+    "country": "ETHIOPIA",
+    "bank": "ZEMEN BANK S.C",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "532073",
+    "country": "ETHIOPIA",
+    "bank": "NIB INTERNATIONAL BANK S.C",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534069",
+    "country": "ETHIOPIA",
+    "bank": "ABAY BANK SHARE COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539913",
+    "country": "ETHIOPIA",
+    "bank": "BERHAN INTERNATIONAL BANK SHARE COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542194",
+    "country": "ETHIOPIA",
+    "bank": "HIBRET BANK SHARE COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546717",
+    "country": "ETHIOPIA",
+    "bank": "COOPERATIVE BANK OF OROMIA S.C",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

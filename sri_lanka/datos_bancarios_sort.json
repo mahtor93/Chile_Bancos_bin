@@ -1,0 +1,3698 @@
+[
+  {
+    "bin": "222713",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222743",
+    "country": "SRI LANKA",
+    "bank": "PAN ASIA BANKING CORPORATION PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "222744",
+    "country": "SRI LANKA",
+    "bank": "PAN ASIA BANKING CORPORATION PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "222745",
+    "country": "SRI LANKA",
+    "bank": "PAN ASIA BANKING CORPORATION PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "222864",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "222928",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "357111",
+    "country": "SRI LANKA",
+    "bank": "LANKA CLEAR",
+    "network": "JCB/LANKAPAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "360955",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361139",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374744",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK, LTD.",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "374747",
+    "country": "SRI LANKA",
+    "bank": "CHARLTON 2 TW",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL PLATINUM CHARGE"
+  },
+  {
+    "bin": "374748",
+    "country": "SRI LANKA",
+    "bank": "CHARLTON 2 TH",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "374751",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN CHARGE"
+  },
+  {
+    "bin": "376557",
+    "country": "SRI LANKA",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400109",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401033",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401326",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401326",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401805",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "401805",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402363",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "403815",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403815",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404186",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404186",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404187",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404187",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404382",
+    "country": "SRI LANKA",
+    "bank": "SINGER FINANCE (LANKA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404633",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404633",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405534",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405757",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405757",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407653",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407653",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408854",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "408854",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "409641",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409641",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410095",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411135",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "411135",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "413541",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414395",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414395",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415724",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415724",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415738",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415739",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415979",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "415979",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "416802",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416802",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418247",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "418247",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "418357",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "419802",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419907",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419944",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419944",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419982",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "419983",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "420223",
+    "country": "SRI LANKA",
+    "bank": "CENTRAL FINANCE COMPANY PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421533",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421534",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421535",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421608",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421608",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421658",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "421658",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "421675",
+    "country": "SRI LANKA",
+    "bank": "ICICI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421676",
+    "country": "SRI LANKA",
+    "bank": "ICICI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421689",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422580",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423396",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423609",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428321",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428398",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428417",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428421",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428639",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428763",
+    "country": "SRI LANKA",
+    "bank": "UNION BANK OF COLOMBO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428767",
+    "country": "SRI LANKA",
+    "bank": "UNION BANK OF COLOMBO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428770",
+    "country": "SRI LANKA",
+    "bank": "UNION BANK OF COLOMBO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "429968",
+    "country": "SRI LANKA",
+    "bank": "DFCC VARDHANA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432551",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432571",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432572",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432705",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434342",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434342",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436193",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436193",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436382",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "436561",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436573",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "437509",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "437555",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437555",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437796",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "437796",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "437840",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438043",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "438149",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438188",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438191",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "438535",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438535",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438810",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "439177",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442413",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442442",
+    "country": "SRI LANKA",
+    "bank": "PAN ASIA BANKING CORPORATION PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444064",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444099",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444099",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450089",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450582",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450594",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450595",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451103",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451103",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451106",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451106",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451131",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451131",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451149",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451149",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451167",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451167",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451169",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451169",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451170",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451170",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451181",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451181",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451182",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451182",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451183",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451183",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451190",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451190",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451191",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451191",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451192",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451192",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451193",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451193",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451195",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451463",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "451463",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "451470",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451816",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452064",
+    "country": "SRI LANKA",
+    "bank": "SENKADAGALA FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453213",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453772",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "453772",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "454428",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454428",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454429",
+    "country": "SRI LANKA",
+    "bank": "PRADESHIYA SANWARDHANA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454486",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454487",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "454488",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454489",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455516",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455559",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455559",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455560",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455560",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457448",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457551",
+    "country": "SRI LANKA",
+    "bank": "SANASA DEVELOPMENT BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457907",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "458804",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458868",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459270",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S LEASING & FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459271",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S LEASING & FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460206",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460559",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460559",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460702",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "460702",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "460704",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "460704",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "460752",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "460752",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "461385",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "461389",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461436",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "462121",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "462425",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462454",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462455",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462887",
+    "country": "SRI LANKA",
+    "bank": "CARGILLS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462970",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "462970",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "462975",
+    "country": "SRI LANKA",
+    "bank": "PEOPLES BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "463785",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463785",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463907",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464178",
+    "country": "SRI LANKA",
+    "bank": "UNION BANK OF COLOMBO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464572",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "464930",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464935",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464936",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464937",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464946",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464947",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464948",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464950",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464953",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464956",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464957",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464968",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464972",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464973",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464975",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464991",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464992",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464994",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464997",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464998",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464999",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "467494",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "467913",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "468207",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468207",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468208",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "468208",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "468804",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468804",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469176",
+    "country": "SRI LANKA",
+    "bank": "AMANA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469342",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470920",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "470921",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "470949",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "470949",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472006",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472008",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472009",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472014",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472032",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472053",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472054",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472060",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472061",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472062",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472064",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472076",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "472078",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472149",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472490",
+    "country": "SRI LANKA",
+    "bank": "STATE BANK OF INDIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472636",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474629",
+    "country": "SRI LANKA",
+    "bank": "PEOPLES BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "476649",
+    "country": "SRI LANKA",
+    "bank": "AXIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476650",
+    "country": "SRI LANKA",
+    "bank": "AXIS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476673",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477793",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477796",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477816",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477818",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479981",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479982",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479983",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479984",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479985",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479986",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "481544",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481544",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481545",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481545",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481546",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "481546",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483557",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483557",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483558",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483559",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483560",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483753",
+    "country": "SRI LANKA",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484072",
+    "country": "SRI LANKA",
+    "bank": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484126",
+    "country": "SRI LANKA",
+    "bank": "AMANA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484485",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484551",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484610",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484771",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485000",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "485148",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "485148",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "485168",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486295",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486296",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "488910",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "488918",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "488918",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "488938",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "488958",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "488996",
+    "country": "SRI LANKA",
+    "bank": "PAN ASIA BANKING CORPORATION PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489011",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489978",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489979",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489980",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490018",
+    "country": "SRI LANKA",
+    "bank": "LB FINANCE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490788",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490788",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490947",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491013",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491014",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491039",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491070",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "492293",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492301",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494346",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "496699",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "498728",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "510491",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "511718",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "511887",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511887",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512085",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512085",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512173",
+    "country": "SRI LANKA",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512614",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512940",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513096",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "513364",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "513859",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "514346",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515685",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515685",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "516201",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516201",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516402",
+    "country": "SRI LANKA",
+    "bank": "CARGILLS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516582",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "516615",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "516659",
+    "country": "SRI LANKA",
+    "bank": "CARGILLS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517210",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517270",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517355",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "517402",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517580",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517661",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517661",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517708",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517708",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517964",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518256",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "518540",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519459",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "519479",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519479",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520202",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521079",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521079",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521085",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521597",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521794",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "522141",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523670",
+    "country": "SRI LANKA",
+    "bank": "CARGILLS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523981",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524051",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524118",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524522",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524615",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525597",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526214",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526511",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526910",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "526927",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527357",
+    "country": "SRI LANKA",
+    "bank": "PAN ASIA BANKING CORPORATION PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "527370",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527370",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529122",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529305",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED GRINDLAYS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "529586",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530091",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531191",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531432",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "532016",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532016",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532038",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532169",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "532726",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "532726",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "532782",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532796",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "533140",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534178",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534274",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534274",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535330",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "535331",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "535569",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535569",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535927",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536787",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "537151",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538147",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538391",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "539138",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539157",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539157",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539921",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539921",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539986",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540331",
+    "country": "SRI LANKA",
+    "bank": "PEOPLE'S BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540630",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541134",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541374",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541902",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541973",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542127",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542190",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542937",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542949",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543202",
+    "country": "SRI LANKA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545935",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545936",
+    "country": "SRI LANKA",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546502",
+    "country": "SRI LANKA",
+    "bank": "LOLC FINANCE PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546523",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546523",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546774",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "547165",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547748",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "547748",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548485",
+    "country": "SRI LANKA",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548804",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548805",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548806",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548807",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549405",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "549406",
+    "country": "SRI LANKA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "550489",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550490",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550598",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552419",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552419",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552474",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552773",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552805",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552818",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552818",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553806",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554214",
+    "country": "SRI LANKA",
+    "bank": "CARGILLS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554642",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "554642",
+    "country": "SRI LANKA",
+    "bank": "NATIONAL DEVELOPMENT BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "555261",
+    "country": "SRI LANKA",
+    "bank": "DFCC BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "557583",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557583",
+    "country": "SRI LANKA",
+    "bank": "BANK OF CEYLON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557676",
+    "country": "SRI LANKA",
+    "bank": "SEYLAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "558339",
+    "country": "SRI LANKA",
+    "bank": "HATTON NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559316",
+    "country": "SRI LANKA",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559574",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559576",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559728",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559729",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "575672",
+    "country": "SRI LANKA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "626233",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626234",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626235",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629176",
+    "country": "SRI LANKA",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629177",
+    "country": "SRI LANKA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629252",
+    "country": "SRI LANKA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "650180",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650924",
+    "country": "SRI LANKA",
+    "bank": "NATIONS TRUST BANK PLC",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "bin": "402039",
+    "country": "MAURITANIA",
+    "bank": "GROUPEMENT INTERBANCAIRE DE MONETIQUE ETDE TRANSACTIONS ELECTRONIQUES (GIMTEL)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406965",
+    "country": "MAURITANIA",
+    "bank": "INTERNATIONAL BANK OF MAURITANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411697",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415379",
+    "country": "MAURITANIA",
+    "bank": "SOCIETE GENERALE MAURITANIE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418085",
+    "country": "MAURITANIA",
+    "bank": "SOCIETE GENERALE MAURITANIE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418086",
+    "country": "MAURITANIA",
+    "bank": "INTERNATIONAL BANK OF MAURITANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418338",
+    "country": "MAURITANIA",
+    "bank": "BANQUE MAURITANIENNE DE L'INVESTISSEMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418380",
+    "country": "MAURITANIA",
+    "bank": "ATTIJARI BANK MAURITANIE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418381",
+    "country": "MAURITANIA",
+    "bank": "ATTIJARI BANK MAURITANIE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418382",
+    "country": "MAURITANIA",
+    "bank": "ATTIJARI BANK MAURITANIE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418383",
+    "country": "MAURITANIA",
+    "bank": "ATTIJARI BANK MAURITANIE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437519",
+    "country": "MAURITANIA",
+    "bank": "SOCIETE GENERALE MAURITANIE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437708",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444003",
+    "country": "MAURITANIA",
+    "bank": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444004",
+    "country": "MAURITANIA",
+    "bank": "BANQUE ISLAMIQUE DE MAURITANIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446146",
+    "country": "MAURITANIA",
+    "bank": "BANQUE ISLAMIQUE DE MAURITANIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452420",
+    "country": "MAURITANIA",
+    "bank": "SOCIETE GENERALE MAURITANIE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468590",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "470656",
+    "country": "MAURITANIA",
+    "bank": "BANQUE NATIONALE DE MAURITANIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "488985",
+    "country": "MAURITANIA",
+    "bank": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488986",
+    "country": "MAURITANIA",
+    "bank": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489315",
+    "country": "MAURITANIA",
+    "bank": "BANQUE MAURITANIENNE DE L'INVESTISSEMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510733",
+    "country": "MAURITANIA",
+    "bank": "GENERALE DE BANQUE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515113",
+    "country": "MAURITANIA",
+    "bank": "NOUVELLE BANQUE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516348",
+    "country": "MAURITANIA",
+    "bank": "BANQUE AL WAVA MAURITANIENNE ISLAMIQUE BAMIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516579",
+    "country": "MAURITANIA",
+    "bank": "BANQUE NATIONALE DE MAURITANIE BNM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518181",
+    "country": "MAURITANIA",
+    "bank": "NOUVELLE BANQUE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518299",
+    "country": "MAURITANIA",
+    "bank": "BANQUE NATIONALE DE MAURITANIE BNM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521053",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POPULAIRE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521054",
+    "country": "MAURITANIA",
+    "bank": "BANQUE AL WAVA MAURITANIENNE ISLAMIQUE BAMIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521123",
+    "country": "MAURITANIA",
+    "bank": "NOUVELLE BANQUE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "523558",
+    "country": "MAURITANIA",
+    "bank": "GENERALE DE BANQUE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526367",
+    "country": "MAURITANIA",
+    "bank": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL BMCI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527527",
+    "country": "MAURITANIA",
+    "bank": "BANQUE AL WAVA MAURITANIENNE ISLAMIQUE BAMIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529567",
+    "country": "MAURITANIA",
+    "bank": "BANQUE NATIONALE DE MAURITANIE BNM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530347",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POPULAIRE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531413",
+    "country": "MAURITANIA",
+    "bank": "GENERALE DE BANQUE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "531978",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POPULAIRE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536350",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POPULAIRE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537621",
+    "country": "MAURITANIA",
+    "bank": "BANQUE NATIONALE DE MAURITANIE BNM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540626",
+    "country": "MAURITANIA",
+    "bank": "BANQUE POPULAIRE DE MAURITANIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "ANZ_BANK_LTD._-_TONGA": [
+            {
+                "Numero BIN/IIN": "422421",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "ANZ BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "463721",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "ANZ BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ANZ_BANKING_GROUP_(NEW_ZEALAND)_LTD._-_TONGA": [
+            {
+                "Numero BIN/IIN": "542698",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "ANZ BANKING GROUP (NEW ZEALAND), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "AUSTRALIA_AND_NEW_ZEALAND_BANKING_GROUP_LTD._-_TONGA": [
+            {
+                "Numero BIN/IIN": "437972",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "462878",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANK_OF_SOUTH_PACIFIC_TONGA_LTD._-_TONGA": [
+            {
+                "Numero BIN/IIN": "401739",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "BANK OF SOUTH PACIFIC TONGA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "434380",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "BANK OF SOUTH PACIFIC TONGA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481269",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "BANK OF SOUTH PACIFIC TONGA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "TONGA_DEVELOPMENT_BANK_LTD._-_TONGA": [
+            {
+                "Numero BIN/IIN": "481262",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "TONGA DEVELOPMENT BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "WESTPAC_BANKING_CORPORATION_-_TONGA": [
+            {
+                "Numero BIN/IIN": "400467",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "WESTPAC BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431495",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "WESTPAC BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "468230",
+                "Pais": "TONGA",
+                "Nombre del emisor / Banco": "WESTPAC BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

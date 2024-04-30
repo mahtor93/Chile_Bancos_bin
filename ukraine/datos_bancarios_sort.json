@@ -1,0 +1,6266 @@
+[
+  {
+    "bin": "120100",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "400078",
+    "country": "UKRAINE",
+    "bank": "NOVAPAY LIMITED LIABILITY COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400129",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400629",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "401288",
+    "country": "UKRAINE",
+    "bank": "JSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401567",
+    "country": "UKRAINE",
+    "bank": "JSC UNEX BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401856",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402454",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402454",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402511",
+    "country": "UKRAINE",
+    "bank": "JSC INDUSTRIAL EXPORT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402808",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402889",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402901",
+    "country": "UKRAINE",
+    "bank": "JSB POLTAVA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402902",
+    "country": "UKRAINE",
+    "bank": "JSB POLTAVA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402903",
+    "country": "UKRAINE",
+    "bank": "JSB POLTAVA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402961",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402962",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402964",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "403021",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403135",
+    "country": "UKRAINE",
+    "bank": "CJSC EUROPEAN BANK OF RATIONAL FINANCING",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403234",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK KYIVSKA RUS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "403353",
+    "country": "UKRAINE",
+    "bank": "JSC UNEX BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403520",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403782",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403814",
+    "country": "UKRAINE",
+    "bank": "OJSC REAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404006",
+    "country": "UKRAINE",
+    "bank": "PJSC AVANT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404020",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404170",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404176",
+    "country": "UKRAINE",
+    "bank": "MEGABANK PJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "404261",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK FORUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404262",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK FORUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404287",
+    "country": "UKRAINE",
+    "bank": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404877",
+    "country": "UKRAINE",
+    "bank": "LLC BANK FAMILNY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404878",
+    "country": "UKRAINE",
+    "bank": "LLC BANK FAMILNY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404879",
+    "country": "UKRAINE",
+    "bank": "LLC BANK FAMILNY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404926",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405368",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406115",
+    "country": "UKRAINE",
+    "bank": "FORWARD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406116",
+    "country": "UKRAINE",
+    "bank": "FORWARD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406117",
+    "country": "UKRAINE",
+    "bank": "FORWARD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406660",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406759",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406760",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406788",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407361",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407362",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407363",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407364",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407368",
+    "country": "UKRAINE",
+    "bank": "JS INNOVATION BANK UKRSIBBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407599",
+    "country": "UKRAINE",
+    "bank": "OJSC CB INTERBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "409011",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409646",
+    "country": "UKRAINE",
+    "bank": "BROKBUSINESSBANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409650",
+    "country": "UKRAINE",
+    "bank": "BROKBUSINESS BANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410232",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "410245",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410246",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410247",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410332",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410336",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410337",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410653",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411187",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "411189",
+    "country": "UKRAINE",
+    "bank": "OJSC FINEXBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411749",
+    "country": "UKRAINE",
+    "bank": "CJSC OTP BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411933",
+    "country": "UKRAINE",
+    "bank": "LLC CB EXPOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411934",
+    "country": "UKRAINE",
+    "bank": "LLC CB EXPOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411935",
+    "country": "UKRAINE",
+    "bank": "LLC CB EXPOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411948",
+    "country": "UKRAINE",
+    "bank": "JSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411957",
+    "country": "UKRAINE",
+    "bank": "CB MISTO BANK LLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411958",
+    "country": "UKRAINE",
+    "bank": "CB MISTO BANK LLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411959",
+    "country": "UKRAINE",
+    "bank": "CB MISTO BANK LLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411960",
+    "country": "UKRAINE",
+    "bank": "CB MISTO BANK LLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411962",
+    "country": "UKRAINE",
+    "bank": "CB MISTO BANK LLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412717",
+    "country": "UKRAINE",
+    "bank": "JSC ASVIO BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413051",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "413281",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413282",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413283",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413284",
+    "country": "UKRAINE",
+    "bank": "JSC UNEX BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413285",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE, JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413418",
+    "country": "UKRAINE",
+    "bank": "JSC TASCOMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "414046",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414939",
+    "country": "UKRAINE",
+    "bank": "JSC TASCOMBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "414943",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414949",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414960",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414961",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414962",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414963",
+    "country": "UKRAINE",
+    "bank": "JSC IDEA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "415160",
+    "country": "UKRAINE",
+    "bank": "JSC SKY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415162",
+    "country": "UKRAINE",
+    "bank": "JSC SKY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415171",
+    "country": "UKRAINE",
+    "bank": "JSC SKY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "416656",
+    "country": "UKRAINE",
+    "bank": "PJSC CITY COMMERCE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "416773",
+    "country": "UKRAINE",
+    "bank": "KHRESCHATYK OJSC CB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416926",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "416955",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417232",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417348",
+    "country": "UKRAINE",
+    "bank": "JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417352",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VOSTOK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417353",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VOSTOK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417355",
+    "country": "UKRAINE",
+    "bank": "CJSC AGROBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417356",
+    "country": "UKRAINE",
+    "bank": "CJSC AGROBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417395",
+    "country": "UKRAINE",
+    "bank": "JSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417649",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417853",
+    "country": "UKRAINE",
+    "bank": "PJSC CB DANIEL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417855",
+    "country": "UKRAINE",
+    "bank": "PJSC CB DANIEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "417886",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417887",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418727",
+    "country": "UKRAINE",
+    "bank": "PJSC IMEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418731",
+    "country": "UKRAINE",
+    "bank": "PJSC IMEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418959",
+    "country": "UKRAINE",
+    "bank": "JSB UKRAINSKIY KOMUNALNIY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419186",
+    "country": "UKRAINE",
+    "bank": "OJSC CB INTERBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419214",
+    "country": "UKRAINE",
+    "bank": "JSB UKRAINSKIY KOMUNALNIY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419313",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419314",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419315",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419316",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419317",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419323",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FOR INVESTMENTS AND SAVINGS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419324",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FOR INVESTMENTS AND SAVINGS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419325",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FOR INVESTMENTS AND SAVINGS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419326",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FOR INVESTMENTS AND SAVINGS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419327",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK FOR INVESTMENTS AND SAVINGS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419552",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK MERCURY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419637",
+    "country": "UKRAINE",
+    "bank": "JSB TAVRYKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419639",
+    "country": "UKRAINE",
+    "bank": "JSB TAVRYKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419640",
+    "country": "UKRAINE",
+    "bank": "JSB TAVRYKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419641",
+    "country": "UKRAINE",
+    "bank": "JSB TAVRYKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419654",
+    "country": "UKRAINE",
+    "bank": "JSC BANK TRUST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419655",
+    "country": "UKRAINE",
+    "bank": "JSC BANK TRUST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419656",
+    "country": "UKRAINE",
+    "bank": "JSC BANK TRUST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419657",
+    "country": "UKRAINE",
+    "bank": "JSC BANK TRUST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419811",
+    "country": "UKRAINE",
+    "bank": "JSC IBOX BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419835",
+    "country": "UKRAINE",
+    "bank": "PJSC INTEGRAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419836",
+    "country": "UKRAINE",
+    "bank": "PJSC INTEGRAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419908",
+    "country": "UKRAINE",
+    "bank": "JSCB CAPITAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420030",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420366",
+    "country": "UKRAINE",
+    "bank": "BANK BOHUSLAV JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420367",
+    "country": "UKRAINE",
+    "bank": "BANK BOHUSLAV JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420368",
+    "country": "UKRAINE",
+    "bank": "BANK BOHUSLAV JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420369",
+    "country": "UKRAINE",
+    "bank": "BANK BOHUSLAV JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "420470",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "420652",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "421026",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421113",
+    "country": "UKRAINE",
+    "bank": "JSC BANK CREDIT DNEPR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421115",
+    "country": "UKRAINE",
+    "bank": "JSC BANK CREDIT DNEPR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "421116",
+    "country": "UKRAINE",
+    "bank": "JSC BANK CREDIT DNEPR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421140",
+    "country": "UKRAINE",
+    "bank": "JSCB KYIV",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421142",
+    "country": "UKRAINE",
+    "bank": "JSCB KYIV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421174",
+    "country": "UKRAINE",
+    "bank": "JSCB KYIV",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "421855",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VOSTOK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422366",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK FORUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422675",
+    "country": "UKRAINE",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423394",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423395",
+    "country": "UKRAINE",
+    "bank": "JSC COMINBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423920",
+    "country": "UKRAINE",
+    "bank": "OJSC REAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424127",
+    "country": "UKRAINE",
+    "bank": "OJSC CB PIVDENCOMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GIFT"
+  },
+  {
+    "bin": "424171",
+    "country": "UKRAINE",
+    "bank": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424172",
+    "country": "UKRAINE",
+    "bank": "JSC KREDOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424342",
+    "country": "UKRAINE",
+    "bank": "JSCB CAPITAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424400",
+    "country": "UKRAINE",
+    "bank": "CJSC BANK NRB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424412",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424413",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK ACTIVE BANK LLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424414",
+    "country": "UKRAINE",
+    "bank": "NOVIY JSCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424428",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424490",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "424491",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424511",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424600",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424657",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424666",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426046",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426047",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426048",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426049",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426049",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426139",
+    "country": "UKRAINE",
+    "bank": "BM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426140",
+    "country": "UKRAINE",
+    "bank": "BM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426141",
+    "country": "UKRAINE",
+    "bank": "BM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426142",
+    "country": "UKRAINE",
+    "bank": "BM BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426741",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK OF CYPRUS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426742",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK OF CYPRUS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426743",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK OF CYPRUS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426744",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK OF CYPRUS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426745",
+    "country": "UKRAINE",
+    "bank": "JSB AVTOZAZBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427325",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428069",
+    "country": "UKRAINE",
+    "bank": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428071",
+    "country": "UKRAINE",
+    "bank": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428180",
+    "country": "UKRAINE",
+    "bank": "JSB MORSKOY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428181",
+    "country": "UKRAINE",
+    "bank": "JSB MORSKOY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428182",
+    "country": "UKRAINE",
+    "bank": "JSB MORSKOY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428183",
+    "country": "UKRAINE",
+    "bank": "JSB MORSKOY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428308",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428337",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428651",
+    "country": "UKRAINE",
+    "bank": "MEGABANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "429450",
+    "country": "UKRAINE",
+    "bank": "JSB DIAMANT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429451",
+    "country": "UKRAINE",
+    "bank": "JSB DIAMANT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429452",
+    "country": "UKRAINE",
+    "bank": "JSB DIAMANT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "429453",
+    "country": "UKRAINE",
+    "bank": "JSB DIAMANT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "429553",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429732",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429732",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429733",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "429733",
+    "country": "UKRAINE",
+    "bank": "MTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "430253",
+    "country": "UKRAINE",
+    "bank": "JSC UKRAINIAN CAPITAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430254",
+    "country": "UKRAINE",
+    "bank": "JSC UKRAINIAN CAPITAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430256",
+    "country": "UKRAINE",
+    "bank": "JSC UKRAINIAN CAPITAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430257",
+    "country": "UKRAINE",
+    "bank": "JSC UKRAINIAN CAPITAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430270",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430653",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "431153",
+    "country": "UKRAINE",
+    "bank": "JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431184",
+    "country": "UKRAINE",
+    "bank": "JS BANK EXPRESS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431186",
+    "country": "UKRAINE",
+    "bank": "JS BANK EXPRESS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431187",
+    "country": "UKRAINE",
+    "bank": "JS BANK EXPRESS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431235",
+    "country": "UKRAINE",
+    "bank": "PJSC AVTOKRAZBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431238",
+    "country": "UKRAINE",
+    "bank": "OJSC JSCB AVTOKRAZBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431403",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431414",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "431435",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431436",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431437",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431889",
+    "country": "UKRAINE",
+    "bank": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432160",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432336",
+    "country": "UKRAINE",
+    "bank": "CJSC AKTSENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432337",
+    "country": "UKRAINE",
+    "bank": "CJSC AKTSENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432339",
+    "country": "UKRAINE",
+    "bank": "CJSC AKTSENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432457",
+    "country": "UKRAINE",
+    "bank": "JSC KREDOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432458",
+    "country": "UKRAINE",
+    "bank": "JSC KREDOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432459",
+    "country": "UKRAINE",
+    "bank": "JSC KREDOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433346",
+    "country": "UKRAINE",
+    "bank": "INTERPAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "433461",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433771",
+    "country": "UKRAINE",
+    "bank": "JSC ASVIO BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434156",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "434343",
+    "country": "UKRAINE",
+    "bank": "JSC UKRSIBBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "434944",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "435235",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "435570",
+    "country": "UKRAINE",
+    "bank": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435624",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435625",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "435626",
+    "country": "UKRAINE",
+    "bank": "JSC INTERNATIONAL COMMERCE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "436323",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437435",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437518",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437543",
+    "country": "UKRAINE",
+    "bank": "PJSC CB EUROBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "438146",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438147",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438148",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438150",
+    "country": "UKRAINE",
+    "bank": "OJSC FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438253",
+    "country": "UKRAINE",
+    "bank": "JSC KREDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438264",
+    "country": "UKRAINE",
+    "bank": "NOVIY JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438266",
+    "country": "UKRAINE",
+    "bank": "NOVIY JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "438267",
+    "country": "UKRAINE",
+    "bank": "NOVIY JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438383",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438927",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439023",
+    "country": "UKRAINE",
+    "bank": "JSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439024",
+    "country": "UKRAINE",
+    "bank": "JSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439025",
+    "country": "UKRAINE",
+    "bank": "PJSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439038",
+    "country": "UKRAINE",
+    "bank": "JSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439039",
+    "country": "UKRAINE",
+    "bank": "PJSC CREDIT AGRICOLE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439053",
+    "country": "UKRAINE",
+    "bank": "OPENED JSC KREDITPROMBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440129",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK 'PRIVATBANK'",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "440297",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440299",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440509",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440534",
+    "country": "UKRAINE",
+    "bank": "JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440535",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440588",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442183",
+    "country": "UKRAINE",
+    "bank": "PJSC CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442184",
+    "country": "UKRAINE",
+    "bank": "PJSC CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442185",
+    "country": "UKRAINE",
+    "bank": "PJSC CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "443871",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443872",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "443878",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CAMBIO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "443879",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CAMBIO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444036",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444037",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444038",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444039",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444040",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444041",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444042",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444111",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "444232",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444233",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444234",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444235",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444236",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444237",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444380",
+    "country": "UKRAINE",
+    "bank": "PJSC FIDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444424",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "444498",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444801",
+    "country": "UKRAINE",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444802",
+    "country": "UKRAINE",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444803",
+    "country": "UKRAINE",
+    "bank": "PJSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444804",
+    "country": "UKRAINE",
+    "bank": "PJSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444805",
+    "country": "UKRAINE",
+    "bank": "PJSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444900",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445128",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK KYIVSKA RUS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445130",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK KYIVSKA RUS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445131",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK KYIVSKA RUS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445132",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK KYIVSKA RUS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "445421",
+    "country": "UKRAINE",
+    "bank": "PJSC AKTABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445437",
+    "country": "UKRAINE",
+    "bank": "PJSC AKTABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445438",
+    "country": "UKRAINE",
+    "bank": "PJSC AKTABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "445488",
+    "country": "UKRAINE",
+    "bank": "CJSC WEST FINANCE AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "445568",
+    "country": "UKRAINE",
+    "bank": "AP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445569",
+    "country": "UKRAINE",
+    "bank": "AP BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445571",
+    "country": "UKRAINE",
+    "bank": "PJSC ASTRA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "445585",
+    "country": "UKRAINE",
+    "bank": "MEGABANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "445586",
+    "country": "UKRAINE",
+    "bank": "OJSC MOTOR BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445587",
+    "country": "UKRAINE",
+    "bank": "OJSC MOTOR BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446300",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446357",
+    "country": "UKRAINE",
+    "bank": "CJSC FINANCIAL UNION BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446358",
+    "country": "UKRAINE",
+    "bank": "CJSC FINANCIAL UNION BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446359",
+    "country": "UKRAINE",
+    "bank": "CJSC FINANCIAL UNION BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446360",
+    "country": "UKRAINE",
+    "bank": "CJSC FINANCIAL UNION BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446361",
+    "country": "UKRAINE",
+    "bank": "CJSC FINANCIAL UNION BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446386",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VELES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446387",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VELES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446388",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VELES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "446389",
+    "country": "UKRAINE",
+    "bank": "JSC BANK VELES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446688",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446689",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "446960",
+    "country": "UKRAINE",
+    "bank": "BM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447606",
+    "country": "UKRAINE",
+    "bank": "CJSC WEST FINANCE AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447607",
+    "country": "UKRAINE",
+    "bank": "CJSC WEST FINANCE AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "447831",
+    "country": "UKRAINE",
+    "bank": "JSC UKRAINIAN CAPITAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "448305",
+    "country": "UKRAINE",
+    "bank": "JSC JSB UKRGASBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448382",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "448393",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448394",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448780",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451384",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451399",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "452401",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452434",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452435",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "452437",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452900",
+    "country": "UKRAINE",
+    "bank": "JSC BANK 3/4",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454644",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456098",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK RADABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457311",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK FORUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457312",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK FORUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457371",
+    "country": "UKRAINE",
+    "bank": "PJSC AKTABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457457",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457458",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457459",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457460",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457635",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457636",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457639",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457705",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457706",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457733",
+    "country": "UKRAINE",
+    "bank": "JSC BANK 3/4",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457734",
+    "country": "UKRAINE",
+    "bank": "JSC BANK 3/4",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457735",
+    "country": "UKRAINE",
+    "bank": "JSC BANK 3/4",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457736",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK 3/4",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457749",
+    "country": "UKRAINE",
+    "bank": "PJSC CB EUROBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "458120",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458121",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458122",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458215",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FOR INVESTMENTS AND SAVINGS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458578",
+    "country": "UKRAINE",
+    "bank": "PJSC CB EUROBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458579",
+    "country": "UKRAINE",
+    "bank": "PJSC CB EUROBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458580",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "458760",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "459970",
+    "country": "UKRAINE",
+    "bank": "JSC BANK TRUST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460056",
+    "country": "UKRAINE",
+    "bank": "PJSC AKTABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460057",
+    "country": "UKRAINE",
+    "bank": "PJSC AKTABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460160",
+    "country": "UKRAINE",
+    "bank": "JSC IDEA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462705",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462708",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464169",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464237",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464492",
+    "country": "UKRAINE",
+    "bank": "NOVAPAY LIMITED LIABILITY COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465368",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465369",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465370",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465388",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "465743",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467731",
+    "country": "UKRAINE",
+    "bank": "BROKBUSINESSBANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467778",
+    "country": "UKRAINE",
+    "bank": "PJSC FIDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467779",
+    "country": "UKRAINE",
+    "bank": "PJSC FIDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467780",
+    "country": "UKRAINE",
+    "bank": "PJSC FIDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467781",
+    "country": "UKRAINE",
+    "bank": "PJSC FIDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "467782",
+    "country": "UKRAINE",
+    "bank": "PJSC FIDOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467936",
+    "country": "UKRAINE",
+    "bank": "JSB DIAMANT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469618",
+    "country": "UKRAINE",
+    "bank": "LLC RUSSIAN STANDARD BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "471221",
+    "country": "UKRAINE",
+    "bank": "JSCB INDUSTRIALBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471362",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471419",
+    "country": "UKRAINE",
+    "bank": "JSC BANK CREDIT DNEPR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472282",
+    "country": "UKRAINE",
+    "bank": "JSC TASCOMBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472472",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472473",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472474",
+    "country": "UKRAINE",
+    "bank": "JSC PIRAEUS BANK ICB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472572",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472595",
+    "country": "UKRAINE",
+    "bank": "LLC RUSSIAN STANDARD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472835",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472836",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472837",
+    "country": "UKRAINE",
+    "bank": "OJSC INTERNATIONAL INVEST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472838",
+    "country": "UKRAINE",
+    "bank": "OJSC INTERNATIONAL INVEST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472880",
+    "country": "UKRAINE",
+    "bank": "OJSC CB PIVDENCOMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472931",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472932",
+    "country": "UKRAINE",
+    "bank": "OJSC BANK UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473114",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK 'PRIVATBANK'",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473117",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "473118",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473119",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "473121",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473838",
+    "country": "UKRAINE",
+    "bank": "INTERNATIONAL RESERVE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "475538",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476065",
+    "country": "UKRAINE",
+    "bank": "CB PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "476978",
+    "country": "UKRAINE",
+    "bank": "PJSC IMEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476979",
+    "country": "UKRAINE",
+    "bank": "PJSC IMEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477994",
+    "country": "UKRAINE",
+    "bank": "JSC COMINBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477995",
+    "country": "UKRAINE",
+    "bank": "JSC MIB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479040",
+    "country": "UKRAINE",
+    "bank": "JSB ENERGOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479041",
+    "country": "UKRAINE",
+    "bank": "JSB ENERGOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "479042",
+    "country": "UKRAINE",
+    "bank": "JSB ENERGOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479043",
+    "country": "UKRAINE",
+    "bank": "JSB ENERGOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479070",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479072",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479082",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479088",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "479093",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479094",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479095",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479096",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479751",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "482415",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "483021",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483968",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484173",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484753",
+    "country": "UKRAINE",
+    "bank": "OJSC VOLKSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484754",
+    "country": "UKRAINE",
+    "bank": "OJSC VOLKSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484755",
+    "country": "UKRAINE",
+    "bank": "OJSC VOLKSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "484756",
+    "country": "UKRAINE",
+    "bank": "OJSC VOLKSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "484772",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB LVIV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484773",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB LVIV",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484818",
+    "country": "UKRAINE",
+    "bank": "PJSC ASTRA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "484854",
+    "country": "UKRAINE",
+    "bank": "JSC MTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "484864",
+    "country": "UKRAINE",
+    "bank": "JSC RUSSIAN STANDARD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484883",
+    "country": "UKRAINE",
+    "bank": "PJSC ERDE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484884",
+    "country": "UKRAINE",
+    "bank": "PJSC ERDE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484885",
+    "country": "UKRAINE",
+    "bank": "PJSC ERDE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484892",
+    "country": "UKRAINE",
+    "bank": "PJSC ERDE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "485435",
+    "country": "UKRAINE",
+    "bank": "JSC CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486668",
+    "country": "UKRAINE",
+    "bank": "JSC CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486819",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "486820",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "487407",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487410",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487424",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489018",
+    "country": "UKRAINE",
+    "bank": "CLEARING HOUSE JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "489089",
+    "country": "UKRAINE",
+    "bank": "JSB ENERGOBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489175",
+    "country": "UKRAINE",
+    "bank": "JSB PIVDENNYI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489987",
+    "country": "UKRAINE",
+    "bank": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490915",
+    "country": "UKRAINE",
+    "bank": "JSC SENSE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "496680",
+    "country": "UKRAINE",
+    "bank": "JSC JSB UKRGASBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "496683",
+    "country": "UKRAINE",
+    "bank": "JSC JSB UKRGASBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510093",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510094",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510104",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMMERCIAL BANK INDUSTRIALBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510105",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMMERCIAL BANK INDUSTRIALBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510477",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "511782",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512051",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512439",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513128",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513435",
+    "country": "UKRAINE",
+    "bank": "NOVAPAY LLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513999",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMMERCIAL BANK INDUSTRIALBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514797",
+    "country": "UKRAINE",
+    "bank": "CRYSTALBANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515662",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515791",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "515829",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516059",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516089",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516561",
+    "country": "UKRAINE",
+    "bank": "CRYSTALBANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516692",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516749",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516750",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516754",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516755",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516756",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516759",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516761",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516769",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516773",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516780",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516781",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516788",
+    "country": "UKRAINE",
+    "bank": "BROKBUSINESSBANK JSB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516791",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516792",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516798",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516801",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516802",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516803",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516804",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516812",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516813",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516818",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516822",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516824",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516830",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516853",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516863",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516874",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516875",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516887",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516899",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516911",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516933",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516936",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516937",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517268",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517328",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517396",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517464",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517474",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517547",
+    "country": "UKRAINE",
+    "bank": "NOVAPAY LLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517867",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517944",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518158",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518164",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518282",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519745",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520143",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "520662",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521153",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521327",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521364",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521398",
+    "country": "UKRAINE",
+    "bank": "OJSC UNIVERSAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521513",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521514",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521832",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "521833",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521857",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522064",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522119",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "522753",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522797",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522847",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522864",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523244",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK ALLIANCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523406",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "523502",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523530",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523535",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "523778",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523929",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523933",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMMERCIAL BANK INDUSTRIALBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523964",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "524523",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK ALLIANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524577",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524608",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524650",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524816",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525493",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525753",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525822",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526485",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526858",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527039",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "527166",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527220",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527410",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527412",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527458",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528529",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK ALLIANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528534",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528806",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528944",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529914",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK KHRESCHATYK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530186",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530409",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530778",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530921",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "531231",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "531536",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531579",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531673",
+    "country": "UKRAINE",
+    "bank": "JSC <<COMINBANK>>",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531965",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532957",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533194",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533731",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534115",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535118",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535124",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535125",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535134",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535136",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535148",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535149",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535150",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535189",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535190",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535191",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535206",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535249",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535255",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535261",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535277",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535278",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535428",
+    "country": "UKRAINE",
+    "bank": "JSC <<COMINBANK>>",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535454",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535455",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535465",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535466",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535507",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535508",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535509",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535510",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535515",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535516",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535517",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535528",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535540",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535606",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535607",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535608",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535618",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535697",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMMERCIAL BANK INDUSTRIALBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535746",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "535838",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536354",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536401",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537478",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537482",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537517",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK ALLIANCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537538",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537541",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537549",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537552",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UNEX BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537593",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK ALLIANCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538178",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538808",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538850",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "538986",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539461",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY BANK 3 4",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540834",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540881",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540892",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540953",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541271",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541697",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541733",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542435",
+    "country": "UKRAINE",
+    "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542447",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542996",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543341",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544072",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL INDUSTRIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544277",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544457",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544649",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545083",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545164",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545172",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545201",
+    "country": "UKRAINE",
+    "bank": "JSC JSCB CONCORD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545219",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545265",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545527",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545708",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545709",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546886",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "547223",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547266",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547397",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UNEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "547434",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL INDUSTRIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547650",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547755",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK DIAMANT (DIAMANTBANK)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548276",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548883",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548919",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549022",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549287",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549313",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549385",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549818",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549820",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549853",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550042",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550238",
+    "country": "UKRAINE",
+    "bank": "PJSC DELTA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550250",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550349",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552154",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552198",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552324",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552665",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552717",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553053",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553463",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY BANK 3 4",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553499",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY BANK 3 4",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554213",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554967",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555625",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555638",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557088",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557089",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557101",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557102",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557103",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557104",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557109",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557110",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557387",
+    "country": "UKRAINE",
+    "bank": "OJSC EUROPEAN INDUSTRIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557394",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557428",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557713",
+    "country": "UKRAINE",
+    "bank": "JSCB NADRA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "557721",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "557730",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "557740",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "557744",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHADBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557810",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557814",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557815",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557826",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "558260",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558262",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558300",
+    "country": "UKRAINE",
+    "bank": "OJSC SWEDBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558327",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558424",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559644",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559660",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559663",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK ALLIANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559671",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "570145",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "570313",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "571392",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "571702",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "574108",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "575105",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "575245",
+    "country": "UKRAINE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "670526",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670546",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670630",
+    "country": "UKRAINE",
+    "bank": "JSC ERDE BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670635",
+    "country": "UKRAINE",
+    "bank": "JSC OSCHADBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670642",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670649",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670850",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670855",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670877",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676217",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676246",
+    "country": "UKRAINE",
+    "bank": "JSC CB PRIVATBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676250",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676271",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676273",
+    "country": "UKRAINE",
+    "bank": "CJSC WEST FINANCE AND CREDIT BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676365",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676477",
+    "country": "UKRAINE",
+    "bank": "PJSC CB ACTIVE BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676566",
+    "country": "UKRAINE",
+    "bank": "OTP BANK JSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676567",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676568",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMMERCIAL BANK INDUSTRIALBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676582",
+    "country": "UKRAINE",
+    "bank": "BROKBUSINESSBANK JSB",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676612",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676621",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY UKRSOTSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676622",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY KREDOBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676634",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676643",
+    "country": "UKRAINE",
+    "bank": "OJSC SWEDBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676645",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK CREDIT DNEPR",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676665",
+    "country": "UKRAINE",
+    "bank": "JSB ING BANK UKRAINE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676666",
+    "country": "UKRAINE",
+    "bank": "JSC STATE SAVINGS BANK OF UKRAINE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676678",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK DIAMANT (DIAMANTBANK)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676679",
+    "country": "UKRAINE",
+    "bank": "JSB UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676816",
+    "country": "UKRAINE",
+    "bank": "KHRESCHATYK OJSC CB",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676843",
+    "country": "UKRAINE",
+    "bank": "JSB UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676865",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676902",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676966",
+    "country": "UKRAINE",
+    "bank": "JSB UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676995",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677001",
+    "country": "UKRAINE",
+    "bank": "CREDIT AGRICOLE BANK PJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677002",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677009",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677015",
+    "country": "UKRAINE",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677078",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677089",
+    "country": "UKRAINE",
+    "bank": "JSB UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677099",
+    "country": "UKRAINE",
+    "bank": "OJSC RAIFFEISEN BANK AVAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677210",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677237",
+    "country": "UKRAINE",
+    "bank": "JOINT STOCK BANK UKRGASBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677548",
+    "country": "UKRAINE",
+    "bank": "JSC BANK FORWARD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677670",
+    "country": "UKRAINE",
+    "bank": "JSC UNIVERSAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "777703",
+    "country": "UKRAINE",
+    "bank": "COMMERCIAL BANK PRIVATBANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "980440",
+    "country": "UKRAINE",
+    "bank": "OSCHADBANK",
+    "network": "PROSTIR",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "980451",
+    "country": "UKRAINE",
+    "bank": "MIKHAYLOVSKIY BANK",
+    "network": "PROSTIR",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "980470",
+    "country": "UKRAINE",
+    "bank": "OSCHADBANK",
+    "network": "PROSTIR",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

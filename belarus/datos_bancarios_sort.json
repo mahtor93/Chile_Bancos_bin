@@ -1,0 +1,1738 @@
+[
+  {
+    "bin": "220429",
+    "country": "BELARUS",
+    "bank": "VTB BANK",
+    "network": "NSPK MIR",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "379901",
+    "country": "BELARUS",
+    "bank": "BPS BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "379993",
+    "country": "BELARUS",
+    "bank": "BPS BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GOLD CHARGE"
+  },
+  {
+    "bin": "400553",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "401346",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401803",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409087",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410481",
+    "country": "BELARUS",
+    "bank": "BSB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410745",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410746",
+    "country": "BELARUS",
+    "bank": "BELSWISS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410927",
+    "country": "BELARUS",
+    "bank": "CJSC ABSOLUTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410931",
+    "country": "BELARUS",
+    "bank": "CJSC ABSOLUTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412528",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "413059",
+    "country": "BELARUS",
+    "bank": "CJSC ZEPTER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "413297",
+    "country": "BELARUS",
+    "bank": "ZEPTER BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414088",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416064",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416676",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416676",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416677",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416677",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417494",
+    "country": "BELARUS",
+    "bank": "JSC MTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417495",
+    "country": "BELARUS",
+    "bank": "JSC MTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417753",
+    "country": "BELARUS",
+    "bank": "JSC MTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417754",
+    "country": "BELARUS",
+    "bank": "JSC MINSK TRANSIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417755",
+    "country": "BELARUS",
+    "bank": "JSC MINSK TRANSIT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417770",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419197",
+    "country": "BELARUS",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419198",
+    "country": "BELARUS",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421487",
+    "country": "BELARUS",
+    "bank": "BANK DABRABYT JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "422484",
+    "country": "BELARUS",
+    "bank": "BTA BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422887",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423504",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424199",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "424641",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425519",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425520",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425521",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427870",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427870",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429737",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "429737",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432036",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432037",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432038",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432039",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432040",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432041",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432067",
+    "country": "BELARUS",
+    "bank": "BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432080",
+    "country": "BELARUS",
+    "bank": "CJSC JSCB BELROSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432081",
+    "country": "BELARUS",
+    "bank": "CJSC JSCB BELROSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432232",
+    "country": "BELARUS",
+    "bank": "PJSC TRUSTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "434484",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "434485",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "434486",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434487",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "436632",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436632",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437391",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437391",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437458",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437488",
+    "country": "BELARUS",
+    "bank": "BTA BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437489",
+    "country": "BELARUS",
+    "bank": "BTA BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437490",
+    "country": "BELARUS",
+    "bank": "BTA BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440511",
+    "country": "BELARUS",
+    "bank": "CJSC ZEPTER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440512",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440513",
+    "country": "BELARUS",
+    "bank": "CJSC ZEPTER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445451",
+    "country": "BELARUS",
+    "bank": "CJSC VTB BANK (BELARUS)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445452",
+    "country": "BELARUS",
+    "bank": "CJSC VTB BANK (BELARUS)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445453",
+    "country": "BELARUS",
+    "bank": "CJSC VTB BANK (BELARUS)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "445454",
+    "country": "BELARUS",
+    "bank": "CJSC VTB BANK (BELARUS)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "445987",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446142",
+    "country": "BELARUS",
+    "bank": "BTA BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446143",
+    "country": "BELARUS",
+    "bank": "BTA BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446390",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446391",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "447514",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447515",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447561",
+    "country": "BELARUS",
+    "bank": "CJSC ZEPTER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448789",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449655",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450040",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450041",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450042",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "452443",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458283",
+    "country": "BELARUS",
+    "bank": "BELSWISS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458285",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458288",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458291",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458563",
+    "country": "BELARUS",
+    "bank": "CJSC ABSOLUTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458779",
+    "country": "BELARUS",
+    "bank": "CJSC JSCB BELROSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458786",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458786",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459056",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459056",
+    "country": "BELARUS",
+    "bank": "OJSC PARITETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "460099",
+    "country": "BELARUS",
+    "bank": "BSB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460101",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460104",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460124",
+    "country": "BELARUS",
+    "bank": "BSB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460257",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "463903",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463908",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463920",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464990",
+    "country": "BELARUS",
+    "bank": "JSC MTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466171",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467940",
+    "country": "BELARUS",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467941",
+    "country": "BELARUS",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "471326",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471346",
+    "country": "BELARUS",
+    "bank": "CJSC VTB BANK (BELARUS)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "471477",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472209",
+    "country": "BELARUS",
+    "bank": "STATUSBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472249",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472848",
+    "country": "BELARUS",
+    "bank": "JSC BELAGROPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472950",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473126",
+    "country": "BELARUS",
+    "bank": "SBER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "475096",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "475787",
+    "country": "BELARUS",
+    "bank": "JSC IDEABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475788",
+    "country": "BELARUS",
+    "bank": "JSC IDEABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475789",
+    "country": "BELARUS",
+    "bank": "JSC IDEABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476396",
+    "country": "BELARUS",
+    "bank": "CJSC ZEPTER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480949",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483451",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484743",
+    "country": "BELARUS",
+    "bank": "CJSC CREDEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484744",
+    "country": "BELARUS",
+    "bank": "CJSC CREDEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484745",
+    "country": "BELARUS",
+    "bank": "CJSC CREDEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "484879",
+    "country": "BELARUS",
+    "bank": "CJSC CREDEXBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484880",
+    "country": "BELARUS",
+    "bank": "CJSC CREDEXBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484881",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484894",
+    "country": "BELARUS",
+    "bank": "JS SAVINGS BANK BELARUSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485017",
+    "country": "BELARUS",
+    "bank": "BELARUSIAN BANK FOR DEVELOPMENT AND RECONSTRUCTION BELINVESTBA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "489062",
+    "country": "BELARUS",
+    "bank": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491698",
+    "country": "BELARUS",
+    "bank": "PRIORBANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499835",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "512558",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "512722",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516052",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518597",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518707",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520195",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520658",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521058",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522208",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525714",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526552",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526770",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527265",
+    "country": "BELARUS",
+    "bank": "OJSC HOME CREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527797",
+    "country": "BELARUS",
+    "bank": "JSC TECHNOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527826",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "527841",
+    "country": "BELARUS",
+    "bank": "SBER BANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM SALARY"
+  },
+  {
+    "bin": "529088",
+    "country": "BELARUS",
+    "bank": "JSC TECHNOBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM SALARY"
+  },
+  {
+    "bin": "529344",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "529922",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530422",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530914",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "532308",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534769",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "535063",
+    "country": "BELARUS",
+    "bank": "SBER BANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "535705",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM SALARY"
+  },
+  {
+    "bin": "536582",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "542275",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "543044",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543553",
+    "country": "BELARUS",
+    "bank": "SBER BANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544307",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "544578",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544598",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544979",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM SALARY"
+  },
+  {
+    "bin": "545621",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "547087",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547091",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547232",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547504",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547691",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547747",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548475",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552979",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553608",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557070",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557075",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557076",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557749",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "557884",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557885",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559268",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM SALARY"
+  },
+  {
+    "bin": "559498",
+    "country": "BELARUS",
+    "bank": "SBER BANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "626241",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK(POS)",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "670523",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670691",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK COMPANY BELAGROPROMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670845",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "671127",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671129",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671131",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671153",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671154",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671163",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671175",
+    "country": "BELARUS",
+    "bank": "JSC TECHNOBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671176",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671177",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671197",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676339",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676341",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676579",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676663",
+    "country": "BELARUS",
+    "bank": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676821",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676997",
+    "country": "BELARUS",
+    "bank": "BELVNESHECONOMBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677723",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "679036",
+    "country": "BELARUS",
+    "bank": "JOINT STOCK SAVINGS BANK BELARUSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "911200",
+    "country": "BELARUS",
+    "bank": "BELARUSBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911211",
+    "country": "BELARUS",
+    "bank": "BELAGROPROMBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911212",
+    "country": "BELARUS",
+    "bank": "ALFA BANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911213",
+    "country": "BELARUS",
+    "bank": "BELGAZPROMBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911233",
+    "country": "BELARUS",
+    "bank": "BELINVESTBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "911235",
+    "country": "BELARUS",
+    "bank": "EVROTORGINVESTBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "911236",
+    "country": "BELARUS",
+    "bank": "STATUSBANK",
+    "network": "BELKART",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911244",
+    "country": "BELARUS",
+    "bank": "NATIONAL BANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "911266",
+    "country": "BELARUS",
+    "bank": "PARITETBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911277",
+    "country": "BELARUS",
+    "bank": "TRUSTBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "911289",
+    "country": "BELARUS",
+    "bank": "PRIORBANK",
+    "network": "BELKART",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

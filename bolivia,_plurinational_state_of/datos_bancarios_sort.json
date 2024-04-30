@@ -1,0 +1,1530 @@
+[
+  {
+    "bin": "250085",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250088",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "404715",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404716",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404718",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404719",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404941",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404942",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404943",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404944",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405637",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405639",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407400",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407400",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407679",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO FASSIL, S.A. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "408318",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409911",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409911",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409912",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409912",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409913",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409913",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409961",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "409961",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411044",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411045",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411046",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412950",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413897",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416446",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419296",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "LINKSER SERVICIOS BANCARIOS AUXILIARES, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419856",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "420584",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421669",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421669",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421828",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421828",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422286",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422286",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423020",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423930",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "423931",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426369",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "426369",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428305",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428341",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430493",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430494",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432412",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO PARA EL FOMENTO A INICIATIVAS ECONOMICAS S.A. (BANCO FIE S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432413",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "LINKSER SERVICIOS BANCARIOS AUXILIARES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432877",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432877",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432939",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434571",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO PARA EL FOMENTO A INICIATIVAS ECONOMICAS S.A. (BANCO FIE S.A.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434786",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434786",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434906",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "437992",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437992",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "439895",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439895",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439931",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "439932",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "441050",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441051",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "442191",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "442191",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO GANADERO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "443080",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "443080",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "444022",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444688",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCOUNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446696",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO FASSIL, S.A. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "446697",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO FASSIL, S.A. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "446698",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO FASSIL, S.A. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446699",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO FASSIL, S.A. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446853",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "449192",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450416",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450973",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452141",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454826",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454826",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454829",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454829",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455782",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "455790",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455791",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455792",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455793",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456014",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456014",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456015",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456015",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456016",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456016",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456801",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457701",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459352",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464638",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465953",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465980",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465981",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465982",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465983",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465984",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465985",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465986",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465987",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "466158",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "LINKSER SERVICIOS BANCARIOS AUXILIARES, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467016",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467016",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467792",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469826",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469827",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469828",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "471294",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "471294",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "474580",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "475785",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477143",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477217",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477217",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477218",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477218",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477219",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477219",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477220",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477220",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "478785",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "478786",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO BISA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479314",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479314",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485024",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO FASSIL, S.A. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489997",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489998",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490774",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490774",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO ECONOMICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492004",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492062",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492063",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492063",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492064",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492147",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOVERNMENT CORPORATE T&E"
+  },
+  {
+    "bin": "492148",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "492149",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "COMMERCIAL AGRICULTURE"
+  },
+  {
+    "bin": "492149",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "COMMERCIAL AGRICULTURE"
+  },
+  {
+    "bin": "492150",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "498565",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499871",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "511117",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511251",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "LINKSER EMPRESA ADMINISTRADORA DE TARJETAS ELECTRONICAS, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512806",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513330",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521067",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521068",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524291",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525655",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526520",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526523",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528533",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529166",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530253",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "530438",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530443",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530573",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530798",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "531573",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531920",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534136",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539393",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540088",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542072",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542457",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542695",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542874",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543645",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545180",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545390",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "LINKSER, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546521",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546817",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547104",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547700",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548628",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "LINKSER, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548981",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548981",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "BANCO NACIONAL DE BOLIVIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550458",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553627",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554966",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555881",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557930",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558900",
+    "country": "BOLIVIA, PLURINATIONAL STATE OF",
+    "bank": "ADMINISTRADORA DE TARJETAS DE CREDITO, (A.T.C.), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "AMERIKA_SAMOA_BANK_-_AMERICAN_SAMOA": [
+            {
+                "Numero BIN/IIN": "412028",
+                "Pais": "AMERICAN SAMOA",
+                "Nombre del emisor / Banco": "AMERIKA SAMOA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "433782",
+                "Pais": "AMERICAN SAMOA",
+                "Nombre del emisor / Banco": "AMERIKA SAMOA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ANZ_BANK_(SAMOA)_LTD._-_AMERICAN_SAMOA": [
+            {
+                "Numero BIN/IIN": "437964",
+                "Pais": "AMERICAN SAMOA",
+                "Nombre del emisor / Banco": "ANZ BANK (SAMOA), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANZPAY_TECHNOLOGY_LTD._-_AMERICAN_SAMOA": [
+            {
+                "Numero BIN/IIN": "555466",
+                "Pais": "AMERICAN SAMOA",
+                "Nombre del emisor / Banco": "BANZPAY TECHNOLOGY, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "559116",
+                "Pais": "AMERICAN SAMOA",
+                "Nombre del emisor / Banco": "BANZPAY TECHNOLOGY, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    }
+]

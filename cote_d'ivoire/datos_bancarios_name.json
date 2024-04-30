@@ -1,0 +1,1158 @@
+[
+    {
+        "AFRILAND_FIRST_BANK_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "513634",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "AFRILAND FIRST BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "551976",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "AFRILAND FIRST BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "559775",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "AFRILAND FIRST BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "AFRILAND_FIRST_BANK_COTE_D'IVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "411985",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "AFRILAND FIRST BANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "ATTIJARIWAFA_BANK_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "536188",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ATTIJARIWAFA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541482",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ATTIJARIWAFA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANQUE_CENTRALE_POPULAIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "528030",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "529236",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "541244",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "548222",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "553739",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557887",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE CENTRALE POPULAIRE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BANQUE_D'ABIDJAN_S.A_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "481677",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE D'ABIDJAN S.A",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481701",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE D'ABIDJAN S.A",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "BANQUE_DE_I'HABITAT_DE_COTE_D'IVOIRE_(BHCI)_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "431695",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE DE I'HABITAT DE COTE D'IVOIRE (BHCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459847",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE DE I'HABITAT DE COTE D'IVOIRE (BHCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BANQUE_INTERNATIONALE_POUR_LE_COMMERCE_ET_L'INDUSTRIE_DE_LA_COTE_D'IVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "414056",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417230",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "429599",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433338",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433339",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "475780",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANQUE_NATIONALE_D'INVESTISSEMENT_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "414456",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437379",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "441339",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459050",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459051",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459052",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459053",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "459054",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE D'INVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANQUE_NATIONALE_DINVESTISSEMENT_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "459055",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DINVESTISSEMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANQUE_POPULAIRE_DE_COTE_D'IVOIRE_(BPCI)_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "452250",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE POPULAIRE DE COTE D'IVOIRE (BPCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479749",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BANQUE POPULAIRE DE COTE D'IVOIRE (BPCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BGFIBANK_COTE_D'IVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "405822",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BGFIBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448706",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BGFIBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448707",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BGFIBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BIAO_BANK_ABIDJAN_COTE_D_IVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "421184",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "BIAO BANK ABIDJAN COTE D IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CSCBANK_L._-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "517578",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "528046",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535920",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            }
+        ]
+    },
+    {
+        "CSCBANK_SAL_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "525732",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "ECI_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "605718",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECI",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ECOBANK_COTE_D'IVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "402664",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "402714",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418778",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "420357",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "420371",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "429796",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "430501",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "441365",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445690",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "446932",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472438",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481208",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "481464",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_COTE_DIVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "404920",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE DIVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "413133",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE DIVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "484674",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK COTE DIVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_NIGERIA_PLC_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "522997",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531736",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "532629",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "558948",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            }
+        ]
+    },
+    {
+        "ECOBANK_LTD._-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "458534",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ECOBANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "GUARANTY_TRUST_BANK_PLC_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "515200",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "GUARANTY TRUST BANK PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "524407",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "GUARANTY TRUST BANK PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531476",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "GUARANTY TRUST BANK PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534664",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "GUARANTY TRUST BANK PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537136",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "GUARANTY TRUST BANK PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "LA_BANQUE_INTERNATIONALE_POUR_LE_COMMERCE_ET_L'INDUSTRIE_DU_SENEGAL_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "539265",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MAESTRO_INTERNATIONAL_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "572389",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "576076",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "MANSA_BANK_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "524673",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MANSA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID GOLD PAYROLL"
+            },
+            {
+                "Numero BIN/IIN": "534134",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MANSA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "555502",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MANSA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "555601",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MANSA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "555826",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MANSA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557569",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "MANSA BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID GOLD PAYROLL"
+            }
+        ]
+    },
+    {
+        "NSIA_BANQUE_CI_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "402163",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "414609",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "441336",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "441337",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "455029",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "470331",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478406",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "NSIA BANQUE CI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            }
+        ]
+    },
+    {
+        "ORABANK_COTE_D'IVOIRE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "420447",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "420448",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "420449",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "420451",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "429354",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431259",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "442151",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ORANGE_BANK_AFRICA_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "416967",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORANGE BANK AFRICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "467020",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "ORANGE BANK AFRICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "SOCIETE_GENERALE_DE_BANQUES_AU_SENEGAL_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "517518",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "517521",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "SOCIETE_GENERALE_DE_BANQUES_EN_COTE_D'IVOIRE_(SGBCI)_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "406734",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "414613",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418890",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "454436",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "476402",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "476413",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            }
+        ]
+    },
+    {
+        "SOCIETE_IVOIRIENNE_DE_BANQUE_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "406601",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE IVOIRIENNE DE BANQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "406602",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE IVOIRIENNE DE BANQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "406603",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE IVOIRIENNE DE BANQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "407124",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE IVOIRIENNE DE BANQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "407305",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE IVOIRIENNE DE BANQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "469633",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "SOCIETE IVOIRIENNE DE BANQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "STANDARD_CHARTERED_BANK_IVORY_COAST_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "431306",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK IVORY COAST",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478087",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK IVORY COAST",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "480870",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK IVORY COAST",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "480953",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK IVORY COAST",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "UNITED_BANK_FOR_AFRICA_(UBA)_PLC_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "401027",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "411098",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428690",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428691",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428692",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428693",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "428694",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "434218",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464162",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "476589",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "492012",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA (UBA) PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "UNITED_BANK_FOR_AFRICA_PLC_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "521605",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "523627",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            },
+            {
+                "Numero BIN/IIN": "536888",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548926",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            },
+            {
+                "Numero BIN/IIN": "557041",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "UNITED BANK FOR AFRICA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            }
+        ]
+    },
+    {
+        "VERSUS_BANK_-_COTE_D'IVOIRE": [
+            {
+                "Numero BIN/IIN": "422643",
+                "Pais": "COTE D'IVOIRE",
+                "Nombre del emisor / Banco": "VERSUS BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    }
+]

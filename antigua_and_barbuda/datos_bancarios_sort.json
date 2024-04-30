@@ -1,0 +1,930 @@
+[
+  {
+    "bin": "223139",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "402354",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "403755",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403755",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406677",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409324",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "419309",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419541",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN UNION BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419543",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN UNION BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419545",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN UNION BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "419548",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN UNION BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "421359",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421397",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421655",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421656",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421694",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422106",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422107",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422177",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "425903",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430319",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430927",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430927",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430950",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430950",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433116",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ANTIGUA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "434603",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "STANFORD INTERNATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434781",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434781",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439275",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439278",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "441726",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441726",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443930",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443930",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443981",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443981",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444492",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL PROCESSING CENTRE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "451881",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451881",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452352",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452352",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458165",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459069",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459349",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459349",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469254",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469254",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469255",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472080",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472081",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472082",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472083",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "473173",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ABI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473282",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476214",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "RBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "479431",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479431",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483014",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484640",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484641",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485713",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489640",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489932",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491064",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491064",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491307",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "EASTERN CARIBBEAN AMALGAMATED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491620",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493180",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ANTIGUA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "496037",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ANTIGUA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496038",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ANTIGUA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499906",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499906",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499975",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "499975",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "499993",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499993",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "511935",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512150",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "513045",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513212",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "515099",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515726",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "515832",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516095",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516216",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517184",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "518284",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522904",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525575",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526537",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "526537",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "529050",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530707",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "531612",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "532132",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "533629",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "536120",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN UNION BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "536620",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN UNION BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538718",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "541423",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "542329",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "542427",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "542604",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "543898",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "545273",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ANTIGUA OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546728",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "546784",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546792",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547090",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ABI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547517",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "550051",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "ANTIGUA BARBUDA INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "551887",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "624355",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "624356",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "GLOBAL BANK OF COMMERCE",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "629227",
+    "country": "ANTIGUA AND BARBUDA",
+    "bank": "NORTH INTERNATIONAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  }
+]

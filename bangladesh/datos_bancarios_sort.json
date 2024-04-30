@@ -1,0 +1,6626 @@
+[
+  {
+    "bin": "101017",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "101017",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "101018",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "101018",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "140000",
+    "country": "BANGLADESH",
+    "bank": "RUPALI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "222704",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "222705",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222706",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "222714",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223518",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223518",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223519",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID SMALL BUSINESS"
+  },
+  {
+    "bin": "223519",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID SMALL BUSINESS"
+  },
+  {
+    "bin": "223587",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "270220",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "270220",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "270516",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "270582",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "271377",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "360900",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360901",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360902",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360903",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "360904",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "360905",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD INR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "360906",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD RMB",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "360907",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360908",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361017",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361119",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "361120",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "400462",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400462",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400465",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "400465",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "400468",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400468",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400469",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400469",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400470",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400470",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400496",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "400499",
+    "country": "BANGLADESH",
+    "bank": "BKASH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "400866",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400926",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "401108",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "401306",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401316",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401917",
+    "country": "BANGLADESH",
+    "bank": "MODHUMOTI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401918",
+    "country": "BANGLADESH",
+    "bank": "MODHUMOTI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401960",
+    "country": "BANGLADESH",
+    "bank": "MODHUMOTI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401961",
+    "country": "BANGLADESH",
+    "bank": "MODHUMOTI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "402004",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402501",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402501",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402509",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402780",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403342",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403715",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403740",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403764",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "403764",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "403993",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403993",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404552",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "405796",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405906",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405906",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406751",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406751",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406752",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406752",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406753",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406753",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406754",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406754",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406761",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406762",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406763",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406764",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406954",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407275",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407923",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "408239",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "408409",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "408860",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "408860",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "408889",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408889",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409056",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409107",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409114",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409116",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409154",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409328",
+    "country": "BANGLADESH",
+    "bank": "CITIZENS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409329",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "409362",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409362",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409363",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409379",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409380",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409380",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409384",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409384",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409390",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409390",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409391",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "409391",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "409400",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "409401",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409416",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409416",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409740",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409765",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "410315",
+    "country": "BANGLADESH",
+    "bank": "AB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410316",
+    "country": "BANGLADESH",
+    "bank": "AB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410516",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410517",
+    "country": "BANGLADESH",
+    "bank": "BENGAL COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "410518",
+    "country": "BANGLADESH",
+    "bank": "BENGAL COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410519",
+    "country": "BANGLADESH",
+    "bank": "BENGAL COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410520",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410541",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410572",
+    "country": "BANGLADESH",
+    "bank": "WOORI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410770",
+    "country": "BANGLADESH",
+    "bank": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410772",
+    "country": "BANGLADESH",
+    "bank": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410787",
+    "country": "BANGLADESH",
+    "bank": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410803",
+    "country": "BANGLADESH",
+    "bank": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411144",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412756",
+    "country": "BANGLADESH",
+    "bank": "PADMA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412788",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "413401",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413402",
+    "country": "BANGLADESH",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413636",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413730",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413730",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413961",
+    "country": "BANGLADESH",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415438",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415771",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "415771",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "416077",
+    "country": "BANGLADESH",
+    "bank": "WOORI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "416247",
+    "country": "BANGLADESH",
+    "bank": "GLOBAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416248",
+    "country": "BANGLADESH",
+    "bank": "GLOBAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416249",
+    "country": "BANGLADESH",
+    "bank": "GLOBAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "416801",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "416986",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "416986",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417022",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417033",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417263",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417274",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417274",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418112",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418112",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418113",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418113",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418114",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418114",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418115",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418115",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418116",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418116",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418117",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418117",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418128",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418128",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418129",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418129",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418153",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418160",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418160",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418650",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418654",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "418679",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "418708",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "419741",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419918",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419929",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419930",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419930",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419932",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419950",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420169",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420968",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420968",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420971",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420971",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421079",
+    "country": "BANGLADESH",
+    "bank": "MIDLAND BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421451",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "421452",
+    "country": "BANGLADESH",
+    "bank": "BENGAL COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421474",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421475",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "421481",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421863",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422088",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422089",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422090",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422091",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422092",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422364",
+    "country": "BANGLADESH",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423363",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "423375",
+    "country": "BANGLADESH",
+    "bank": "UNION BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423717",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423800",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "423858",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424938",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424939",
+    "country": "BANGLADESH",
+    "bank": "CITIZENS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424940",
+    "country": "BANGLADESH",
+    "bank": "CITIZENS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424941",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425254",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "425254",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "426376",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426377",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426378",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428405",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428405",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428407",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428578",
+    "country": "BANGLADESH",
+    "bank": "SHIMANTO BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428580",
+    "country": "BANGLADESH",
+    "bank": "SHIMANTO BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428614",
+    "country": "BANGLADESH",
+    "bank": "SHIMANTO BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428645",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428646",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429867",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429867",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429878",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429878",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430861",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430861",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431222",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431764",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431764",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432145",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432145",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432146",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432146",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432147",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432147",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432148",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432148",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432149",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432149",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432155",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432331",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432331",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432368",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432368",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432373",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432373",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "434180",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434184",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434185",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434186",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434187",
+    "country": "BANGLADESH",
+    "bank": "NRB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434657",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "434923",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434924",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434977",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434977",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434978",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434979",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434979",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434980",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "435010",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "435010",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "436131",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436374",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436449",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "436462",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436473",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436474",
+    "country": "BANGLADESH",
+    "bank": "STANDARD BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436475",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436475",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436482",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436483",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436526",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436597",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436597",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436877",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436878",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "436878",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "437510",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437510",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437594",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "437595",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437595",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437596",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437596",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437597",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437597",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437740",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "437740",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "437848",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "438488",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438488",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438561",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438575",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438594",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438632",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438642",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438656",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "439131",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439132",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439133",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439134",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440819",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440820",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441367",
+    "country": "BANGLADESH",
+    "bank": "UNION BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "442713",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442713",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443549",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "444516",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444518",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447780",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448760",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "448760",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450088",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "450530",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450536",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452017",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452051",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "452059",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "452989",
+    "country": "BANGLADESH",
+    "bank": "MEGHNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453139",
+    "country": "BANGLADESH",
+    "bank": "NRB COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453140",
+    "country": "BANGLADESH",
+    "bank": "NRB COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453141",
+    "country": "BANGLADESH",
+    "bank": "NRB COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453142",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453143",
+    "country": "BANGLADESH",
+    "bank": "NRB COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453507",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455377",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455377",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455378",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "455379",
+    "country": "BANGLADESH",
+    "bank": "STANDARD BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455440",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "455445",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456378",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457204",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457205",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457354",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457354",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457565",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457565",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "458167",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "458169",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458169",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458170",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458598",
+    "country": "BANGLADESH",
+    "bank": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458731",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458735",
+    "country": "BANGLADESH",
+    "bank": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458736",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458736",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458737",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458737",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458763",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458763",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458790",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459846",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459846",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459874",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459891",
+    "country": "BANGLADESH",
+    "bank": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460547",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460547",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460601",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460601",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461048",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461123",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461123",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461641",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461641",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461945",
+    "country": "BANGLADESH",
+    "bank": "STATE BANK OF INDIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461987",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461988",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461989",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462241",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462245",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462245",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462246",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462247",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462870",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462965",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "463209",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463209",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463210",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463210",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463729",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "463731",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463731",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463763",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463763",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463764",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463764",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463765",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463765",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463766",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463766",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463767",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463767",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464564",
+    "country": "BANGLADESH",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464565",
+    "country": "BANGLADESH",
+    "bank": "COMMERCIAL BANK OF CEYLON PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464567",
+    "country": "BANGLADESH",
+    "bank": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LIMTED",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "464573",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464573",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464574",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464575",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464587",
+    "country": "BANGLADESH",
+    "bank": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464588",
+    "country": "BANGLADESH",
+    "bank": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464589",
+    "country": "BANGLADESH",
+    "bank": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464590",
+    "country": "BANGLADESH",
+    "bank": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464741",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466552",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466553",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467720",
+    "country": "BANGLADESH",
+    "bank": "COMMUNITY BANK BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467721",
+    "country": "BANGLADESH",
+    "bank": "COMMUNITY BANK BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467922",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468537",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "468538",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468759",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468963",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468963",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468978",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468979",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468980",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469185",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469343",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469343",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469626",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469627",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469821",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470499",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470661",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470681",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470691",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470692",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470925",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470926",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470927",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470928",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470947",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470966",
+    "country": "BANGLADESH",
+    "bank": "BANK OF SMALL INDUSTRIES AND COMMERCE BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470967",
+    "country": "BANGLADESH",
+    "bank": "BANK OF SMALL INDUSTRIES AND COMMERCE BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470969",
+    "country": "BANGLADESH",
+    "bank": "BANK OF SMALL INDUSTRIES AND COMMERCE BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472147",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472208",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472682",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473193",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "473193",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "473870",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474857",
+    "country": "BANGLADESH",
+    "bank": "NCC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474867",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476610",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476611",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476612",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476613",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476614",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476629",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476629",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476685",
+    "country": "BANGLADESH",
+    "bank": "ONE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477039",
+    "country": "BANGLADESH",
+    "bank": "STANDARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "477792",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477792",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477820",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477820",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477821",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477824",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477827",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477835",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477839",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477845",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477851",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477853",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "477854",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477859",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477859",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477860",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477863",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477870",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477878",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477879",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477881",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477886",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477890",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477898",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "477980",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477980",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478277",
+    "country": "BANGLADESH",
+    "bank": "NRB COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479159",
+    "country": "BANGLADESH",
+    "bank": "MIDLAND BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479160",
+    "country": "BANGLADESH",
+    "bank": "MIDLAND BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479161",
+    "country": "BANGLADESH",
+    "bank": "MIDLAND BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479941",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "480177",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "480372",
+    "country": "BANGLADESH",
+    "bank": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481676",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481679",
+    "country": "BANGLADESH",
+    "bank": "PREMIER BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "483019",
+    "country": "BANGLADESH",
+    "bank": "MERCANTILE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483146",
+    "country": "BANGLADESH",
+    "bank": "STATE BANK OF INDIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483202",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483202",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483758",
+    "country": "BANGLADESH",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484071",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484096",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484096",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484097",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484097",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484522",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484522",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484601",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "484757",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484825",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484825",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484828",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484828",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484840",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "485047",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485094",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485603",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "486143",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486144",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486145",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486146",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486252",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486252",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486253",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486253",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486256",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486256",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486257",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486257",
+    "country": "BANGLADESH",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486294",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "488911",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489032",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "489035",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489035",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489339",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489340",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489702",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489703",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "489704",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489705",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490258",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "490259",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490260",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490262",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490263",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490264",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490939",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490948",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "490948",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "491003",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491017",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491017",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491018",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK PLC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491020",
+    "country": "BANGLADESH",
+    "bank": "IFIC BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493159",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493401",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498770",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498771",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498772",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498773",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498850",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498851",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "498875",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498876",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "502915",
+    "country": "BANGLADESH",
+    "bank": "STANDARD BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "504718",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH COMMERCE BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "511629",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512276",
+    "country": "BANGLADESH",
+    "bank": "AB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512740",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512740",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512760",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512772",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512772",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512778",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "512815",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512929",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "512929",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "513456",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513466",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513546",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513546",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514073",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "515405",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515585",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515585",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515780",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515886",
+    "country": "BANGLADESH",
+    "bank": "SAMPATH BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516054",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517253",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517555",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517787",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518063",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518063",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518121",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519025",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519029",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519155",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519499",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519499",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519507",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "519625",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520206",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520234",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "521351",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521392",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521526",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "521526",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "521623",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521948",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521948",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524360",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524525",
+    "country": "BANGLADESH",
+    "bank": "AB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524526",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525680",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525680",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526238",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526869",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528173",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "528173",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "528631",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528652",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528652",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530003",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530216",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530216",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530218",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530218",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530337",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "530342",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530342",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530505",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "530505",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "530865",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531138",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "531375",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531375",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531482",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532009",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532951",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534214",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534214",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534273",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534273",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534933",
+    "country": "BANGLADESH",
+    "bank": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536022",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536141",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536141",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536310",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536798",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537025",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537025",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537647",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537650",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "537682",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537683",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "538112",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538112",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539280",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539932",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539932",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539949",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539949",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540670",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "540670",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "540715",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "541173",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541487",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541515",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541532",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541776",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "542128",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543464",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BANGLADESH PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543983",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545091",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545538",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545538",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545610",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545610",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545739",
+    "country": "BANGLADESH",
+    "bank": "AB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546008",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546592",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546592",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546859",
+    "country": "BANGLADESH",
+    "bank": "STANDARD CHARTERED BAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548044",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548044",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548195",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548195",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548196",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548196",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548321",
+    "country": "BANGLADESH",
+    "bank": "UNITED COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548867",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548867",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548868",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548868",
+    "country": "BANGLADESH",
+    "bank": "NATIONAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548895",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "548895",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549601",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550586",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550586",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550843",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "552421",
+    "country": "BANGLADESH",
+    "bank": "SOUTHEAST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553611",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "553611",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554028",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554561",
+    "country": "BANGLADESH",
+    "bank": "CITY BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554777",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554777",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554793",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554793",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554867",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554867",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554957",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554957",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555332",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555332",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555333",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555333",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "557077",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557077",
+    "country": "BANGLADESH",
+    "bank": "THE PREMIER BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557660",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557660",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557667",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558200",
+    "country": "BANGLADESH",
+    "bank": "DUTCH BANGLA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559545",
+    "country": "BANGLADESH",
+    "bank": "AB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559573",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559573",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559581",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559773",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "559878",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559887",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK PLC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "603325",
+    "country": "BANGLADESH",
+    "bank": "HSBC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "603588",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BD, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603590",
+    "country": "BANGLADESH",
+    "bank": "DHAKA BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603591",
+    "country": "BANGLADESH",
+    "bank": "SOUTH EAST BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "603788",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "603788",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "606018",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "606018",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "606386",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMIC BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "627278",
+    "country": "BANGLADESH",
+    "bank": "AGRANI BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "629110",
+    "country": "BANGLADESH",
+    "bank": "THE CITY BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629215",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629217",
+    "country": "BANGLADESH",
+    "bank": "MUTUAL TRUST BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "650454",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650455",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650839",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650839",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650840",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650840",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650851",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650851",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650986",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "654105",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "658002",
+    "country": "BANGLADESH",
+    "bank": "EASTERN BANK LTD BANGLADESH",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658012",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658012",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658013",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658013",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658014",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658014",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "700701",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700701",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700781",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700781",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700791",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700791",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700901",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH POST",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "CASH"
+  },
+  {
+    "bin": "700902",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH POST OFFICE",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "700903",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH POST OFFICE",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "701220",
+    "country": "BANGLADESH",
+    "bank": "JANATA BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701292",
+    "country": "BANGLADESH",
+    "bank": "JANATA BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701500",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701501",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701502",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701503",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701570",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "701590",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "703500",
+    "country": "BANGLADESH",
+    "bank": "BASIC BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "704700",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "704700",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "704810",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "704811",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "704904",
+    "country": "BANGLADESH",
+    "bank": "ICB ISLAMIC BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "705310",
+    "country": "BANGLADESH",
+    "bank": "NCC BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "705803",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "705803",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "706710",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMIC BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "706890",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "706890",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "706937",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "706937",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "900901",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH POST OFFICE",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "900902",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH POST OFFICE",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "901001",
+    "country": "BANGLADESH",
+    "bank": "AGRANI BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "903001",
+    "country": "BANGLADESH",
+    "bank": "BANGLADESH COMMERCE BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "905501",
+    "country": "BANGLADESH",
+    "bank": "BASIC BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "906001",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "906001",
+    "country": "BANGLADESH",
+    "bank": "BRAC BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "907001",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "907001",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "907002",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "907002",
+    "country": "BANGLADESH",
+    "bank": "BANK ASIA, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "910501",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMIC BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "910502",
+    "country": "BANGLADESH",
+    "bank": "FIRST SECURITY ISLAMIC BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "911501",
+    "country": "BANGLADESH",
+    "bank": "HSBC",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "912501",
+    "country": "BANGLADESH",
+    "bank": "ISLAMI BANK BD LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "913001",
+    "country": "BANGLADESH",
+    "bank": "JAMUNA BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "913501",
+    "country": "BANGLADESH",
+    "bank": "JANATA BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "913502",
+    "country": "BANGLADESH",
+    "bank": "JANATA BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "916001",
+    "country": "BANGLADESH",
+    "bank": "NCC BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "916002",
+    "country": "BANGLADESH",
+    "bank": "NCC BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "917001",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "917001",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "917002",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "917002",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "917003",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "917003",
+    "country": "BANGLADESH",
+    "bank": "PRIME BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "917501",
+    "country": "BANGLADESH",
+    "bank": "PUBALI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH GENERAL"
+  },
+  {
+    "bin": "918501",
+    "country": "BANGLADESH",
+    "bank": "RUPALI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "919001",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "919002",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "919003",
+    "country": "BANGLADESH",
+    "bank": "SHAHJALAL ISLAMI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "919501",
+    "country": "BANGLADESH",
+    "bank": "SOCIAL ISLAMI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "920001",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "920004",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "920005",
+    "country": "BANGLADESH",
+    "bank": "SONALI BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "QC STAFF"
+  },
+  {
+    "bin": "920501",
+    "country": "BANGLADESH",
+    "bank": "SOUTH EAST BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "923001",
+    "country": "BANGLADESH",
+    "bank": "ICB ISLAMIC BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "924001",
+    "country": "BANGLADESH",
+    "bank": "TRUST BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "925001",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "925002",
+    "country": "BANGLADESH",
+    "bank": "UTTARA BANK LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "Q-CASH"
+  },
+  {
+    "bin": "995300",
+    "country": "BANGLADESH",
+    "bank": "NCC BANK, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  }
+]

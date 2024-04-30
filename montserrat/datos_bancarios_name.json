@@ -1,0 +1,38 @@
+[
+    {
+        "BARCLAYS_BANK_PLC_-_MONTSERRAT": [
+            {
+                "Numero BIN/IIN": "448714",
+                "Pais": "MONTSERRAT",
+                "Nombre del emisor / Banco": "BARCLAYS BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ROYAL_BANK_OF_CANADA_-_MONTSERRAT": [
+            {
+                "Numero BIN/IIN": "521520",
+                "Pais": "MONTSERRAT",
+                "Nombre del emisor / Banco": "ROYAL BANK OF CANADA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "SGB_TRUST_INC._-_MONTSERRAT": [
+            {
+                "Numero BIN/IIN": "557617",
+                "Pais": "MONTSERRAT",
+                "Nombre del emisor / Banco": "SGB TRUST INC.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5450 @@
+[
+  {
+    "bin": "100264",
+    "country": "INDONESIA",
+    "bank": "BCA BANK",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "101104",
+    "country": "INDONESIA",
+    "bank": "BNI BANK",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "188860",
+    "country": "INDONESIA",
+    "bank": "PT BANK CENTRAL ASIA TBK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "188880",
+    "country": "INDONESIA",
+    "bank": "BCA BANK",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "194634",
+    "country": "INDONESIA",
+    "bank": "BANK BNI",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "194684",
+    "country": "INDONESIA",
+    "bank": "BANK BNI",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "222938",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "222945",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "223472",
+    "country": "INDONESIA",
+    "bank": "AYO TECHNOLOGY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "223562",
+    "country": "INDONESIA",
+    "bank": "AYO TECHNOLOGY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "356280",
+    "country": "INDONESIA",
+    "bank": "PT BANK CENTRAL ASIA TBK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356510",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "360104",
+    "country": "INDONESIA",
+    "bank": "MUFG BANK JAKARTA BRANCH",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361262",
+    "country": "INDONESIA",
+    "bank": "DINERS CLUB INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361263",
+    "country": "INDONESIA",
+    "bank": "DINERS CLUB INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364141",
+    "country": "INDONESIA",
+    "bank": "DINERS CLUB INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364573",
+    "country": "INDONESIA",
+    "bank": "DC INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364574",
+    "country": "INDONESIA",
+    "bank": "DC INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364575",
+    "country": "INDONESIA",
+    "bank": "DC INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365191",
+    "country": "INDONESIA",
+    "bank": "DINERS CLUB INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365218",
+    "country": "INDONESIA",
+    "bank": "DC INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365219",
+    "country": "INDONESIA",
+    "bank": "DC INDONESIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "400219",
+    "country": "INDONESIA",
+    "bank": "PT BANK KEB HANA INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "400376",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400376",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400378",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400378",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400385",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400385",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400479",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400479",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400481",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400481",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400934",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "401353",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "402335",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402695",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402736",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403409",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403547",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403547",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404305",
+    "country": "INDONESIA",
+    "bank": "PT BANK SYARIAH INDONESIA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "404436",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ICBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404776",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "405331",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "405542",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405651",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405651",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "407662",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407662",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408862",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "408978",
+    "country": "INDONESIA",
+    "bank": "PT. BANK QNB INDONESIA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408980",
+    "country": "INDONESIA",
+    "bank": "PT. BANK QNB INDONESIA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "409675",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409736",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "409766",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409766",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409873",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409873",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410437",
+    "country": "INDONESIA",
+    "bank": "PT HOME CREDIT INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410504",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410504",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410505",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410505",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410506",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410506",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413510",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413511",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413718",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413718",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413719",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413719",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414009",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414931",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414931",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415016",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415016",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415017",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415017",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415018",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415018",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415030",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415030",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415031",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415031",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415032",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415032",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415564",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415735",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415736",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415845",
+    "country": "INDONESIA",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416230",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416230",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416231",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416231",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416232",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416232",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416335",
+    "country": "INDONESIA",
+    "bank": "PT BANK ANZ INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418154",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "420183",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "420183",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "420191",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420192",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420194",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420653",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYAPADA INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420657",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYAPADA INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420663",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYAPADA INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "420850",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYAPADA INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "421057",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421167",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421168",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421195",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421195",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421197",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421197",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421313",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421313",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421405",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421407",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421408",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421440",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421440",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421445",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421456",
+    "country": "INDONESIA",
+    "bank": "PT BANK SINARMAS TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421469",
+    "country": "INDONESIA",
+    "bank": "PT BANK SINARMAS TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421561",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421920",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422143",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424103",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ARTHA GRAHA INTERNASIONAL, TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424611",
+    "country": "INDONESIA",
+    "bank": "BANK DANAMON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424973",
+    "country": "INDONESIA",
+    "bank": "BANK PERMATA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425857",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425864",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425945",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "425945",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426013",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426097",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426097",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426098",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426098",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426211",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426254",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426535",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426750",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428350",
+    "country": "INDONESIA",
+    "bank": "BANK CIMB NIAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428416",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429750",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430978",
+    "country": "INDONESIA",
+    "bank": "PT BANK ANZ INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430979",
+    "country": "INDONESIA",
+    "bank": "PT BANK ANZ INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430980",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430981",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431174",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYAPADA INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431226",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "431657",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "432442",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432443",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432449",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433612",
+    "country": "INDONESIA",
+    "bank": "BANK PERMATA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434075",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "434075",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "434098",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434099",
+    "country": "INDONESIA",
+    "bank": "BANK DANAMON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436304",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MEGA SYARIAH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436306",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MEGA SYARIAH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436307",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436317",
+    "country": "INDONESIA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436318",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEO COMMERCE TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436406",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ICBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "436407",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ICBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436432",
+    "country": "INDONESIA",
+    "bank": "PT BANK PANIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "436517",
+    "country": "INDONESIA",
+    "bank": "BANK DANAMON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436580",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ICBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436583",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "436583",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "436799",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "437450",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437451",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "437456",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "437529",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437529",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437700",
+    "country": "INDONESIA",
+    "bank": "PT BANK PANIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437701",
+    "country": "INDONESIA",
+    "bank": "PT BANK PANIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437707",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437716",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437718",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437735",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437739",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437745",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437755",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437756",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437767",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437768",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437770",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437771",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437785",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437786",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437797",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437896",
+    "country": "INDONESIA",
+    "bank": "PT BANK BTPN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439059",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439059",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439062",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439062",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439136",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441659",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442373",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442374",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443172",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443694",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "445076",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445076",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445083",
+    "country": "INDONESIA",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445377",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445855",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "445855",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "447211",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447242",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "448731",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448731",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448761",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450183",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450183",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450184",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450184",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450185",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450185",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450246",
+    "country": "INDONESIA",
+    "bank": "PT BANK PANIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450565",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450679",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450679",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450702",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450702",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450720",
+    "country": "INDONESIA",
+    "bank": "BANK OF AMERICA N.T. &, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451152",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451197",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451249",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451249",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451254",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451285",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451286",
+    "country": "INDONESIA",
+    "bank": "BANK DANAMON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451348",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "451497",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451702",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452056",
+    "country": "INDONESIA",
+    "bank": "PT. AEON CREDIT SERVICE INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452410",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "452483",
+    "country": "INDONESIA",
+    "bank": "PT BANK PANIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "452485",
+    "country": "INDONESIA",
+    "bank": "BANK DANAMON",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452486",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453574",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454085",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454178",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454179",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454493",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454633",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454708",
+    "country": "INDONESIA",
+    "bank": "PT BANK MUAMALAT INDONESIA,TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455632",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455633",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456781",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "456798",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456799",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456878",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456879",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457263",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ICBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457508",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457512",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457512",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457941",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457942",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458769",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458785",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459870",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459871",
+    "country": "INDONESIA",
+    "bank": "PT. BANK EKONOMI RAHARJA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459872",
+    "country": "INDONESIA",
+    "bank": "PT. BANK EKONOMI RAHARJA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459873",
+    "country": "INDONESIA",
+    "bank": "PT. BANK EKONOMI RAHARJA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459920",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459921",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460221",
+    "country": "INDONESIA",
+    "bank": "PT BANK KEB HANA INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460238",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461662",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEO COMMERCE TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461663",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461699",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461699",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461700",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461700",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461750",
+    "country": "INDONESIA",
+    "bank": "PT. BANK BUKOPIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "461751",
+    "country": "INDONESIA",
+    "bank": "PT. BANK BUKOPIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "461752",
+    "country": "INDONESIA",
+    "bank": "PT. BANK BUKOPIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "461770",
+    "country": "INDONESIA",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "461778",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "461785",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461938",
+    "country": "INDONESIA",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461981",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "462040",
+    "country": "INDONESIA",
+    "bank": "PT BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "463199",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "463199",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "463722",
+    "country": "INDONESIA",
+    "bank": "PT BANK ANZ INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464005",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464582",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464583",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464584",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464585",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464790",
+    "country": "INDONESIA",
+    "bank": "PT. BANK BUKOPIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464933",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "464934",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464987",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA, TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "464993",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466160",
+    "country": "INDONESIA",
+    "bank": "PT BANK BTPN TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466573",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "466573",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "466574",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466574",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467908",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "468748",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "468748",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "468749",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "468749",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "469148",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469151",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "470544",
+    "country": "INDONESIA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470585",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470596",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470663",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470670",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN BANGKA BELITUNG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471293",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471293",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471295",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471439",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472066",
+    "country": "INDONESIA",
+    "bank": "PT BANK MUAMALAT INDONESIATBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472629",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "472646",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472647",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "472670",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472802",
+    "country": "INDONESIA",
+    "bank": "BANK CIMB NIAGA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "473189",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "473950",
+    "country": "INDONESIA",
+    "bank": "PT. BANK QNB INDONESIA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476000",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK NIAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476004",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK NIAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476044",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK NIAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476052",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK NIAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476061",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK NIAGA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476085",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476129",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476334",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476827",
+    "country": "INDONESIA",
+    "bank": "PT. BANK QNB INDONESIA TBK.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477377",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "478487",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479929",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479929",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479930",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479930",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479931",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479931",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "480865",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "483537",
+    "country": "INDONESIA",
+    "bank": "PT BANK COMMONWEALTH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "483545",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483574",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483575",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483577",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483795",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483795",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483796",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "483796",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "485764",
+    "country": "INDONESIA",
+    "bank": "BANK CIMB NIAGA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486399",
+    "country": "INDONESIA",
+    "bank": "PT BANK OCBC NISP TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486463",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486607",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486637",
+    "country": "INDONESIA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486682",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486682",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "488950",
+    "country": "INDONESIA",
+    "bank": "PT BANK JAGO TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489025",
+    "country": "INDONESIA",
+    "bank": "PT BANK MUAMALAT INDONESIA,TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489087",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489371",
+    "country": "INDONESIA",
+    "bank": "PT. AEON CREDIT SERVICE INDONESIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489385",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "489503",
+    "country": "INDONESIA",
+    "bank": "P.T. BANK CIMB NIAGA TBK.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "489513",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "489594",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489594",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489764",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489764",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489781",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490283",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490283",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490284",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490284",
+    "country": "INDONESIA",
+    "bank": "PT BANK MANDIRI (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490294",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490295",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490296",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490821",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "490821",
+    "country": "INDONESIA",
+    "bank": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "493497",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493498",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493499",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "498853",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA TBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498864",
+    "country": "INDONESIA",
+    "bank": "PT BANK MUAMALAT INDONESIA,TBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "508246",
+    "country": "INDONESIA",
+    "bank": "CITIBANK N.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510055",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510142",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510217",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "510249",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510481",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510505",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "510663",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "511875",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL, TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512003",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512021",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "512422",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512430",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL, TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512620",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512630",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL, TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "512676",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512724",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512765",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "512941",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513458",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513718",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513831",
+    "country": "INDONESIA",
+    "bank": "PT. BANK COMMONWEALTH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "514111",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "514934",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515291",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515322",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515595",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515863",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515874",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516055",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516494",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516634",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516919",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517415",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517417",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517523",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517643",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517678",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517689",
+    "country": "INDONESIA",
+    "bank": "PT. ANZ PANIN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "517863",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517885",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517892",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518316",
+    "country": "INDONESIA",
+    "bank": "PT. BANK OCBC NISP TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518323",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518446",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518494",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518535",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518646",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518679",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "518828",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518856",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518943",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "519299",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519311",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519629",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519730",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519893",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520037",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520111",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520153",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520173",
+    "country": "INDONESIA",
+    "bank": "PT SOLUSI PASTI INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "520191",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520358",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520371",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520383",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "521083",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521102",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521343",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521551",
+    "country": "INDONESIA",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "521558",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "521983",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522028",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522103",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522184",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522505",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522615",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522787",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522846",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522866",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522990",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523026",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523239",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523456",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523940",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523983",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523987",
+    "country": "INDONESIA",
+    "bank": "PT. BANK COMMONWEALTH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524064",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524069",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524125",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524169",
+    "country": "INDONESIA",
+    "bank": "PT. BANK OCBC NISP TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524261",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524319",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524320",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MNC INTERNASIONAL, TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524325",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524327",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "524390",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524495",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524511",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524559",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524609",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524638",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524654",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524671",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524818",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525644",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525744",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525748",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525799",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525916",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525992",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526051",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526415",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526422",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526423",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526426",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526853",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526921",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527146",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528674",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528721",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "528872",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "528912",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528919",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529343",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "529442",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529609",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "529620",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "529721",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529734",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529737",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529756",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529758",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529806",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "530456",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530487",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530795",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531496",
+    "country": "INDONESIA",
+    "bank": "PT BANK J TRUST INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531571",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531810",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "531857",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531928",
+    "country": "INDONESIA",
+    "bank": "PT. BANK OCBC NISP TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532410",
+    "country": "INDONESIA",
+    "bank": "PT BANK INDEX SELINDO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532525",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532595",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532659",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "532668",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532713",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532727",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533619",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "533659",
+    "country": "INDONESIA",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533672",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "534388",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ARTHA GRAHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536021",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536184",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536279",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536308",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ARTHA GRAHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536612",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536710",
+    "country": "INDONESIA",
+    "bank": "PT BANK SEABANK INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536756",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536758",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ARTHA GRAHA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536788",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536803",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ARTHA GRAHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536896",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536897",
+    "country": "INDONESIA",
+    "bank": "PT BANK NATIONALNOBU TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537176",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537656",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537689",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537793",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537847",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "537940",
+    "country": "INDONESIA",
+    "bank": "PT. BANK OCBC NISP TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537941",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537970",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538116",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538833",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539199",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539275",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539371",
+    "country": "INDONESIA",
+    "bank": "PT BANK DIGITAL BCA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539781",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DANAMON INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540174",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540184",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540235",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ANZ INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540378",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "540462",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540468",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540559",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540579",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540731",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540889",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "540912",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541034",
+    "country": "INDONESIA",
+    "bank": "PT. ARTAJASA PEMBAYARAN ELEKTRONIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541067",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541069",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "541070",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "541143",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541322",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541616",
+    "country": "INDONESIA",
+    "bank": "PT. BANK DBS INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542167",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "542177",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542260",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542441",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542449",
+    "country": "INDONESIA",
+    "bank": "MAYBANK INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542466",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542640",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542643",
+    "country": "INDONESIA",
+    "bank": "PT BANK CENTRAL ASIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543248",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "543719",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543764",
+    "country": "INDONESIA",
+    "bank": "PT. ARTAJASA PEMBAYARAN ELEKTRONIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543897",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543972",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "544304",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544741",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "545007",
+    "country": "INDONESIA",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545280",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545298",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545299",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545528",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546318",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546814",
+    "country": "INDONESIA",
+    "bank": "BANK DANAMON",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "547143",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547292",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547332",
+    "country": "INDONESIA",
+    "bank": "MAYBANK INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "547582",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548116",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548117",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548336",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548415",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548495",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548988",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549846",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "551543",
+    "country": "INDONESIA",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552002",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552008",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552042",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552239",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552338",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552378",
+    "country": "INDONESIA",
+    "bank": "PT BANK MEGA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552695",
+    "country": "INDONESIA",
+    "bank": "PT BANK KB BUKOPIN TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552810",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553074",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "553388",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553479",
+    "country": "INDONESIA",
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554302",
+    "country": "INDONESIA",
+    "bank": "PT. BANK PERMATA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554478",
+    "country": "INDONESIA",
+    "bank": "PT. BANK ARTHA GRAHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555018",
+    "country": "INDONESIA",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555032",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555063",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555074",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "555163",
+    "country": "INDONESIA",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555596",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CENTRAL ASIA, TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555602",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555730",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555859",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557338",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557577",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557692",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557791",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557799",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "558323",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558622",
+    "country": "INDONESIA",
+    "bank": "PT. BANK CIMB NIAGA TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558720",
+    "country": "INDONESIA",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559228",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON LNDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559730",
+    "country": "INDONESIA",
+    "bank": "PT. BANK NEGARA INDONESIA (PERSERO) TBK.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559742",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559751",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MAYBANK INDONESIA TBK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559909",
+    "country": "INDONESIA",
+    "bank": "PT BANK UOB INDONESIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "573000",
+    "country": "INDONESIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "573500",
+    "country": "INDONESIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "577021",
+    "country": "INDONESIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "578496",
+    "country": "INDONESIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "582548",
+    "country": "INDONESIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "589459",
+    "country": "INDONESIA",
+    "bank": "PT BANK HSBC INDONESIA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589587",
+    "country": "INDONESIA",
+    "bank": "PT BANK DANAMON INDONESIA TBK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589875",
+    "country": "INDONESIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603298",
+    "country": "INDONESIA",
+    "bank": "MANDIRI BANK GAZCARD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "603439",
+    "country": "INDONESIA",
+    "bank": "OCBC NISP BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603494",
+    "country": "INDONESIA",
+    "bank": "PT. BANK MANDIRI (PERSERO) TBK.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "SILVER"
+  },
+  {
+    "bin": "603605",
+    "country": "INDONESIA",
+    "bank": "BANK JATIM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "621240",
+    "country": "INDONESIA",
+    "bank": "PT. BANK INDUSTRIAL AND COMMERCIAL BANK OF CHINA INDONESIA",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621248",
+    "country": "INDONESIA",
+    "bank": "BANK OF CHINA LIMITED JAKARTA BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621445",
+    "country": "INDONESIA",
+    "bank": "PT BANK SINARMAS TBK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "621724",
+    "country": "INDONESIA",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA INDONESIA BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "621762",
+    "country": "INDONESIA",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA INDONESIA",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "622171",
+    "country": "INDONESIA",
+    "bank": "ICBC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625918",
+    "country": "INDONESIA",
+    "bank": "ICBC INDONESIA BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "625931",
+    "country": "INDONESIA",
+    "bank": "ICBC INDONESIA",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "936088",
+    "country": "INDONESIA",
+    "bank": "BANK DKI",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "955152",
+    "country": "INDONESIA",
+    "bank": "BCA FINANCE",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "bin": "377846",
+    "country": "ICELAND",
+    "bank": "KREDITKORT",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN CHARGE"
+  },
+  {
+    "bin": "379896",
+    "country": "ICELAND",
+    "bank": "KREDITKORT",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "403022",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "403219",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403220",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403222",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "415552",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416293",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416294",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423474",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "423475",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423891",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426562",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426563",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432609",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "444442",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "448422",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "450728",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450732",
+    "country": "ICELAND",
+    "bank": "SPARISJODUR AUSTURLANDS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450740",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450742",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450743",
+    "country": "ICELAND",
+    "bank": "RAPYD EUROPE HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450744",
+    "country": "ICELAND",
+    "bank": "LANDSBANKI ISLANDS (NATIONAL BANK OF ICELAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450745",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453981",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453982",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453983",
+    "country": "ICELAND",
+    "bank": "RAPYD EUROPE HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453984",
+    "country": "ICELAND",
+    "bank": "RAPYD EUROPE HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "453985",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453986",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453987",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454337",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454890",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456715",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456716",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456837",
+    "country": "ICELAND",
+    "bank": "LANDSBANKINN HF",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "459472",
+    "country": "ICELAND",
+    "bank": "VISA ICELAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "463372",
+    "country": "ICELAND",
+    "bank": "INDO SPARISJODUR HF",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469825",
+    "country": "ICELAND",
+    "bank": "VISA ICELAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "474152",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480428",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "483004",
+    "country": "ICELAND",
+    "bank": "BORGUN HF",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "492088",
+    "country": "ICELAND",
+    "bank": "KVIKA BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498776",
+    "country": "ICELAND",
+    "bank": "ARION BANKI HF.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "512954",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520617",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520618",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520619",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523272",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529045",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530425",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532868",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "533000",
+    "country": "ICELAND",
+    "bank": "VALITOR HF.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535144",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535777",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540171",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541139",
+    "country": "ICELAND",
+    "bank": "BORGUN H.F.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541141",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541483",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542636",
+    "country": "ICELAND",
+    "bank": "EUROPAY ICELAND KREDITKORT HF",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542953",
+    "country": "ICELAND",
+    "bank": "EUROPAY ICELAND KREDITKORT HF",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543102",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543789",
+    "country": "ICELAND",
+    "bank": "EUROPAY ICELAND KREDITKORT HF",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548953",
+    "country": "ICELAND",
+    "bank": "BORGUN H.F.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555016",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "558440",
+    "country": "ICELAND",
+    "bank": "BORGUN H.F.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558515",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558740",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559445",
+    "country": "ICELAND",
+    "bank": "TRANSACT PAYMENTS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559543",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559844",
+    "country": "ICELAND",
+    "bank": "TEYA ICELAND HF.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "589321",
+    "country": "ICELAND",
+    "bank": "BORGUN H.F.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677627",
+    "country": "ICELAND",
+    "bank": "BORGUN H.F.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

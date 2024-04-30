@@ -1,0 +1,1514 @@
+[
+  {
+    "bin": "230316",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "231016",
+    "country": "BAHAMAS",
+    "bank": "ISLANDPAY GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "234012",
+    "country": "BAHAMAS",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250011",
+    "country": "BAHAMAS",
+    "bank": "ISLANDPAY GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "405597",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405597",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405697",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405697",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405790",
+    "country": "BAHAMAS",
+    "bank": "CARIBPAY (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405982",
+    "country": "BAHAMAS",
+    "bank": "BANCO DE BOGOTA (NASSAU), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405984",
+    "country": "BAHAMAS",
+    "bank": "BANCO DE BOGOTA (NASSAU), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410019",
+    "country": "BAHAMAS",
+    "bank": "INTELIGO BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "411840",
+    "country": "BAHAMAS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414759",
+    "country": "BAHAMAS",
+    "bank": "BAC BAHAMAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "419725",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419726",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419727",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419728",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423185",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423185",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423186",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423186",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423187",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423187",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423188",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423188",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423477",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423477",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "426010",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426010",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426215",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426215",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426216",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426216",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430327",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430327",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430381",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430381",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430993",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430993",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431300",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431300",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431390",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431390",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431399",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431399",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432355",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432355",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433248",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433249",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433250",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433986",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "433986",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "434770",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434770",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434887",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439265",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "439265",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "443942",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443942",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443943",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443943",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443947",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443947",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444930",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444930",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446444",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446445",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446446",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "446447",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "450563",
+    "country": "BAHAMAS",
+    "bank": "BAC BAHAMAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450951",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450951",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450969",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450969",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451305",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451305",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "452428",
+    "country": "BAHAMAS",
+    "bank": "TRANSAMERICA BANK AND TRUST CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452429",
+    "country": "BAHAMAS",
+    "bank": "TRANSAMERICA BANK AND TRUST CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "453699",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453699",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453938",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453938",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453939",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453939",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454044",
+    "country": "BAHAMAS",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454702",
+    "country": "BAHAMAS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454704",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454705",
+    "country": "BAHAMAS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454734",
+    "country": "BAHAMAS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455154",
+    "country": "BAHAMAS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455155",
+    "country": "BAHAMAS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455156",
+    "country": "BAHAMAS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456002",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456002",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466095",
+    "country": "BAHAMAS",
+    "bank": "BANCO INDUSTRIAL DO BRASIL, S.A. (BAHAMAS)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467532",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "467532",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468125",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468126",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469268",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469268",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469269",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469269",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472206",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472206",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472207",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472207",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474645",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474645",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476844",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476844",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479432",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479432",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479433",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479433",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480464",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "480464",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "481518",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481518",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481519",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481519",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486386",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486386",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486694",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "486694",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "490694",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490694",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491301",
+    "country": "BAHAMAS",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491940",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491940",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "499841",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499841",
+    "country": "BAHAMAS",
+    "bank": "BANK OF THE BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499905",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499905",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499972",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499972",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "511678",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511679",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "513066",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "513066",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "514001",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "514516",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515694",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "515694",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "516117",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "516117",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "516177",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "516177",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517606",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522074",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522074",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523609",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523609",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525410",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525410",
+    "country": "BAHAMAS",
+    "bank": "FIDELITY BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526832",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "529896",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531187",
+    "country": "BAHAMAS",
+    "bank": "DELTEC BANK AND TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "532071",
+    "country": "BAHAMAS",
+    "bank": "DELTEC BANK AND TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532248",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532856",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534123",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534123",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541027",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "541123",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541123",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541833",
+    "country": "BAHAMAS",
+    "bank": "COMMONWEALTH BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544335",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544335",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544968",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544968",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546726",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548355",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548356",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548357",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548593",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548593",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550270",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "552456",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552456",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552460",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552460",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553038",
+    "country": "BAHAMAS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "553588",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553588",
+    "country": "BAHAMAS",
+    "bank": "SCOTIABANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554441",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554442",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554443",
+    "country": "BAHAMAS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  }
+]

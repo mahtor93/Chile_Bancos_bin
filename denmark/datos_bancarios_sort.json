@@ -1,0 +1,4050 @@
+[
+  {
+    "bin": "222894",
+    "country": "DENMARK",
+    "bank": "EML PAYMENTS EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "320302",
+    "country": "DENMARK",
+    "bank": "DEN DANSKE BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "361480",
+    "country": "DENMARK",
+    "bank": "DC DENMARK",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361484",
+    "country": "DENMARK",
+    "bank": "DC DENMARK",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361485",
+    "country": "DENMARK",
+    "bank": "DC DENMARK",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "364765",
+    "country": "DENMARK",
+    "bank": "DC DENMARK",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "374700",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374701",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374702",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374703",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374704",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374705",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374706",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374707",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374708",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374709",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374710",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374711",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374730",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374733",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374734",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374735",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374737",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374745",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374746",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374749",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374756",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374780",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374784",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "374789",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376558",
+    "country": "DENMARK",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376658",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401009",
+    "country": "DENMARK",
+    "bank": "EKSPRES BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402620",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405245",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405270",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405271",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405273",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405274",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405277",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405832",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405833",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405864",
+    "country": "DENMARK",
+    "bank": "ALM. BRAND BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405934",
+    "country": "DENMARK",
+    "bank": "NORDJYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "406432",
+    "country": "DENMARK",
+    "bank": "NYKREDIT BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "406433",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406437",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "406438",
+    "country": "DENMARK",
+    "bank": "NYKREDIT BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413222",
+    "country": "DENMARK",
+    "bank": "IKANO BANK AB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415421",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417501",
+    "country": "DENMARK",
+    "bank": "BASISBANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417505",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417506",
+    "country": "DENMARK",
+    "bank": "ALM. BRAND BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417507",
+    "country": "DENMARK",
+    "bank": "DEN JYSKE SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417508",
+    "country": "DENMARK",
+    "bank": "DRAGSHOLM SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417509",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417510",
+    "country": "DENMARK",
+    "bank": "FJORDBANK MORS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417511",
+    "country": "DENMARK",
+    "bank": "EBH BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417512",
+    "country": "DENMARK",
+    "bank": "FANOE SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417513",
+    "country": "DENMARK",
+    "bank": "FLEMLOESE SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417514",
+    "country": "DENMARK",
+    "bank": "FOLKESPAREKASSEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417515",
+    "country": "DENMARK",
+    "bank": "MORSO SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417516",
+    "country": "DENMARK",
+    "bank": "GALTEN SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417518",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417519",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417521",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417522",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417523",
+    "country": "DENMARK",
+    "bank": "JELLING SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417524",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417525",
+    "country": "DENMARK",
+    "bank": "EIK BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417526",
+    "country": "DENMARK",
+    "bank": "KLIM SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417527",
+    "country": "DENMARK",
+    "bank": "LANGAA SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417529",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN FOR NR. NEBEL OG OMEGN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417532",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN MIDTDJURS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417533",
+    "country": "DENMARK",
+    "bank": "ROENDE OG OMEGNS SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417534",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417535",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN BALLING",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417536",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN BREDEBRO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417538",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN DEN LILLE BIKUBE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417539",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417540",
+    "country": "DENMARK",
+    "bank": "LOEKKEN SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417543",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417544",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN LOEGUMKLOSTER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417545",
+    "country": "DENMARK",
+    "bank": "ANDELSKASSEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417546",
+    "country": "DENMARK",
+    "bank": "JUTLANDER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417547",
+    "country": "DENMARK",
+    "bank": "SPAREBANK 1 NORDVEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417548",
+    "country": "DENMARK",
+    "bank": "DEN JYSKE SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417550",
+    "country": "DENMARK",
+    "bank": "DEN JYSKE SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417551",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417552",
+    "country": "DENMARK",
+    "bank": "SYDBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417553",
+    "country": "DENMARK",
+    "bank": "JUTLANDER BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417554",
+    "country": "DENMARK",
+    "bank": "SVENDBORG SPAREKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417556",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417559",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417560",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN DJURSLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417561",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN DJURSLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417562",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417563",
+    "country": "DENMARK",
+    "bank": "NORDJYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417564",
+    "country": "DENMARK",
+    "bank": "GROENLANDSBANKEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417565",
+    "country": "DENMARK",
+    "bank": "RINGKJOEBING BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417566",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417567",
+    "country": "DENMARK",
+    "bank": "A/S ARBEJDERNES LANDSBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417568",
+    "country": "DENMARK",
+    "bank": "HVIDBJERG BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417569",
+    "country": "DENMARK",
+    "bank": "SALLING BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417570",
+    "country": "DENMARK",
+    "bank": "SALLING BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417572",
+    "country": "DENMARK",
+    "bank": "LAEGERNES BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417573",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417574",
+    "country": "DENMARK",
+    "bank": "HANDELSBANKEN MIDTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417575",
+    "country": "DENMARK",
+    "bank": "ANDELSKASSEN FAELLESKASSEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417576",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417577",
+    "country": "DENMARK",
+    "bank": "DANSKE ANDELSKASSERS BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417578",
+    "country": "DENMARK",
+    "bank": "MOENS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417581",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN SJAELLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417582",
+    "country": "DENMARK",
+    "bank": "FROERUP ANDELSKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417583",
+    "country": "DENMARK",
+    "bank": "AKTIESELSKABET LOLLANDS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417584",
+    "country": "DENMARK",
+    "bank": "SDR. LEM ANDELSKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417586",
+    "country": "DENMARK",
+    "bank": "KOEBENHAVNS ANDELSKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417587",
+    "country": "DENMARK",
+    "bank": "FASTER ANDELSKASSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417588",
+    "country": "DENMARK",
+    "bank": "MERKUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417597",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN VENDSYSSEL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417599",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN SJAELLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418757",
+    "country": "DENMARK",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "420859",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426069",
+    "country": "DENMARK",
+    "bank": "SUDUROYAR SPARIKASSI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426070",
+    "country": "DENMARK",
+    "bank": "NORDOYA SPARIKASSI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426071",
+    "country": "DENMARK",
+    "bank": "BETRI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426072",
+    "country": "DENMARK",
+    "bank": "BETRI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "434323",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434353",
+    "country": "DENMARK",
+    "bank": "INTERPAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "434596",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434597",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437883",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443256",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443259",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443519",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443521",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443556",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444376",
+    "country": "DENMARK",
+    "bank": "U.S. REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "449269",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451349",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455853",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN DANMARK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455854",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455870",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455871",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457100",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457101",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457102",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457103",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457104",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457105",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457106",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457108",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457109",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457110",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457111",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457112",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457113",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457114",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457115",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN THY",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457116",
+    "country": "DENMARK",
+    "bank": "MIDDELFART SPAREKASSE",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457117",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457118",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457119",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457120",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457121",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457122",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457123",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457124",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457125",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457126",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457127",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457128",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457129",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457130",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457131",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457132",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457133",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457134",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457135",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457136",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457137",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457138",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457139",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457140",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457141",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457142",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457143",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457144",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457145",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457146",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457147",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457148",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457149",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457150",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457151",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457153",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457154",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457155",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457156",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457157",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457158",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457160",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457162",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457163",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457164",
+    "country": "DENMARK",
+    "bank": "P/F BANKNORDIK",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457165",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457166",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN KRONJYLLAND",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457167",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457168",
+    "country": "DENMARK",
+    "bank": "TOTALBANKEN A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457169",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457170",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457171",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457172",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457173",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457174",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN DANMARK",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457175",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457176",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457177",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457178",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457179",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457180",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457181",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457182",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457183",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457184",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457185",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457186",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457187",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457188",
+    "country": "DENMARK",
+    "bank": "NETS",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457189",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457190",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN THY",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457191",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457192",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457193",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457194",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN DANMARK",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457195",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457196",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457197",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457198",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457199",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA/DANKORT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460971",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "460972",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460977",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460981",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "460992",
+    "country": "DENMARK",
+    "bank": "SPAR NORD BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "461028",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464256",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464257",
+    "country": "DENMARK",
+    "bank": "VESTJYSK BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464261",
+    "country": "DENMARK",
+    "bank": "SYDBANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464767",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464768",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471677",
+    "country": "DENMARK",
+    "bank": "KLARNA BANK AB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475162",
+    "country": "DENMARK",
+    "bank": "EKSPRES BANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478513",
+    "country": "DENMARK",
+    "bank": "EKSPRES BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479653",
+    "country": "DENMARK",
+    "bank": "SANTANDER CONSUMER BANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479692",
+    "country": "DENMARK",
+    "bank": "FORENINGEN AF DANSKE KORTUDSTEDERE F.M.B.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479694",
+    "country": "DENMARK",
+    "bank": "NOBA BANK GROUP AB (PUBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483059",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK DANMARK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "484076",
+    "country": "DENMARK",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "487110",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487111",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487117",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489499",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "504410",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN NORDJYLLAND SPNKONTOKORT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "504413",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK EKSPRESKORT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "504430",
+    "country": "DENMARK",
+    "bank": "SPAREKASSEN HIMMERLAND",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510191",
+    "country": "DENMARK",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "512733",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515518",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515588",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515613",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515614",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515615",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515616",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515617",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515618",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515619",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515620",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515621",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515622",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515623",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516890",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516918",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517006",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517007",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517008",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517009",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517010",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517011",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517012",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517013",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517014",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517015",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517016",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517017",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517018",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517019",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517020",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517021",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517022",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517023",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517024",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "517025",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517026",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517027",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517028",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517029",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517030",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517031",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517032",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517033",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517034",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517035",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517036",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517037",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517038",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517039",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517043",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518348",
+    "country": "DENMARK",
+    "bank": "EVO PAYMENTS INTERNATIONAL GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "519192",
+    "country": "DENMARK",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "520368",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520963",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520964",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520965",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520967",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520968",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520969",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520970",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520971",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520972",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520973",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520974",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520976",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521035",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521319",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521349",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521352",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521353",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521838",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522993",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523004",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "524882",
+    "country": "DENMARK",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525750",
+    "country": "DENMARK",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525769",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526045",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526333",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "526334",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528155",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528251",
+    "country": "DENMARK",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528576",
+    "country": "DENMARK",
+    "bank": "PAYSAFE FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529492",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529798",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530674",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530941",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531016",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531594",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533468",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "533615",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "533617",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535484",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535511",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535512",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535513",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535939",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536834",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536957",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537472",
+    "country": "DENMARK",
+    "bank": "WIRECARD BANK AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537544",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537600",
+    "country": "DENMARK",
+    "bank": "PAYSAFE FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "540287",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540679",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540958",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541226",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541274",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541303",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541339",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541373",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541378",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541398",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541502",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541546",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541582",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541595",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541648",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542203",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542612",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542908",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543675",
+    "country": "DENMARK",
+    "bank": "EML MONEY DAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545139",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545162",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545585",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545857",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545956",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545996",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546310",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546311",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546322",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547131",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547132",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547133",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547499",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547501",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547505",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547506",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547509",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547510",
+    "country": "DENMARK",
+    "bank": "JYSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547512",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "548345",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549774",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549775",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550028",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551283",
+    "country": "DENMARK",
+    "bank": "BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552518",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552597",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552732",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552748",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552753",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552891",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552904",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552954",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552955",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552957",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552961",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552970",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552971",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552972",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552980",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552981",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552982",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552983",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552984",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552985",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552986",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552987",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552988",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552989",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552990",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552991",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552992",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552993",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552994",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553052",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553063",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553064",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553109",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553472",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554783",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555560",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555656",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555726",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555741",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555810",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "556000",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556001",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556002",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556003",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556006",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556007",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556008",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "556009",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556010",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556011",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556012",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556013",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556014",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "556661",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "556857",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557066",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557067",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557068",
+    "country": "DENMARK",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557111",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557384",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557439",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557892",
+    "country": "DENMARK",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557893",
+    "country": "DENMARK",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558253",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558267",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558281",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558295",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558304",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558312",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558313",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558314",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558315",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558316",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558317",
+    "country": "DENMARK",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558425",
+    "country": "DENMARK",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558441",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558615",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "558624",
+    "country": "DENMARK",
+    "bank": "BOKIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "558631",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559046",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "600357",
+    "country": "DENMARK",
+    "bank": "CITY 2 KONTO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "600401",
+    "country": "DENMARK",
+    "bank": "IKANO COMPUTER CITY",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "600463",
+    "country": "DENMARK",
+    "bank": "ARHUS CITY KONTO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "600464",
+    "country": "DENMARK",
+    "bank": "BALLERUP CENTERKORT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "601779",
+    "country": "DENMARK",
+    "bank": "IKANO KONTO IKANO FINANS",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603148",
+    "country": "DENMARK",
+    "bank": "HANDELS FINANS KREDITKORT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "603213",
+    "country": "DENMARK",
+    "bank": "GRONLANDSBANKENS BETALINGSKORT AKILIUT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "636097",
+    "country": "DENMARK",
+    "bank": "SEB KORT DANMARK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676571",
+    "country": "DENMARK",
+    "bank": "PBS INTERNATIONAL, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676834",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676927",
+    "country": "DENMARK",
+    "bank": "TELLER A/S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676928",
+    "country": "DENMARK",
+    "bank": "NETS DENMARK A S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "679841",
+    "country": "DENMARK",
+    "bank": "CLEARHAUS A/S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "957800",
+    "country": "DENMARK",
+    "bank": "DANSKE BANK",
+    "network": "PRIVATE LABEL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  }
+]

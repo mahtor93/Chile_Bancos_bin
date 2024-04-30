@@ -1,0 +1,842 @@
+[
+  {
+    "bin": "400080",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "403121",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403305",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403605",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404612",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404770",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406283",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410034",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410035",
+    "country": "ALBANIA",
+    "bank": "UNION BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410132",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410725",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "410748",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411418",
+    "country": "ALBANIA",
+    "bank": "CREDINS BANK SH.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411419",
+    "country": "ALBANIA",
+    "bank": "CREDINS BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411925",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413251",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418697",
+    "country": "ALBANIA",
+    "bank": "AMERICAN BANK OF INVESTMENTS SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424331",
+    "country": "ALBANIA",
+    "bank": "FIRST INVESTMENT BANK ALBANIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424332",
+    "country": "ALBANIA",
+    "bank": "FIRST INVESTMENT BANK ALBANIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424333",
+    "country": "ALBANIA",
+    "bank": "FIRST INVESTMENT BANK ALBANIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424334",
+    "country": "ALBANIA",
+    "bank": "FIRST INVESTMENT BANK ALBANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424335",
+    "country": "ALBANIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424470",
+    "country": "ALBANIA",
+    "bank": "AMERICAN BANK OF INVESTMENTS SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424946",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424947",
+    "country": "ALBANIA",
+    "bank": "ALPHA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428060",
+    "country": "ALBANIA",
+    "bank": "AMERICAN BANK OF INVESTMENTS SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428061",
+    "country": "ALBANIA",
+    "bank": "AMERICAN BANK OF INVESTMENTS SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429931",
+    "country": "ALBANIA",
+    "bank": "FIRST INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431866",
+    "country": "ALBANIA",
+    "bank": "UNION BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432166",
+    "country": "ALBANIA",
+    "bank": "ALPHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432477",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432478",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432479",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432480",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "432699",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SH.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440042",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SH.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445416",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SH.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445417",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445418",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "447400",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "447662",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447811",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459048",
+    "country": "ALBANIA",
+    "bank": "VENETO BANKA SH.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462086",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467724",
+    "country": "ALBANIA",
+    "bank": "VENETO BANKA SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "467810",
+    "country": "ALBANIA",
+    "bank": "UNION BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473892",
+    "country": "ALBANIA",
+    "bank": "VENETO BANKA SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "474792",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478707",
+    "country": "ALBANIA",
+    "bank": "UNION BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478727",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480253",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484656",
+    "country": "ALBANIA",
+    "bank": "CREDINS BANK SH.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484657",
+    "country": "ALBANIA",
+    "bank": "CREDINS BANK SH.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "488727",
+    "country": "ALBANIA",
+    "bank": "TIRANA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512038",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513067",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513729",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SHA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516053",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516774",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519401",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520688",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522055",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524096",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524344",
+    "country": "ALBANIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525763",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SHA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531396",
+    "country": "ALBANIA",
+    "bank": "RUBICON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532080",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SHA.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532650",
+    "country": "ALBANIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534120",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534355",
+    "country": "ALBANIA",
+    "bank": "BANKA CREDINS SH. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534641",
+    "country": "ALBANIA",
+    "bank": "RUBICON",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535162",
+    "country": "ALBANIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535247",
+    "country": "ALBANIA",
+    "bank": "BANKA CREDINS SH. A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535257",
+    "country": "ALBANIA",
+    "bank": "BANKA CREDINS SH. A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535296",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535297",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535702",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535729",
+    "country": "ALBANIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537424",
+    "country": "ALBANIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537446",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537514",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537547",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537589",
+    "country": "ALBANIA",
+    "bank": "UNION BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537592",
+    "country": "ALBANIA",
+    "bank": "UNION BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540306",
+    "country": "ALBANIA",
+    "bank": "UNION BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540400",
+    "country": "ALBANIA",
+    "bank": "BANKA AMERIKANE E INVESTIMEVE SHA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541344",
+    "country": "ALBANIA",
+    "bank": "BANKA CREDINS SH. A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543723",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545113",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547624",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547965",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SHA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548126",
+    "country": "ALBANIA",
+    "bank": "UNION BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553040",
+    "country": "ALBANIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553049",
+    "country": "ALBANIA",
+    "bank": "RAIFFEISEN BANK SH.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554847",
+    "country": "ALBANIA",
+    "bank": "BANKA CREDINS SH. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555568",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "556022",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SHA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558627",
+    "country": "ALBANIA",
+    "bank": "BANKA CREDINS SH. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "570982",
+    "country": "ALBANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "580642",
+    "country": "ALBANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677020",
+    "country": "ALBANIA",
+    "bank": "PROCREDIT BANK SH.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677077",
+    "country": "ALBANIA",
+    "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677287",
+    "country": "ALBANIA",
+    "bank": "INTESA SANPAOLO BANK ALBANIA SHA.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677419",
+    "country": "ALBANIA",
+    "bank": "UNION BANK SH.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677547",
+    "country": "ALBANIA",
+    "bank": "BANKA OTP ALBANIA SH.A",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  }
+]

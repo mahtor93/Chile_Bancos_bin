@@ -1,0 +1,5418 @@
+[
+  {
+    "bin": "229236",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "231025",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233045",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "233046",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233047",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "233048",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250086",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "260015",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361129",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361333",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361334",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361335",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361336",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361337",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361420",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362569",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CENTRAL DE VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "364112",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364168",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364169",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364262",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364263",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364264",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364265",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364266",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364267",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364420",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364421",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364422",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364423",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364424",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364430",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364431",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364432",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364433",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364434",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364435",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364436",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364478",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364479",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DC VENEZUELA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "370400",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400606",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN C.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402174",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402686",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CORP BANCA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404573",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404573",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404630",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404630",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404631",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404631",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404643",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404643",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404735",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404735",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404736",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404736",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404849",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "405761",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO FEDERAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "405844",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA, BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405890",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "405891",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405898",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405932",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406260",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406260",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406267",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407408",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407427",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407440",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407457",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407511",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407556",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407602",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "407607",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "407616",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CORP BANCA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "411016",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411018",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411019",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411037",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411038",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411096",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411097",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411850",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "411851",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "411858",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414640",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414747",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414754",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE CORO C.A. (BANCORO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414755",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414764",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414768",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414786",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415366",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "415762",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE CORO C.A. (BANCORO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417762",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420198",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421034",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "421035",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421036",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421037",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO COMERCIAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421177",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421178",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "421422",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421826",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO MERCANTIL, S.A.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421882",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421884",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421930",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422039",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422044",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422045",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422046",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422050",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422099",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422123",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422169",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TODOTICKET 2004, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "422209",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TODOTICKET 2004, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422225",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422228",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422242",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CORP BANCA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422260",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422261",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422262",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422263",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422268",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422271",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422714",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422714",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423096",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA, BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423614",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "423691",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425881",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425888",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "427170",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "427172",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "427173",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428491",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433121",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433485",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433486",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434614",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434615",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434957",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434964",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "INVERUNION BANCO COMERCIAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434965",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434966",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434967",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "437774",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438095",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439475",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE CORO C.A. (BANCORO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439476",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE CORO C.A. (BANCORO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439482",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO GUAYANA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439483",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO GUAYANA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439813",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CAPITAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439814",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CAPITAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440827",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441040",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441041",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "441058",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441059",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO COMERCIAL, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "441132",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441133",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441508",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441784",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441785",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441786",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442267",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "443979",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "INVERSIONES PLATCO, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444806",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446334",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "446852",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "446870",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "448174",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448174",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448741",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448742",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450630",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "PIDA PROVINCIAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450914",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BBVA PROVINCIAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450961",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450962",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450966",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451315",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE S.A.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451325",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451449",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451450",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "451721",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451722",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452175",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452177",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453231",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453232",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453233",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453502",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454041",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454042",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454134",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454134",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454135",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454135",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454137",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454138",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE S.A.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454139",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454188",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454440",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454465",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO LA GUAIRA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454466",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO LA GUAIRA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454468",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO LA GUAIRA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454500",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454501",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "454502",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454503",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TODOTICKET 2004, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "454504",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454510",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454511",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454512",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO COMERCIAL, S.A.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454513",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454514",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454515",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "454516",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CREDITO UNION, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454517",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454518",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454520",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454530",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454531",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454532",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454533",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454534",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454557",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454560",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454570",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454571",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454573",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454574",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454575",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454576",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454577",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CREDITO UNION, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454578",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454579",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454580",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454581",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454594",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454595",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454599",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454619",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455609",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CAPITAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455610",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CAPITAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455611",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CAPITAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455612",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455612",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455613",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455613",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455614",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455614",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455615",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455615",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455640",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO MERCANTIL, S.A.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455641",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO MERCANTIL, S.A.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455710",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO POPULAR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456010",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO UNION, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456033",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456035",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456336",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INTERNACIONAL INTERBANK, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457380",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457381",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457415",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457416",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457567",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457999",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458129",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458130",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458183",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "INVERUNION, BANCO COMERCIAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458184",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "INVERUNION, BANCO COMERCIAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "459347",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "459347",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "462221",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TEBCA, TRANSFERENCIA ELECTR NICA DE BENEFICIOS, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462229",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462229",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467126",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "467477",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "FONDO COMUN C.A., BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "467478",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO OCCIDENTAL DE DESCUENTO S.A.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472324",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "473292",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CONFEDERADO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474154",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474496",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474497",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474498",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474499",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "474577",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE LA GENTE EMPRENDEDORA (BANGENTE), C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474632",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "475783",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475784",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476064",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "476064",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "476105",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476515",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476560",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476561",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476562",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476812",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476813",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476814",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476841",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476842",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479320",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479321",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479340",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "481290",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "485801",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486520",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486622",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486648",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO COMERCIAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "489995",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490112",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490113",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491509",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CORP BANCA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491608",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491609",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, DE LA CLASE OBRERA, MUJER Y COMUNAS, BANCO UNIVER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491951",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492008",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "492009",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492457",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "493752",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CORP BANCA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493753",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CORP BANCA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493802",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493802",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494170",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "496638",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499878",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499889",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "499929",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499930",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499941",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CONFEDERADO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510106",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510808",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512391",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512399",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512460",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512742",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512776",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513018",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514026",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515659",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515673",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515817",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515827",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515828",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515835",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515892",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516271",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516447",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516668",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517707",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517758",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517856",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517857",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517859",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "NORVAL BANK, C.A. BANCO UNIVERS.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "517875",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "NORVAL BANK C.A. BANCO UNIVERS.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "517883",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "NORVAL BANK C.A. BANCO UNIVERS.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "517886",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "NORVAL BANK C.A. BANCO UNIVERS.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "517953",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518031",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518067",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518150",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518152",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518215",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518238",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "518310",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518596",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519707",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519723",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "520139",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TARJETAS Y TRANSACCIONES EN RED TRANRED CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520148",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520154",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521041",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521173",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "521304",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521305",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521359",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR, BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521778",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521785",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TARJETAS Y TRANSACCIONES EN RED TRANRED CA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "521877",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522206",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522270",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522782",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522835",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522946",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522963",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522974",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522975",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523083",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TARJETAS Y TRANSACCIONES EN RED TRANRED CA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523739",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523751",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524339",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524412",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524621",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524892",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525469",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525671",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525712",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525739",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526263",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526416",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "UBII PAGOS CA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526443",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526466",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526472",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526749",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TEBCA, TRANSFERENCIA ELECTRONICA DE BENEFICIOS, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526821",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TARJETAS Y TRANSACCIONES EN RED TRANRED CA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526980",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527029",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527113",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527356",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527561",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527924",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528004",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528492",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "528521",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528748",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528790",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "528839",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528897",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "528940",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529138",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529417",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "529890",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530147",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530174",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530470",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530471",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530472",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530973",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531295",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "531379",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "DISTRIBUTION"
+  },
+  {
+    "bin": "531762",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532082",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532361",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532364",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532371",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532402",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532582",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532999",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "SOLUCIONES FINANCIERAS CHIN CHIN CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533150",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TEBCA, TRANSFERENCIA ELECTRONICA DE BENEFICIOS, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534339",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "534392",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534560",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534715",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535834",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536241",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "536440",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536570",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537123",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539488",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539590",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539658",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "539660",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "539667",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "540009",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540019",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540085",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540086",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540131",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540132",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540133",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540139",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540140",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540141",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540142",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540143",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540144",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540145",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540167",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540199",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "TEBCA, TRANSFERENCIA ELECTRONICA DE BENEFICIOS, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540551",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540603",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540628",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540713",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "EMPRESA DE TECNOLOGIA AVANZADA ORIONIS C A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540825",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540932",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541036",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541105",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541154",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541160",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541247",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541417",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541431",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541434",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541459",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541689",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541744",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541841",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR, BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541842",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR, BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541844",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542007",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542037",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542209",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542218",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542430",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "100% BANCO, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542641",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543725",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544194",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544680",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544807",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544909",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545015",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545049",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "UNIBANCA, BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545174",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545192",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545193",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545726",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "VENEZOLANO DE CREDITO SA BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546489",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546490",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546629",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "546690",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546694",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546704",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546752",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546753",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547032",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547153",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547247",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547290",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547291",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547326",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547327",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547469",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547527",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547552",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547554",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547588",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547793",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547887",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548586",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548849",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548850",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548851",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548852",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549115",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549190",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549192",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549193",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549196",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549197",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549973",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550327",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550567",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550622",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551998",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552265",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552266",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552267",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552283",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552284",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL CARIBE, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552286",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552287",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO SOFITASA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552292",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552293",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552311",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL CA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552325",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO EXTERIOR, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552326",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CANARIAS DE VENEZUELA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552327",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552462",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "DEL SUR, BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552565",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552590",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552786",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553438",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DEL TESORO, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553447",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "DISTRIBUTION"
+  },
+  {
+    "bin": "553513",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCAMIGA BANCO UNIVERSAL C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553635",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CONSORCIO CREDICARD, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553663",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553671",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554087",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554388",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554395",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554611",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554633",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BICENTENARIO DEL PUEBLO, BANCO UNIVERSAL,C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554646",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554735",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554772",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO INTERNACIONAL INTERBANK, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554798",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554831",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554912",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554914",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554920",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554929",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "CITIBANK, N.A. (VENEZUELA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554934",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554937",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554972",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555276",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "UBII PAGOS CA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555347",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "556605",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557990",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558491",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558762",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558834",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "558841",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "558844",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO NACIONAL DE CREDITO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "558870",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "MERCANTIL, C.A., BANCO UNIVERSAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "558886",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO PLAZA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "589941",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO DE VENEZUELA, S.A.C.A.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601201",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601202",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601203",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601206",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601209",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601210",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601211",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601212",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601214",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601215",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601216",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601217",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601218",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601219",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601220",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601221",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601223",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601224",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601225",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601226",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601228",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601229",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601230",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601232",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BANESCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601233",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601234",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601235",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601236",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601237",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601238",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601239",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601240",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601241",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601243",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601244",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601245",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601246",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601247",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601248",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601249",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601250",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601251",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601252",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601253",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601254",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601256",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601257",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601258",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601259",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601260",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601261",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601262",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601263",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601264",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601265",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601266",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601267",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO BANESCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601268",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601269",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601270",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601271",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601272",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601273",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601274",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601275",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601276",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601279",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601283",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601284",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601286",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601289",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601291",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601292",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601293",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601294",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601295",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601296",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601297",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601298",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601299",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANESCO, BANCO UNIVERSAL, C.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "621984",
+    "country": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+    "bank": "BANCO VENEZOLANO DE CREDITO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  }
+]

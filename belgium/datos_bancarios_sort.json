@@ -1,0 +1,3706 @@
+[
+  {
+    "bin": "223285",
+    "country": "BELGIUM",
+    "bank": "AION BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "322766",
+    "country": "BELGIUM",
+    "bank": "GENERALE DE BANQUE",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "325944",
+    "country": "BELGIUM",
+    "bank": "BPOST",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "360253",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "360254",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "360255",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "360256",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "360257",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "360258",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361228",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361362",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361365",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361366",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361369",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361449",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361669",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "362557",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "362558",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "362559",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364317",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364663",
+    "country": "BELGIUM",
+    "bank": "DC BELGIUM",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "370105",
+    "country": "BELGIUM",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "370106",
+    "country": "BELGIUM",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "370107",
+    "country": "BELGIUM",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "370108",
+    "country": "BELGIUM",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "370109",
+    "country": "BELGIUM",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375984",
+    "country": "BELGIUM",
+    "bank": "BNP PARISBAS FORTIS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "GREEN"
+  },
+  {
+    "bin": "375987",
+    "country": "BELGIUM",
+    "bank": "BNP PARISBAS FORTIS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "40094",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "402540",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404462",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404463",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408279",
+    "country": "BELGIUM",
+    "bank": "MONIZZE NV/SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID WORKPLACE BENEFITS"
+  },
+  {
+    "bin": "408300",
+    "country": "BELGIUM",
+    "bank": "RECORD BANQUE / RECORD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408490",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408491",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408773",
+    "country": "BELGIUM",
+    "bank": "BANQUE DE LUXEMBOURG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "413778",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414982",
+    "country": "BELGIUM",
+    "bank": "VDK SPAARBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416285",
+    "country": "BELGIUM",
+    "bank": "IMAGOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "417160",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417161",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417455",
+    "country": "BELGIUM",
+    "bank": "INTERNATIONAL CARD SERVICES NVSA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417457",
+    "country": "BELGIUM",
+    "bank": "INTERNATIONAL CARD SERVICES NVSA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422246",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422246",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422247",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422247",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422248",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422248",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423608",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM SA/NV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423686",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM SA/NV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424093",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424094",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "425712",
+    "country": "BELGIUM",
+    "bank": "TRIODOS BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425728",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427673",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM SA/NV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427678",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM SA/NV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428158",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429551",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434936",
+    "country": "BELGIUM",
+    "bank": "COFIDIS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438351",
+    "country": "BELGIUM",
+    "bank": "PAYNOVATE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439078",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439705",
+    "country": "BELGIUM",
+    "bank": "PAYNOVATE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "440603",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441734",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441735",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441736",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441737",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445462",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445470",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445471",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445472",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445473",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445474",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445475",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445476",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445477",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445478",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445479",
+    "country": "BELGIUM",
+    "bank": "KEYTRADE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445480",
+    "country": "BELGIUM",
+    "bank": "KEYTRADE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445481",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445482",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448418",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "450620",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450663",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454402",
+    "country": "BELGIUM",
+    "bank": "EUROPABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454403",
+    "country": "BELGIUM",
+    "bank": "EUROPABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454441",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454442",
+    "country": "BELGIUM",
+    "bank": "EUROPABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455218",
+    "country": "BELGIUM",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455752",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456397",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456452",
+    "country": "BELGIUM",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456873",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456933",
+    "country": "BELGIUM",
+    "bank": "WISE EUROPE SA/NV",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "456958",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "456959",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456960",
+    "country": "BELGIUM",
+    "bank": "PAYNOVATE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PRIVATE LABEL"
+  },
+  {
+    "bin": "456961",
+    "country": "BELGIUM",
+    "bank": "PAYNOVATE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "457983",
+    "country": "BELGIUM",
+    "bank": "BANQUE CPH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459241",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459241",
+    "country": "BELGIUM",
+    "bank": "FIMASER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459514",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459515",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459516",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459517",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459518",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459534",
+    "country": "BELGIUM",
+    "bank": "ATOS WORLDLINE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459535",
+    "country": "BELGIUM",
+    "bank": "ATOS WORLDLINE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464017",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464242",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464245",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "468761",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469187",
+    "country": "BELGIUM",
+    "bank": "IMAGOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474810",
+    "country": "BELGIUM",
+    "bank": "KBC BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "474811",
+    "country": "BELGIUM",
+    "bank": "KBC BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479655",
+    "country": "BELGIUM",
+    "bank": "ARKEA DIRECT BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479656",
+    "country": "BELGIUM",
+    "bank": "ARKEA DIRECT BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479657",
+    "country": "BELGIUM",
+    "bank": "ARKEA DIRECT BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479658",
+    "country": "BELGIUM",
+    "bank": "ARKEA DIRECT BANK SA",
+    "network": "VISA/BANCONTACT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480124",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481008",
+    "country": "BELGIUM",
+    "bank": "IMAGOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "482445",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "483850",
+    "country": "BELGIUM",
+    "bank": "SODEXO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "483869",
+    "country": "BELGIUM",
+    "bank": "PAYNOVATE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "485754",
+    "country": "BELGIUM",
+    "bank": "AIRPLUS INTERNATIONAL SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485755",
+    "country": "BELGIUM",
+    "bank": "AIRPLUS INTERNATIONAL SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485756",
+    "country": "BELGIUM",
+    "bank": "AIRPLUS INTERNATIONAL SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485778",
+    "country": "BELGIUM",
+    "bank": "AIRPLUS INTERNATIONAL SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486134",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486147",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486158",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486167",
+    "country": "BELGIUM",
+    "bank": "BANQUE CPH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487104",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA/BANCONTACT",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487109",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS NV/SA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487179",
+    "country": "BELGIUM",
+    "bank": "PAYNOVATE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "487600",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "VPAY"
+  },
+  {
+    "bin": "489100",
+    "country": "BELGIUM",
+    "bank": "VDK SPAARBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489101",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489102",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489103",
+    "country": "BELGIUM",
+    "bank": "BANQUE CPH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489104",
+    "country": "BELGIUM",
+    "bank": "BANQUE CPH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489105",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489106",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489107",
+    "country": "BELGIUM",
+    "bank": "RECORD BANQUE / RECORD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489108",
+    "country": "BELGIUM",
+    "bank": "KBC CONSUMER FINANCE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489109",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489110",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489111",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489112",
+    "country": "BELGIUM",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489113",
+    "country": "BELGIUM",
+    "bank": "KBC BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489114",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489115",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489116",
+    "country": "BELGIUM",
+    "bank": "CBC BANQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489117",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491832",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491833",
+    "country": "BELGIUM",
+    "bank": "VDK SPAARBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493400",
+    "country": "BELGIUM",
+    "bank": "BANQUE CHAABI DU MAROC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494003",
+    "country": "BELGIUM",
+    "bank": "VISALUX S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "494006",
+    "country": "BELGIUM",
+    "bank": "BANQUE DE LUXEMBOURG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494043",
+    "country": "BELGIUM",
+    "bank": "BANQUE DE LUXEMBOURG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494099",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510245",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512593",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512643",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512715",
+    "country": "BELGIUM",
+    "bank": "INTERNATIONAL CARD SERVICES B.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512788",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513463",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513491",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514145",
+    "country": "BELGIUM",
+    "bank": "SOLARISBANK AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516441",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516920",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517535",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517543",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517651",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518272",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518999",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "519367",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "520394",
+    "country": "BELGIUM",
+    "bank": "ARGENTA SPAARBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520697",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520914",
+    "country": "BELGIUM",
+    "bank": "BANK CARD COMPANY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "521142",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "521477",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521648",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521890",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522122",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522348",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "522354",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "522402",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522411",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522454",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "522885",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522903",
+    "country": "BELGIUM",
+    "bank": "MEDIRECT BANK MALTA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522962",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD/BANCONTACT",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523018",
+    "country": "BELGIUM",
+    "bank": "CSC EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523075",
+    "country": "BELGIUM",
+    "bank": "DEUTSCHE CARD SERVICES GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523559",
+    "country": "BELGIUM",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524435",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524784",
+    "country": "BELGIUM",
+    "bank": "ARGENTA SPAARBANK",
+    "network": "MASTERCARD/BANCONTACT",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525506",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525565",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525636",
+    "country": "BELGIUM",
+    "bank": "ARGENTA SPAARBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525758",
+    "country": "BELGIUM",
+    "bank": "SANTANDER CONSUMER FINANCE BENELUX B.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526261",
+    "country": "BELGIUM",
+    "bank": "AION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "526726",
+    "country": "BELGIUM",
+    "bank": "AION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527534",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527583",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527618",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529036",
+    "country": "BELGIUM",
+    "bank": "BANCA MONTE PASCHI BELGIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529482",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530115",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530700",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530784",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531208",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531684",
+    "country": "BELGIUM",
+    "bank": "CSC EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532065",
+    "country": "BELGIUM",
+    "bank": "MONAVATE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533637",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "534473",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534615",
+    "country": "BELGIUM",
+    "bank": "IDT FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "534616",
+    "country": "BELGIUM",
+    "bank": "ARGENTA SPAARBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534648",
+    "country": "BELGIUM",
+    "bank": "IDT FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535458",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "536496",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536521",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537059",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538900",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539119",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539442",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539581",
+    "country": "BELGIUM",
+    "bank": "MONAVATE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539616",
+    "country": "BELGIUM",
+    "bank": "PAYMENT CARD SOLUTIONS UK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539617",
+    "country": "BELGIUM",
+    "bank": "PAYMENT CARD SOLUTIONS UK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539848",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539853",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541327",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541333",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541353",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542333",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542534",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543308",
+    "country": "BELGIUM",
+    "bank": "BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543763",
+    "country": "BELGIUM",
+    "bank": "EML PAYMENTS EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543933",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543968",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544036",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544037",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544038",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544043",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544050",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544056",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544124",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544140",
+    "country": "BELGIUM",
+    "bank": "INTERNATIONAL CARD SERVICES B.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544333",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545333",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545681",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546333",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546898",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "546899",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "547027",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "547033",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "547539",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547549",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547589",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547685",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547750",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547833",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547835",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547836",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547837",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547838",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547841",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548800",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549526",
+    "country": "BELGIUM",
+    "bank": "BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549556",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "549557",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549688",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549728",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550091",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM (BACOB, C.V.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550092",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM (ASLK BANK)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552041",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552614",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552620",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554076",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554192",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554505",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554664",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554741",
+    "country": "BELGIUM",
+    "bank": "EUROPAY INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "555488",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555748",
+    "country": "BELGIUM",
+    "bank": "EQUALS MONEY EUROPE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555758",
+    "country": "BELGIUM",
+    "bank": "EQUALS MONEY EUROPE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557786",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "557835",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558021",
+    "country": "BELGIUM",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "558728",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558737",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558742",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558743",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558761",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558783",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "DEFERRED DEBIT"
+  },
+  {
+    "bin": "558799",
+    "country": "BELGIUM",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559664",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "561358",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561359",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561360",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561361",
+    "country": "BELGIUM",
+    "bank": "CBC BANQUE, S.A.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561362",
+    "country": "BELGIUM",
+    "bank": "VDK BANK",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561364",
+    "country": "BELGIUM",
+    "bank": "BANQUE NAGELMACKERS",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561366",
+    "country": "BELGIUM",
+    "bank": "BANK VAN BREDA",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561367",
+    "country": "BELGIUM",
+    "bank": "ARGENTA SPAARBANK",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "561368",
+    "country": "BELGIUM",
+    "bank": "CRELAN",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561370",
+    "country": "BELGIUM",
+    "bank": "LA BANQUE CPH",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "561371",
+    "country": "BELGIUM",
+    "bank": "BEOBANK NV/SA",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561373",
+    "country": "BELGIUM",
+    "bank": "KEYTRADE BANK",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561376",
+    "country": "BELGIUM",
+    "bank": "EUROPABANK",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561377",
+    "country": "BELGIUM",
+    "bank": "BANQUE CHAABI DU MAROC",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561378",
+    "country": "BELGIUM",
+    "bank": "ATTIJARIWAFA BANK EUROPE",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561379",
+    "country": "BELGIUM",
+    "bank": "NEWB",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561406",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "561407",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "572309",
+    "country": "BELGIUM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "573149",
+    "country": "BELGIUM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576135",
+    "country": "BELGIUM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581645",
+    "country": "BELGIUM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581867",
+    "country": "BELGIUM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "586824",
+    "country": "BELGIUM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "588892",
+    "country": "BELGIUM",
+    "bank": "BPOST",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620054",
+    "country": "BELGIUM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA BRUSSELS BRANC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "620142",
+    "country": "BELGIUM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA BRUSSELS BRANC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "621376",
+    "country": "BELGIUM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA BRUSSELS BRANC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "625929",
+    "country": "BELGIUM",
+    "bank": "ICBC BRUSSELS",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "629914",
+    "country": "BELGIUM",
+    "bank": "EDENRED RESTAURANT TICKETS",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "642571",
+    "country": "BELGIUM",
+    "bank": "BPOST",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM"
+  },
+  {
+    "bin": "670300",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670301",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670303",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670304",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670305",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670306",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "670307",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "670308",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "670309",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "670310",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670311",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670312",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670313",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670314",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670315",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670316",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670317",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670318",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670319",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670320",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670321",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670322",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670323",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670324",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670325",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "670326",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670327",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670328",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670329",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670330",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670331",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670332",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670333",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670334",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670335",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670336",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670337",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670338",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670339",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670340",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670341",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670342",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670343",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670344",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670345",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670346",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670347",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670348",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670349",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670350",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670351",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670352",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670353",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670354",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670355",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670356",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670357",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670358",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670359",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670360",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670361",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670362",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670363",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670364",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670365",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670366",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670367",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670368",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670369",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670370",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670371",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670372",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670373",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670374",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670375",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670376",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670377",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670378",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670379",
+    "country": "BELGIUM",
+    "bank": "BELFIUS BANK N.V. / BELFIUS BANQUE, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670380",
+    "country": "BELGIUM",
+    "bank": "AXA BANK BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670381",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670382",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670383",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670384",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670385",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670386",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670387",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670388",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670389",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670390",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670391",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670392",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670393",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670394",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670395",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670396",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670397",
+    "country": "BELGIUM",
+    "bank": "ARGENTA SPAARBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670398",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670399",
+    "country": "BELGIUM",
+    "bank": "EUROPAY BELGIUM S.C.R.L.",
+    "network": "MAESTRO/BANCONTACT",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670558",
+    "country": "BELGIUM",
+    "bank": "ING BELGIUM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670810",
+    "country": "BELGIUM",
+    "bank": "BANCA MONTE PASCHI BELGIO, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670872",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670873",
+    "country": "BELGIUM",
+    "bank": "BUY WAY PERSONAL FINANCE SA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670984",
+    "country": "BELGIUM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE), S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "671159",
+    "country": "BELGIUM",
+    "bank": "SANTANDER CONSUMER FINANCE BENELUX B.V.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "678846",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "679031",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679045",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679082",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679085",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679094",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679105",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679106",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679110",
+    "country": "BELGIUM",
+    "bank": "BNP PARIBAS FORTIS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679133",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679139",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679191",
+    "country": "BELGIUM",
+    "bank": "KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679292",
+    "country": "BELGIUM",
+    "bank": "ATTIJARIWAFA BANK EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "679985",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "679986",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679987",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679988",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679989",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679990",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679991",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679992",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679993",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679994",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679995",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679997",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "679998",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679999",
+    "country": "BELGIUM",
+    "bank": "MASTERCARD EUROPE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

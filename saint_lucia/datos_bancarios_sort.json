@@ -1,0 +1,546 @@
+[
+  {
+    "bin": "223014",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "223015",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "403759",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403759",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406133",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406134",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407578",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418771",
+    "country": "SAINT LUCIA",
+    "bank": "ALTER BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418772",
+    "country": "SAINT LUCIA",
+    "bank": "STATETRUST BANK AND TRUST, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418774",
+    "country": "SAINT LUCIA",
+    "bank": "ALTER BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418775",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422232",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422233",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426286",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK (EC), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430387",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430387",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430923",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430923",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430931",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430931",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430990",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430990",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430996",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430996",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433117",
+    "country": "SAINT LUCIA",
+    "bank": "RBTT BANK CARIBBEAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434783",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434783",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439484",
+    "country": "SAINT LUCIA",
+    "bank": "RBTT BANK CARIBBEAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441729",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441729",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443940",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443940",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443941",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443941",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446448",
+    "country": "SAINT LUCIA",
+    "bank": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448711",
+    "country": "SAINT LUCIA",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452362",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452362",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457682",
+    "country": "SAINT LUCIA",
+    "bank": "BANCO BRADESCO CARTOES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457683",
+    "country": "SAINT LUCIA",
+    "bank": "BANCO BRADESCO CARTOES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467790",
+    "country": "SAINT LUCIA",
+    "bank": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468138",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK (EC), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469264",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469264",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469265",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "473287",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK (EC), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477141",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "477141",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "479435",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "479435",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "479483",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479483",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482442",
+    "country": "SAINT LUCIA",
+    "bank": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482444",
+    "country": "SAINT LUCIA",
+    "bank": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "491263",
+    "country": "SAINT LUCIA",
+    "bank": "NATIONAL COMMERCIAL BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491504",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF SAINT LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "499814",
+    "country": "SAINT LUCIA",
+    "bank": "1ST NATIONAL BANK ST. LUCIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515732",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "526540",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "526540",
+    "country": "SAINT LUCIA",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546733",
+    "country": "SAINT LUCIA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "546783",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546790",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546791",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546798",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547540",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "555708",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "555978",
+    "country": "SAINT LUCIA",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  }
+]

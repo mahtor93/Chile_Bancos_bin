@@ -1,0 +1,474 @@
+[
+  {
+    "bin": "402498",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402498",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402870",
+    "country": "CABO VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "402870",
+    "country": "CABO VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "408325",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408325",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410052",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410052",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410053",
+    "country": "CAPE VERDE",
+    "bank": "BANCO CABOVERDIANO DE NEGOCIOS SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414507",
+    "country": "CAPE VERDE",
+    "bank": "CAIXA ECONOMICA DE CABO VERDE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414508",
+    "country": "CAPE VERDE",
+    "bank": "CAIXA ECONOMICA DE CABO VERDE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417710",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417710",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417711",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417711",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417712",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417712",
+    "country": "CAPE VERDE",
+    "bank": "BANCO INTERATLANTICO SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420555",
+    "country": "CAPE VERDE",
+    "bank": "BANCO CABOVERDIANO DE NEGOCIOS SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421353",
+    "country": "CAPE VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421353",
+    "country": "CAPE VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422442",
+    "country": "CAPE VERDE",
+    "bank": "CAIXA ECONOMICA DE CABO VERDE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424556",
+    "country": "CAPE VERDE",
+    "bank": "BANCO CABOVERDIANO DE NEGOCIOS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424557",
+    "country": "CAPE VERDE",
+    "bank": "BANCO CABOVERDIANO DE NEGOCIOS SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424558",
+    "country": "CAPE VERDE",
+    "bank": "BANCO CABOVERDIANO DE NEGOCIOS SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424559",
+    "country": "CAPE VERDE",
+    "bank": "BANCO CABOVERDIANO DE NEGOCIOS SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "425688",
+    "country": "CAPE VERDE",
+    "bank": "CAIXA ECONOMICA DE CABO VERDE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "425759",
+    "country": "CAPE VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "425759",
+    "country": "CAPE VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "442384",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "442384",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "442385",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442385",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442386",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442386",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442387",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "442387",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "453289",
+    "country": "CAPE VERDE",
+    "bank": "INTERNATIONAL INVESTMENT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453299",
+    "country": "CAPE VERDE",
+    "bank": "INTERNATIONAL INVESTMENT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "456792",
+    "country": "CAPE VERDE",
+    "bank": "BANCO ANGOLANO DE INVESTIMENTOS CABO VERDE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460501",
+    "country": "CABO VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "460501",
+    "country": "CABO VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "470637",
+    "country": "CAPE VERDE",
+    "bank": "CAIXA ECONOMICA DE CABO VERDE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485491",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485491",
+    "country": "CAPE VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487433",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "487433",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "488949",
+    "country": "CABO VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488949",
+    "country": "CABO VERDE",
+    "bank": "ECOBANK CABO VERDE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488954",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488954",
+    "country": "CABO VERDE",
+    "bank": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "511723",
+    "country": "CAPE VERDE",
+    "bank": "SOCIEDADE INTERBANCARIA E SISTEMAS DE PAGAMENTOS,SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515839",
+    "country": "CAPE VERDE",
+    "bank": "SOCIEDADE INTERBANCARIA E SISTEMAS DE PAGAMENTOS,SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520765",
+    "country": "CAPE VERDE",
+    "bank": "SOCIEDADE INTERBANCARIA E SISTEMAS DE PAGAMENTOS,SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "522026",
+    "country": "CAPE VERDE",
+    "bank": "SOCIEDADE INTERBANCARIA E SISTEMAS DE PAGAMENTOS,SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "524751",
+    "country": "CAPE VERDE",
+    "bank": "BANCO DE FOMENTO INTERNACIONAL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534280",
+    "country": "CAPE VERDE",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548962",
+    "country": "CAPE VERDE",
+    "bank": "SOCIEDADE INTERBANCARIA E SISTEMAS DE PAGAMENTOS,SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549922",
+    "country": "CAPE VERDE",
+    "bank": "BANCO DE FOMENTO INTERNACIONAL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "551379",
+    "country": "CAPE VERDE",
+    "bank": "SOCIEDADE INTERBANCARIA E SISTEMAS DE PAGAMENTOS,SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  }
+]

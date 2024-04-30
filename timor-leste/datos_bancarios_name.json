@@ -1,0 +1,90 @@
+[
+    {
+        "A P_AUS_AND_NEW_ZEALAND_BANKING_GROUP_LTD._-_TIMOR-LESTE": [
+            {
+                "Numero BIN/IIN": "518193",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "A/P AUS AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "AUSTRALIA_AND_NEW_ZEALAND_BANKING_GROUP_LTD._-_TIMOR-LESTE": [
+            {
+                "Numero BIN/IIN": "437973",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "462876",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANCO_NACIONAL_DE_COMERCIO_DE_TIMOR_LESTE_-_TIMOR-LESTE": [
+            {
+                "Numero BIN/IIN": "557571",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "BANCO NACIONAL DE COMERCIO DE TIMOR LESTE",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "CAIXA_GERAL_DE_DEPOSITOS-_TIMOR-LESTE": [
+            {
+                "Numero BIN/IIN": "408986",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "CAIXA GERAL DE DEPOSITOS, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "408987",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "CAIXA GERAL DE DEPOSITOS, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "408988",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "CAIXA GERAL DE DEPOSITOS, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "434400",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "CAIXA GERAL DE DEPOSITOS, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "438234",
+                "Pais": "TIMOR-LESTE",
+                "Nombre del emisor / Banco": "CAIXA GERAL DE DEPOSITOS, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    }
+]

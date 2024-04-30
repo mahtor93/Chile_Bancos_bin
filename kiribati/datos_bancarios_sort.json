@@ -1,0 +1,42 @@
+[
+  {
+    "bin": "437968",
+    "country": "KIRIBATI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437969",
+    "country": "KIRIBATI",
+    "bank": "BANK OF KIRIBATI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450587",
+    "country": "KIRIBATI",
+    "bank": "BANK OF KIRIBATI, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465541",
+    "country": "KIRIBATI",
+    "bank": "BANK OF KIRIBATI, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "520181",
+    "country": "KIRIBATI",
+    "bank": "ANZ BANK (KIRIBATI), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  }
+]

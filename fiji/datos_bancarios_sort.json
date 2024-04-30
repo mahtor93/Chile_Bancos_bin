@@ -1,0 +1,226 @@
+[
+  {
+    "bin": "404294",
+    "country": "FIJI",
+    "bank": "BANK OF BARODA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419989",
+    "country": "FIJI",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423773",
+    "country": "FIJI",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429349",
+    "country": "FIJI",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431492",
+    "country": "FIJI",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437967",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453761",
+    "country": "FIJI",
+    "bank": "BRED BANK (FIJI), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457817",
+    "country": "FIJI",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462873",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463715",
+    "country": "FIJI",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464038",
+    "country": "FIJI",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467947",
+    "country": "FIJI",
+    "bank": "BANK OF SOUTH PACIFIC, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470610",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472236",
+    "country": "FIJI",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479834",
+    "country": "FIJI",
+    "bank": "NATIONAL BANK OF FIJI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490839",
+    "country": "FIJI",
+    "bank": "NATIONAL BANK OF FIJI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490840",
+    "country": "FIJI",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491021",
+    "country": "FIJI",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493755",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499964",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518638",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "528151",
+    "country": "FIJI",
+    "bank": "BRED BANK (FIJI), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537869",
+    "country": "FIJI",
+    "bank": "FINTECH PACIFIC PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543628",
+    "country": "FIJI",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543836",
+    "country": "FIJI",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546037",
+    "country": "FIJI",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546866",
+    "country": "FIJI",
+    "bank": "VODAFONE FIJI PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547190",
+    "country": "FIJI",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  }
+]

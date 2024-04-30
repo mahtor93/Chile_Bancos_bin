@@ -1,0 +1,974 @@
+[
+    {
+        "BANK_ASIA_CJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "405556",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "BANK ASIA CJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "405557",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "BANK ASIA CJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "417222",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "BANK ASIA CJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            }
+        ]
+    },
+    {
+        "CC_BTA_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "426883",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CC BTA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "CJSC_KYRGYZ_INVESTMENT_AND_CREDIT_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "401586",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "444673",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "444674",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "444675",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "444679",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "517814",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "525319",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "526052",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "526081",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "559397",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "CJSC_KYRGZ_INVESTMENT_AND_CREDIT_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "623326",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "623327",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "623461",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "629274",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "CREDIT_UNION_PAYMENT_CENTER_(LIMITED_LIABILITY_COMPANY)_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "514167",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520159",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "521569",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "521571",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548344",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "558697",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "671167",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DEMIR_KYRGYZ_INTERNATIONAL_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "417219",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417220",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "417221",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421589",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458818",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "470346",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "DEMIR_KYRGYZ_INTERNATIONAL_BANK_CJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "455665",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "518543",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528464",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "528525",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "540247",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544073",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "670662",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "GREEN_TELECOM_SERVICE_LIMITED_LIABILITY_COMPANY_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "412754",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "GREEN TELECOM SERVICE LIMITED LIABILITY COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "HALYK_BANK_KYRGYZSTAN_OJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "403609",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "419672",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "419673",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "419674",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428536",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "458470",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "458702",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "458703",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "HALYK BANK KYRGYZSTAN OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JOINT_STOCK_COMPANY_HALYK_BANK_OF_KAZAKHSTAN_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "510111",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "JSC_BANK_KYRGYZSTAN_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "455695",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "JSC BANK KYRGYZSTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "KAZKOMMERTZBANK_KYRGYZSTAN_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "406776",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KAZKOMMERTZBANK KYRGYZSTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "KOMPANION_BANK_CJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "436153",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KOMPANION BANK CJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "436154",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KOMPANION BANK CJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "KYRGYZKOMMERTSBANK_OJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "400541",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "400550",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "403248",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "447819",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "470639",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "470640",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "472891",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "KYRGYZKOMMERTSBANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "OJSC_BAKAI_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "426882",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "426884",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "457811",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "458466",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458467",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "458469",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "471424",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "471437",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "941754",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC BAKAI BANK",
+                "Marca de carro": "LOCAL BRAND",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "OJSC_COMMERCIAL_BANK_KYRGYZSTAN_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "417747",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417749",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "471470",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "472888",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "OJSC_KYRGYZKOMMERTSBANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "518636",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "530265",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541658",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544176",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544653",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548064",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "559648",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "677689",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC KYRGYZKOMMERTSBANK",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "OJSC_RSK_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "523544",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC RSK BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554979",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC RSK BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "670988",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC RSK BANK",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "OJSC_RUSSIAN_INVESTMENT_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "623339",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OJSC RUSSIAN INVESTMENT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "OPEN_JOINT_STOCK_COMPANY_KEREMET_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "402182",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY KEREMET BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416962",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY KEREMET BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "482134",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY KEREMET BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "OPTIMA_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "623360",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "OPTIMA_BANK_OJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "416958",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416959",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "416960",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416961",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "443997",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            }
+        ]
+    },
+    {
+        "OPTIMA_BANK_OPEN_JOINT_STOCK_COMPANY_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "517667",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OPEN JOINT STOCK COMPANY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541158",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OPEN JOINT STOCK COMPANY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541166",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "OPTIMA BANK OPEN JOINT STOCK COMPANY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            }
+        ]
+    },
+    {
+        "PVB_CARD_CORPORATION_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "623304",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "PVB CARD CORPORATION",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "RSK_BANK_OJSC_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "421804",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "472414",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472415",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "472416",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "472417",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "472418",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "482136",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "482137",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "RSK BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "THE_CJSC_FINCA_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "417748",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "THE CJSC FINCA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "471423",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "THE CJSC FINCA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "THE_OPEN_JOINT_STOCK_COMPANY_KEREMET_BANK_-_KYRGYZSTAN": [
+            {
+                "Numero BIN/IIN": "624476",
+                "Pais": "KYRGYZSTAN",
+                "Nombre del emisor / Banco": "THE OPEN JOINT STOCK COMPANY KEREMET BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

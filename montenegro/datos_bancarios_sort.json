@@ -1,0 +1,914 @@
+[
+  {
+    "bin": "402660",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402661",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404921",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406151",
+    "country": "MONTENEGRO",
+    "bank": "ADRIATIC BANK AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406231",
+    "country": "MONTENEGRO",
+    "bank": "ADRIATIC BANK AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406249",
+    "country": "MONTENEGRO",
+    "bank": "ADRIATIC BANK AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407506",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408352",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408353",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408354",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408355",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408356",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "408357",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "408358",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "410210",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410211",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410559",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410616",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410617",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410618",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410619",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417465",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417989",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421357",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421860",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421861",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424275",
+    "country": "MONTENEGRO",
+    "bank": "KOMERCIJALNA BANKA AD BUDVA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424276",
+    "country": "MONTENEGRO",
+    "bank": "KOMERCIJALNA BANKA AD BUDVA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424277",
+    "country": "MONTENEGRO",
+    "bank": "KOMERCIJALNA BANKA AD BUDVA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424278",
+    "country": "MONTENEGRO",
+    "bank": "KOMERCIJALNA BANKA AD BUDVA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431203",
+    "country": "MONTENEGRO",
+    "bank": "ATLASMONT BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431204",
+    "country": "MONTENEGRO",
+    "bank": "ATLASMONT BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431205",
+    "country": "MONTENEGRO",
+    "bank": "ATLASMONT BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431206",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433330",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "433462",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444009",
+    "country": "MONTENEGRO",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "450024",
+    "country": "MONTENEGRO",
+    "bank": "UNIVERZAL BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "466053",
+    "country": "MONTENEGRO",
+    "bank": "UNIVERSAL CAPITAL BANK AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "466054",
+    "country": "MONTENEGRO",
+    "bank": "FIRST FINANCIAL BANK JSC PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "466056",
+    "country": "MONTENEGRO",
+    "bank": "UNIVERSAL CAPITAL BANK AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470343",
+    "country": "MONTENEGRO",
+    "bank": "UNIVERSAL CAPITAL BANK AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "473860",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486090",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "486329",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510014",
+    "country": "MONTENEGRO",
+    "bank": "ADDIKO BANK AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511357",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "515696",
+    "country": "MONTENEGRO",
+    "bank": "ADDIKO BANK AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516396",
+    "country": "MONTENEGRO",
+    "bank": "LOVCEN BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516971",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518842",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520646",
+    "country": "MONTENEGRO",
+    "bank": "ERSTE BANK A.D. PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520917",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522722",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522952",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523517",
+    "country": "MONTENEGRO",
+    "bank": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "525237",
+    "country": "MONTENEGRO",
+    "bank": "PRVA BANKA CG AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525796",
+    "country": "MONTENEGRO",
+    "bank": "LOVCEN BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526804",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529244",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530934",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531319",
+    "country": "MONTENEGRO",
+    "bank": "ERSTE BANK A.D. PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532094",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535214",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535224",
+    "country": "MONTENEGRO",
+    "bank": "LOVCEN BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535225",
+    "country": "MONTENEGRO",
+    "bank": "LOVCEN BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535462",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535505",
+    "country": "MONTENEGRO",
+    "bank": "ADDIKO BANK AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535587",
+    "country": "MONTENEGRO",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535588",
+    "country": "MONTENEGRO",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535589",
+    "country": "MONTENEGRO",
+    "bank": "PJSC BANK VOSTOK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535625",
+    "country": "MONTENEGRO",
+    "bank": "ADDIKO BANK AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536382",
+    "country": "MONTENEGRO",
+    "bank": "LOVCEN BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536438",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537433",
+    "country": "MONTENEGRO",
+    "bank": "ERSTE BANK A.D. PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537453",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537515",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537516",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538730",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538814",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540863",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543078",
+    "country": "MONTENEGRO",
+    "bank": "PRVA BANKA CG AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "545949",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546353",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547316",
+    "country": "MONTENEGRO",
+    "bank": "ERSTE BANK A.D. PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547357",
+    "country": "MONTENEGRO",
+    "bank": "ERSTE BANK A.D. PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547745",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547756",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547759",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "548751",
+    "country": "MONTENEGRO",
+    "bank": "PRVA BANKA CG AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550010",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552628",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553035",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553582",
+    "country": "MONTENEGRO",
+    "bank": "PRVA BANKA CG AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554212",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557461",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557462",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557463",
+    "country": "MONTENEGRO",
+    "bank": "PRVA BANKA CG AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557486",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557490",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558608",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559291",
+    "country": "MONTENEGRO",
+    "bank": "LOVCEN BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559452",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559503",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "571306",
+    "country": "MONTENEGRO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "670875",
+    "country": "MONTENEGRO",
+    "bank": "HIPOTEKARNA BANKA AD PODGORICA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670897",
+    "country": "MONTENEGRO",
+    "bank": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676906",
+    "country": "MONTENEGRO",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676982",
+    "country": "MONTENEGRO",
+    "bank": "ERSTE BANK A.D. PODGORICA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677187",
+    "country": "MONTENEGRO",
+    "bank": "ATLAS BANKA A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677313",
+    "country": "MONTENEGRO",
+    "bank": "PRVA BANKA CG AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677383",
+    "country": "MONTENEGRO",
+    "bank": "NLB BANKA AD PODGORICA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677438",
+    "country": "MONTENEGRO",
+    "bank": "ADDIKO BANK AD PODGORICA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677642",
+    "country": "MONTENEGRO",
+    "bank": "PODGORICKA BANKA AD PODGORICA, MEMBER OF OTP GROUP",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  }
+]

@@ -1,0 +1,5474 @@
+[
+  {
+    "bin": "223197",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230869",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "230976",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231001",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231002",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "231017",
+    "country": "PANAMA",
+    "bank": "CAPITAL BANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "234030",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "235010",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL DE PANAMA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "235012",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "244001",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "250004",
+    "country": "PANAMA",
+    "bank": "CAPITAL BANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250006",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "260014",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "379564",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL REVOLVE"
+  },
+  {
+    "bin": "400562",
+    "country": "PANAMA",
+    "bank": "VISA U.S.A. INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400623",
+    "country": "PANAMA",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "TRADITIONAL"
+  },
+  {
+    "bin": "400916",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "400916",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "401642",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401900",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402912",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403480",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "403480",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "404203",
+    "country": "PANAMA",
+    "bank": "HSBC BANK USA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404492",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404493",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404496",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404498",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "404882",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404883",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404884",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404931",
+    "country": "PANAMA",
+    "bank": "FINANCIA CREDIT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "405262",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405653",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405653",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405840",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405840",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405928",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405928",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405931",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406275",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406294",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406458",
+    "country": "PANAMA",
+    "bank": "PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406489",
+    "country": "PANAMA",
+    "bank": "PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406490",
+    "country": "PANAMA",
+    "bank": "PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406704",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "406704",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407688",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407689",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407690",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407692",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407693",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407694",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407695",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407696",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407699",
+    "country": "PANAMA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407700",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407831",
+    "country": "PANAMA",
+    "bank": "BI BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408209",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "408209",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "409723",
+    "country": "PANAMA",
+    "bank": "PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409724",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409902",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409902",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410081",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410144",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410145",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410754",
+    "country": "PANAMA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "410755",
+    "country": "PANAMA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "411008",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411009",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "411073",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411844",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413726",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "414326",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "414327",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414329",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414530",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "414788",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415426",
+    "country": "PANAMA",
+    "bank": "BANCO AZTECA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415607",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416688",
+    "country": "PANAMA",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416833",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417496",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417498",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417499",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417890",
+    "country": "PANAMA",
+    "bank": "EVERTEC CENTROAMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417891",
+    "country": "PANAMA",
+    "bank": "EVERTEC CENTROAMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417900",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418683",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "418683",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "418746",
+    "country": "PANAMA",
+    "bank": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418794",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418794",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419110",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419113",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419294",
+    "country": "PANAMA",
+    "bank": "EVERTEC CENTROAMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419588",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419589",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419658",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419659",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419660",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419945",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL DE PANAMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420615",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420616",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420849",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "421348",
+    "country": "PANAMA",
+    "bank": "MULTI CREDIT BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421381",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421449",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421459",
+    "country": "PANAMA",
+    "bank": "PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421568",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421568",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421586",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421664",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421664",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421696",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421696",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421854",
+    "country": "PANAMA",
+    "bank": "MULTIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421922",
+    "country": "PANAMA",
+    "bank": "FINANCIERA VIA CARTE INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "421956",
+    "country": "PANAMA",
+    "bank": "HSBC BANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "422062",
+    "country": "PANAMA",
+    "bank": "AUSTROBANK OVERSEAS (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422156",
+    "country": "PANAMA",
+    "bank": "BANCO AZTECA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422227",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422283",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422298",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423659",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426014",
+    "country": "PANAMA",
+    "bank": "HSBC BANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426028",
+    "country": "PANAMA",
+    "bank": "PRIMER BANCO DEL ISTMO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426029",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426029",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426073",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426073",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426729",
+    "country": "PANAMA",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427159",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427159",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428260",
+    "country": "PANAMA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428293",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "428329",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428330",
+    "country": "PANAMA",
+    "bank": "AUSTROBANK OVERSEAS (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428953",
+    "country": "PANAMA",
+    "bank": "MULTI CREDIT BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "429513",
+    "country": "PANAMA",
+    "bank": "MULTI CREDIT BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430447",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430447",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430448",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430448",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430449",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430449",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430456",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431265",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431265",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431923",
+    "country": "PANAMA",
+    "bank": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "432139",
+    "country": "PANAMA",
+    "bank": "PRIMER BANCO DEL ISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432191",
+    "country": "PANAMA",
+    "bank": "BANISI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "432192",
+    "country": "PANAMA",
+    "bank": "BANISI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432347",
+    "country": "PANAMA",
+    "bank": "AUSTROBANK OVERSEAS (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "432403",
+    "country": "PANAMA",
+    "bank": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432404",
+    "country": "PANAMA",
+    "bank": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432405",
+    "country": "PANAMA",
+    "bank": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433137",
+    "country": "PANAMA",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433415",
+    "country": "PANAMA",
+    "bank": "BPR BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "433484",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL DE PANAMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433555",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "434151",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434330",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434585",
+    "country": "PANAMA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "434760",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434766",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434787",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "434788",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "434797",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434800",
+    "country": "PANAMA",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434904",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434984",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434985",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434986",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434996",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "435186",
+    "country": "PANAMA",
+    "bank": "BANISTMO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "435187",
+    "country": "PANAMA",
+    "bank": "BANISTMO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "435789",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "436337",
+    "country": "PANAMA",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "438225",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439179",
+    "country": "PANAMA",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "439190",
+    "country": "PANAMA",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439273",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "440415",
+    "country": "PANAMA",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440681",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440684",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441110",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441169",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441643",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441778",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444089",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "444089",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "445502",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445503",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445504",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "445505",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "445506",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "445507",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "446678",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446679",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446680",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "446681",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446682",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446683",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "446684",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446807",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446807",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446808",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446808",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446856",
+    "country": "PANAMA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "446947",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446978",
+    "country": "PANAMA",
+    "bank": "CANAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447661",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450010",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450404",
+    "country": "PANAMA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450417",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450417",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450592",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450592",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450825",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450893",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450893",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451385",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451386",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451393",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451393",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451394",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451394",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451481",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451710",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451793",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451801",
+    "country": "PANAMA",
+    "bank": "PRIMER BANCO DEL ISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451986",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451986",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451989",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451990",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452344",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "452345",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452346",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "452347",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452348",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452349",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452350",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452500",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452501",
+    "country": "PANAMA",
+    "bank": "CHASE MANHATTAN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452520",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452526",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "454048",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454049",
+    "country": "PANAMA",
+    "bank": "DIGITAL WALLET PANAMA S.A **(OFFBOARDING)**",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "454308",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454651",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454652",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454668",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454668",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454856",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455144",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455316",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455316",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455597",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455732",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455732",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455733",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455733",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455872",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456034",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456034",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456547",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456548",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456780",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457273",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457529",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457530",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457531",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457532",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457533",
+    "country": "PANAMA",
+    "bank": "BANCO INTERNACIONAL DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457534",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457609",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457609",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457612",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457612",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458175",
+    "country": "PANAMA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458176",
+    "country": "PANAMA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458177",
+    "country": "PANAMA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460028",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461219",
+    "country": "PANAMA",
+    "bank": "CREDOMATIC DE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "461704",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462946",
+    "country": "PANAMA",
+    "bank": "MULTI CREDIT BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "463197",
+    "country": "PANAMA",
+    "bank": "BI BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "463301",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "463301",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "463474",
+    "country": "PANAMA",
+    "bank": "BANESCO (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463475",
+    "country": "PANAMA",
+    "bank": "EVERTEC CENTROAMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464125",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464126",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465746",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465747",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465771",
+    "country": "PANAMA",
+    "bank": "BANCO G AND T CONTINENTAL (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "466055",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "466055",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467065",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467065",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467915",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467994",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468523",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468523",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468572",
+    "country": "PANAMA",
+    "bank": "BANCO INTERNACIONAL DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "468573",
+    "country": "PANAMA",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469732",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "469735",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK (PANAMA) INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469871",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472045",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473026",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "473026",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "473212",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL DE PANAMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476528",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476529",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476534",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476534",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476535",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476535",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476536",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476536",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476557",
+    "country": "PANAMA",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476808",
+    "country": "PANAMA",
+    "bank": "EVERTEC CENTROAMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476825",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477138",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477367",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "477367",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "480419",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "480419",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "480915",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "480915",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "480920",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "480962",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "481360",
+    "country": "PANAMA",
+    "bank": "INTERNATIONAL UNION BANK LLC (OFFBOARDING)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481530",
+    "country": "PANAMA",
+    "bank": "BBP BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482462",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "482462",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "482474",
+    "country": "PANAMA",
+    "bank": "BHD INTERNATIONAL BANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483111",
+    "country": "PANAMA",
+    "bank": "BANCO AZTECA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "485037",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "485046",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486354",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "486355",
+    "country": "PANAMA",
+    "bank": "BANISI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486356",
+    "country": "PANAMA",
+    "bank": "BANISI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486357",
+    "country": "PANAMA",
+    "bank": "BANISI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486384",
+    "country": "PANAMA",
+    "bank": "MULTIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486425",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486425",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489924",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489924",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490888",
+    "country": "PANAMA",
+    "bank": "CANAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "491095",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL DE PANAMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "COMMERCIAL AGRICULTURE"
+  },
+  {
+    "bin": "491096",
+    "country": "PANAMA",
+    "bank": "BANISI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491099",
+    "country": "PANAMA",
+    "bank": "BANCO AZTECA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491403",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL DE PANAMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "491433",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491434",
+    "country": "PANAMA",
+    "bank": "FINANCIA CREDIT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "491506",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492292",
+    "country": "PANAMA",
+    "bank": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492461",
+    "country": "PANAMA",
+    "bank": "TELERED, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "493122",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "493122",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "493123",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493123",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493124",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493124",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493126",
+    "country": "PANAMA",
+    "bank": "BANCO AZTECA (PANAMA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493462",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493462",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493851",
+    "country": "PANAMA",
+    "bank": "BANISTMO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493856",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494148",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494162",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494162",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494171",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494613",
+    "country": "PANAMA",
+    "bank": "VALE GENERAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "496601",
+    "country": "PANAMA",
+    "bank": "CREDOMATIC DE PANAMA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499888",
+    "country": "PANAMA",
+    "bank": "BBP BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "499948",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499948",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510204",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510241",
+    "country": "PANAMA",
+    "bank": "BANCO DAVIVIENDA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "510252",
+    "country": "PANAMA",
+    "bank": "ALLBANK CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "511617",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "511680",
+    "country": "PANAMA",
+    "bank": "CREDOMATIC INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "511784",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512096",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512329",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512417",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512487",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512766",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512846",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512950",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513542",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "513715",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513716",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513762",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513763",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513849",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "513849",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "514012",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514076",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "514280",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "514308",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514347",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "514419",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514520",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514893",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515373",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515806",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515811",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515831",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515834",
+    "country": "PANAMA",
+    "bank": "BCT BANK INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516154",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516287",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "516371",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516405",
+    "country": "PANAMA",
+    "bank": "BANCO DAVIVIENDA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516438",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516712",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517183",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517209",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517250",
+    "country": "PANAMA",
+    "bank": "ALLBANK CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517368",
+    "country": "PANAMA",
+    "bank": "BCT BANK INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517480",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517482",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517483",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517618",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517963",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "518061",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518075",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518125",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518235",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "518309",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518443",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518451",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "518877",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518877",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519208",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519400",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519437",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "519610",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "519709",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519743",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "519773",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "519910",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519998",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "520057",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520128",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520525",
+    "country": "PANAMA",
+    "bank": "PUNTO PAGO PANAMA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520661",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520661",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520689",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "520692",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520981",
+    "country": "PANAMA",
+    "bank": "BANCO DAVIVIENDA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521056",
+    "country": "PANAMA",
+    "bank": "BANCO PICHINCHA PANAMA S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521627",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521971",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522172",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522189",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522212",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522387",
+    "country": "PANAMA",
+    "bank": "BANCO DAVIVIENDA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522495",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "522696",
+    "country": "PANAMA",
+    "bank": "COOPERATIVA DE SERVICIOS MULTIPLES EDIOACC, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522724",
+    "country": "PANAMA",
+    "bank": "COOPERATIVA DE SERVICIOS MULTIPLES EDIOACC, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522740",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522761",
+    "country": "PANAMA",
+    "bank": "COOPERATIVA DE SERVICIOS MULTIPLES EDIOACC, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522764",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522849",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523031",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "523576",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523763",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523767",
+    "country": "PANAMA",
+    "bank": "BCT BANK INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523775",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524085",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524423",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "524584",
+    "country": "PANAMA",
+    "bank": "BANCO PICHINCHA PANAMA S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524661",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524863",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525370",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525754",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525754",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526391",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526393",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526894",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527063",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527096",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527179",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527610",
+    "country": "PANAMA",
+    "bank": "GLOBAL BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "527614",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "528150",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528185",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "528405",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528405",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528543",
+    "country": "PANAMA",
+    "bank": "BANCO LAFISE SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528593",
+    "country": "PANAMA",
+    "bank": "MPOWER (INTERNAL ONLY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528868",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528947",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529037",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529129",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529233",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529407",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529443",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530461",
+    "country": "PANAMA",
+    "bank": "BALBOA BANK AND TRUST, CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530498",
+    "country": "PANAMA",
+    "bank": "CITIBANK, N.A., PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "530536",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530814",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530814",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530978",
+    "country": "PANAMA",
+    "bank": "PRIMER BANCO DEL ISTMO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531025",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531025",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531116",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "531147",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531394",
+    "country": "PANAMA",
+    "bank": "CM FINANCIERA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531485",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531569",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531760",
+    "country": "PANAMA",
+    "bank": "WALLY PAY INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "531763",
+    "country": "PANAMA",
+    "bank": "WALLY PAY INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532212",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532725",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "533399",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533399",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533970",
+    "country": "PANAMA",
+    "bank": "ALLBANK CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534125",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534259",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "534609",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534846",
+    "country": "PANAMA",
+    "bank": "PUNTO PAGO PANAMA SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "534903",
+    "country": "PANAMA",
+    "bank": "CANAL BANK S. A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "535341",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535341",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535343",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "535829",
+    "country": "PANAMA",
+    "bank": "CM FINANCIERA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "535864",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536448",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536475",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536475",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536549",
+    "country": "PANAMA",
+    "bank": "BANCO FICOHSA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536599",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537071",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537817",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538114",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538764",
+    "country": "PANAMA",
+    "bank": "CM FINANCIERA SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "538829",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538929",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539223",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539232",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540070",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540070",
+    "country": "PANAMA",
+    "bank": "BANCO CITIBANK (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540115",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540149",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "540172",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540249",
+    "country": "PANAMA",
+    "bank": "BAC FINANCIAL CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540316",
+    "country": "PANAMA",
+    "bank": "TOWERBANK INTERNATIONAL INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540434",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540494",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540494",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540627",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "540722",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540767",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540786",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "541088",
+    "country": "PANAMA",
+    "bank": "BANCO DE OCCIDENTE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541095",
+    "country": "PANAMA",
+    "bank": "BCT BANK INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541201",
+    "country": "PANAMA",
+    "bank": "ATLAS BANK PANAMA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541295",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "541376",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541852",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "541854",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542050",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542131",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542131",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542298",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542492",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542497",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543585",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "543610",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543610",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543669",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544077",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544200",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544513",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544514",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544868",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544961",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545225",
+    "country": "PANAMA",
+    "bank": "BANCO PICHINCHA PANAMA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545423",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545488",
+    "country": "PANAMA",
+    "bank": "CAJA DE AHORROS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545504",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545536",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545536",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545577",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545577",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545600",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545600",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545698",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545698",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545717",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545718",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545732",
+    "country": "PANAMA",
+    "bank": "FIRST CENTRAL INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545815",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545815",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546295",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546295",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546324",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "546324",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "546374",
+    "country": "PANAMA",
+    "bank": "FPB BANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546466",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546478",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546554",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547002",
+    "country": "PANAMA",
+    "bank": "BALBOA BANK AND TRUST, CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547028",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547028",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547336",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547807",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547821",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547821",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "548084",
+    "country": "PANAMA",
+    "bank": "BANCO DAVIVIENDA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548320",
+    "country": "PANAMA",
+    "bank": "HSBC BANK USA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548441",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548650",
+    "country": "PANAMA",
+    "bank": "PRIMER BANCO DEL ISTMO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548815",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548823",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548980",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549560",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549638",
+    "country": "PANAMA",
+    "bank": "ALLBANK CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549757",
+    "country": "PANAMA",
+    "bank": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549952",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550232",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550236",
+    "country": "PANAMA",
+    "bank": "BCT BANK INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550476",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "551748",
+    "country": "PANAMA",
+    "bank": "BANCO AZTECA (PANAMA), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551827",
+    "country": "PANAMA",
+    "bank": "BALBOA BANK AND TRUST, CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552090",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552162",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552306",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552550",
+    "country": "PANAMA",
+    "bank": "CITIBANK NA SUCURSAL PANAMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552689",
+    "country": "PANAMA",
+    "bank": "POPULAR BANK LTD. INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552710",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552797",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552976",
+    "country": "PANAMA",
+    "bank": "BANCO DAVIVIENDA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "553166",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553175",
+    "country": "PANAMA",
+    "bank": "BALBOA BANK AND TRUST, CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553528",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553528",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553620",
+    "country": "PANAMA",
+    "bank": "BAC INTERNATIONAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553622",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553622",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553623",
+    "country": "PANAMA",
+    "bank": "BANESCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553626",
+    "country": "PANAMA",
+    "bank": "PRIVAL BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553629",
+    "country": "PANAMA",
+    "bank": "BALBOA BANK AND TRUST, CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553630",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553642",
+    "country": "PANAMA",
+    "bank": "PRODUBANK (PANAMA) S.A. SONIA DE NEWELL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553653",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553653",
+    "country": "PANAMA",
+    "bank": "BANCO GENERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553675",
+    "country": "PANAMA",
+    "bank": "BANCO ALIADO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554252",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554638",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554638",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554922",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554946",
+    "country": "PANAMA",
+    "bank": "SCOTIABANK CARIBBEAN HOLDING, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554970",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557613",
+    "country": "PANAMA",
+    "bank": "PRIVAL BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557651",
+    "country": "PANAMA",
+    "bank": "FINANCIERA FINANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557792",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK AND COMPANY, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "558153",
+    "country": "PANAMA",
+    "bank": "MERCANTIL BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "558400",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558607",
+    "country": "PANAMA",
+    "bank": "MULTIBANK INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559086",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559245",
+    "country": "PANAMA",
+    "bank": "MMG BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559248",
+    "country": "PANAMA",
+    "bank": "ST. GEORGES BANK & COMPANY INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559387",
+    "country": "PANAMA",
+    "bank": "PRIVAL BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559760",
+    "country": "PANAMA",
+    "bank": "METROBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559987",
+    "country": "PANAMA",
+    "bank": "PROFESSIONAL CARD PROCESSING CORP.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "580414",
+    "country": "PANAMA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "589082",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589083",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "589084",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589086",
+    "country": "PANAMA",
+    "bank": "BANCO NACIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601560",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "603742",
+    "country": "PANAMA",
+    "bank": "BANISTMO S.A",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "626223",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626223",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629130",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629130",
+    "country": "PANAMA",
+    "bank": "CREDICORP BANK, S.A.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

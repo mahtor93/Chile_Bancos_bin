@@ -1,0 +1,1338 @@
+[
+  {
+    "bin": "400881",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401949",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "402263",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "402401",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405332",
+    "country": "GEORGIA",
+    "bank": "JSC CREDO BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406452",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409864",
+    "country": "GEORGIA",
+    "bank": "BASISBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409865",
+    "country": "GEORGIA",
+    "bank": "BASISBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409866",
+    "country": "GEORGIA",
+    "bank": "BASISBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409867",
+    "country": "GEORGIA",
+    "bank": "BASISBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410170",
+    "country": "GEORGIA",
+    "bank": "JSC CREDO BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411634",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411758",
+    "country": "GEORGIA",
+    "bank": "JSC TERABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411868",
+    "country": "GEORGIA",
+    "bank": "THE BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412570",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412571",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412572",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412573",
+    "country": "GEORGIA",
+    "bank": "PEOPLES BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412742",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413220",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414050",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414051",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414052",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414053",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415479",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417279",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417302",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417393",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417435",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417436",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417437",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417769",
+    "country": "GEORGIA",
+    "bank": "BASISBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418699",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419512",
+    "country": "GEORGIA",
+    "bank": "SC HSBC BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419513",
+    "country": "GEORGIA",
+    "bank": "SC HSBC BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419514",
+    "country": "GEORGIA",
+    "bank": "SC HSBC BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420672",
+    "country": "GEORGIA",
+    "bank": "LLC PAY UNICARD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420680",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421138",
+    "country": "GEORGIA",
+    "bank": "JSC ZIRAAT BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422599",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423799",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423921",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424408",
+    "country": "GEORGIA",
+    "bank": "JSC TERABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424409",
+    "country": "GEORGIA",
+    "bank": "JSC TERABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424410",
+    "country": "GEORGIA",
+    "bank": "JSC KOR STANDARD BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424411",
+    "country": "GEORGIA",
+    "bank": "JSC STANDARD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424442",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424813",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424906",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424908",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424948",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "424949",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424950",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424951",
+    "country": "GEORGIA",
+    "bank": "JSC TAO BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427363",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428251",
+    "country": "GEORGIA",
+    "bank": "JSC TERABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428633",
+    "country": "GEORGIA",
+    "bank": "JSC HALYK BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428634",
+    "country": "GEORGIA",
+    "bank": "JSC HALYK BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429048",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429593",
+    "country": "GEORGIA",
+    "bank": "BASISBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "429594",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430189",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430190",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430191",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430272",
+    "country": "GEORGIA",
+    "bank": "JSC INVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431255",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431570",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431571",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "431572",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431573",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431574",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432784",
+    "country": "GEORGIA",
+    "bank": "JSC SILK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432785",
+    "country": "GEORGIA",
+    "bank": "JSC SILK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432786",
+    "country": "GEORGIA",
+    "bank": "JSC BTA SILK ROAD BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432787",
+    "country": "GEORGIA",
+    "bank": "JSC BTA SILK ROAD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "437572",
+    "country": "GEORGIA",
+    "bank": "JSC BANK CONSTANTA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437573",
+    "country": "GEORGIA",
+    "bank": "JSC BANK CONSTANTA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "437574",
+    "country": "GEORGIA",
+    "bank": "JSC BANK CONSTANTA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "439032",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439033",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439034",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439035",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "442188",
+    "country": "GEORGIA",
+    "bank": "JSC INVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442189",
+    "country": "GEORGIA",
+    "bank": "JSC INVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443866",
+    "country": "GEORGIA",
+    "bank": "JSC PROCREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "443868",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446521",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446522",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453170",
+    "country": "GEORGIA",
+    "bank": "JSC PASHA BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453171",
+    "country": "GEORGIA",
+    "bank": "JSC PASHA BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453173",
+    "country": "GEORGIA",
+    "bank": "JSC PASHA BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457759",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457855",
+    "country": "GEORGIA",
+    "bank": "JSC SILK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458251",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458295",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "462206",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "464313",
+    "country": "GEORGIA",
+    "bank": "JSC TBC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "464520",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465895",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467723",
+    "country": "GEORGIA",
+    "bank": "JSC TERABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470384",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470665",
+    "country": "GEORGIA",
+    "bank": "JSC BANK CONSTANTA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471253",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471254",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471255",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "471256",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "471292",
+    "country": "GEORGIA",
+    "bank": "JSC VTB BANK (GEORGIA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "471349",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471350",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472240",
+    "country": "GEORGIA",
+    "bank": "JSC INVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472291",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475165",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "475199",
+    "country": "GEORGIA",
+    "bank": "JSC BANK REPUBLIC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476867",
+    "country": "GEORGIA",
+    "bank": "JSC ISBANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478761",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478762",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478763",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478765",
+    "country": "GEORGIA",
+    "bank": "JSC CARTU BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "482416",
+    "country": "GEORGIA",
+    "bank": "JSC HALYK BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482417",
+    "country": "GEORGIA",
+    "bank": "JSC HALYK BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "482418",
+    "country": "GEORGIA",
+    "bank": "JSC HALYK BANK GEORGIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488902",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "506512",
+    "country": "GEORGIA",
+    "bank": "JSC INVESTBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513639",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516829",
+    "country": "GEORGIA",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522234",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY VTB BANK (GEORGIA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522235",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY VTB BANK (GEORGIA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524707",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525926",
+    "country": "GEORGIA",
+    "bank": "JSC MFI INTELEXPRESS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529975",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530223",
+    "country": "GEORGIA",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532434",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533216",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535130",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535245",
+    "country": "GEORGIA",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535246",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535656",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY PROCREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535696",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY VTB BANK (GEORGIA)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537414",
+    "country": "GEORGIA",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537524",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538125",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY VTB BANK (GEORGIA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540217",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "540407",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY CARTU BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541118",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY PROCREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542833",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544458",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY CARTU BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545063",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547590",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552606",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY CARTU BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554526",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY CARTU BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555900",
+    "country": "GEORGIA",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558590",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY VTB BANK (GEORGIA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623345",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623347",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624428",
+    "country": "GEORGIA",
+    "bank": "JSC BASISBANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624429",
+    "country": "GEORGIA",
+    "bank": "JSC BASISBANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "626398",
+    "country": "GEORGIA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "670545",
+    "country": "GEORGIA",
+    "bank": "JSC PRIVATBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670863",
+    "country": "GEORGIA",
+    "bank": "JSC INVESTBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670876",
+    "country": "GEORGIA",
+    "bank": "TURKIYE IS BANKASI, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676356",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676467",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676468",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY VTB BANK (GEORGIA)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676469",
+    "country": "GEORGIA",
+    "bank": "JSC BANK OF GEORGIA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676868",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY CARTU BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677054",
+    "country": "GEORGIA",
+    "bank": "JOINT STOCK COMPANY PROCREDIT BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677653",
+    "country": "GEORGIA",
+    "bank": "JSC LIBERTY BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

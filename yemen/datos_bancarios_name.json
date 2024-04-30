@@ -1,0 +1,622 @@
+[
+    {
+        "ALKURAIMI_ISLAMIC_MICROFINANCE_BANK_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "526216",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "ALKURAIMI ISLAMIC MICROFINANCE BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "539171",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "ALKURAIMI ISLAMIC MICROFINANCE BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "ARAB_BANK_PLC_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "432594",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "432595",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "447523",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "474714",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "COOPERATIVE_&_AGRICULTURAL_CREDIT_BANK_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "623380",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE & AGRICULTURAL CREDIT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624367",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE & AGRICULTURAL CREDIT BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "COOPERATIVE_AGRICULTURAL_CREDIT_BANK_(CAC_BANK)_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "530566",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531402",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531404",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "COOPERATIVE_AND_AGRICULTURAL_CREDIT_BANK_(CAC_BANK)_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "431842",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431843",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "431844",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431845",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "484802",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CREDIT_CARD_SERVICES_JORDAN_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "528019",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CREDIT CARD SERVICES JORDAN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            },
+            {
+                "Numero BIN/IIN": "531221",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CREDIT CARD SERVICES JORDAN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "CSCBANK_L._-_YEMEN": [
+            {
+                "Numero BIN/IIN": "559134",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CSCBANK_SAL_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "512690",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512728",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "516344",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "516351",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "516386",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "522850",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544483",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "554930",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "INTERNATIONAL_BANK_OF_YEMEN_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "412560",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "412561",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "416730",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "428532",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "428533",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "521064",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528012",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534307",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "534309",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "534314",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "548071",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "552371",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF YEMEN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "QATAR_NATIONAL_BANK_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "524496",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "QATAR NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            }
+        ]
+    },
+    {
+        "TADHAMON_BANK_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "414500",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "414501",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "423291",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427826",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483998",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "TADHAMON_INTERNATIONAL_ISLAMIC_BANK_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "411799",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "422922",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427823",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427824",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "427825",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483999",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "484001",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "485009",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "YEMEN_BANK_FOR_RECONSTRUCTION_AND_DEVELOPMENT_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "524387",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "537973",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "YEMEN_COMMERCIAL_BANK_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "421391",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428124",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428125",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "428126",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428127",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "462838",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462924",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "531669",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "540697",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "541896",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544178",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "551231",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN COMMERCIAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "YEMEN_KUWAIT_BANK_FOR_TRADE_&_INVESTMENT_-_YEMEN": [
+            {
+                "Numero BIN/IIN": "418360",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN KUWAIT BANK FOR TRADE & INVESTMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418361",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN KUWAIT BANK FOR TRADE & INVESTMENT",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "519685",
+                "Pais": "YEMEN",
+                "Nombre del emisor / Banco": "YEMEN KUWAIT BANK FOR TRADE & INVESTMENT",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            }
+        ]
+    }
+]

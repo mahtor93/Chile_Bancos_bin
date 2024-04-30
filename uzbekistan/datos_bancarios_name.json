@@ -1,0 +1,2202 @@
+[
+    {
+        "AGROBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626257",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "AGROBANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860004",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "AGROBANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986003",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "AGROBANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ALOQABANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626247",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ALOQABANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "626418",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ALOQABANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860031",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ALOQABANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986019",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ALOQABANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ASAKA_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860013",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ASAKA BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986004",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ASAKA BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ASIA_ALLIANCE_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626272",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ASIA ALLIANCE BANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860055",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ASIA ALLIANCE BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986009",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ASIA ALLIANCE BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_IPAK_YULI_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "621045",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "BANK IPAK YULI",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "DAVR_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "623325",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "DAVR BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "626273",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "DAVR BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860051",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "DAVR BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986025",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "DAVR BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "HAMKOR_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626256",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "HAMKOR BANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860012",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "HAMKOR BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986016",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "HAMKOR BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "INFIN_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626253",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "INFIN BANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860053",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "INFIN BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986026",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "INFIN BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "IPAK_YO'LI_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626249",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "IPAK YO'LI BANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860014",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "IPAK YO'LI BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986017",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "IPAK YO'LI BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "IPOTEKA_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860033",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "IPOTEKA BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986001",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "IPOTEKA BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "JOINT_STOCK_COMMERCIAL_BANK_DAVR_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "538703",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMMERCIAL BANK DAVR BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "JOINT_STOCK_COMPANY_ASAKABANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "518969",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "537934",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "544081",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD SALARY"
+            },
+            {
+                "Numero BIN/IIN": "547687",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "555536",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557223",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BLACK"
+            },
+            {
+                "Numero BIN/IIN": "676662",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY ASAKABANK",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "JOINT_STOCK_COMPANY_AVO_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "526209",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY AVO BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JOINT_STOCK_COMPANY_OCTOBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "404632",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY OCTOBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "405179",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY OCTOBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "410439",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY OCTOBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "415168",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY OCTOBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445555",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK COMPANY OCTOBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JOINT_STOCK_INNOVATION_COMMERCIAL_BANK_IPAK_YULI_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "547638",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JOINT STOCK INNOVATION COMMERCIAL BANK IPAK YULI",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "JS_COMMERCIAL_MORTGAGE_BANK_IPOTEKA_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "408416",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS COMMERCIAL MORTGAGE BANK IPOTEKA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "424215",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS COMMERCIAL MORTGAGE BANK IPOTEKA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "479092",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS COMMERCIAL MORTGAGE BANK IPOTEKA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JS_INNOVATION_CB_IPAK_YULI_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "402306",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS INNOVATION CB IPAK YULI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "402778",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS INNOVATION CB IPAK YULI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "410312",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS INNOVATION CB IPAK YULI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "414565",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS INNOVATION CB IPAK YULI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "485469",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS INNOVATION CB IPAK YULI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "485470",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JS INNOVATION CB IPAK YULI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JSC_AVO_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "410418",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC AVO BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "449739",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC AVO BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "JSC_GARANT_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "429558",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC GARANT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "438550",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC GARANT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "440253",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC GARANT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "445575",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC GARANT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "446904",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC GARANT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSC_KDB_BANK_UZBEKISTAN_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "418783",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC KDB BANK UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479046",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC KDB BANK UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "479047",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC KDB BANK UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479049",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC KDB BANK UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "JSC_SMART_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "406707",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC SMART BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418689",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC SMART BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSC_TBC_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "417655",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC TBC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "490801",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC TBC BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSC_ZIRAAT_BANK_UZBEKISTAN_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "447136",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSC ZIRAAT BANK UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSCB_ALOKABANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "484799",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB ALOKABANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSCB_ALOQABANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "403485",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB ALOQABANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "419525",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB ALOQABANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JSCB_BUSINESS_DEVELOPMENT_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "417218",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB BUSINESS DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "437980",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB BUSINESS DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "440620",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB BUSINESS DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "454104",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB BUSINESS DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "460069",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB BUSINESS DEVELOPMENT BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSCB_HAMKORBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "400847",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB HAMKORBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "423120",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB HAMKORBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447850",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB HAMKORBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478878",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB HAMKORBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "JSCB_INVEST_FINANCE_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "404800",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "404935",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "419311",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440077",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "473872",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "473873",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "473874",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB INVEST FINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JSCB_KAPITALBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "414084",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "416674",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "417941",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "427831",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427832",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "427833",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427834",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "435741",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "452436",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455074",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "460472",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "473952",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "479074",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "481436",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "499893",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "526098",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528895",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "534647",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "539717",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "678556",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB KAPITALBANK",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "JSCB_MADAD_INVEST_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "430142",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB MADAD INVEST BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "JSCB_MIKROKREDITBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "406288",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB MIKROKREDITBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "408417",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB MIKROKREDITBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422244",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB MIKROKREDITBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "JSCB_TENGE_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "424124",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TENGE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            }
+        ]
+    },
+    {
+        "JSCB_TURON_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "422326",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "427830",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "429714",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "439374",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "447848",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447849",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "447851",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "458724",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472887",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB TURON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "JSCB_UZBEK_INDUSTRIAL_AND_CONSTRUCTION_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "446309",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB UZBEK INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "479048",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB UZBEK INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484149",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "JSCB UZBEK INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "KAPITAL_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860049",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "KAPITAL BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986010",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "KAPITAL BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "KDB_BANK_UZBEKISTAN_JSC_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "676436",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "KDB BANK UZBEKISTAN JSC",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "MADAD_INVEST_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860058",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "MADAD INVEST BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986032",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "MADAD INVEST BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "MIKROKREDITBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626292",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "MIKROKREDITBANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860005",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "MIKROKREDITBANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986013",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "MIKROKREDITBANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "NATIONAL_BANK_FOR_FOREIGN_ECONOMIC_ACTIVITY_OF_THE_REPUBLIC_OF_UZBEKIS_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "514379",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "517926",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "532154",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "559817",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "670591",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKIS",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "NATIONAL_BANK_FOR_FOREIGN_ECONOMIC_ACTIVITY_OF_THE_REPUBLIC_OF_UZBEKISTAN_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "403701",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "414381",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "414382",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "479091",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "490844",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "491664",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "NBU_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626263",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NBU",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860002",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NBU",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986012",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "NBU",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "O'ZSANOATQURILISH_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860003",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "O'ZSANOATQURILISH BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986002",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "O'ZSANOATQURILISH BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "OJSC_CB_QISHLOQ_QURILISH_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "458812",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "OJSC CB QISHLOQ QURILISH BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "OJSC_HAMKOR_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "623313",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "OJSC HAMKOR BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "OJSCBASIAALLIANCEBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "621624",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "OJSCBASIAALLIANCEBANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "OZAGROEKSPORTBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860059",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "OZAGROEKSPORTBANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986031",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "OZAGROEKSPORTBANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "PJSC_ORIENT_FINANS_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "511662",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "513025",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517379",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "517425",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "517986",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "519477",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "519746",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "525935",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526217",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "527685",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "530287",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531951",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536261",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "540648",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542881",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "549719",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554269",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554270",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "558616",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "670862",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "671192",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "671219",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSC ORIENT FINANS",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "PJSCB_ORIENT_FINANS_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "623481",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PJSCB ORIENT FINANS",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "POYTAXT_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860060",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "POYTAXT BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "PRIVATE_JOINT_COMMERCIAL_BANK_OF_UNIVERSAL_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "407367",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT COMMERCIAL BANK OF UNIVERSAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "493453",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT COMMERCIAL BANK OF UNIVERSAL BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "PRIVATE_JOINT_STOCK_COMMERCIAL_BANK_DAVR_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "429434",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT STOCK COMMERCIAL BANK DAVR BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "460294",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT STOCK COMMERCIAL BANK DAVR BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490957",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT STOCK COMMERCIAL BANK DAVR BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "PRIVATE_JOINT_STOCK_COMMERCIAL_BANK_ORIENT_FINANS_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "410859",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT STOCK COMMERCIAL BANK ORIENT FINANS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410860",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JOINT STOCK COMMERCIAL BANK ORIENT FINANS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "PRIVATE_JS_EXCHANGE_BANK_TRUSTBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "407015",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JS EXCHANGE BANK TRUSTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "409784",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JS EXCHANGE BANK TRUSTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416672",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JS EXCHANGE BANK TRUSTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416675",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE JS EXCHANGE BANK TRUSTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "PRIVATE_OJS_CB_CREDIT_STANDARD_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "415252",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE OJS CB CREDIT STANDARD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "PRIVATE_OJSC_BANK_ASIA_ALLIANCE_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "463608",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE OJSC BANK ASIA ALLIANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "468597",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE OJSC BANK ASIA ALLIANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "468598",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE OJSC BANK ASIA ALLIANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "478758",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE OJSC BANK ASIA ALLIANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "491699",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "PRIVATE OJSC BANK ASIA ALLIANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "QISHLOQ_QURILISH_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626248",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "QISHLOQ QURILISH BANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860009",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "QISHLOQ QURILISH BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986006",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "QISHLOQ QURILISH BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "RAVNAQ_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860050",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "RAVNAQ BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986024",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "RAVNAQ BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SADERAT_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860043",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SADERAT BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986030",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SADERAT BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SANOAT_QURILISH_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "403535",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SANOAT QURILISH BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "403813",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SANOAT QURILISH BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "409578",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SANOAT QURILISH BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "SAVDOGAR_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860008",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SAVDOGAR BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986014",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "SAVDOGAR BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TRASTBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860030",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TRASTBANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986018",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TRASTBANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TURKISTONBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626282",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TURKISTONBANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860038",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TURKISTONBANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986021",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TURKISTONBANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TURON_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860011",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TURON BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986015",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "TURON BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "UNIVERSALBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626283",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UNIVERSALBANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860048",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UNIVERSALBANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986023",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UNIVERSALBANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "UZBEK_INDUSTRIAL_AND_CONSTRUCTION_BANK_JSCB_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "517911",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "526083",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539203",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "548508",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "555062",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BLACK"
+            },
+            {
+                "Numero BIN/IIN": "559528",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BLACK"
+            }
+        ]
+    },
+    {
+        "UZBEKISTAN_INFINBANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "621349",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZBEKISTAN INFINBANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "UZKDB_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "410659",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433970",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "446905",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "446906",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "457710",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "860034",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986020",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZKDB BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "UZPROMSTROYBANK_UZBEK_JSC_INDUSTRIAL_AND_CONSTRUCTION_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "403262",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "409662",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "409782",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417440",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "424233",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "XALQ_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "626291",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "XALQ BANK",
+                "Marca de carro": "CHINA UNION PAY/UZCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "860006",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "XALQ BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986008",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "XALQ BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ZIRAAT_BANK_-_UZBEKISTAN": [
+            {
+                "Numero BIN/IIN": "860020",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ZIRAAT BANK",
+                "Marca de carro": "UZCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "986029",
+                "Pais": "UZBEKISTAN",
+                "Nombre del emisor / Banco": "ZIRAAT BANK",
+                "Marca de carro": "HUMOCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

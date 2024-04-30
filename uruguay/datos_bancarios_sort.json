@@ -1,0 +1,2722 @@
+[
+  {
+    "bin": "223047",
+    "country": "URUGUAY",
+    "bank": "NUMMI.S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223136",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223137",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223138",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232004",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "360109",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361232",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "363085",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY ITAU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "363452",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "363453",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "363454",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "363455",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "363571",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY ITAU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "364302",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364303",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364306",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364307",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364308",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365409",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365410",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365411",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365412",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365452",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365629",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365649",
+    "country": "URUGUAY",
+    "bank": "DC URUGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "400773",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401070",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401527",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401527",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401555",
+    "country": "URUGUAY",
+    "bank": "HSBC BANK (URUGUAY), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401556",
+    "country": "URUGUAY",
+    "bank": "HSBC BANK (URUGUAY), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401620",
+    "country": "URUGUAY",
+    "bank": "DINERO ELECTRONICO ANDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403364",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407596",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407597",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409078",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "410377",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410429",
+    "country": "URUGUAY",
+    "bank": "DINERO ELECTRONICO ANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412001",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414284",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415723",
+    "country": "URUGUAY",
+    "bank": "HSBC BANK (URUGUAY), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417757",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418989",
+    "country": "URUGUAY",
+    "bank": "BANCO BANDES URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421300",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421300",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421301",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421301",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421571",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421571",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421821",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422604",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422754",
+    "country": "URUGUAY",
+    "bank": "BANCO BANDES URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422755",
+    "country": "URUGUAY",
+    "bank": "BANCO BANDES URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422756",
+    "country": "URUGUAY",
+    "bank": "BANCO BANDES URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422757",
+    "country": "URUGUAY",
+    "bank": "PERSONAS SANTANDER EMPRESA ADMINISTRADORA DE CREDITOS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423081",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "423476",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425677",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426511",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "430307",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430308",
+    "country": "URUGUAY",
+    "bank": "RIAS REDBANC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434947",
+    "country": "URUGUAY",
+    "bank": "FUCAC VERDE COOPERATIVA DE AHORRO Y CREDITO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437846",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440696",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441010",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441573",
+    "country": "URUGUAY",
+    "bank": "OCA CASA FINANCIERA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444781",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444782",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "444783",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "448115",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "448162",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448163",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448164",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448722",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448722",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449749",
+    "country": "URUGUAY",
+    "bank": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449750",
+    "country": "URUGUAY",
+    "bank": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "449769",
+    "country": "URUGUAY",
+    "bank": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450624",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450626",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450637",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450786",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450986",
+    "country": "URUGUAY",
+    "bank": "EDIGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450986",
+    "country": "URUGUAY",
+    "bank": "EDIGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451319",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451366",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451367",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454053",
+    "country": "URUGUAY",
+    "bank": "NUEVO BANCO COMERCIAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454065",
+    "country": "URUGUAY",
+    "bank": "NUEVO BANCO COMERCIAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454066",
+    "country": "URUGUAY",
+    "bank": "NUEVO BANCO COMERCIAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454602",
+    "country": "URUGUAY",
+    "bank": "EXPRINTER CASA BANCARIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454603",
+    "country": "URUGUAY",
+    "bank": "EXPRINTER CASA BANCARIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454883",
+    "country": "URUGUAY",
+    "bank": "SISTARBANC S.R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454884",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "454884",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455104",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455104",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455110",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455110",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455134",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455148",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "455148",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "455175",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455175",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455176",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455176",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455189",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455189",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455956",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455987",
+    "country": "URUGUAY",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455988",
+    "country": "URUGUAY",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456357",
+    "country": "URUGUAY",
+    "bank": "INTERCONTINENTAL BANK (URUGUAY), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457643",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "458959",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460067",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463308",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "463308",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465458",
+    "country": "URUGUAY",
+    "bank": "DINERO ELECTRONICO ANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "465469",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466240",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466241",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466241",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467490",
+    "country": "URUGUAY",
+    "bank": "BNL DE URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467909",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467910",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467911",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468562",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468562",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "469703",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472811",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472812",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472813",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473103",
+    "country": "URUGUAY",
+    "bank": "ASOCIACION NACIONAL DE AFILIADOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473496",
+    "country": "URUGUAY",
+    "bank": "HSBC BANK (URUGUAY), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477157",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477158",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477159",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481521",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483087",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483114",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485956",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "489417",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489991",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491385",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491385",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491394",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491395",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491396",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491505",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491510",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491516",
+    "country": "URUGUAY",
+    "bank": "EDIGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491516",
+    "country": "URUGUAY",
+    "bank": "EDIGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491548",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491549",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491555",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491669",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491669",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491670",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491670",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491882",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491883",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491954",
+    "country": "URUGUAY",
+    "bank": "COMPANIA URUGUAYA DE MEDIOS DE PROCESAMIENTO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "492961",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "492962",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492963",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "492964",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493525",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493526",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493726",
+    "country": "URUGUAY",
+    "bank": "HSBC BANK (URUGUAY), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493771",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493772",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493787",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494007",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494008",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494016",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494044",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494078",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494085",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494095",
+    "country": "URUGUAY",
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494197",
+    "country": "URUGUAY",
+    "bank": "BANCO DE MONTEVIDEO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "496034",
+    "country": "URUGUAY",
+    "bank": "BAUTZEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498479",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498524",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "498524",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "498525",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498525",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498535",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "499842",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499842",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510198",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511604",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "512538",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514787",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "514877",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514877",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515689",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "515790",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "515830",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515845",
+    "country": "URUGUAY",
+    "bank": "ECONSTAR SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "515861",
+    "country": "URUGUAY",
+    "bank": "ECONSTAR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516567",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "518787",
+    "country": "URUGUAY",
+    "bank": "NUMMI.S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519185",
+    "country": "URUGUAY",
+    "bank": "NUMMI.S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519697",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519697",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519757",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "520221",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521119",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521889",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522128",
+    "country": "URUGUAY",
+    "bank": "ECONSTAR SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522414",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522414",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522861",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522861",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523055",
+    "country": "URUGUAY",
+    "bank": "NUMMI.S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523211",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523912",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "524087",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524093",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524663",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524885",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525407",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525422",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525459",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525460",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525473",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525486",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525845",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527130",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "527602",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "528688",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529032",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529121",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529130",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529984",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530608",
+    "country": "URUGUAY",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530779",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530779",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531141",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531179",
+    "country": "URUGUAY",
+    "bank": "NUMMI.S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531739",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532398",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532399",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532408",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532409",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532411",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532412",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532413",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532413",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532414",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532415",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "532415",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "532416",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532417",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532418",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532419",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532684",
+    "country": "URUGUAY",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "532763",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "532763",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "532978",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533060",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533238",
+    "country": "URUGUAY",
+    "bank": "BANQUE HERITAGE (URUGUAY), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533423",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533860",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533871",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533888",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534262",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534263",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534880",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534983",
+    "country": "URUGUAY",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535852",
+    "country": "URUGUAY",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536258",
+    "country": "URUGUAY",
+    "bank": "SOCUR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536371",
+    "country": "URUGUAY",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536560",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536670",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536671",
+    "country": "URUGUAY",
+    "bank": "FINDARIN SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536770",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536814",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538983",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539110",
+    "country": "URUGUAY",
+    "bank": "NUMMI.S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539916",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539918",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539919",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540606",
+    "country": "URUGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541235",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541409",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541753",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541785",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542165",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "542189",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542580",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "542991",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542991",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543746",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543753",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544787",
+    "country": "URUGUAY",
+    "bank": "SCOTIABANK URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545612",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545703",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546625",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "547278",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547295",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547296",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548227",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548333",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548479",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548479",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548726",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548726",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548729",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548729",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548801",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549019",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549530",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549530",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549564",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549564",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549571",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549571",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549576",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549576",
+    "country": "URUGUAY",
+    "bank": "OCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549826",
+    "country": "URUGUAY",
+    "bank": "PROMOTE SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "551200",
+    "country": "URUGUAY",
+    "bank": "ECONSTAR SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "551634",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "551956",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "552161",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552506",
+    "country": "URUGUAY",
+    "bank": "BANCO SANTANDER SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553445",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553446",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554530",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554667",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "555070",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555425",
+    "country": "URUGUAY",
+    "bank": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "556590",
+    "country": "URUGUAY",
+    "bank": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557917",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558930",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "558997",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "558997",
+    "country": "URUGUAY",
+    "bank": "BANCO ITAU URUGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559100",
+    "country": "URUGUAY",
+    "bank": "BLANICO SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559109",
+    "country": "URUGUAY",
+    "bank": "BLANICO SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559926",
+    "country": "URUGUAY",
+    "bank": "FIRST DATA CONO SUR, S.R.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

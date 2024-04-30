@@ -1,0 +1,50 @@
+[
+  {
+    "bin": "408048",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "bank": "BGFIBANK CENTRAFRIQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408142",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "bank": "ECOBANK CENTRAFRIQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433804",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "bank": "ECOBANK CENTRAFRIQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "464114",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "bank": "ECOBANK CENTRAFRIQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "481448",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "bank": "ECOBANK CENTRAFRIQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "532517",
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

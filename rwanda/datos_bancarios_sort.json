@@ -1,0 +1,642 @@
+[
+  {
+    "bin": "402022",
+    "country": "RWANDA",
+    "bank": "BANK OF AFRICA RWANDA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406961",
+    "country": "RWANDA",
+    "bank": "URWEGO OPPORTUNITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406962",
+    "country": "RWANDA",
+    "bank": "URWEGO OPPORTUNITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406963",
+    "country": "RWANDA",
+    "bank": "URWEGO OPPORTUNITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408023",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410331",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410794",
+    "country": "RWANDA",
+    "bank": "COMMERCIAL BANK OF AFRICA (RWANDA) PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410804",
+    "country": "RWANDA",
+    "bank": "COMMERCIAL BANK OF AFRICA (RWANDA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410807",
+    "country": "RWANDA",
+    "bank": "COMMERCIAL BANK OF AFRICA (RWANDA) PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411744",
+    "country": "RWANDA",
+    "bank": "BPR BANK RWANDA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413213",
+    "country": "RWANDA",
+    "bank": "ACCESS BANK (RWANDA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421133",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK RWANDA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421153",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK RWANDA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421183",
+    "country": "RWANDA",
+    "bank": "BPR BANK RWANDA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429958",
+    "country": "RWANDA",
+    "bank": "BANQUE DE KIGALI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "430073",
+    "country": "RWANDA",
+    "bank": "ZIGAMA CSS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446999",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447927",
+    "country": "RWANDA",
+    "bank": "BANQUE DE KIGALI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "452343",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456092",
+    "country": "RWANDA",
+    "bank": "BANQUE DE KIGALI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456093",
+    "country": "RWANDA",
+    "bank": "BANQUE DE KIGALI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456094",
+    "country": "RWANDA",
+    "bank": "BANQUE DE KIGALI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457668",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK RWANDA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457669",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK RWANDA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457700",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK RWANDA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457702",
+    "country": "RWANDA",
+    "bank": "BPR BANK RWANDA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460008",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK RWANDA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462078",
+    "country": "RWANDA",
+    "bank": "BANQUE DE KIGALI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465615",
+    "country": "RWANDA",
+    "bank": "ZIGAMA CSS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466589",
+    "country": "RWANDA",
+    "bank": "BPR BANK RWANDA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "469642",
+    "country": "RWANDA",
+    "bank": "ACCESS BANK (RWANDA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "471375",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471376",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471377",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "471378",
+    "country": "RWANDA",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471379",
+    "country": "RWANDA",
+    "bank": "BPR BANK RWANDA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471380",
+    "country": "RWANDA",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "471381",
+    "country": "RWANDA",
+    "bank": "BPR BANK RWANDA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471382",
+    "country": "RWANDA",
+    "bank": "KCB RWANDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472426",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474859",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476835",
+    "country": "RWANDA",
+    "bank": "I&M BANK (RWANDA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476836",
+    "country": "RWANDA",
+    "bank": "I&M BANK (RWANDA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476837",
+    "country": "RWANDA",
+    "bank": "I&M BANK (RWANDA) PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476838",
+    "country": "RWANDA",
+    "bank": "I&M BANK (RWANDA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479325",
+    "country": "RWANDA",
+    "bank": "BANQUE COMMERCIALE DU RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479326",
+    "country": "RWANDA",
+    "bank": "BANQUE COMMERCIALE DU RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479327",
+    "country": "RWANDA",
+    "bank": "BANQUE COMMERCIALE DU RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483488",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484604",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484791",
+    "country": "RWANDA",
+    "bank": "ECOBANK RWANDA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486346",
+    "country": "RWANDA",
+    "bank": "ACCESS BANK (RWANDA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510648",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "512946",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512952",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513904",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "514852",
+    "country": "RWANDA",
+    "bank": "AFRICAN BANKING COOPERATION BOTSWANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516305",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517315",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517418",
+    "country": "RWANDA",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519896",
+    "country": "RWANDA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521895",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522693",
+    "country": "RWANDA",
+    "bank": "GUARANTY TRUST BANK (RWANDA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523403",
+    "country": "RWANDA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524277",
+    "country": "RWANDA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526111",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD REWARDS"
+  },
+  {
+    "bin": "526916",
+    "country": "RWANDA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527364",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531835",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532018",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "532634",
+    "country": "RWANDA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534617",
+    "country": "RWANDA",
+    "bank": "BANK OF KIGALI, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540059",
+    "country": "RWANDA",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541094",
+    "country": "RWANDA",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543134",
+    "country": "RWANDA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543162",
+    "country": "RWANDA",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557913",
+    "country": "RWANDA",
+    "bank": "AFRICAN BANKING COOPERATION BOTSWANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "558995",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "559853",
+    "country": "RWANDA",
+    "bank": "I & M BANK (RWANDA) PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623455",
+    "country": "RWANDA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "HALKBANK_STATE_COMMERCIAL_BANK_OF_TURKMENISTAN_-_TURKMENISTAN": [
+            {
+                "Numero BIN/IIN": "422488",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "HALKBANK STATE COMMERCIAL BANK OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "434403",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "HALKBANK STATE COMMERCIAL BANK OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "STATE_BANK_FOR_FOREIGN_ECONOMIC_AFFAIRS_OF_TURKMENISTAN_-_TURKMENISTAN": [
+            {
+                "Numero BIN/IIN": "400071",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "430823",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440251",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440252",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "466565",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478719",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "THE_STATE_BANK_FOR_FOREIGN_ECONOMIC_AFFAIRS_OF_TURKMENISTAN_-_TURKMENISTAN": [
+            {
+                "Numero BIN/IIN": "541981",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544242",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "547873",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "677695",
+                "Pais": "TURKMENISTAN",
+                "Nombre del emisor / Banco": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

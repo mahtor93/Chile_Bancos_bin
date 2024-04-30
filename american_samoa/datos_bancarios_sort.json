@@ -1,0 +1,42 @@
+[
+  {
+    "bin": "412028",
+    "country": "AMERICAN SAMOA",
+    "bank": "AMERIKA SAMOA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433782",
+    "country": "AMERICAN SAMOA",
+    "bank": "AMERIKA SAMOA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "437964",
+    "country": "AMERICAN SAMOA",
+    "bank": "ANZ BANK (SAMOA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555466",
+    "country": "AMERICAN SAMOA",
+    "bank": "BANZPAY TECHNOLOGY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559116",
+    "country": "AMERICAN SAMOA",
+    "bank": "BANZPAY TECHNOLOGY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

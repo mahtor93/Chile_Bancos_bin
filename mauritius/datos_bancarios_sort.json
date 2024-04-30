@@ -1,0 +1,1602 @@
+[
+  {
+    "bin": "223187",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "379849",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN CHARGE"
+  },
+  {
+    "bin": "400076",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "400077",
+    "country": "MAURITIUS",
+    "bank": "STANDARD BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406619",
+    "country": "MAURITIUS",
+    "bank": "INVESTEC BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406625",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "407460",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407803",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "409613",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409689",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416641",
+    "country": "MAURITIUS",
+    "bank": "BANQUE DES MASCAREIGNES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416642",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "417240",
+    "country": "MAURITIUS",
+    "bank": "BANQUE DES MASCAREIGNES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417618",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417619",
+    "country": "MAURITIUS",
+    "bank": "SOUTH EAST ASIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417620",
+    "country": "MAURITIUS",
+    "bank": "BANQUE DES MASCAREIGNES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421327",
+    "country": "MAURITIUS",
+    "bank": "TERRA PAYMENT SERVICES (MAURITIUS)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "421497",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "422647",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422660",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422771",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423280",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423315",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427286",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427882",
+    "country": "MAURITIUS",
+    "bank": "MFS AFRICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428927",
+    "country": "MAURITIUS",
+    "bank": "SILVER BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428951",
+    "country": "MAURITIUS",
+    "bank": "STATE BANK OF MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "429059",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "432065",
+    "country": "MAURITIUS",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432151",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432152",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432153",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432575",
+    "country": "MAURITIUS",
+    "bank": "INVESTEC BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "433349",
+    "country": "MAURITIUS",
+    "bank": "SILVER BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433805",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433806",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441223",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "441233",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "441275",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "442107",
+    "country": "MAURITIUS",
+    "bank": "STANDARD BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446933",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446969",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453100",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453101",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453102",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453103",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453104",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453105",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453106",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454347",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454690",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454691",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454695",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454739",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "455003",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455011",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456709",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457870",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458275",
+    "country": "MAURITIUS",
+    "bank": "BRAMER BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458276",
+    "country": "MAURITIUS",
+    "bank": "BRAMER BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458277",
+    "country": "MAURITIUS",
+    "bank": "BRAMER BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458541",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459207",
+    "country": "MAURITIUS",
+    "bank": "TERRA PAYMENT SERVICES (MAURITIUS)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL"
+  },
+  {
+    "bin": "459208",
+    "country": "MAURITIUS",
+    "bank": "BRAMER BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459209",
+    "country": "MAURITIUS",
+    "bank": "BRAMER BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459282",
+    "country": "MAURITIUS",
+    "bank": "BCP BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459283",
+    "country": "MAURITIUS",
+    "bank": "BCP BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462753",
+    "country": "MAURITIUS",
+    "bank": "BANK OF BARODA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466084",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "466085",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "466086",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "466087",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "466088",
+    "country": "MAURITIUS",
+    "bank": "STATE BANK OF MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "466089",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467750",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467751",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467752",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467753",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467754",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467755",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467759",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467774",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467775",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467776",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467777",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467777",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "471322",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471340",
+    "country": "MAURITIUS",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471340",
+    "country": "MAURITIUS",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471383",
+    "country": "MAURITIUS",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "471383",
+    "country": "MAURITIUS",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "474112",
+    "country": "MAURITIUS",
+    "bank": "MFS AFRICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474140",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476117",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478750",
+    "country": "MAURITIUS",
+    "bank": "SILVER BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481214",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481215",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481216",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481217",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481218",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485018",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "485019",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "487401",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "488922",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489184",
+    "country": "MAURITIUS",
+    "bank": "INVESTEC SPECIALIST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489185",
+    "country": "MAURITIUS",
+    "bank": "INVESTEC BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490870",
+    "country": "MAURITIUS",
+    "bank": "INVESTEC BANK (MAURITIUS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491076",
+    "country": "MAURITIUS",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491077",
+    "country": "MAURITIUS",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491222",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494045",
+    "country": "MAURITIUS",
+    "bank": "BPCE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "494105",
+    "country": "MAURITIUS",
+    "bank": "ABSA BANK MAURITIUS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "510920",
+    "country": "MAURITIUS",
+    "bank": "SBI (MAURITIUS) LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512501",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "514097",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515869",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518015",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518139",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518405",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518795",
+    "country": "MAURITIUS",
+    "bank": "BANK ONE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520936",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "522396",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523974",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523979",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523991",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523995",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524280",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "524709",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525428",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527418",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527418",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528165",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "529619",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530149",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531834",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532643",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533116",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533116",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533879",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534628",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "534660",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "534841",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "536338",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536895",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536895",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541432",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "541432",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "541638",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541638",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542155",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542155",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543209",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543603",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543928",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544541",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544541",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545304",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545304",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545486",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "545643",
+    "country": "MAURITIUS",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545644",
+    "country": "MAURITIUS",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546075",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546075",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546270",
+    "country": "MAURITIUS",
+    "bank": "SBI (MAURITIUS) LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "547124",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547528",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547528",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548583",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549388",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549398",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549399",
+    "country": "MAURITIUS",
+    "bank": "MAUBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549597",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "550108",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550108",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550144",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550144",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550151",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550151",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550152",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550152",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552898",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556666",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "556666",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559304",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559305",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559306",
+    "country": "MAURITIUS",
+    "bank": "AFRASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559403",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559403",
+    "country": "MAURITIUS",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "620129",
+    "country": "MAURITIUS",
+    "bank": "THE MAURITIUS COMMERCIAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623331",
+    "country": "MAURITIUS",
+    "bank": "STATE BANK OF MAURITIUS",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623348",
+    "country": "MAURITIUS",
+    "bank": "STATE BANK OF MAURITIUS",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623427",
+    "country": "MAURITIUS",
+    "bank": "HABIB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623427",
+    "country": "MAURITIUS",
+    "bank": "HABIB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623460",
+    "country": "MAURITIUS",
+    "bank": "ABC BANKING CORPORATION LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624306",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCE, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624306",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCE, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624322",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCE, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "624322",
+    "country": "MAURITIUS",
+    "bank": "CIM FINANCE, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "626217",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626410",
+    "country": "MAURITIUS",
+    "bank": "SBM BANK (MAURITIUS), LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  }
+]

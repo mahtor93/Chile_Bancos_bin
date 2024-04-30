@@ -1,0 +1,370 @@
+[
+  {
+    "bin": "402012",
+    "country": "BENIN",
+    "bank": "NSIA BANQUE BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403242",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403303",
+    "country": "BENIN",
+    "bank": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403325",
+    "country": "BENIN",
+    "bank": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403326",
+    "country": "BENIN",
+    "bank": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403327",
+    "country": "BENIN",
+    "bank": "BANQUE INTERNATIONALE POUR L'INDUSTRIE ET LE COMMERCE (BIIC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404122",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404123",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415337",
+    "country": "BENIN",
+    "bank": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415348",
+    "country": "BENIN",
+    "bank": "SOCIETE GENERALE DE BANQUES AU BENIN SGBBE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418755",
+    "country": "BENIN",
+    "bank": "BGFIBANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418756",
+    "country": "BENIN",
+    "bank": "BANQUE INTERNATIONALE POUR L'INDUSTRIE ET LE COMMERCE (BIIC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431448",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431796",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "444448",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457792",
+    "country": "BENIN",
+    "bank": "UBA BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462258",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462869",
+    "country": "BENIN",
+    "bank": "ORABANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "469649",
+    "country": "BENIN",
+    "bank": "ORABANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469650",
+    "country": "BENIN",
+    "bank": "ORABANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469651",
+    "country": "BENIN",
+    "bank": "ORABANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470358",
+    "country": "BENIN",
+    "bank": "BANK OF AFRICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471335",
+    "country": "BENIN",
+    "bank": "NSIA BANQUE BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471336",
+    "country": "BENIN",
+    "bank": "NSIA BANQUE BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471337",
+    "country": "BENIN",
+    "bank": "NSIA BANQUE BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472554",
+    "country": "BENIN",
+    "bank": "BANQUE ATLANTIQUE DU BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472555",
+    "country": "BENIN",
+    "bank": "BANQUE ATLANTIQUE DU BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472556",
+    "country": "BENIN",
+    "bank": "BANQUE ATLANTIQUE DU BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472557",
+    "country": "BENIN",
+    "bank": "BANQUE ATLANTIQUE DU BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472558",
+    "country": "BENIN",
+    "bank": "BANQUE ATLANTIQUE DU BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483457",
+    "country": "BENIN",
+    "bank": "BGFIBANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483459",
+    "country": "BENIN",
+    "bank": "BGFIBANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483460",
+    "country": "BENIN",
+    "bank": "BGFIBANK BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "496025",
+    "country": "BENIN",
+    "bank": "NSIA BANQUE BENIN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "519531",
+    "country": "BENIN",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521603",
+    "country": "BENIN",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526482",
+    "country": "BENIN",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532620",
+    "country": "BENIN",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536885",
+    "country": "BENIN",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543607",
+    "country": "BENIN",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "545747",
+    "country": "BENIN",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547038",
+    "country": "BENIN",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548038",
+    "country": "BENIN",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551668",
+    "country": "BENIN",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555771",
+    "country": "BENIN",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559417",
+    "country": "BENIN",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  }
+]

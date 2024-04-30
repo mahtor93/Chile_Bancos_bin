@@ -1,0 +1,602 @@
+[
+    {
+        "ALIF_BANK_OJSC_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "432252",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "ALIF BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "444488",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "ALIF BANK OJSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "540908",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "ALIF BANK OJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541352",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "ALIF BANK OJSC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            }
+        ]
+    },
+    {
+        "BANK_ESKHATA_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "624470",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "BANK ESKHATA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "626408",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "BANK ESKHATA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "CJSC_ACTIV_BANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "521809",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC ACTIV BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537463",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC ACTIV BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "CJSC_ACTIVBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "401624",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC ACTIVBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "445168",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC ACTIVBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457868",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC ACTIVBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478687",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC ACTIVBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "CJSC_DUSHANBE_CITY_BANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "464655",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC DUSHANBE CITY BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "471338",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC DUSHANBE CITY BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "CJSC_FONONBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "621649",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC FONONBANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "OTHER"
+            }
+        ]
+    },
+    {
+        "CJSC_INTERNATIONAL_BANK_OF_TAJIKISTAN_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "412626",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "412661",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "424614",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "444826",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            }
+        ]
+    },
+    {
+        "CJSC_SPITAMEN_BANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "427759",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC SPITAMEN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "460765",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC SPITAMEN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "460768",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC SPITAMEN BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "623351",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC SPITAMEN BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "CJSC_THE_FIRST_MICROFINANCE_BANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "439382",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC THE FIRST MICROFINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445169",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC THE FIRST MICROFINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "473127",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CJSC THE FIRST MICROFINANCE BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "CLOSE_JOINT_STOCK_COMPANY_SPITAMEN_BANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "523009",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CLOSE JOINT STOCK COMPANY SPITAMEN BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "CLOSED_JOINT_STOCK_COMPANY_MICROCREDIT_DEPOSIT_ORGANIZATION_HUMO_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "489084",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "CLOSED JOINT STOCK COMPANY MICROCREDIT DEPOSIT ORGANIZATION HUMO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "INN_FOR_UNIONPAY_CARD_NETWORK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "623462",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "INN FOR UNIONPAY CARD NETWORK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "626216",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "INN FOR UNIONPAY CARD NETWORK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "626230",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "INN FOR UNIONPAY CARD NETWORK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "626238",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "INN FOR UNIONPAY CARD NETWORK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "INTERNATIONAL_BANK_OF_TAJIKISTAN_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "626218",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "INTERNATIONAL BANK OF TAJIKISTAN",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "OJSC_AGROINVESTBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "423314",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC AGROINVESTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "425550",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC AGROINVESTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "425551",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC AGROINVESTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "425552",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC AGROINVESTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "464652",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC AGROINVESTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "464654",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC AGROINVESTBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "OJSC_BANK_ESKHATA_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "443919",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC BANK ESKHATA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "443920",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC BANK ESKHATA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "443921",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC BANK ESKHATA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "OJSC_ORIENBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "413846",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC ORIENBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "416753",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC ORIENBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416754",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC ORIENBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "416755",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC ORIENBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416756",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC ORIENBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "434080",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OJSC ORIENBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "OPEN_JOINT_STOCK_COMPANY_TOJIKSODIROTBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "519735",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "525820",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "529051",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "670856",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "THE_STATE_SAVING_BANK_REPUBLIC_OF_TAJIKISTAN_'AMONATBONK'_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "671157",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "THE STATE SAVING BANK REPUBLIC OF TAJIKISTAN 'AMONATBONK'",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "THE_STATE_SAVINGS_BANK_OF_THE_REPUBLIC_OF_TAJIKISTAN_(AMONATBONK)_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "445572",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "THE STATE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN (AMONATBONK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445573",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "THE STATE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN (AMONATBONK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "445574",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "THE STATE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN (AMONATBONK)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "TJS_CBRD_TAJPROMBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "426848",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TJS CBRD TAJPROMBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "426849",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TJS CBRD TAJPROMBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "426850",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TJS CBRD TAJPROMBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "TOJIKSODIROTBANK_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "623368",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TOJIKSODIROTBANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TOJIKSODIROTBONK_JSC_-_TAJIKISTAN": [
+            {
+                "Numero BIN/IIN": "413208",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TOJIKSODIROTBONK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "413209",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TOJIKSODIROTBONK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "413210",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TOJIKSODIROTBONK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "466097",
+                "Pais": "TAJIKISTAN",
+                "Nombre del emisor / Banco": "TOJIKSODIROTBONK JSC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    }
+]

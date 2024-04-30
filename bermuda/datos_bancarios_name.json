@@ -1,0 +1,774 @@
+[
+    {
+        "BANK_OF_BERMUDA_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "440712",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "513426",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550047",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550494",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554552",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554553",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554554",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554555",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554812",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "556637",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "556639",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_BERMUDA_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "440712",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "513426",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550047",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550494",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554552",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554553",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554554",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554555",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554812",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "556637",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "556639",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_N.T._BUTTERFIELD_&_SON_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "512307",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512406",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "514956",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "528601",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "538962",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "539663",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "543220",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544663",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544792",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "545396",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547672",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "547771",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "547977",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "553106",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "601880",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "BANK_OF_N.T._BUTTERFIELD_AND_SON_-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "415268",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD AND SON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "448739",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD AND SON",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANK_OF_N.T._BUTTERFIELD_AND_SON_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "491328",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD AND SON, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "512123",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD AND SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "512124",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BANK OF N.T. BUTTERFIELD AND SON, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BERMUDA_COMMERCIAL_BANK_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "433556",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "433559",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "456052",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "457240",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "459441",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "459442",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "459443",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "468565",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "469711",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BERMUDA_COMMERCIAL_BANK_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "433556",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "433559",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "456052",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "457240",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "459441",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "459442",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "459443",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "468565",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "469711",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "BERMUDA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "CAPITAL_G_BANK_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "438041",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "477372",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "518356",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "518357",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "531434",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "551136",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554686",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "557625",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557626",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CAPITAL G BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "CLARIEN_BANK_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "477166",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "477167",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "477168",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "477215",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481408",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "526145",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "526186",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "526190",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531192",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "CLARIEN BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "HSBC_BANK_BERMUDA_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "421524",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "422184",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "492127",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "493710",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "496696",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "524016",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "541004",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "543858",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544444",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "HSBC BANK BERMUDA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "THE_BANK_OF_N.T._BUTTERFIELD_&_SON_LTD._-_BERMUDA": [
+            {
+                "Numero BIN/IIN": "401817",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "THE BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "450701",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "THE BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491361",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "THE BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "499837",
+                "Pais": "BERMUDA",
+                "Nombre del emisor / Banco": "THE BANK OF N.T. BUTTERFIELD & SON, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "bin": "222718",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "222718",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "222719",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222846",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222847",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "401562",
+    "country": "NEPAL",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401583",
+    "country": "NEPAL",
+    "bank": "RASTRIYA BANIJYA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402064",
+    "country": "NEPAL",
+    "bank": "MACHHAPUCHCHHRE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402069",
+    "country": "NEPAL",
+    "bank": "MACHHAPUCHCHHRE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402085",
+    "country": "NEPAL",
+    "bank": "MACHHAPUCHCHHRE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "402487",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "402896",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402969",
+    "country": "NEPAL",
+    "bank": "INDUSIND BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403019",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403110",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403729",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403735",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404782",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405019",
+    "country": "NEPAL",
+    "bank": "LAXMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405230",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405263",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405514",
+    "country": "NEPAL",
+    "bank": "MUKTINATH BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405544",
+    "country": "NEPAL",
+    "bank": "LAXMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405633",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405634",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405635",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405635",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405636",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405673",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405673",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405690",
+    "country": "NEPAL",
+    "bank": "SHINE RESUNGA DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406142",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406143",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "406750",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "406866",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406886",
+    "country": "NEPAL",
+    "bank": "MAHALAXMI BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406888",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407038",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407585",
+    "country": "NEPAL",
+    "bank": "LAXMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408833",
+    "country": "NEPAL",
+    "bank": "JYOTI BIKASH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408910",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408911",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408925",
+    "country": "NEPAL",
+    "bank": "NEPAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408927",
+    "country": "NEPAL",
+    "bank": "NEPAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409072",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410102",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410102",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410148",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410148",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410149",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410149",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410744",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "411655",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413545",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415433",
+    "country": "NEPAL",
+    "bank": "EXCEL DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416211",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416212",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416213",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418119",
+    "country": "NEPAL",
+    "bank": "RASTRIYA BANIJYA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418120",
+    "country": "NEPAL",
+    "bank": "RASTRIYA BANIJYA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418121",
+    "country": "NEPAL",
+    "bank": "RASTRIYA BANIJYA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418240",
+    "country": "NEPAL",
+    "bank": "LAXMI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418565",
+    "country": "NEPAL",
+    "bank": "PRIME COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418902",
+    "country": "NEPAL",
+    "bank": "NABIL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419816",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "420611",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420622",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420792",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421104",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421105",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421404",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "421404",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "421406",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "421411",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421412",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421414",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "421415",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "421416",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422306",
+    "country": "NEPAL",
+    "bank": "NEPAL BANGLADESH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422476",
+    "country": "NEPAL",
+    "bank": "MUKTINATH BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422592",
+    "country": "NEPAL",
+    "bank": "LUMBINI BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422627",
+    "country": "NEPAL",
+    "bank": "NABIL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "422705",
+    "country": "NEPAL",
+    "bank": "GARIMA BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423274",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423276",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423298",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423510",
+    "country": "NEPAL",
+    "bank": "NIC ASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423559",
+    "country": "NEPAL",
+    "bank": "NIC ASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423567",
+    "country": "NEPAL",
+    "bank": "NIC ASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424972",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426501",
+    "country": "NEPAL",
+    "bank": "LAXMI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427142",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428461",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428461",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429919",
+    "country": "NEPAL",
+    "bank": "NEPAL CREDIT AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430511",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430519",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430543",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430715",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430719",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430728",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430790",
+    "country": "NEPAL",
+    "bank": "MAHALAXMI BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431792",
+    "country": "NEPAL",
+    "bank": "PRIME COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432946",
+    "country": "NEPAL",
+    "bank": "SHINE RESUNGA DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433474",
+    "country": "NEPAL",
+    "bank": "NEPAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433621",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433621",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "435978",
+    "country": "NEPAL",
+    "bank": "NEPAL SBI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436362",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436362",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436439",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436439",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436441",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436441",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436443",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436443",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436444",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436444",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436478",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436478",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436497",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "436497",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "436498",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "436498",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "436895",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437369",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437370",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437371",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "439076",
+    "country": "NEPAL",
+    "bank": "SHINE RESUNGA DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439128",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439129",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439371",
+    "country": "NEPAL",
+    "bank": "NABIL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "440403",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440403",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440404",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "440404",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "440449",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440449",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440450",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440450",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440467",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440467",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440468",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440468",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442440",
+    "country": "NEPAL",
+    "bank": "NEPAL SBI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "443083",
+    "country": "NEPAL",
+    "bank": "NEPAL DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443830",
+    "country": "NEPAL",
+    "bank": "SIDDHARTHA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443832",
+    "country": "NEPAL",
+    "bank": "SIDDHARTHA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443834",
+    "country": "NEPAL",
+    "bank": "SIDDHARTHA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445631",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445698",
+    "country": "NEPAL",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450052",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450485",
+    "country": "NEPAL",
+    "bank": "NEPAL BANGLADESH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450486",
+    "country": "NEPAL",
+    "bank": "NEPAL BANGLADESH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451132",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452065",
+    "country": "NEPAL",
+    "bank": "CITIZENS BANK INTERNATIONAL, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456597",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457412",
+    "country": "NEPAL",
+    "bank": "NEPAL SBI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457481",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457484",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457709",
+    "country": "NEPAL",
+    "bank": "SUNRISE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457987",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458172",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458701",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459521",
+    "country": "NEPAL",
+    "bank": "CITIZENS BANK INTERNATIONAL, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459522",
+    "country": "NEPAL",
+    "bank": "CITIZENS BANK INTERNATIONAL, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "461003",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461004",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461005",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461006",
+    "country": "NEPAL",
+    "bank": "SANIMA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "461743",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461993",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461994",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462261",
+    "country": "NEPAL",
+    "bank": "BANK OF KATHMANDU, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462262",
+    "country": "NEPAL",
+    "bank": "BANK OF KATHMANDU, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462416",
+    "country": "NEPAL",
+    "bank": "NEPAL CREDIT AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462470",
+    "country": "NEPAL",
+    "bank": "NEPAL BANGLADESH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462471",
+    "country": "NEPAL",
+    "bank": "NEPAL BANGLADESH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463724",
+    "country": "NEPAL",
+    "bank": "JYOTI BIKASH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "463725",
+    "country": "NEPAL",
+    "bank": "MAHALAXMI BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463726",
+    "country": "NEPAL",
+    "bank": "SIDDHARTHA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466042",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466043",
+    "country": "NEPAL",
+    "bank": "JYOTI BIKASH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466044",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466045",
+    "country": "NEPAL",
+    "bank": "KIST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "466046",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466293",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468751",
+    "country": "NEPAL",
+    "bank": "GARIMA BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468950",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "468959",
+    "country": "NEPAL",
+    "bank": "NEPAL CREDIT AND COMMERCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "469583",
+    "country": "NEPAL",
+    "bank": "SIDDHARTHA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470365",
+    "country": "NEPAL",
+    "bank": "KAMANA SEWA BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470553",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "470553",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "470554",
+    "country": "NEPAL",
+    "bank": "MACHHAPUCHCHHRE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "470555",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470555",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470946",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472387",
+    "country": "NEPAL",
+    "bank": "EVEREST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474830",
+    "country": "NEPAL",
+    "bank": "PRIME COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474879",
+    "country": "NEPAL",
+    "bank": "PRIME COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "475396",
+    "country": "NEPAL",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478675",
+    "country": "NEPAL",
+    "bank": "KAMANA SEWA BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479951",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479955",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479956",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "479979",
+    "country": "NEPAL",
+    "bank": "MAHALAXMI BIKAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481364",
+    "country": "NEPAL",
+    "bank": "EVEREST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481367",
+    "country": "NEPAL",
+    "bank": "EVEREST BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483751",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483752",
+    "country": "NEPAL",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484814",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484814",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484815",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484815",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486266",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486267",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486268",
+    "country": "NEPAL",
+    "bank": "GLOBAL IME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486278",
+    "country": "NEPAL",
+    "bank": "BANK OF KATHMANDU, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489020",
+    "country": "NEPAL",
+    "bank": "MACHHAPUCHCHHRE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489325",
+    "country": "NEPAL",
+    "bank": "NIC ASIA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489506",
+    "country": "NEPAL",
+    "bank": "CITIZENS BANK INTERNATIONAL, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489507",
+    "country": "NEPAL",
+    "bank": "CITIZENS BANK INTERNATIONAL, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489743",
+    "country": "NEPAL",
+    "bank": "NEPAL SBI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "490291",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492211",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492469",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "496646",
+    "country": "NEPAL",
+    "bank": "KUMARI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498704",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "498758",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "498758",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "518166",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK NEPAL LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521066",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524682",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524682",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524683",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524683",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524684",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524684",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529767",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530424",
+    "country": "NEPAL",
+    "bank": "SIDDHARTHA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535964",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538749",
+    "country": "NEPAL",
+    "bank": "NIC ASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538815",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT MEGA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "538957",
+    "country": "NEPAL",
+    "bank": "NEPAL SBI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539604",
+    "country": "NEPAL",
+    "bank": "NIC ASIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539933",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539933",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540357",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540357",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542157",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543496",
+    "country": "NEPAL",
+    "bank": "NABIL BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543630",
+    "country": "NEPAL",
+    "bank": "NEPAL GRINDLAYS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545030",
+    "country": "NEPAL",
+    "bank": "PRABHU BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "548360",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK NEPAL, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548483",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548483",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548493",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548493",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548633",
+    "country": "NEPAL",
+    "bank": "STANDARD CHARTERED BANK NEPAL, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548730",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548730",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554038",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554038",
+    "country": "NEPAL",
+    "bank": "NEPAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554370",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554370",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554391",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554391",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555934",
+    "country": "NEPAL",
+    "bank": "NABIL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557578",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557578",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "623364",
+    "country": "NEPAL",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623459",
+    "country": "NEPAL",
+    "bank": "SMARTCHOICE TECHNOLOGIES PVT.LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623475",
+    "country": "NEPAL",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "623477",
+    "country": "NEPAL",
+    "bank": "SMARTCHOICE TECHNOLOGIES PVT.LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623499",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623499",
+    "country": "NEPAL",
+    "bank": "HIMALAYAN BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "629132",
+    "country": "NEPAL",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "636523",
+    "country": "NEPAL",
+    "bank": "NEPAL INDUSTRIAL DEVELOPMENT CORPORATION, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

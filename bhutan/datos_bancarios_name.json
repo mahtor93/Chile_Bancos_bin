@@ -1,0 +1,146 @@
+[
+    {
+        "BANK_OF_BHUTAN_LTD._-_BHUTAN": [
+            {
+                "Numero BIN/IIN": "461125",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "468783",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "468784",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "470401",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "488912",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488913",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "529176",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "546775",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BANK OF BHUTAN, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            }
+        ]
+    },
+    {
+        "BHUTAN_NATIONAL_BANK_LTD._-_BHUTAN": [
+            {
+                "Numero BIN/IIN": "477914",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BHUTAN NATIONAL BANK LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "477927",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BHUTAN NATIONAL BANK LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489282",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BHUTAN NATIONAL BANK LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "489311",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "BHUTAN NATIONAL BANK LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "DRUK_PNB_BANK_LTD._-_BHUTAN": [
+            {
+                "Numero BIN/IIN": "532542",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "DRUK PNB BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "555917",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "DRUK PNB BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "T_BANK_LTD._-_BHUTAN": [
+            {
+                "Numero BIN/IIN": "488914",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "T BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "488915",
+                "Pais": "BHUTAN",
+                "Nombre del emisor / Banco": "T BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    }
+]

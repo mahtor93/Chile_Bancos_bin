@@ -1,0 +1,1762 @@
+[
+  {
+    "bin": "308374",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA A.D.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "360715",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "DC BOSNIA HERZEGOVINA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360716",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "DC BOSNIA HERZEGOVINA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360717",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "DC BOSNIA HERZEGOVINA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360718",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "DC BOSNIA HERZEGOVINA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "360719",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "DC BOSNIA HERZEGOVINA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402332",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UPI BANKA DD SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404324",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "VOLKSBANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404867",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404868",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404912",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405222",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANJALUCKA BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406427",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406444",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406970",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406971",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408073",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ATOS BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408074",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZEPTER KOMERC BANKA A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409653",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ATOS BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410340",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410554",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411646",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413104",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "413888",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414635",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NASA BANKA A.D. BIJELJINA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414636",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414637",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417371",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417372",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA A.D. BIJELJINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417488",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417616",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418390",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D., SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418391",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D., SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419210",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419211",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419212",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419213",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419616",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419617",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419798",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422196",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UPI BANKA DD SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422975",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424183",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425501",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425502",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425503",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425504",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425505",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425527",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D., SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425528",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D., SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425529",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D., SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425685",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB TUZLANSKA BANKA D.D. TUZLA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427690",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428172",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428173",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429586",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NASA BANKA A.D. BIJELJINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429783",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430582",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431020",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431021",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431022",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431023",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433310",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433961",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BANKA POSTANSKA STEDIONICA, AKCIONARSKO DRUSTVO BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433962",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BANKA POSTANSKA STEDIONICA, AKCIONARSKO DRUSTVO BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433963",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BANKA POSTANSKA STEDIONICA, AKCIONARSKO DRUSTVO BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433964",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "KOMERCIJALNA BANKA AD BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "441280",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442190",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446913",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOR BANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "447384",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450076",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "INTESA SANPAOLO BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450077",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "INTESA SANPAOLO BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450078",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "INTESA SANPAOLO BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450079",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "INTESA SANPAOLO BANKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456070",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457409",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457744",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "MF BANKA JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457745",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "MF BANKA JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457746",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "MF BANKA JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457747",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "MF BANKA JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457880",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457881",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457882",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458299",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460043",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK A.D. BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460062",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNION BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "462724",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZIRAATBANK BH D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462725",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NASA BANKA A.D. BIJELJINA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464528",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465752",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNION BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467761",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467762",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467763",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467764",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "VAKUFSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470450",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470452",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "INTESA SANPAOLO BANKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472428",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BANKA POSTANSKA STEDIONICA, AKCIONARSKO DRUSTVO BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "473835",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "475169",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475170",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "475171",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476087",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "BOSNA BANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479361",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479757",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479758",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "480231",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483954",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PRIVREDNA BANKA SARAJEVO D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486025",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNION BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486026",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNION BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486027",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNION BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486028",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNION BANKA D.D. SARAJEVO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510007",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "HVB SPLITSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514002",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517267",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517823",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520906",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520923",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520934",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520946",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523556",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523604",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523741",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524649",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "KOMERCIJALNA BANKA A.D. BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524859",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525538",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526479",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527122",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "529046",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529420",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529746",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529784",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "529807",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "530159",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. TUZLA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532695",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. TUZLA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "534768",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535092",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535154",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535155",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535158",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535197",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535218",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535274",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535282",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535527",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535621",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535622",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535644",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535645",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535657",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535664",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535665",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535743",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "535774",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537218",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537447",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537502",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537602",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "538707",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538836",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538958",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SBERBANK BH D.D",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539278",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539507",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539514",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540057",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540647",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540680",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540942",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540976",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540990",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "541666",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545988",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547201",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547652",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547677",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547683",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547720",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "POSTBANK BH D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548091",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552737",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552886",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552951",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552965",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553910",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554263",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554264",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554845",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZIRAATBANK BH D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554868",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZIRAATBANK BH D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555069",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556018",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557105",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557397",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557460",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557472",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557473",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZIRAATBANK BH D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557973",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "INTESA SANPAOLO BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558380",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ASA BANKA D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558513",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558691",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZIRAATBANK BH D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559063",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "KOMERCIJALNA BANKA A.D. BANJA LUKA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559901",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559933",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "571200",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "KOMERCIJALNA BANKA A.D. BANJA LUKA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670568",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SPARKASSE BANK DD SARAJEVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670608",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670854",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670986",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "KOMERCIJALNA BANKA A.D. BANJA LUKA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676416",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "RAIFFEISEN BANK DD BOSNIA HERZEGOVINA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676456",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ZIRAATBANK BH D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676606",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676611",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "UNICREDIT BANK D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676875",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB TUZLANSKA BANKA DD. TUZLA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677048",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "HVB CENTRAL PROFIT BANKA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677063",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "PROCREDIT BANK D.D. SARAJEVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677074",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677081",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677098",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NOVA BANKA AD BANJA LUKA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677114",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "SBERBANK BH D.D",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677204",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "ADDIKO BANK D.D. SARAJEVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677595",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. SARAJEVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677607",
+    "country": "BOSNIA AND HERZEGOVINA",
+    "bank": "NLB BANKA D.D. TUZLA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

@@ -1,0 +1,4286 @@
+[
+    {
+        "ADYEN_N.V._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "481072",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ADYEN, N.V.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "510766",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ADYEN, N.V.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "AION_BANK_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "537413",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AION BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "ALANDSBANKEN_ABP_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "536835",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ALANDSBANKEN ABP",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537248",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ALANDSBANKEN ABP",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541577",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ALANDSBANKEN ABP",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "557495",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ALANDSBANKEN ABP",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "AMERICAN_EXPRESS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "375725",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375726",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375727",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375728",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375729",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375732",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375733",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375734",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375735",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375736",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375737",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375738",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375739",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375742",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375743",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375744",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375745",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375746",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375747",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375748",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375749",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375752",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375753",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375754",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375755",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375756",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375757",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375758",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375759",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375762",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375763",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375764",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375765",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375766",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375767",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375768",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375769",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375772",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375773",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375774",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375775",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375776",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375777",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375778",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "375779",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "AMERICAN_EXPRESS_COMPANY_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "370458",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS COMPANY",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "376866",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "AMERICAN EXPRESS COMPANY",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GRMS CORPORATE CONTROL"
+            }
+        ]
+    },
+    {
+        "BANK2_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "416744",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "BANK2",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANQUE_INVIK-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "456754",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "BANQUE INVIK, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "456759",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "BANQUE INVIK, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BNP_PARIBAS_OSLO_BRANCH_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "425345",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "BNP PARIBAS OSLO BRANCH",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BOKIS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "510233",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "BOKIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "CATELLA_BANK-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "544249",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "CATELLA BANK, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "545416",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "CATELLA BANK, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547621",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "CATELLA BANK, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "CONOTOXIA_SP._Z_O.O_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "477777",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "CONOTOXIA SP. Z O.O",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "COOP_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "430437",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "COOP BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "430438",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "COOP BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "CURVE_UK_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "557444",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "CURVE UK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            }
+        ]
+    },
+    {
+        "DANSKE_BANK_A S_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "523936",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "544902",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "545173",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552723",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "552724",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "552750",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557447",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "DANSKE_BANK_A S_SVERIGE_FILAL_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "451110",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S SVERIGE FILAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "491859",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK A/S SVERIGE FILAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "DANSKE_BANK_AKTIESELSKAB_DENMARK_SWEDEN_BRANCH_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "975220",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK AKTIESELSKAB DENMARK SWEDEN BRANCH",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            }
+        ]
+    },
+    {
+        "DANSKE_BANK_AKTIESELSKAB_DENMARK_SWEDEN_BRANCH_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "520327",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "DANSKE_BANK_AS_DANMARK_SVERIGE_FILIAL_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "419035",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK AS DANMARK, SVERIGE FILIAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DANSKE_BANK_AS_DANMARKSVERIGE_FILIAL_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "404889",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DANSKE BANK AS DANMARK,SVERIGE FILIAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DC_SWEDEN_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "361486",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "361489",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365607",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365608",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365609",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365610",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365611",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365612",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365613",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365614",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365615",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "365616",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DC SWEDEN",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DEN_DANSKE_BANK_AKTIESELSKAB_DENMARK_SWEDISH_BRANCH_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "557840",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DEN DANSKE BANK AKTIESELSKAB, DENMARK, SWEDISH BRANCH",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DNB_BANK_ASA_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "462763",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DNB BANK ASA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "DOCK_FINANCIAL-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "531935",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "DOCK FINANCIAL, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "EASY_PAYMENT_SERVICES_EOOD_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "545366",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EASY PAYMENT SERVICES EOOD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "ELAVON_FINANCIAL_SERVICES_DESIGNATED_ACTIVITY_COMPANY_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "450488",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ELAVON FINANCIAL SERVICES DESIGNATED ACTIVITY COMPANY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            }
+        ]
+    },
+    {
+        "EMERCHANTPAY_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "539555",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EMERCHANTPAY, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            }
+        ]
+    },
+    {
+        "EML_MONEY_DAC_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "534677",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EML MONEY DAC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "EML_PAYMENTS_EUROPE_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "222893",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EML PAYMENTS EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "544477",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EML PAYMENTS EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "ENFUCE_LICENSE_SERVICES_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "406742",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENFUCE LICENSE SERVICES, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "431384",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENFUCE LICENSE SERVICES, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ENTERCARD_(SWEDBANK)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "375724",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD (SWEDBANK)",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL GREEN REVOLVE"
+            },
+            {
+                "Numero BIN/IIN": "377980",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD (SWEDBANK)",
+                "Marca de carro": "AMERICAN EXPRESS",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "OPEN GREEN REVOLVE"
+            }
+        ]
+    },
+    {
+        "ENTERCARD_GROUP_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "458190",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "458197",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "518620",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "520952",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529936",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "539240",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "540154",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "543560",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "544313",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PREFERRED BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "545856",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548946",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552084",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD GROUP AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "ENTERCARD_SVERIGE_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "418540",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD SVERIGE AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "457002",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD SVERIGE AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458196",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD SVERIGE AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458199",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ENTERCARD SVERIGE AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "EUROCARD_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "543870",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EUROCARD AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "548104",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EUROCARD AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "560045",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "EUROCARD AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            }
+        ]
+    },
+    {
+        "FINOM_PAYMENTS_B.V._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "498398",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FINOM PAYMENTS B.V.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "FORENINGSSPARBANKEN_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "543873",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FORENINGSSPARBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554666",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FORENINGSSPARBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "FOREX_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "417438",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FOREX BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "417771",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FOREX BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "417772",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FOREX BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "417774",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FOREX BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "417775",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FOREX BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "434983",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FOREX BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "FORIS_MT_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "439771",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "FORIS MT, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ICA_BANKEN_A.B._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "406736",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN A.B.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ICA_BANKEN_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "512586",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512587",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "513298",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "534243",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534244",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542250",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "604972",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "676682",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "975230",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ICA BANKEN AB",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PRIVATE LABEL"
+            }
+        ]
+    },
+    {
+        "IKANO_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "410056",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "IKANO BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "413483",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "IKANO BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "IKANO_BANK_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "514762",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "IKANO BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PRIVATE LABEL"
+            },
+            {
+                "Numero BIN/IIN": "516020",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "IKANO BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "INTERGIRO_INTERNATIONAL_STOCKHOLM_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "434202",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "INTERGIRO INTERNATIONAL STOCKHOLM AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481044",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "INTERGIRO INTERNATIONAL STOCKHOLM AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "INTERGIRO_INTL_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "535800",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "INTERGIRO INTL AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "INTERPAYMENT_SERVICES_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "434355",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "INTERPAYMENT SERVICES, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID TRAVEL MONEY"
+            },
+            {
+                "Numero BIN/IIN": "434356",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "INTERPAYMENT SERVICES, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID TRAVEL MONEY"
+            }
+        ]
+    },
+    {
+        "KLARNA_BANK_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "416566",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416567",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "471679",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "471680",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "471681",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "471682",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "471683",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "490996",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "KLARNA_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "405091",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416535",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416569",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433124",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463355",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463356",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "KLARNA BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "LANSFORSAKRINGAR_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "402150",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410806",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "457241",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484093",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "516928",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PREFERRED BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "525235",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535763",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "535765",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "556835",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LANSFORSAKRINGAR BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "LUFTHANSA_AIRPLUS_SERVICEKARTEN_GMBH_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "531735",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "LUNAR_BANK_A S_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "487144",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LUNAR BANK A/S",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "487145",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "LUNAR BANK A/S",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "MAESTRO_INTERNATIONAL_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "577042",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "583448",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "585268",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "MARGINALEN_BANK_BANKAKTIEBOLAG_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "401690",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "421199",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "480684",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "482467",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "516925",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535176",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "549879",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MARGINALEN BANK BANKAKTIEBOLAG",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "MEDMERA_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "534528",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MEDMERA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534532",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MEDMERA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534534",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MEDMERA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "MONAVATE_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "537561",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MONAVATE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PREFERRED BUSINESS"
+            }
+        ]
+    },
+    {
+        "MOORWAND_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "548269",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MOORWAND, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MYNT_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "427318",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "MYNT AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS ENHANCED"
+            }
+        ]
+    },
+    {
+        "NETS_DENMARK_A_S_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "513383",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NETS DENMARK A S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "527567",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NETS DENMARK A S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534081",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NETS DENMARK A S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545530",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NETS DENMARK A S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED BIN"
+            }
+        ]
+    },
+    {
+        "NIUM_EU_UAB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "525480",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NIUM EU UAB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "NOBA_BANK_GROUP_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "434688",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NOBA BANK GROUP AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "434692",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NOBA BANK GROUP AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479696",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NOBA BANK GROUP AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "NORDEA_BANK_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "454330",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "510031",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "520991",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "521725",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531717",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "541253",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "541277",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541883",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "543066",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "543288",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "543321",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "545190",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552048",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552513",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "975221",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            },
+            {
+                "Numero BIN/IIN": "975222",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PROPRIETARY/STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "975224",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "975225",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "975226",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "975227",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK AB (PUBL)",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            }
+        ]
+    },
+    {
+        "NORDEA_BANK_ABP_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "420571",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422860",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "453900",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "453901",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "453903",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453904",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "453905",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453906",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453908",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453912",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "457004",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "457005",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483064",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "486417",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "489498",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491000",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "516382",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548584",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA BANK ABP",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "NORDEA_FINANS_SVERIGE_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "453902",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORDEA FINANS SVERIGE AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "NORION_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "534643",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORION BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "NORTHMILL_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "474221",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "NORTHMILL BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "OPTAL_FINANCIAL_EUROPE_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "521356",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "OPTAL FINANCIAL EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "B2B"
+            },
+            {
+                "Numero BIN/IIN": "535682",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "OPTAL FINANCIAL EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "535711",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "OPTAL FINANCIAL EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "539953",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "OPTAL FINANCIAL EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "B2B"
+            }
+        ]
+    },
+    {
+        "PAYNETICS_EAD_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "481005",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYNETICS EAD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "537427",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYNETICS EAD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "PAYNOVATE_SA_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "517345",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYNOVATE SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "PAYONEER_EUROPE_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "517092",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYONEER EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "517094",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYONEER EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "522692",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYONEER EUROPE, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            }
+        ]
+    },
+    {
+        "PAYSAFE_PAYMENT_SOLUTIONS_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "431961",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PAYSAFE PAYMENT SOLUTIONS, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "PPRO_FINANCIAL_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "554507",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PPRO FINANCIAL, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            }
+        ]
+    },
+    {
+        "PREPAY_TECHNOLOGIES_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "524437",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PREPAY TECHNOLOGIES, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID MEAL"
+            },
+            {
+                "Numero BIN/IIN": "529588",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "PREPAY TECHNOLOGIES, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "QRED_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "457018",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "QRED AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "RESURS_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "498764",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "RESURS BANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "511672",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "RESURS BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "528248",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "RESURS BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547282",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "RESURS BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "554758",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "RESURS BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "SANTANDER_CONSUMER_BANK_AS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "420857",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SANTANDER CONSUMER BANK AS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489769",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SANTANDER CONSUMER BANK AS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "SANTANDER_CONSUMER_BANK_AS_NORGE_SVERIGE_FILIAL_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "677320",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SANTANDER CONSUMER BANK AS NORGE, SVERIGE FILIAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SANTANDER_CONSUMER_BANK_A.S._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "434952",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SANTANDER CONSUMER BANK, A.S.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "434953",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SANTANDER CONSUMER BANK, A.S.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "434954",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SANTANDER CONSUMER BANK, A.S.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "SEB_KORT_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "406461",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SEB_KORT_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "515675",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "525412",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "527500",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "527501",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "527502",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "527503",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531719",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "531720",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "534000",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "536435",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "541255",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "541256",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544480",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544481",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "545104",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545111",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "545114",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "552764",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "555958",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "556663",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "589973",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "679104",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEB KORT BANK AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SEQR_PAYMENTS_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "537495",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SEQR PAYMENTS AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "SKANDIABANKEN_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "447579",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "975228",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SKANDIABANKEN_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "415367",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "424339",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "424340",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "490929",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491889",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDIABANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "SKANDINAVISKA_ENSKILDA_BANKEN_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "407513",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "414935",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "453970",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "454108",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "454109",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "455262",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "511291",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528033",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528642",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535583",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535600",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "559950",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "676359",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SKANDINAVISKA ENSKILDA BANKEN AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SPARBANKEN_SKANE_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "412497",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SKANE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "412498",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SKANE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "427375",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SKANE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "SPARBANKEN_SYD_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "416372",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "416373",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "416374",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416375",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416376",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459028",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459029",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459030",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "473297",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPARBANKEN SYD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "SPAREBANK_1_KREDITT_AS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "474861",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPAREBANK 1 KREDITT AS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "SPENDESK_FINANCIAL_SERVICES_SAS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "497119",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SPENDESK FINANCIAL SERVICES SAS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS ENHANCED"
+            }
+        ]
+    },
+    {
+        "ST1_FINANCE_OY_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "525470",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ST1 FINANCE OY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "SVEA_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "532952",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "535676",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "536297",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537509",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "555626",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "555632",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PREFERRED BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "555642",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "555659",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "555703",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "555747",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVEA BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PREFERRED BUSINESS"
+            }
+        ]
+    },
+    {
+        "SVENSKA_HANDELSBANKEN_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "424471",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "427723",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "519919",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "521358",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "522660",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522661",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522662",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522663",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522664",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522665",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529928",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531498",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539557",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "543077",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PREFERRED BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "554137",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "676442",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "975223",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB",
+                "Marca de carro": "PRIVATE LABEL",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "SVENSKA_HANDELSBANKEN_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "426387",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "426388",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "449326",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "480930",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SVENSKA HANDELSBANKEN AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "SWEDBANK_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "412495",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "412496",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "415471",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "427374",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "459027",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "491868",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "547048",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547049",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "676415",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SWEDBANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "412563",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "418849",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "425661",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "430705",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "430706",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458109",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458117",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "458125",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "458133",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458141",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458158",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458166",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458191",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            },
+            {
+                "Numero BIN/IIN": "458192",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458193",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458194",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            },
+            {
+                "Numero BIN/IIN": "458195",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "458198",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464438",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "465732",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "466554",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "516815",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522706",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "529924",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529925",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529926",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537461",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "538991",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "542542",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548945",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549968",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "554477",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "554501",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557097",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "637102",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "676163",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "679121",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "SWEDBANK AB",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TELLER_SWEDEN_A S_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "540777",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER SWEDEN A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GM CARD"
+            },
+            {
+                "Numero BIN/IIN": "544478",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER SWEDEN A/S",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TELLER_SWEDEN_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "465758",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER SWEDEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "465759",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER SWEDEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "465760",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER SWEDEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "465761",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER SWEDEN AB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TELLER_A.S._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "522767",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER, A.S.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "533980",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TELLER, A.S.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "TERRA_KORTBANK_A.S._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "457009",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TERRA KORTBANK, A.S.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464437",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TERRA KORTBANK, A.S.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "TF_BANK_AB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "517625",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TF BANK AB",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "TRANSACT_PAYMENTS_MALTA_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "402380",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS MALTA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "431383",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS MALTA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "463397",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS MALTA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "475244",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS MALTA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490812",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS MALTA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "TRANSACT_PAYMENTS_LTD._-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "544136",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "555348",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "559259",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRANSACT PAYMENTS, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "TRAVEL_UNION_UAB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "402850",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "TRAVEL UNION UAB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "UAB_B4B_PAYMENTS_EUROPE_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "438584",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB B4B PAYMENTS EUROPE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            }
+        ]
+    },
+    {
+        "UAB_FINANSINES_PASLAUGOS_CONTIS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "422339",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "440524",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462378",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462379",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462380",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462381",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462382",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462383",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462384",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462385",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462386",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462387",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462388",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462389",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462390",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462391",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462392",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462393",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462394",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462395",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462397",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462398",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462399",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462576",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462935",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462939",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462997",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463184",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463189",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463190",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "497054",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "497055",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "497056",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "497057",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB FINANSINES PASLAUGOS CONTIS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "UAB_NUVEI_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "431366",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB NUVEI",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "UAB_PAYRNET_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "422208",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB PAYRNET",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "473105",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB PAYRNET",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "474219",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB PAYRNET",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS ENHANCED"
+            },
+            {
+                "Numero BIN/IIN": "481017",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB PAYRNET",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "487107",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB PAYRNET",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "487108",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB PAYRNET",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "UAB_STANHOPE_FINANCIAL_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "433254",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB STANHOPE FINANCIAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "442344",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "UAB STANHOPE FINANCIAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "VISA_ICELAND_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "408962",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VISA ICELAND",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "VISA_SWEDEN_ASSOCIATION_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "401731",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VISA SWEDEN ASSOCIATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "406289",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VISA SWEDEN ASSOCIATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "457000",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VISA SWEDEN ASSOCIATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "VIVID_MONEY-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "439653",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VIVID MONEY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "VOLVOFINANS_BANK_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "407451",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VOLVOFINANS BANK AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "494352",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VOLVOFINANS BANK AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498857",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "VOLVOFINANS BANK AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY"
+            }
+        ]
+    },
+    {
+        "WALLESTER_AS_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "474362",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "WALLESTER AS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "WITTY_GLOBAL_UAB_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "474146",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "WITTY GLOBAL UAB",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ZIKLO_BANK_AB_(PUBL)_-_SWEDEN": [
+            {
+                "Numero BIN/IIN": "422165",
+                "Pais": "SWEDEN",
+                "Nombre del emisor / Banco": "ZIKLO BANK AB (PUBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    }
+]

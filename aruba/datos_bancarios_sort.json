@@ -1,0 +1,626 @@
+[
+  {
+    "bin": "400222",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIELS BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405747",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405747",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "422722",
+    "country": "ARUBA",
+    "bank": "RBTT BANK ARUBA, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423290",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423290",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423690",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428237",
+    "country": "ARUBA",
+    "bank": "RBC ROYAL BANK (ARUBA), N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430288",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430288",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441530",
+    "country": "ARUBA",
+    "bank": "RBTT BANK ARUBA, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441717",
+    "country": "ARUBA",
+    "bank": "GIROBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441718",
+    "country": "ARUBA",
+    "bank": "GIROBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446850",
+    "country": "ARUBA",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "446948",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446948",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "448172",
+    "country": "ARUBA",
+    "bank": "GIROBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "448744",
+    "country": "ARUBA",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "448745",
+    "country": "ARUBA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451878",
+    "country": "ARUBA",
+    "bank": "BANCO DI CARIBE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451878",
+    "country": "ARUBA",
+    "bank": "BANCO DI CARIBE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451879",
+    "country": "ARUBA",
+    "bank": "BANCO DI CARIBE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451879",
+    "country": "ARUBA",
+    "bank": "BANCO DI CARIBE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456308",
+    "country": "ARUBA",
+    "bank": "CARIBBEAN MERCANTILE BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456371",
+    "country": "ARUBA",
+    "bank": "CITCO BANKING CORPORATION, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456379",
+    "country": "ARUBA",
+    "bank": "CARIBBEAN MERCANTILE BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "456380",
+    "country": "ARUBA",
+    "bank": "CARIBBEAN MERCANTILE BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456384",
+    "country": "ARUBA",
+    "bank": "CARIBBEAN MERCANTILE BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456399",
+    "country": "ARUBA",
+    "bank": "CARIBBEAN MERCANTILE BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457690",
+    "country": "ARUBA",
+    "bank": "RBC ROYAL BANK (ARUBA), N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457691",
+    "country": "ARUBA",
+    "bank": "RBC ROYAL BANK (ARUBA), N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457947",
+    "country": "ARUBA",
+    "bank": "RBC ROYAL BANK (ARUBA), N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491062",
+    "country": "ARUBA",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491269",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491290",
+    "country": "ARUBA",
+    "bank": "RBTT BANK ARUBA, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492027",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492027",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492032",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492032",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492429",
+    "country": "ARUBA",
+    "bank": "BANCO DI CARIBE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492429",
+    "country": "ARUBA",
+    "bank": "BANCO DI CARIBE, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499926",
+    "country": "ARUBA",
+    "bank": "BANCO PROVINCIAL BBVA OVERSEAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512032",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512675",
+    "country": "ARUBA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512719",
+    "country": "ARUBA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "513069",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "513069",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515815",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517411",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518279",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518279",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518744",
+    "country": "ARUBA",
+    "bank": "CARIBBEAN MERCANTILE BANK N.V",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "524294",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524294",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527260",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "527260",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528611",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528611",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529033",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532691",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK N.V",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "533586",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538126",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538126",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "540769",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "540769",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "541165",
+    "country": "ARUBA",
+    "bank": "RBC ROYAL BANK (ARUBA), N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543090",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543090",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545581",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545581",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547008",
+    "country": "ARUBA",
+    "bank": "BBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550530",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "553165",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553165",
+    "country": "ARUBA",
+    "bank": "ARUBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553182",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553631",
+    "country": "ARUBA",
+    "bank": "BBA BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "558982",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "559099",
+    "country": "ARUBA",
+    "bank": "MADURO & CURIEL'S BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  }
+]

@@ -1,0 +1,6178 @@
+[
+  {
+    "bin": "222698",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "222699",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222760",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "223002",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223224",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223280",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223280",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230754",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "271832",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "271832",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "271939",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "271939",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "361762",
+    "country": "EGYPT",
+    "bank": "DC EGYPT",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363493",
+    "country": "EGYPT",
+    "bank": "DC EGYPT",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "400112",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "400393",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400690",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400725",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "400949",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "401607",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401608",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "401729",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402056",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "402385",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402386",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402387",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402435",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN GULF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402522",
+    "country": "EGYPT",
+    "bank": "CEMEA REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402652",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402668",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "402678",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS SIGNATURE"
+  },
+  {
+    "bin": "402694",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403010",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403185",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403244",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "403431",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "403498",
+    "country": "EGYPT",
+    "bank": "BANK AUDI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403773",
+    "country": "EGYPT",
+    "bank": "ARAB INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "404238",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404239",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404274",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404850",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404850",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404896",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "404896",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "404994",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404994",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405494",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405559",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405866",
+    "country": "EGYPT",
+    "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407247",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407247",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407256",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407256",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408166",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "408238",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "408965",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409000",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409008",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409080",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "409090",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409091",
+    "country": "EGYPT",
+    "bank": "ARAB INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409092",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409093",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409093",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409094",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "409094",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "409789",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410101",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410110",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410111",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410112",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410190",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410191",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410560",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410560",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410573",
+    "country": "EGYPT",
+    "bank": "AL AHLY BANK OF KUWAIT / EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410574",
+    "country": "EGYPT",
+    "bank": "PIRAEUS BANK EGYPT, S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410592",
+    "country": "EGYPT",
+    "bank": "PIRAEUS BANK EGYPT, S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410724",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410724",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411739",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412143",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412784",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412785",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412932",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413018",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "413030",
+    "country": "EGYPT",
+    "bank": "ARAB INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "413049",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413088",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413094",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413095",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413096",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414079",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "415008",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "415052",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415052",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415326",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415439",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415573",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415830",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416964",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417326",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417327",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417328",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417329",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417330",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417439",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "417447",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417448",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417471",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418829",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418833",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418969",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK FOR DEVELOPMENT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418970",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "418971",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK FOR DEVELOPMENT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418972",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK FOR DEVELOPMENT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418988",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418988",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419285",
+    "country": "EGYPT",
+    "bank": "ARAB INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "419286",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419287",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419288",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419763",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419951",
+    "country": "EGYPT",
+    "bank": "MIDBANK S.A.E",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420444",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420585",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420585",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420598",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420598",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421192",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421605",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "421929",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422322",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422322",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422330",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422330",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422348",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422348",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422507",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422777",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422880",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422881",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422882",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422883",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422911",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422911",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422962",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "422963",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422979",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN GULF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423235",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423249",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "424263",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424263",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424264",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "424626",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426309",
+    "country": "EGYPT",
+    "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426317",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426317",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426471",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427820",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK OF EGYPT (ABE)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "427821",
+    "country": "EGYPT",
+    "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "427822",
+    "country": "EGYPT",
+    "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427837",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427838",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427839",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "429915",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "429946",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "429947",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "430105",
+    "country": "EGYPT",
+    "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430153",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "431513",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432504",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432507",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432587",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432588",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433034",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433034",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433488",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433910",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "433956",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "434102",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434126",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434127",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434175",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "434177",
+    "country": "EGYPT",
+    "bank": "QNB ALAHLI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434694",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434941",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434942",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436737",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436737",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437367",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "437545",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "437556",
+    "country": "EGYPT",
+    "bank": "MIDBANK S.A.E",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "438169",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438169",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438172",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438172",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440207",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440207",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440208",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440575",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "440576",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "440700",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440701",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440979",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440979",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440983",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440983",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441004",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441194",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441194",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "442141",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "443329",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443338",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445514",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446458",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447527",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447529",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447563",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447568",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447569",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447570",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447859",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450068",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450085",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450899",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450904",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452180",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452180",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452182",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452182",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452267",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452267",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452279",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452279",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452507",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454315",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454439",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454773",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454835",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454874",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454875",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "454877",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457338",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457376",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457441",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457638",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458110",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458139",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458245",
+    "country": "EGYPT",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458256",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458267",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458479",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF GREECE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458783",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460014",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460337",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460352",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK OF EGYPT (ABE)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "463966",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "463968",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "464480",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN GULF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464481",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN GULF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464619",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464619",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465566",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465566",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465578",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465727",
+    "country": "EGYPT",
+    "bank": "ARAB INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469361",
+    "country": "EGYPT",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469680",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470363",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "470371",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470599",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470693",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470694",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470695",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470696",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470697",
+    "country": "EGYPT",
+    "bank": "BLOM BANK EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "471339",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "471445",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "471445",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472594",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472845",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "473864",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473865",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473866",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474160",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "474501",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN NATIONAL POST ORGANISATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474718",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "474720",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474733",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476046",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476575",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478463",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "478749",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479031",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "479063",
+    "country": "EGYPT",
+    "bank": "THE UNITED BANK, S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "479069",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "480926",
+    "country": "EGYPT",
+    "bank": "MASHREQBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481355",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481355",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481479",
+    "country": "EGYPT",
+    "bank": "CEMEA REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481924",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481924",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483469",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483827",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK OF EGYPT (ABE)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483985",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484889",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484890",
+    "country": "EGYPT",
+    "bank": "QATAR NATIONAL BANK AL AHLI S.A.E.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "485494",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF GREECE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485495",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF GREECE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "485622",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486318",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "486393",
+    "country": "EGYPT",
+    "bank": "BANK OF ALEXANDRIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486667",
+    "country": "EGYPT",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "488953",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489092",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489266",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489303",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489304",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489304",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489305",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489322",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK OF EGYPT (ABE)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493528",
+    "country": "EGYPT",
+    "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494606",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "494607",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494608",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494609",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "498813",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498813",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498814",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498814",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498839",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498839",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498880",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498880",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498881",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498881",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "505823",
+    "country": "EGYPT",
+    "bank": "SGMA",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "MEEZA"
+  },
+  {
+    "bin": "507803",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS COMPANY FOR TECHNOLOGICAL ADVANCEMENTS",
+    "network": "MEEZA",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "507808",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS COMPANY FOR TECHNOLOGICAL ADVANCEMENTS",
+    "network": "MEEZA",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "507810",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS COMPANY FOR TECHNOLOGICAL ADVANCEMENTS",
+    "network": "MEEZA",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510016",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "510090",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510414",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "510422",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510435",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510474",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510482",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510493",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "510497",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510501",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510502",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510504",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510519",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510519",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510520",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510520",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510521",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510521",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510522",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "510523",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511131",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "511373",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "511400",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "511613",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511694",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511787",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511787",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511791",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "511805",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511853",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511863",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "511864",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511969",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "512340",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512397",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512407",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512606",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512667",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512698",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512730",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513347",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513347",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513481",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513481",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513760",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513883",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513883",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513896",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514331",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "514331",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "514980",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515295",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515381",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "515446",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515485",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "515571",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515634",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515788",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515844",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516012",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516041",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516046",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516112",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516471",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516571",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "517055",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517061",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517074",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517217",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517217",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517289",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517292",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517434",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517565",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517582",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517701",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517716",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517726",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517739",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517740",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517802",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517838",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "517851",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "517874",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517879",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518292",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "518298",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518300",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518315",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518433",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518520",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518548",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518895",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518904",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518904",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "519001",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519158",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "519246",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "519251",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519359",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "519359",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "519379",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519484",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519529",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519632",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519737",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "519737",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "519912",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520031",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520149",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520232",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520232",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520233",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520233",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520305",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520378",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520388",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "520742",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "520763",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "520767",
+    "country": "EGYPT",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "521038",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521046",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521063",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "521084",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521182",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521363",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521624",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521653",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "521681",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "521764",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "521770",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521951",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521977",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522013",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522025",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522392",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522460",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522600",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522723",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522747",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522751",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "522958",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522960",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523069",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "523540",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "523540",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "523761",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523906",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524158",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524159",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524164",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524184",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524310",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524447",
+    "country": "EGYPT",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524504",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524524",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524548",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524548",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524690",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524696",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "524815",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524845",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525333",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525550",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "525715",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525836",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525836",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525937",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526402",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526403",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526417",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526420",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526437",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526439",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526463",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526716",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526717",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "526747",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526780",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526884",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "526970",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527109",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "527271",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "527294",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527373",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527416",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527422",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527762",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527769",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528214",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528276",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528526",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528603",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "528662",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528666",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "528807",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529113",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529116",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529143",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529143",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529202",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529261",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529341",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529406",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529532",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529539",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529539",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529582",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529607",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529773",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529792",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "529909",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529983",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530361",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530361",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530447",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530449",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530509",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530564",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530828",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530923",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530926",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531143",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531156",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531163",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531347",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "531443",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531443",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531447",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531652",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "531652",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "531677",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531805",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532144",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532157",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532280",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532449",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532478",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532551",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532664",
+    "country": "EGYPT",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532970",
+    "country": "EGYPT",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533518",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533537",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533584",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533748",
+    "country": "EGYPT",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533777",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533789",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533813",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533841",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534138",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534192",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534419",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534428",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534453",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534686",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "534744",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534746",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "535945",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535954",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536195",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536321",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536332",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536336",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536341",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536647",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "536686",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536773",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536792",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536857",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536905",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "537017",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "537023",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537023",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537055",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537077",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "537616",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537951",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538105",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538864",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "539104",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539167",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539207",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "539399",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "539402",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "539433",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539438",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539491",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539491",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539493",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539519",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "539552",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "539829",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539864",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539872",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539890",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539895",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "539935",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539935",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539937",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539937",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539985",
+    "country": "EGYPT",
+    "bank": "CREDIT AGRICOLE EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "540156",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540307",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540333",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "540607",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540607",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540632",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540632",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540787",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540787",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540808",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541424",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541846",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541946",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541946",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541955",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541961",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "542443",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "542508",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542630",
+    "country": "EGYPT",
+    "bank": "EMERGING MARKETS PAYMENTS AFRICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542857",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543168",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "543173",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "543340",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543626",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543626",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543680",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543680",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543689",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543801",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543889",
+    "country": "EGYPT",
+    "bank": "MASHREQ BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544111",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "544151",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544460",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545045",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545075",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545456",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545662",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546350",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546475",
+    "country": "EGYPT",
+    "bank": "NATIONAL SOCIETE GENERAL BANK S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "546483",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "546483",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "546799",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546921",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "547112",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547179",
+    "country": "EGYPT",
+    "bank": "EMERGING MARKETS PAYMENTS AFRICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547436",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547436",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547668",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547722",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "548050",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548274",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548446",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "548457",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548642",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548759",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548903",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549723",
+    "country": "EGYPT",
+    "bank": "ALEXBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549744",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549746",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549762",
+    "country": "EGYPT",
+    "bank": "HOUSING AND DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549763",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549776",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549786",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549790",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549814",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550119",
+    "country": "EGYPT",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550228",
+    "country": "EGYPT",
+    "bank": "UNITED BANK S.E.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550368",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "550368",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "550506",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "551268",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551268",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552173",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "552362",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "552425",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552566",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552719",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552916",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "552918",
+    "country": "EGYPT",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "552919",
+    "country": "EGYPT",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "552921",
+    "country": "EGYPT",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "552944",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553070",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553070",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553413",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553592",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553593",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553767",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554298",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "555455",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555484",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555517",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "555922",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556519",
+    "country": "EGYPT",
+    "bank": "SUEZ CANAL BANK, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "556633",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "557313",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557313",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557579",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557607",
+    "country": "EGYPT",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557611",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "557611",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "557650",
+    "country": "EGYPT",
+    "bank": "AGRICULTURAL BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557653",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557666",
+    "country": "EGYPT",
+    "bank": "EGYPTIAN BANKS CO. FOR TECHNOLOGICAL ADVANCEMENT, S.A.E.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557876",
+    "country": "EGYPT",
+    "bank": "BANQUE DU CAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "558219",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "558319",
+    "country": "EGYPT",
+    "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558587",
+    "country": "EGYPT",
+    "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "558698",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF KUWAIT (S.A.K.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558708",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558710",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558711",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558712",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559254",
+    "country": "EGYPT",
+    "bank": "ABU DHABI ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559358",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "559358",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "559444",
+    "country": "EGYPT",
+    "bank": "NATIONAL BANK OF EGYPT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559461",
+    "country": "EGYPT",
+    "bank": "EMIRATES NATIONAL BANK OF DUBAI S.A.E",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559467",
+    "country": "EGYPT",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559834",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD PAYROLL"
+  },
+  {
+    "bin": "559834",
+    "country": "EGYPT",
+    "bank": "BANQUE MISR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD PAYROLL"
+  },
+  {
+    "bin": "559891",
+    "country": "EGYPT",
+    "bank": "HOUSING & DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559940",
+    "country": "EGYPT",
+    "bank": "AHLI BANK OF KUWAIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "574226",
+    "country": "EGYPT",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "580454",
+    "country": "EGYPT",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "584503",
+    "country": "EGYPT",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585213",
+    "country": "EGYPT",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "594526",
+    "country": "EGYPT",
+    "bank": "HSBC BANK EGYPT S.A.E",
+    "network": "MAESTRO",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "621617",
+    "country": "EGYPT",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

@@ -1,0 +1,4418 @@
+[
+  {
+    "bin": "222980",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "223030",
+    "country": "PERU",
+    "bank": "FINANCIERA OH, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223110",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "223209",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "223265",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223297",
+    "country": "PERU",
+    "bank": "DOCK PERU SAC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223299",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU SAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223362",
+    "country": "PERU",
+    "bank": "MPOWER (INTERNAL ONLY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223374",
+    "country": "PERU",
+    "bank": "GMONEY SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "231000",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "231000",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "231020",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "231020",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "231027",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "231027",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "233055",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU SAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "234057",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "234057",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "234058",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "234058",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "235015",
+    "country": "PERU",
+    "bank": "GMONEY SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "250009",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU SAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "271927",
+    "country": "PERU",
+    "bank": "PREX SAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "360817",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360818",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360819",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360820",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360821",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360822",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360823",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360824",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360922",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360938",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360939",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360947",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360948",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360949",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360950",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360951",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360980",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360981",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360982",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360983",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360984",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360985",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360986",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360987",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360988",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360989",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361003",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361004",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361005",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361006",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361007",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361008",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361009",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "362333",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362334",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362335",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362336",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362337",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362338",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362347",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362368",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362369",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362370",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362371",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362392",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362393",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362394",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362395",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362396",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362397",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362398",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362399",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362400",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362401",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362402",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362403",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362404",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362405",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362406",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362407",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362408",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362409",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362410",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362411",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362412",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362413",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362414",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362415",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362416",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362417",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362418",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362419",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362420",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362421",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362422",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362423",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362424",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362425",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362426",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362427",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362428",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362429",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362430",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362431",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362432",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362433",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365477",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365478",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365479",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365480",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365481",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365482",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365483",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365484",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365485",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365486",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "370597",
+    "country": "PERU",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375505",
+    "country": "PERU",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375552",
+    "country": "PERU",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375555",
+    "country": "PERU",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400310",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "400657",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "400657",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "400917",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402160",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402161",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402162",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402610",
+    "country": "PERU",
+    "bank": "CITIBANK DEL PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402701",
+    "country": "PERU",
+    "bank": "LA CAJA MUNICIPAL DE AHORRO Y CREDITO SULLANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404071",
+    "country": "PERU",
+    "bank": "FINANCIERA OH!, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404165",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404208",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404293",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404910",
+    "country": "PERU",
+    "bank": "COMPARTAMOS FINANCIERA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405742",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "405742",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "405893",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405893",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406233",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406293",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "406774",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406937",
+    "country": "PERU",
+    "bank": "COMPANIA PERUANA DE MEDIOS DE PAGO S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407411",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407874",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407876",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407876",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407878",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "407878",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "407912",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "409623",
+    "country": "PERU",
+    "bank": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409980",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410044",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "410044",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "410057",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410057",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410334",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410335",
+    "country": "PERU",
+    "bank": "MIBANCO BANCO DE LA MICROEMPRESA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410351",
+    "country": "PERU",
+    "bank": "FINANCIERA OH!, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411075",
+    "country": "PERU",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411914",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414064",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414068",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414075",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "414089",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414165",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414782",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414791",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415297",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416234",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "416234",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419174",
+    "country": "PERU",
+    "bank": "CMAC CUSCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419577",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419577",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420013",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420013",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420390",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421350",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421356",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421356",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421410",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421531",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421777",
+    "country": "PERU",
+    "bank": "FINANCIERA OH!, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421886",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421886",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421918",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422052",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422142",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422434",
+    "country": "PERU",
+    "bank": "CMAC CUSCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422435",
+    "country": "PERU",
+    "bank": "NOVOPAYMENT PERU S.A.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422436",
+    "country": "PERU",
+    "bank": "BANCO FINANCIERO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422781",
+    "country": "PERU",
+    "bank": "PERSONALES, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422782",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422826",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422826",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422827",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422827",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422829",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422829",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423040",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423456",
+    "country": "PERU",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "423462",
+    "country": "PERU",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423617",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423632",
+    "country": "PERU",
+    "bank": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424137",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424138",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "424933",
+    "country": "PERU",
+    "bank": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425844",
+    "country": "PERU",
+    "bank": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "425900",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "425901",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425902",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426153",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO AREQUIPA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426154",
+    "country": "PERU",
+    "bank": "CMAC CUSCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426360",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "426360",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427085",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427085",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427158",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427248",
+    "country": "PERU",
+    "bank": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428072",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428073",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428074",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428076",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428078",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428079",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO (BCP)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428082",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "428083",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428581",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428582",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428597",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431037",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431038",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432082",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "432341",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432341",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432342",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432342",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432343",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432343",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433450",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433466",
+    "country": "PERU",
+    "bank": "MIBANCO, BANCO DE LA MICROEMPRESA S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOVERNMENT CORPORATE T&E"
+  },
+  {
+    "bin": "433894",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "433894",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "433895",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "433895",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "433896",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "433896",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "434925",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435065",
+    "country": "PERU",
+    "bank": "BANCO GNB PERU, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "435704",
+    "country": "PERU",
+    "bank": "BANCO DEL TRABAJO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438168",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439045",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439071",
+    "country": "PERU",
+    "bank": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440822",
+    "country": "PERU",
+    "bank": "CAJA METROPOLITANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441167",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441319",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441319",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441331",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441331",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444686",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE TRUJILLO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447310",
+    "country": "PERU",
+    "bank": "HSBC BANK PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447311",
+    "country": "PERU",
+    "bank": "BANCO GNB PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447312",
+    "country": "PERU",
+    "bank": "BANCO GNB PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447313",
+    "country": "PERU",
+    "bank": "BANCO GNB PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447314",
+    "country": "PERU",
+    "bank": "BANCO GNB PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447315",
+    "country": "PERU",
+    "bank": "BANCO GNB PERU, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447409",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447409",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447410",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447410",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447411",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447411",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448700",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448701",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448702",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448703",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448717",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448781",
+    "country": "PERU",
+    "bank": "SOLUCION FINANCIERA DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449577",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "450000",
+    "country": "PERU",
+    "bank": "CIBC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450007",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450007",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450034",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450034",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450035",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450035",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450645",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450646",
+    "country": "PERU",
+    "bank": "JUST B S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450792",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451313",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451724",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451724",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451775",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452537",
+    "country": "PERU",
+    "bank": "JUST B S.A.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453935",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453967",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "454448",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454764",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454766",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454779",
+    "country": "PERU",
+    "bank": "JUST B S.A.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454857",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455102",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE PIURA, S.A.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455103",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455115",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE PIURA, S.A.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455116",
+    "country": "PERU",
+    "bank": "ALFIN BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455118",
+    "country": "PERU",
+    "bank": "CITIBANK DEL PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455170",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455746",
+    "country": "PERU",
+    "bank": "BANK OF CREDIT (BCP)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455787",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "455788",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455789",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455885",
+    "country": "PERU",
+    "bank": "CITIBANK DEL PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "455895",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE PIURA, S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455896",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE PIURA, S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456871",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457033",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457034",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457035",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457044",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457044",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457339",
+    "country": "PERU",
+    "bank": "FINANCIERA OH!, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457390",
+    "country": "PERU",
+    "bank": "PROMOCION Y OPERACION S.A. DE C.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457391",
+    "country": "PERU",
+    "bank": "PROMOCION Y OPERACION S.A. DE C.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457420",
+    "country": "PERU",
+    "bank": "CITIBANK DEL PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "457421",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS S.A.E.M.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457562",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458076",
+    "country": "PERU",
+    "bank": "BANCO DE COMERCIO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458077",
+    "country": "PERU",
+    "bank": "BANCO DE COMERCIO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458102",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458181",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458181",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458639",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458639",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459334",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE ICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459350",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459350",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462771",
+    "country": "PERU",
+    "bank": "CITICORP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "463179",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "463401",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463402",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463403",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467948",
+    "country": "PERU",
+    "bank": "JUST B S.A.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469710",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE MAYNAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470458",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472338",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474566",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474574",
+    "country": "PERU",
+    "bank": "BANCO DE COMERCIO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "474631",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474631",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474642",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "474642",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "475796",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477049",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477113",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "477114",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "477151",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477200",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CR DITO DE TACNA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477357",
+    "country": "PERU",
+    "bank": "BANCO CENCOSUD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477359",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO AREQUIPA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477764",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477765",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477766",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477771",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "478015",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "478015",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "481510",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "482401",
+    "country": "PERU",
+    "bank": "FINANCIERA QAPAQ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482403",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "482404",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO AREQUIPA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482421",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482421",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482499",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482499",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483039",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "483105",
+    "country": "PERU",
+    "bank": "ALFIN BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483179",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483179",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483955",
+    "country": "PERU",
+    "bank": "BANCO FINANCIERO DEL PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485025",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "485025",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "485481",
+    "country": "PERU",
+    "bank": "LA CAJA MUNICIPAL DE AHORRO Y CREDITO SULLANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486352",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486352",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486353",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486353",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486503",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "486503",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "487221",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "487242",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "487272",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489068",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489486",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489486",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "490641",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491246",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491248",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "491249",
+    "country": "PERU",
+    "bank": "BANCO DE COMERCIO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491508",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "491606",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491607",
+    "country": "PERU",
+    "bank": "FINANCIERA OH!, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491908",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491909",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491910",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491911",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491912",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491913",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491914",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491931",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491946",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "491947",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "491955",
+    "country": "PERU",
+    "bank": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "492112",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492491",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492491",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492965",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493119",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU S.A.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "494163",
+    "country": "PERU",
+    "bank": "BANCO DE COMERCIO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494169",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "494169",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "494386",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494387",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "496018",
+    "country": "PERU",
+    "bank": "BANCO DE COMERCIO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498544",
+    "country": "PERU",
+    "bank": "SERVITEBCA PERU, SERVICIO DE TRANSFERENCIA ELECTRONICA DE BENEFICIOS Y PAGO S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "498818",
+    "country": "PERU",
+    "bank": "CAJA MUNICIPAL DE AHORRO Y CREDITO DE HUANCAYO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499879",
+    "country": "PERU",
+    "bank": "MIBANCO BANCO DE LA MICROEMPRESA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510308",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511578",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "511842",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512092",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "512312",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512372",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512409",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512533",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512712",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514245",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514940",
+    "country": "PERU",
+    "bank": "BANCO PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516003",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517815",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517878",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518251",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "518251",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "519348",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519515",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "520009",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520187",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520374",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521628",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522494",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522772",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523510",
+    "country": "PERU",
+    "bank": "GMONEY SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523602",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523923",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524149",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "524486",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524601",
+    "country": "PERU",
+    "bank": "FINANCIERA OH, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524854",
+    "country": "PERU",
+    "bank": "BANCO AZTECA DEL PERU, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524894",
+    "country": "PERU",
+    "bank": "GMONEY SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525435",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525435",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525474",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525474",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525476",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525584",
+    "country": "PERU",
+    "bank": "CF TECH PERU SAC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "525616",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526464",
+    "country": "PERU",
+    "bank": "BANCO PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527550",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527556",
+    "country": "PERU",
+    "bank": "BANCO PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527581",
+    "country": "PERU",
+    "bank": "CREDISCOTIA FINANCIERA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527603",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "529025",
+    "country": "PERU",
+    "bank": "DOCK PERU SAC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529206",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529517",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529555",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529976",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530150",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530150",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530927",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531013",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "531161",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531370",
+    "country": "PERU",
+    "bank": "BANCO AZTECA DEL PERU, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531501",
+    "country": "PERU",
+    "bank": "INTERNATIONAL CARD SYSTEMS, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531975",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532075",
+    "country": "PERU",
+    "bank": "POMELO TECNOLOGIA PERU SAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532359",
+    "country": "PERU",
+    "bank": "BANCO PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533170",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533309",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533633",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533635",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533958",
+    "country": "PERU",
+    "bank": "FINANCIERA OH, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533982",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534252",
+    "country": "PERU",
+    "bank": "BANCO PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534282",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534347",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "536762",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536762",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538128",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539079",
+    "country": "PERU",
+    "bank": "PREX SAC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539905",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "540822",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU (BCP)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542020",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542020",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542070",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542070",
+    "country": "PERU",
+    "bank": "BANCO RIPLEY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544017",
+    "country": "PERU",
+    "bank": "GMONEY SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544359",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544402",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544527",
+    "country": "PERU",
+    "bank": "BANCO FINANCIERO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545028",
+    "country": "PERU",
+    "bank": "BANCO DE LA NACION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545545",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545546",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545938",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546342",
+    "country": "PERU",
+    "bank": "GMONEY SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "547782",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547880",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548022",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548034",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548242",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548544",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU (BCP)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548630",
+    "country": "PERU",
+    "bank": "BANCO DE CREDITO DEL PERU (BCP)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548812",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549161",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549783",
+    "country": "PERU",
+    "bank": "BANCO AZTECA DEL PERU, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549913",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "550218",
+    "country": "PERU",
+    "bank": "CAJA RURAL DE AHORRO Y CREDITO CENCOSUD SCOTIA PERU SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550356",
+    "country": "PERU",
+    "bank": "BANCO CENCOSUD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551011",
+    "country": "PERU",
+    "bank": "PREX SAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "552271",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552582",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552582",
+    "country": "PERU",
+    "bank": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553043",
+    "country": "PERU",
+    "bank": "BANCO PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553650",
+    "country": "PERU",
+    "bank": "BANCO BBVA PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554017",
+    "country": "PERU",
+    "bank": "BANCO INTERAMERICANO DE FINANZAS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554046",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554403",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554598",
+    "country": "PERU",
+    "bank": "UNIBANCA, S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID VOUCHER"
+  },
+  {
+    "bin": "554840",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554860",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554911",
+    "country": "PERU",
+    "bank": "SCOTIABANK PERU S.A.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555994",
+    "country": "PERU",
+    "bank": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557083",
+    "country": "PERU",
+    "bank": "BANCO INTERNACIONAL DEL PERU",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559125",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559131",
+    "country": "PERU",
+    "bank": "BBVA BANCO CONTINENTAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "570243",
+    "country": "PERU",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "572409",
+    "country": "PERU",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "574266",
+    "country": "PERU",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576201",
+    "country": "PERU",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "577920",
+    "country": "PERU",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "627180",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "627180",
+    "country": "PERU",
+    "bank": "BANCO FALABELLA PERU, S.A.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "650818",
+    "country": "PERU",
+    "bank": "DC PERU",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

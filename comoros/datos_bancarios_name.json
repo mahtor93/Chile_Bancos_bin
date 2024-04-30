@@ -1,0 +1,90 @@
+[
+    {
+        "CSCBANK_SAL_-_COMOROS": [
+            {
+                "Numero BIN/IIN": "516598",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "522245",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524241",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            }
+        ]
+    },
+    {
+        "EXIM_BANK_COMOROS_-_COMOROS": [
+            {
+                "Numero BIN/IIN": "408466",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "408467",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "408469",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "408470",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "408471",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428371",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428518",
+                "Pais": "COMOROS",
+                "Nombre del emisor / Banco": "EXIM BANK COMOROS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    }
+]

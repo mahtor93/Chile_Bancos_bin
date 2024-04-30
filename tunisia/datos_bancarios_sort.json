@@ -1,0 +1,1506 @@
+[
+  {
+    "bin": "216003",
+    "country": "TUNISIA",
+    "bank": "BNA",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "216004",
+    "country": "TUNISIA",
+    "bank": "ABT",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "216005",
+    "country": "TUNISIA",
+    "bank": "BT",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "216008",
+    "country": "TUNISIA",
+    "bank": "BIAT",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "216010",
+    "country": "TUNISIA",
+    "bank": "STB",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "216025",
+    "country": "TUNISIA",
+    "bank": "ZITOUNA",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "402379",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403807",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404383",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404763",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405664",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405764",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406216",
+    "country": "TUNISIA",
+    "bank": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406284",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407024",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407053",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407058",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407060",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407061",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407205",
+    "country": "TUNISIA",
+    "bank": "BANQUE ZITOUNA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407208",
+    "country": "TUNISIA",
+    "bank": "BANQUE ZITOUNA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "408465",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408477",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409086",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409619",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409733",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409734",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410510",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410668",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410968",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411083",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "412474",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412545",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412618",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414235",
+    "country": "TUNISIA",
+    "bank": "BANQUE TUNISIENNE DE SOLIDARITE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414286",
+    "country": "TUNISIA",
+    "bank": "SOCIETE TUNISIENNE DE BANQUE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414622",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414629",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414646",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414852",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "414853",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "414855",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414856",
+    "country": "TUNISIA",
+    "bank": "AL BARAKA BANK TUNISIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415284",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "415285",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "415474",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "415499",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416843",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417007",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417481",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419769",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419770",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419771",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422255",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422256",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424521",
+    "country": "TUNISIA",
+    "bank": "TUNIS INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424612",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425341",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE LHABITAT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425342",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425343",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425622",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425623",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "427129",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427410",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431223",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431404",
+    "country": "TUNISIA",
+    "bank": "SOCIETE TUNISIENNE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431405",
+    "country": "TUNISIA",
+    "bank": "SOCIETE TUNISIENNE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431428",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431429",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431524",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431525",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432042",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432043",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432903",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432904",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432905",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432906",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432907",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432908",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432909",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433304",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433800",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433801",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434100",
+    "country": "TUNISIA",
+    "bank": "BANQUE TUNISIENNE DE SOLIDARITE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434826",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438973",
+    "country": "TUNISIA",
+    "bank": "QNB TUNISIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "440131",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "440500",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440501",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440502",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440648",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440649",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442432",
+    "country": "TUNISIA",
+    "bank": "SOCIETE TUNISIENNE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "442433",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443958",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446015",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446026",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446027",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446584",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446966",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446967",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450707",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450921",
+    "country": "TUNISIA",
+    "bank": "TUNIS INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454144",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454401",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455040",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "455041",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "455042",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455043",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455044",
+    "country": "TUNISIA",
+    "bank": "AL BARAKA BANK TUNISIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455045",
+    "country": "TUNISIA",
+    "bank": "AL BARAKA BANK TUNISIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455058",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455563",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455564",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455581",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455582",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455593",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455769",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456782",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456894",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458240",
+    "country": "TUNISIA",
+    "bank": "BANQUE ZITOUNA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459592",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459810",
+    "country": "TUNISIA",
+    "bank": "WIFAK INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463607",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "463611",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464173",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464851",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464852",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465245",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465246",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467935",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "471264",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471325",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472860",
+    "country": "TUNISIA",
+    "bank": "ARAB BANKING CORPORATION TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473977",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "474156",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474157",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474200",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474201",
+    "country": "TUNISIA",
+    "bank": "OFFICE NATIONAL DES POSTES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "474611",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476863",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477785",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUES (UIB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479761",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479762",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490600",
+    "country": "TUNISIA",
+    "bank": "SOCIETE TUNISIENNE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490601",
+    "country": "TUNISIA",
+    "bank": "SOCIETE TUNISIENNE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490998",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491219",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491220",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491242",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "493836",
+    "country": "TUNISIA",
+    "bank": "BANQUE ATTIJARI DE TUNISIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494004",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494364",
+    "country": "TUNISIA",
+    "bank": "BH BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498422",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510472",
+    "country": "TUNISIA",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "900720",
+    "country": "TUNISIA",
+    "bank": "AMEN B",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "WHITE EMV INTERBANCAIRE"
+  },
+  {
+    "bin": "978802",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978803",
+    "country": "TUNISIA",
+    "bank": "BNA",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "BIN WALLET MOBILE PAYMENT"
+  },
+  {
+    "bin": "978807",
+    "country": "TUNISIA",
+    "bank": "LA POSTE TUNISIENNE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978809",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978810",
+    "country": "TUNISIA",
+    "bank": "SOC TUNISIENNE DE BANQUE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978814",
+    "country": "TUNISIA",
+    "bank": "BH",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "BIN WALLET MOBILE PAYMENT"
+  },
+  {
+    "bin": "978815",
+    "country": "TUNISIA",
+    "bank": "AL BARAKA BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978817",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE DE COMMERCE ET DIINDUSTRIE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT INTERNE"
+  },
+  {
+    "bin": "978818",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE PRIVATIVE"
+  },
+  {
+    "bin": "978820",
+    "country": "TUNISIA",
+    "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978822",
+    "country": "TUNISIA",
+    "bank": "UBCI",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "BIN WALLET MOBILE PAYMENT"
+  },
+  {
+    "bin": "978831",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE DE COMMERCE ET DIINDUSTRIE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "RETRAIT"
+  },
+  {
+    "bin": "978833",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE PRIVATIVE EPARGNE"
+  },
+  {
+    "bin": "978834",
+    "country": "TUNISIA",
+    "bank": "STUSID BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE PRIVATIVE EPARGNE"
+  },
+  {
+    "bin": "978836",
+    "country": "TUNISIA",
+    "bank": "STUSID BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE PRIVATIVE PIN ON-LINE"
+  },
+  {
+    "bin": "978837",
+    "country": "TUNISIA",
+    "bank": "ATTIJARI BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE PRIVATIVE EPARGNE"
+  },
+  {
+    "bin": "978838",
+    "country": "TUNISIA",
+    "bank": "UNION BANCAIRE DE COMMERCE ET DIINDUSTRIE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE DE RETRAIT JEUNE"
+  },
+  {
+    "bin": "978847",
+    "country": "TUNISIA",
+    "bank": "WIFAK BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "BIN WALLET MOBILE PAYMENT"
+  },
+  {
+    "bin": "978850",
+    "country": "TUNISIA",
+    "bank": "BANQUE CENTRALE DE TUNISIE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978851",
+    "country": "TUNISIA",
+    "bank": "ARAB TUNISIAN BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978852",
+    "country": "TUNISIA",
+    "bank": "BANQUE FRANCO TUNISIENNE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978853",
+    "country": "TUNISIA",
+    "bank": "BANQUE NATIONALE AGRICOLE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978854",
+    "country": "TUNISIA",
+    "bank": "ATTIJARI BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978855",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978857",
+    "country": "TUNISIA",
+    "bank": "AMEN BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978860",
+    "country": "TUNISIA",
+    "bank": "SOC TUNISIENNE DE BANQUE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978862",
+    "country": "TUNISIA",
+    "bank": "UNION INTERNATIONALE DE BANQUE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978864",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE LIHABITAT",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978870",
+    "country": "TUNISIA",
+    "bank": "BANQUE TUNISO KOWEITIENNE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978871",
+    "country": "TUNISIA",
+    "bank": "STUSID BANK",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978874",
+    "country": "TUNISIA",
+    "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  },
+  {
+    "bin": "978880",
+    "country": "TUNISIA",
+    "bank": "LA POSTE TUNISIENNE",
+    "network": "CMI",
+    "type": "DEBIT",
+    "level": "CARTE CIB"
+  }
+]

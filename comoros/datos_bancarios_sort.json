@@ -1,0 +1,82 @@
+[
+  {
+    "bin": "408466",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408467",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408469",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "408470",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "408471",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428371",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428518",
+    "country": "COMOROS",
+    "bank": "EXIM BANK COMOROS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "516598",
+    "country": "COMOROS",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522245",
+    "country": "COMOROS",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524241",
+    "country": "COMOROS",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  }
+]

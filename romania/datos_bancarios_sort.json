@@ -1,0 +1,5242 @@
+[
+  {
+    "bin": "377669",
+    "country": "ROMANIA",
+    "bank": "ERB RETAIL SERVICES IFN, S.A.",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN CHARGE"
+  },
+  {
+    "bin": "377757",
+    "country": "ROMANIA",
+    "bank": "BANCPOST",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN REVOLVE"
+  },
+  {
+    "bin": "400810",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402117",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402388",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402388",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402389",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402389",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402586",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "402586",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404081",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404082",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404309",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404309",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404310",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404310",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404311",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404311",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404312",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404312",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405223",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405223",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405224",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405224",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406371",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406371",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406424",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406424",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407570",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408418",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408419",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "408420",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "409746",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409746",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409805",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409805",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410343",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410539",
+    "country": "ROMANIA",
+    "bank": "MKB ROMEXTERRA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410542",
+    "country": "ROMANIA",
+    "bank": "ROMEXTERRA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410925",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411680",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411681",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411682",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411683",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411947",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411967",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411968",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411969",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411970",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411971",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411986",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411986",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411987",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411987",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411988",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411988",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412727",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412919",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412919",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414048",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414048",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414049",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "414049",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "415034",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416735",
+    "country": "ROMANIA",
+    "bank": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416736",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416737",
+    "country": "ROMANIA",
+    "bank": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416738",
+    "country": "ROMANIA",
+    "bank": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416915",
+    "country": "ROMANIA",
+    "bank": "BANK OF CYPRUS PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417408",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417409",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417950",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417951",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417952",
+    "country": "ROMANIA",
+    "bank": "RBS BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "417961",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417966",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418325",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418326",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419650",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419650",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419651",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419651",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419995",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419995",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419996",
+    "country": "ROMANIA",
+    "bank": "VOLKSBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419997",
+    "country": "ROMANIA",
+    "bank": "VOLKSBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419998",
+    "country": "ROMANIA",
+    "bank": "VOLKSBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "420867",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "420867",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "420957",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420958",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420959",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420960",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421143",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421143",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421144",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421144",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421145",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421145",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421773",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "422606",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422606",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423098",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423098",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423177",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423177",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423230",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423231",
+    "country": "ROMANIA",
+    "bank": "VOLKSBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423463",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423464",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424319",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424320",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424321",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424382",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424383",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424453",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424453",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424502",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424502",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424503",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424503",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424504",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424504",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424505",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424505",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424732",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424732",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424814",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424814",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425601",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425601",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425602",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425602",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425603",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425603",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425604",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425604",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425605",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425605",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425606",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425606",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425610",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425610",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426147",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426148",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426235",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426235",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426700",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426734",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427216",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427216",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427249",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427249",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427735",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427735",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427845",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427846",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427847",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA CARPATICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428100",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428100",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428256",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428256",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428282",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428282",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "429000",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN DIGITAL BANK AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429779",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429779",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429780",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429780",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429781",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "429781",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "429930",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430219",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "430219",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431251",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431251",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431378",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432254",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432254",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432255",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432255",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433375",
+    "country": "ROMANIA",
+    "bank": "PAYNETICS EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "433440",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANEASCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434591",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434744",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434801",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434805",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434806",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434807",
+    "country": "ROMANIA",
+    "bank": "ORANGE MONEY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434808",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434857",
+    "country": "ROMANIA",
+    "bank": "WESTERN UNION INTERNATIONAL BANK GMBH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434902",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434902",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434903",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434903",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434950",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437857",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "438134",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438955",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438955",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439579",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439716",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440135",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440660",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440661",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441048",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443973",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444588",
+    "country": "ROMANIA",
+    "bank": "VOLKSBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444816",
+    "country": "ROMANIA",
+    "bank": "BANK LEUMI ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444817",
+    "country": "ROMANIA",
+    "bank": "BANK LEUMI ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444818",
+    "country": "ROMANIA",
+    "bank": "BANK LEUMI ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444819",
+    "country": "ROMANIA",
+    "bank": "BANK LEUMI ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "444820",
+    "country": "ROMANIA",
+    "bank": "BANK LEUMI ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446160",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446161",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446162",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446164",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446165",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "446166",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446167",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446295",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446296",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446297",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "446298",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446299",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446450",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446451",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446452",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446453",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446454",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446455",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446456",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446457",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447893",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "447895",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448118",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448118",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449390",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449390",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449391",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449391",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450053",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450054",
+    "country": "ROMANIA",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451390",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "454787",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "454943",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454943",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455842",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "455842",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456908",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457985",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457990",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457990",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459348",
+    "country": "ROMANIA",
+    "bank": "ATE BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459526",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459527",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459528",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459529",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459539",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459809",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA CARPATICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "460739",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460739",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460953",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460953",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460954",
+    "country": "ROMANIA",
+    "bank": "CAPITAL FINANCIAL SERVICES, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "460955",
+    "country": "ROMANIA",
+    "bank": "CAPITAL FINANCIAL SERVICES, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "465151",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465151",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465155",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465155",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465543",
+    "country": "ROMANIA",
+    "bank": "CITIBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465544",
+    "country": "ROMANIA",
+    "bank": "CITIBANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465929",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465929",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466286",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466286",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466287",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466287",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466556",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "466556",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467093",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467094",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "467095",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468733",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468734",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468735",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468736",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "468737",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "468918",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468918",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469297",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469297",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469298",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "469298",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "469739",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469739",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469740",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469740",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469741",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469741",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469742",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469742",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469896",
+    "country": "ROMANIA",
+    "bank": "MARFIN BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "473031",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "473031",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474101",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476141",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477118",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477118",
+    "country": "ROMANIA",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477146",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477147",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477196",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477196",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477197",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477197",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477202",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477202",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477541",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477936",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479668",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479670",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479739",
+    "country": "ROMANIA",
+    "bank": "BANC POST, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481909",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482923",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483007",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "483083",
+    "country": "ROMANIA",
+    "bank": "NEXTEBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486776",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486949",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487057",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "487057",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "487162",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487413",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "487413",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489366",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489367",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489368",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "489398",
+    "country": "ROMANIA",
+    "bank": "BANK OF CYPRUS PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489405",
+    "country": "ROMANIA",
+    "bank": "TECHVENTURES BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490856",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "490856",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "491210",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "491764",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491785",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491785",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493417",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493417",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494115",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498552",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498552",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498786",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA CARPATICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "510000",
+    "country": "ROMANIA",
+    "bank": "RBS BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "511397",
+    "country": "ROMANIA",
+    "bank": "DIPOCKET UAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512031",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512672",
+    "country": "ROMANIA",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512696",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513377",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513598",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "513598",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "514858",
+    "country": "ROMANIA",
+    "bank": "DIPOCKET UAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "515251",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515737",
+    "country": "ROMANIA",
+    "bank": "EXIM BANCA ROMANEASCA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515901",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516231",
+    "country": "ROMANIA",
+    "bank": "CAPITAL FINANCIAL SERVICES, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516553",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516734",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517213",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517304",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517392",
+    "country": "ROMANIA",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517488",
+    "country": "ROMANIA",
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517507",
+    "country": "ROMANIA",
+    "bank": "CAPITAL FINANCIAL SERVICES, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "518492",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518594",
+    "country": "ROMANIA",
+    "bank": "TECHVENTURES BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518655",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518655",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518825",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519026",
+    "country": "ROMANIA",
+    "bank": "DIPOCKET UAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "519153",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519306",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519432",
+    "country": "ROMANIA",
+    "bank": "TECHVENTURES BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520012",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520012",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520323",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520338",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "520351",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520351",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520390",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520926",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520927",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520999",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521350",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521831",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521831",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522034",
+    "country": "ROMANIA",
+    "bank": "TBI CREDIT IFN, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522062",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522720",
+    "country": "ROMANIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522736",
+    "country": "ROMANIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "522791",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523526",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523601",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523884",
+    "country": "ROMANIA",
+    "bank": "UP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523904",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523928",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524386",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524461",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524461",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524669",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524899",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525172",
+    "country": "ROMANIA",
+    "bank": "MULTITUDE BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525411",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525431",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525587",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525764",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526480",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526490",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526490",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526700",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526993",
+    "country": "ROMANIA",
+    "bank": "TBI MONEY IFN, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527037",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527176",
+    "country": "ROMANIA",
+    "bank": "PLUXEE ROMANIA SRL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "527399",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527452",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527452",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527529",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527529",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528079",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528082",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528167",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528610",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528616",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528703",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "528832",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528833",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528877",
+    "country": "ROMANIA",
+    "bank": "ICARD AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529029",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529211",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529211",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529351",
+    "country": "ROMANIA",
+    "bank": "DIPOCKET UAB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "529402",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529405",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529405",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529458",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529458",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529459",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529459",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529475",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529591",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "529912",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529912",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529913",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529913",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530410",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530410",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530805",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531331",
+    "country": "ROMANIA",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531342",
+    "country": "ROMANIA",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531563",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532054",
+    "country": "ROMANIA",
+    "bank": "UP COOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "532085",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532119",
+    "country": "ROMANIA",
+    "bank": "EML MONEY DAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532148",
+    "country": "ROMANIA",
+    "bank": "EURONET 360 FINANCE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "532453",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "532453",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "532762",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532784",
+    "country": "ROMANIA",
+    "bank": "UP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "533155",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533155",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533277",
+    "country": "ROMANIA",
+    "bank": "CSC EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "533687",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533687",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534097",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534164",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534267",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534619",
+    "country": "ROMANIA",
+    "bank": "SPEED TRANSFER FINANCIAR SRL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535047",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "535065",
+    "country": "ROMANIA",
+    "bank": "TBI CREDIT IFN, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535882",
+    "country": "ROMANIA",
+    "bank": "CSC EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536213",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "536447",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANESCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536447",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANESCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537083",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537876",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537963",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539105",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539118",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539127",
+    "country": "ROMANIA",
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539412",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539412",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539729",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539823",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "539833",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539833",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540049",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540308",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540308",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541010",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541010",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541086",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541219",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "541356",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541463",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "541553",
+    "country": "ROMANIA",
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541615",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541644",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541644",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541671",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541682",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541682",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541818",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541895",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542343",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542428",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542985",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "542985",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA ROMANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "543332",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543332",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544220",
+    "country": "ROMANIA",
+    "bank": "UP COOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "544223",
+    "country": "ROMANIA",
+    "bank": "UP COOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "544396",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545077",
+    "country": "ROMANIA",
+    "bank": "EXIM BANCA ROMANEASCA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545213",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "545593",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545593",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545598",
+    "country": "ROMANIA",
+    "bank": "DIPOCKET UAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "545820",
+    "country": "ROMANIA",
+    "bank": "EXIM BANCA ROMANEASCA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545894",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545898",
+    "country": "ROMANIA",
+    "bank": "UP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546665",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546761",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546865",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "547340",
+    "country": "ROMANIA",
+    "bank": "TECHVENTURES BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547379",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547599",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547848",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547862",
+    "country": "ROMANIA",
+    "bank": "RBS BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547885",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548215",
+    "country": "ROMANIA",
+    "bank": "CREDIT EUROPE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548359",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548359",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548700",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548700",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548773",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548773",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548780",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548780",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548914",
+    "country": "ROMANIA",
+    "bank": "EXIM BANCA ROMANEASCA SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549073",
+    "country": "ROMANIA",
+    "bank": "RBS BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549291",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549395",
+    "country": "ROMANIA",
+    "bank": "BANCA MILLENNIUM, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "549532",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549532",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549543",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549610",
+    "country": "ROMANIA",
+    "bank": "PIRAEUS BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "549730",
+    "country": "ROMANIA",
+    "bank": "VISTA BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549835",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549856",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549869",
+    "country": "ROMANIA",
+    "bank": "LIBRA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550087",
+    "country": "ROMANIA",
+    "bank": "ATE BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550101",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550101",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550283",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550283",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550373",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "550373",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "551967",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552593",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552647",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552648",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552649",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552696",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552696",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552722",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552772",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552873",
+    "country": "ROMANIA",
+    "bank": "FIRST BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552878",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553257",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "553424",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553491",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553589",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553590",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553687",
+    "country": "ROMANIA",
+    "bank": "EXIM BANCA ROMANEASCA SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553688",
+    "country": "ROMANIA",
+    "bank": "ALPHA BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "553689",
+    "country": "ROMANIA",
+    "bank": "ING BANK N.V. AMSTERDAM BUCHAREST BRANCH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553692",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553692",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553695",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553695",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553901",
+    "country": "ROMANIA",
+    "bank": "TBI MONEY IFN, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553905",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553911",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553911",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553966",
+    "country": "ROMANIA",
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553974",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553996",
+    "country": "ROMANIA",
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554190",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA PENTRU DEZVOLTARE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554523",
+    "country": "ROMANIA",
+    "bank": "PPRO FINANCIAL, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "554545",
+    "country": "ROMANIA",
+    "bank": "LIBRA INTERNET BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554593",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554734",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554826",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554826",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554841",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554854",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554861",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554862",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "556041",
+    "country": "ROMANIA",
+    "bank": "CEC BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556077",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556078",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557485",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557641",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "558464",
+    "country": "ROMANIA",
+    "bank": "RBS BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558465",
+    "country": "ROMANIA",
+    "bank": "RBS BANK (ROMANIA), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558589",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558683",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558684",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559090",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559090",
+    "country": "ROMANIA",
+    "bank": "OTP BANK ROMANIA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559204",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559487",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559616",
+    "country": "ROMANIA",
+    "bank": "SALT BANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559897",
+    "country": "ROMANIA",
+    "bank": "MOORWAND, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559991",
+    "country": "ROMANIA",
+    "bank": "UP AGANEA EDE SAU",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "573067",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "573278",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "575500",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576645",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576987",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "578434",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585800",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "586475",
+    "country": "ROMANIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "670510",
+    "country": "ROMANIA",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "670617",
+    "country": "ROMANIA",
+    "bank": "TECHVENTURES BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676373",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676373",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676403",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676446",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676446",
+    "country": "ROMANIA",
+    "bank": "BANCA TRANSILVANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676449",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676455",
+    "country": "ROMANIA",
+    "bank": "IDEA BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676462",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676462",
+    "country": "ROMANIA",
+    "bank": "RAIFFEISEN BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676532",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676831",
+    "country": "ROMANIA",
+    "bank": "CREDIT AGRICOLE BANK ROMANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676908",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676909",
+    "country": "ROMANIA",
+    "bank": "PATRIA BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676918",
+    "country": "ROMANIA",
+    "bank": "UNICREDIT BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676945",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANESCA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676945",
+    "country": "ROMANIA",
+    "bank": "BANCA ROMANESCA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677051",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA SANPAOLO IMI BANK ROMANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677064",
+    "country": "ROMANIA",
+    "bank": "BANK LEUMI ROMANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677082",
+    "country": "ROMANIA",
+    "bank": "BRD GROUPE SOCIETE GENERALE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677258",
+    "country": "ROMANIA",
+    "bank": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677259",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677259",
+    "country": "ROMANIA",
+    "bank": "PROCREDIT BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677310",
+    "country": "ROMANIA",
+    "bank": "GARANTI BANK, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677574",
+    "country": "ROMANIA",
+    "bank": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

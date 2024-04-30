@@ -1,0 +1,4466 @@
+[
+  {
+    "bin": "222702",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "401335",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401352",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402485",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "402516",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403258",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403527",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403563",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404354",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404355",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404357",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404359",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "404545",
+    "country": "LEBANON",
+    "bank": "CEDRUS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404605",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404847",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404950",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405355",
+    "country": "LEBANON",
+    "bank": "AREEBA SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405765",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406899",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406969",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "407448",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "407985",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "409709",
+    "country": "LEBANON",
+    "bank": "AREEBA SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409737",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409738",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409786",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409787",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "409791",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409793",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410173",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410251",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410467",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "UHNW"
+  },
+  {
+    "bin": "410736",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410737",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410769",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "410790",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411040",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411654",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412767",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412771",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412772",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "413050",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414057",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "414566",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414617",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414672",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414673",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414674",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "414694",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414695",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "415302",
+    "country": "LEBANON",
+    "bank": "EMIRATES LEBANON BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415303",
+    "country": "LEBANON",
+    "bank": "EMIRATES LEBANON BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415349",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416020",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "416901",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416976",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "417077",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417078",
+    "country": "LEBANON",
+    "bank": "BNP PARIBAS INTERCONTINENTALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417081",
+    "country": "LEBANON",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417082",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417255",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS SIGNATURE"
+  },
+  {
+    "bin": "417350",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417486",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417734",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417735",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418822",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418825",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "418828",
+    "country": "LEBANON",
+    "bank": "BANKMED S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "418854",
+    "country": "LEBANON",
+    "bank": "ALLIED BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418855",
+    "country": "LEBANON",
+    "bank": "ALLIED BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418856",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418899",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419516",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419517",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419518",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420283",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421044",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421119",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421970",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422875",
+    "country": "LEBANON",
+    "bank": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422876",
+    "country": "LEBANON",
+    "bank": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423265",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423684",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "423805",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423832",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423899",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424478",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424534",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424565",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425179",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "425194",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "425195",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425681",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425875",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "426337",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426394",
+    "country": "LEBANON",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426805",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426867",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "426868",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426869",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426870",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427887",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "428229",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428230",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "428231",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428559",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428745",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429110",
+    "country": "LEBANON",
+    "bank": "BANKMED S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429111",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "429425",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429427",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429559",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429816",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "429928",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429929",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429940",
+    "country": "LEBANON",
+    "bank": "AUDI SARADAR PRIVATE BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429949",
+    "country": "LEBANON",
+    "bank": "AUDI SARADAR PRIVATE BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "431716",
+    "country": "LEBANON",
+    "bank": "AUDI SARADAR PRIVATE BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432253",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432556",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432592",
+    "country": "LEBANON",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432593",
+    "country": "LEBANON",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "433007",
+    "country": "LEBANON",
+    "bank": "AREEBA SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433008",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433803",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "433808",
+    "country": "LEBANON",
+    "bank": "BANKMED S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433813",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433825",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433836",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "433980",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433981",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433982",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433983",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437494",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437495",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "439073",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439962",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "440033",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440034",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440037",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "440038",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440545",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440568",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440569",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440662",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440663",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440714",
+    "country": "LEBANON",
+    "bank": "BANQUE AUDI S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440717",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440786",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440788",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440789",
+    "country": "LEBANON",
+    "bank": "BANQUE AUDI S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441773",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "443182",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445149",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445150",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "445955",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445956",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445960",
+    "country": "LEBANON",
+    "bank": "LEBANON AND GULF BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447180",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "447316",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447317",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447390",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447524",
+    "country": "LEBANON",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "447528",
+    "country": "LEBANON",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447767",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447768",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448300",
+    "country": "LEBANON",
+    "bank": "LEBANON AND GULF BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448302",
+    "country": "LEBANON",
+    "bank": "LEBANON AND GULF BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448319",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448339",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456078",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457230",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457231",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457285",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457527",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "458561",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459043",
+    "country": "LEBANON",
+    "bank": "EMIRATES LEBANON BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459044",
+    "country": "LEBANON",
+    "bank": "EMIRATES LEBANON BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459045",
+    "country": "LEBANON",
+    "bank": "EMIRATES LEBANON BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459046",
+    "country": "LEBANON",
+    "bank": "EMIRATES LEBANON BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459217",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459218",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "460033",
+    "country": "LEBANON",
+    "bank": "CEDRUS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460060",
+    "country": "LEBANON",
+    "bank": "CEDRUS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460081",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460333",
+    "country": "LEBANON",
+    "bank": "AUDI SARADAR PRIVATE BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461120",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "461665",
+    "country": "LEBANON",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461666",
+    "country": "LEBANON",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461667",
+    "country": "LEBANON",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462018",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462211",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462212",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464120",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464121",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464401",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464402",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464403",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464418",
+    "country": "LEBANON",
+    "bank": "BANKMED S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464429",
+    "country": "LEBANON",
+    "bank": "WEDGE BANK MIDDLE EAST S.A.L",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464430",
+    "country": "LEBANON",
+    "bank": "WEDGE BANK MIDDLE EAST S.A.L",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464493",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464499",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464518",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464698",
+    "country": "LEBANON",
+    "bank": "SARADAR BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465219",
+    "country": "LEBANON",
+    "bank": "LEBANON AND GULF BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465223",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465224",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465244",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465271",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465282",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465561",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466798",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467903",
+    "country": "LEBANON",
+    "bank": "LEBANON AND GULF BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468548",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469398",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469515",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469532",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "469581",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "469582",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "470351",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471357",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "471451",
+    "country": "LEBANON",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471483",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472266",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "472859",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474141",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474143",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "474144",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474185",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "476015",
+    "country": "LEBANON",
+    "bank": "BANKMED S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "476028",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "476029",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476030",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476522",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476873",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477508",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477509",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478725",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478732",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478735",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "478740",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "480285",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS SIGNATURE"
+  },
+  {
+    "bin": "480305",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "481952",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "UHNW"
+  },
+  {
+    "bin": "483144",
+    "country": "LEBANON",
+    "bank": "SARADAR BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "483295",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483952",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484174",
+    "country": "LEBANON",
+    "bank": "IBL BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484175",
+    "country": "LEBANON",
+    "bank": "IBL BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484176",
+    "country": "LEBANON",
+    "bank": "IBL BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484882",
+    "country": "LEBANON",
+    "bank": "BANK AUDI SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486087",
+    "country": "LEBANON",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486099",
+    "country": "LEBANON",
+    "bank": "JAMMAL TRUST BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486100",
+    "country": "LEBANON",
+    "bank": "JAMMAL TRUST BANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487052",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "487952",
+    "country": "LEBANON",
+    "bank": "BLOM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489009",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489093",
+    "country": "LEBANON",
+    "bank": "BANKMED S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489189",
+    "country": "LEBANON",
+    "bank": "BYBLOS BANK SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489336",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489337",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489338",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "491726",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "497143",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "499823",
+    "country": "LEBANON",
+    "bank": "CEDRUS BANK SAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "510085",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510451",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510459",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510479",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "510531",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510533",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511767",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511841",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512052",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512061",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "512252",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512263",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512301",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512339",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512373",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512404",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512751",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512798",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512994",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514028",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514075",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "514443",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514734",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515562",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515770",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515773",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516073",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516343",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516440",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517568",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517577",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517623",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517658",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517704",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517941",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517994",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517995",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518059",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518107",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518108",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518162",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518485",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518575",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT AND THE ARAB COUNTRIESS.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518649",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "518750",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518883",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519060",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519316",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519441",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519451",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "519857",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519964",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "520065",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520107",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520124",
+    "country": "LEBANON",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520150",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520200",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520398",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520433",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520620",
+    "country": "LEBANON",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520771",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "521072",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521082",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521323",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521949",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522020",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522053",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522133",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522197",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522425",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "522427",
+    "country": "LEBANON",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522430",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522817",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522986",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523408",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "523475",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523485",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524062",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524065",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524078",
+    "country": "LEBANON",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524145",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524160",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524194",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524195",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524215",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524235",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524246",
+    "country": "LEBANON",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524269",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524334",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524350",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524520",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524668",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525369",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525555",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "525851",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525924",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526330",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526405",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526406",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526407",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526409",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526432",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526774",
+    "country": "LEBANON",
+    "bank": "BBAC S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526902",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526909",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526928",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526932",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527408",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527478",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "527570",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527709",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527742",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528493",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528496",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "528499",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528646",
+    "country": "LEBANON",
+    "bank": "BANK AUDI S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528810",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529128",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529622",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529722",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529724",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529749",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "529895",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "529954",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529977",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530031",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530393",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "530398",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "530916",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE EXCLUSIVE"
+  },
+  {
+    "bin": "530933",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531042",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531114",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "531131",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531132",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531134",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531135",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531136",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531139",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531151",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531183",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531184",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531248",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531279",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531392",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531653",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "531716",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532733",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "533222",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "533750",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533758",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533761",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533781",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533782",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533783",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "534318",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534398",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534421",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534673",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535821",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535952",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536625",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536626",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536923",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536926",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537048",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537052",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537163",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537791",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537809",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537856",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538793",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539269",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "539920",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539963",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540030",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540254",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "540710",
+    "country": "LEBANON",
+    "bank": "LEBANON AND GULF BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541059",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541261",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542164",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542205",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542212",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542675",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "542824",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542845",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542910",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542912",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542920",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542951",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543413",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543786",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543937",
+    "country": "LEBANON",
+    "bank": "BLC BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543958",
+    "country": "LEBANON",
+    "bank": "CREDITCARD SERVICES COMPANY S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544010",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544011",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544041",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "544091",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544122",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544129",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544302",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544332",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544334",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544356",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN SAL.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PAYPASS"
+  },
+  {
+    "bin": "544523",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544524",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544525",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544759",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544894",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544956",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544978",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545642",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "545980",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546328",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "546329",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "546572",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546573",
+    "country": "LEBANON",
+    "bank": "AM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547085",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547136",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547850",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "548178",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548179",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548599",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548881",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "548896",
+    "country": "LEBANON",
+    "bank": "FRANSABANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548905",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548916",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548972",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549758",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549761",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549767",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549773",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549791",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549819",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549836",
+    "country": "LEBANON",
+    "bank": "BANKMED SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549914",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549961",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549962",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550023",
+    "country": "LEBANON",
+    "bank": "BANK OF BEIRUT, S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550496",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "552009",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552045",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552056",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552062",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552108",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552231",
+    "country": "LEBANON",
+    "bank": "BLC BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552258",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552275",
+    "country": "LEBANON",
+    "bank": "BANK AUDI S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552304",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "552369",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552868",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553186",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553425",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553595",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554448",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "554449",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554450",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554451",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554485",
+    "country": "LEBANON",
+    "bank": "BLC BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554516",
+    "country": "LEBANON",
+    "bank": "BLC BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554559",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554560",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554600",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554605",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554688",
+    "country": "LEBANON",
+    "bank": "BLOM BANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554757",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554928",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555218",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555883",
+    "country": "LEBANON",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555897",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555937",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555943",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556622",
+    "country": "LEBANON",
+    "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557005",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557616",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557618",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557672",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557673",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557681",
+    "country": "LEBANON",
+    "bank": "BLOM BANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557757",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557760",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557778",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558283",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558820",
+    "country": "LEBANON",
+    "bank": "FRANSABANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559303",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559315",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559411",
+    "country": "LEBANON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559873",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559894",
+    "country": "LEBANON",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559977",
+    "country": "LEBANON",
+    "bank": "AREEBA S.A.L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "621234",
+    "country": "LEBANON",
+    "bank": "CSC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "622356",
+    "country": "LEBANON",
+    "bank": "CSC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "623495",
+    "country": "LEBANON",
+    "bank": "CSCBANK SAL",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

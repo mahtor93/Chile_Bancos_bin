@@ -1,0 +1,1562 @@
+[
+  {
+    "bin": "400616",
+    "country": "MOZAMBIQUE",
+    "bank": "ACCESS BANK MOZAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400671",
+    "country": "MOZAMBIQUE",
+    "bank": "ACCESS BANK MOZAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "400872",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401733",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "401735",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "401744",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401754",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402063",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "402542",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402545",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402546",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403313",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405594",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405595",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406266",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406401",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406431",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406939",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406940",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "406941",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "408036",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408180",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408472",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408473",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409243",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO SOCIETE GENERALE MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409475",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO MAIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409532",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO MAIS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410306",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410307",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410408",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410743",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411696",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411982",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411983",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412715",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413103",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413211",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414643",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO SOCIETE GENERALE MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414644",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "415111",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415460",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MO AMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415859",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417320",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418562",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419179",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419568",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422218",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422338",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "424126",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO SOCIETE GENERALE MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "427874",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MO AMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428270",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428670",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428961",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428962",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428963",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429744",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429745",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429746",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429960",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "429962",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429971",
+    "country": "MOZAMBIQUE",
+    "bank": "FIRST CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430446",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430452",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430459",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431377",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431442",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432288",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432437",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MO AMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432487",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433101",
+    "country": "MOZAMBIQUE",
+    "bank": "MYBUCKS BANK MOZAMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433373",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433864",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433865",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433866",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433867",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433868",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433869",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "435492",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO MAIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438897",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "440014",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440570",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440823",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440837",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "441279",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443584",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444564",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444582",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444585",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "444682",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444683",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "444684",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "445699",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445806",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445816",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445818",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446941",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446943",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MO AMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446954",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MO AMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447518",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MO AMBIQUE, SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447519",
+    "country": "MOZAMBIQUE",
+    "bank": "ACCESS BANK MOZAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455830",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456484",
+    "country": "MOZAMBIQUE",
+    "bank": "FIRST CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457206",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457207",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457208",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457209",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457210",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457439",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457836",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457918",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457919",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457920",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457921",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457922",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458219",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458220",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "458221",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458222",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458223",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458224",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458225",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458226",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458227",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "458228",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458229",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING CORPORATION (MOCAMBIQUE) SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458230",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458712",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459206",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "461254",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "461603",
+    "country": "MOZAMBIQUE",
+    "bank": "ACCESS BANK MOZAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468917",
+    "country": "MOZAMBIQUE",
+    "bank": "MAURITIUS COMMERCIAL BANK (MOCAMBIQUE), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469617",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470392",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471251",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "471290",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471291",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472224",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472225",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472226",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472247",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472311",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472872",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473851",
+    "country": "MOZAMBIQUE",
+    "bank": "STANDARD BANK SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474113",
+    "country": "MOZAMBIQUE",
+    "bank": "INTERPAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "477020",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477021",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477022",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477023",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477024",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477058",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477059",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477060",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477062",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477064",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477066",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477067",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477068",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478388",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478703",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478704",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478705",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO SOCIETE GENERALE MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478706",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO SOCIETE GENERALE MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478754",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "478876",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "480687",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481212",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481213",
+    "country": "MOZAMBIQUE",
+    "bank": "COOPERATIVA DE POUPANCA E CREDITO, S.C.R.L",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481772",
+    "country": "MOZAMBIQUE",
+    "bank": "FNB MOCAMBIQUE SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "482107",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483131",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483474",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483486",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "484133",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484134",
+    "country": "MOZAMBIQUE",
+    "bank": "NEDBANK MOZAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484876",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486313",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486314",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486315",
+    "country": "MOZAMBIQUE",
+    "bank": "ABSA BANK MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "496089",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO SOCIETE GENERALE MOCAMBIQUE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498628",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498630",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499836",
+    "country": "MOZAMBIQUE",
+    "bank": "ACCESS BANK MOZAMBIQUE SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512349",
+    "country": "MOZAMBIQUE",
+    "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE(BIM)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518334",
+    "country": "MOZAMBIQUE",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523050",
+    "country": "MOZAMBIQUE",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "525646",
+    "country": "MOZAMBIQUE",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526427",
+    "country": "MOZAMBIQUE",
+    "bank": "BARCLAYS BANK MOCAMBIQUE, SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532482",
+    "country": "MOZAMBIQUE",
+    "bank": "MOZA BANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534414",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541195",
+    "country": "MOZAMBIQUE",
+    "bank": "LETSHEGO FINANCIAL SERVICES MOZAMBIQUE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543352",
+    "country": "MOZAMBIQUE",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "554428",
+    "country": "MOZAMBIQUE",
+    "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554429",
+    "country": "MOZAMBIQUE",
+    "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554431",
+    "country": "MOZAMBIQUE",
+    "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557912",
+    "country": "MOZAMBIQUE",
+    "bank": "AFRICAN BANKING COOPERATION BOTSWANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  }
+]

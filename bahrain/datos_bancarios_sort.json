@@ -1,0 +1,2434 @@
+[
+  {
+    "bin": "223388",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE EXCLUSIVE"
+  },
+  {
+    "bin": "223614",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "360134",
+    "country": "BAHRAIN",
+    "bank": "DC BAHRAIN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364726",
+    "country": "BAHRAIN",
+    "bank": "DC BAHRAIN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "379847",
+    "country": "BAHRAIN",
+    "bank": "AEME (REVOLVE)",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "400208",
+    "country": "BAHRAIN",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "401575",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF KUWAIT, S.A.K.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402627",
+    "country": "BAHRAIN",
+    "bank": "BATELCO FINANCIAL SERVICES (B.S.C.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "402639",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF KUWAIT, S.A.K.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403207",
+    "country": "BAHRAIN",
+    "bank": "BATELCO FINANCIAL SERVICES (B.S.C.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "403477",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "403641",
+    "country": "BAHRAIN",
+    "bank": "ICICI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403641",
+    "country": "BAHRAIN",
+    "bank": "ICICI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405749",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406129",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "406139",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407031",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407470",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407710",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407775",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "408365",
+    "country": "BAHRAIN",
+    "bank": "BMI BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408366",
+    "country": "BAHRAIN",
+    "bank": "BMI BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410538",
+    "country": "BAHRAIN",
+    "bank": "AL SALAM BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412478",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412587",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413742",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413743",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "413744",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413745",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413861",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414444",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414619",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415078",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415079",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415286",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415464",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415537",
+    "country": "BAHRAIN",
+    "bank": "KUWAIT FINANCE HOUSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "415656",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "416065",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416066",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416813",
+    "country": "BAHRAIN",
+    "bank": "BMI BANK B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417075",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417215",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417216",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417892",
+    "country": "BAHRAIN",
+    "bank": "EMIRATES NBD BANK (P.J.S.C.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418728",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418766",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF KUWAIT, S.A.K.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419170",
+    "country": "BAHRAIN",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419171",
+    "country": "BAHRAIN",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420179",
+    "country": "BAHRAIN",
+    "bank": "AL SALAM BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421612",
+    "country": "BAHRAIN",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421613",
+    "country": "BAHRAIN",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421635",
+    "country": "BAHRAIN",
+    "bank": "ICICI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421635",
+    "country": "BAHRAIN",
+    "bank": "ICICI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422121",
+    "country": "BAHRAIN",
+    "bank": "CREDIT LIBANAIS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423211",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423498",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C.(C)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL"
+  },
+  {
+    "bin": "423824",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426227",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428114",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428115",
+    "country": "BAHRAIN",
+    "bank": "AL SALAM BAHRAIN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428345",
+    "country": "BAHRAIN",
+    "bank": "MASHREQ BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428557",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF KUWAIT, S.A.K.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "428674",
+    "country": "BAHRAIN",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430632",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "431364",
+    "country": "BAHRAIN",
+    "bank": "KUWAIT FINANCE HOUSE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431365",
+    "country": "BAHRAIN",
+    "bank": "KUWAIT FINANCE HOUSE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432061",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432118",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432227",
+    "country": "BAHRAIN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432585",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432586",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436798",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437334",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "437397",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "437530",
+    "country": "BAHRAIN",
+    "bank": "CREDIT LIBANAIS S.A.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437535",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438990",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "438996",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438997",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "438998",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438999",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439956",
+    "country": "BAHRAIN",
+    "bank": "GULF INTERNATIONAL BANK B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440250",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "440309",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441555",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN & KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442130",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "444030",
+    "country": "BAHRAIN",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444031",
+    "country": "BAHRAIN",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444032",
+    "country": "BAHRAIN",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445813",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447525",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "449999",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450828",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450829",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453930",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453931",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454522",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK BSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "455002",
+    "country": "BAHRAIN",
+    "bank": "THE HOUSING BANK FOR TRADE & FINANCE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455012",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN & KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455013",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455050",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456060",
+    "country": "BAHRAIN",
+    "bank": "BFC PAYMENTS B.S.C. (C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "456391",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457555",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN & KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457852",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PRIVATE LABEL"
+  },
+  {
+    "bin": "458231",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458487",
+    "country": "BAHRAIN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458487",
+    "country": "BAHRAIN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458591",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458888",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "460041",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464084",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN B. S. C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464315",
+    "country": "BAHRAIN",
+    "bank": "GULF INTERNATIONAL BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466507",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466516",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466593",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C.(C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "468546",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468547",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471397",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471398",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471399",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471400",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "472295",
+    "country": "BAHRAIN",
+    "bank": "KHALEEJI BANK B.S.C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472478",
+    "country": "BAHRAIN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472478",
+    "country": "BAHRAIN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "474719",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "474735",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "480935",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481789",
+    "country": "BAHRAIN",
+    "bank": "KUWAIT FINANCE HOUSE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483991",
+    "country": "BAHRAIN",
+    "bank": "BFC PAYMENTS B.S.C. (C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "484081",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484082",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484083",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484555",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN & KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484713",
+    "country": "BAHRAIN",
+    "bank": "KUWAIT FINANCE HOUSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484832",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484833",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484834",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484835",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484836",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484837",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "488978",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN & KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "489555",
+    "country": "BAHRAIN",
+    "bank": "BANK OF BAHRAIN & KUWAIT B.S.C.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "490496",
+    "country": "BAHRAIN",
+    "bank": "KUWAIT FINANCE HOUSE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493475",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF KUWAIT, S.A.K.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493814",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "493838",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C. (CLOSED)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510146",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "510375",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510543",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "510657",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "510727",
+    "country": "BAHRAIN",
+    "bank": "SINNAD W.L.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "510990",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511162",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "511494",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "511659",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "511724",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512008",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512613",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "512894",
+    "country": "BAHRAIN",
+    "bank": "SINNAD W.L.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "513702",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "514732",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516395",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "516677",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517512",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517703",
+    "country": "BAHRAIN",
+    "bank": "PAYMENT INTERNATIONAL ENTERPRISE BSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "517728",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517733",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518719",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518817",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518867",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519309",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "519900",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE EXCLUSIVE"
+  },
+  {
+    "bin": "520073",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520074",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520076",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521205",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521261",
+    "country": "BAHRAIN",
+    "bank": "ONE GLOBAL SMART SERVICES COMPANY WLL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521622",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "522018",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "522439",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522824",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "523614",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524124",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524177",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524185",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524201",
+    "country": "BAHRAIN",
+    "bank": "GULF INTERNATIONAL BANK BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "524259",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524500",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525106",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525169",
+    "country": "BAHRAIN",
+    "bank": "ONE GLOBAL SMART SERVICES COMPANY WLL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "525360",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525774",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526195",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "526860",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527017",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527432",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528586",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528954",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529283",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529346",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530689",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531408",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "531415",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531727",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "532100",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532311",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532465",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532677",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532703",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "532714",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533421",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533771",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533960",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534168",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "534634",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536084",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "536753",
+    "country": "BAHRAIN",
+    "bank": "PAYMENT INTERNATIONAL ENTERPRISE BSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537178",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537279",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537728",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537813",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537827",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "537837",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537882",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FLEX"
+  },
+  {
+    "bin": "537995",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538000",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "538721",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "539648",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539711",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539885",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FLEX"
+  },
+  {
+    "bin": "539969",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540273",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540381",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "540729",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "541218",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541566",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542057",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "542629",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542687",
+    "country": "BAHRAIN",
+    "bank": "STC PAY BAHRAIN BSC CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID WORLD"
+  },
+  {
+    "bin": "542733",
+    "country": "BAHRAIN",
+    "bank": "STC PAY BAHRAIN BSC CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "543041",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543224",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "543256",
+    "country": "BAHRAIN",
+    "bank": "NATIONAL BANK OF BAHRAIN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "543277",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543712",
+    "country": "BAHRAIN",
+    "bank": "INFINIOS FINANCIAL SERVICES B.S.C. CLOSED",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543752",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "544097",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544295",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "545070",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545594",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545788",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546024",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "546758",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547010",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547019",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547047",
+    "country": "BAHRAIN",
+    "bank": "CARDS FINANCIAL SERVICES COMPANY, B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "547868",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548108",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548109",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548110",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "548111",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548139",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548162",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548528",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548542",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548930",
+    "country": "BAHRAIN",
+    "bank": "ITHMAAR BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "551651",
+    "country": "BAHRAIN",
+    "bank": "PAYMENT INTERNATIONAL ENTERPRISE BSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "552107",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552110",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552296",
+    "country": "BAHRAIN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "552307",
+    "country": "BAHRAIN",
+    "bank": "GULF INTERNATIONAL BANK BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "552349",
+    "country": "BAHRAIN",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "552383",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN COMMERCIAL FACILITIES COMPANY BSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552785",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554287",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "554969",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555004",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "555007",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "555013",
+    "country": "BAHRAIN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555061",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "555267",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555885",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555923",
+    "country": "BAHRAIN",
+    "bank": "STATE BANK OF INDIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555926",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555929",
+    "country": "BAHRAIN",
+    "bank": "STATE BANK OF INDIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555931",
+    "country": "BAHRAIN",
+    "bank": "AL BARAKA ISLAMIC BANK B.S.C. (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556550",
+    "country": "BAHRAIN",
+    "bank": "BAHRAIN ISLAMIC BANK B.S.C",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "557668",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557732",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "558750",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558856",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559418",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559583",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559584",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559592",
+    "country": "BAHRAIN",
+    "bank": "AHLI UNITED BANK B.S.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FLEX"
+  },
+  {
+    "bin": "559797",
+    "country": "BAHRAIN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559944",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX BSC (CLOSED)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "589163",
+    "country": "BAHRAIN",
+    "bank": "CITIBANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589905",
+    "country": "BAHRAIN",
+    "bank": "FUTURE BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624418",
+    "country": "BAHRAIN",
+    "bank": "CREDIMAX B.S.C",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "627479",
+    "country": "BAHRAIN",
+    "bank": "MAXPOINTS CARD ISSUED BY CREDIMAX",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "629223",
+    "country": "BAHRAIN",
+    "bank": "BFC PAYMENTS B.S.C. (C)",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  }
+]

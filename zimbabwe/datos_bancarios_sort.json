@@ -1,0 +1,1330 @@
+[
+  {
+    "bin": "401161",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "401651",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401651",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402723",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402723",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403365",
+    "country": "ZIMBABWE",
+    "bank": "CBZ BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405834",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406896",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406896",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406909",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406912",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406913",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406930",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406943",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412629",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412629",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420456",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "421158",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421158",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421159",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421159",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422447",
+    "country": "ZIMBABWE",
+    "bank": "CBZ BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422449",
+    "country": "ZIMBABWE",
+    "bank": "CBZ BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423803",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423803",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423815",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423815",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424347",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING CORPORATION OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424348",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428112",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429067",
+    "country": "ZIMBABWE",
+    "bank": "CBZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429068",
+    "country": "ZIMBABWE",
+    "bank": "CBZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429081",
+    "country": "ZIMBABWE",
+    "bank": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429278",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "429326",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429326",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429502",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429502",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429552",
+    "country": "ZIMBABWE",
+    "bank": "NEDBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429592",
+    "country": "ZIMBABWE",
+    "bank": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429787",
+    "country": "ZIMBABWE",
+    "bank": "NEDBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433003",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433003",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433004",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433004",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "434118",
+    "country": "ZIMBABWE",
+    "bank": "BARCLAYS BANK TANZANIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "434142",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438914",
+    "country": "ZIMBABWE",
+    "bank": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440225",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440225",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440292",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440292",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440571",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440578",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440901",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "444579",
+    "country": "ZIMBABWE",
+    "bank": "STANBIC BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445972",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "445973",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445973",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446094",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "446094",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "447116",
+    "country": "ZIMBABWE",
+    "bank": "CENTRAL AFRICA BUILDING SOCIETY (CABS)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447117",
+    "country": "ZIMBABWE",
+    "bank": "CENTRAL AFRICA BUILDING SOCIETY (CABS)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447899",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "447899",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "447928",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "452568",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452568",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453193",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453194",
+    "country": "ZIMBABWE",
+    "bank": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453195",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453196",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454586",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456791",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456791",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "463832",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "463833",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "465880",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465880",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465881",
+    "country": "ZIMBABWE",
+    "bank": "ZIMBABWE BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470483",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481447",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483965",
+    "country": "ZIMBABWE",
+    "bank": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483966",
+    "country": "ZIMBABWE",
+    "bank": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483967",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484807",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485438",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486424",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486424",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486761",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING CORPORATION OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487457",
+    "country": "ZIMBABWE",
+    "bank": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487458",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487458",
+    "country": "ZIMBABWE",
+    "bank": "NMB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487497",
+    "country": "ZIMBABWE",
+    "bank": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489030",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489030",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490722",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490722",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492911",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492911",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498706",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK ZIMBABWE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "510346",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510428",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510428",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510630",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510630",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510634",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510634",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510725",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "510725",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "511300",
+    "country": "ZIMBABWE",
+    "bank": "METBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512266",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512266",
+    "country": "ZIMBABWE",
+    "bank": "ZB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512935",
+    "country": "ZIMBABWE",
+    "bank": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514851",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING COOPERATION BOTSWANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514929",
+    "country": "ZIMBABWE",
+    "bank": "METBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515602",
+    "country": "ZIMBABWE",
+    "bank": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516261",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516617",
+    "country": "ZIMBABWE",
+    "bank": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517485",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519258",
+    "country": "ZIMBABWE",
+    "bank": "METBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "519829",
+    "country": "ZIMBABWE",
+    "bank": "METBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520190",
+    "country": "ZIMBABWE",
+    "bank": "CENTRAL AFRICA BUILDING SOCIETY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521802",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526097",
+    "country": "ZIMBABWE",
+    "bank": "SMALL AND MEDIUM ENTERPRISE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526442",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528043",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "529063",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "529142",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID WORLD"
+  },
+  {
+    "bin": "529623",
+    "country": "ZIMBABWE",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529747",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD REWARDS"
+  },
+  {
+    "bin": "529755",
+    "country": "ZIMBABWE",
+    "bank": "SMALL AND MEDIUM ENTERPRISE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531751",
+    "country": "ZIMBABWE",
+    "bank": "AVIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "532020",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "532026",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "532162",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532515",
+    "country": "ZIMBABWE",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532573",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533303",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533585",
+    "country": "ZIMBABWE",
+    "bank": "SMALL AND MEDIUM ENTERPRISE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD REWARDS"
+  },
+  {
+    "bin": "535909",
+    "country": "ZIMBABWE",
+    "bank": "AVIS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537027",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537179",
+    "country": "ZIMBABWE",
+    "bank": "KINGDOM BANK AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537966",
+    "country": "ZIMBABWE",
+    "bank": "SMALL AND MEDIUM ENTERPRISE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "538106",
+    "country": "ZIMBABWE",
+    "bank": "SMALL AND MEDIUM ENTERPRISE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538410",
+    "country": "ZIMBABWE",
+    "bank": "NEDBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539418",
+    "country": "ZIMBABWE",
+    "bank": "PEOPLES OWN SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540293",
+    "country": "ZIMBABWE",
+    "bank": "METBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540983",
+    "country": "ZIMBABWE",
+    "bank": "FIRST CAPITAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543206",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING COOPERATION BOTSWANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "543253",
+    "country": "ZIMBABWE",
+    "bank": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543779",
+    "country": "ZIMBABWE",
+    "bank": "ZIMBABWE BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543948",
+    "country": "ZIMBABWE",
+    "bank": "ZIMBABWE BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544986",
+    "country": "ZIMBABWE",
+    "bank": "PEOPLES OWN SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547065",
+    "country": "ZIMBABWE",
+    "bank": "FBC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548873",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548873",
+    "country": "ZIMBABWE",
+    "bank": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548995",
+    "country": "ZIMBABWE",
+    "bank": "ZIMBABWE BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554856",
+    "country": "ZIMBABWE",
+    "bank": "SMALL AND MEDIUM ENTERPRISE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555451",
+    "country": "ZIMBABWE",
+    "bank": "STEWARD BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "555653",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING CORPORATION OF ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID WORLD"
+  },
+  {
+    "bin": "555729",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING CORPORATION OF ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555773",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING CORPORATION OF ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555899",
+    "country": "ZIMBABWE",
+    "bank": "NEDBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555997",
+    "country": "ZIMBABWE",
+    "bank": "AFRICAN BANKING CORPORATION OF ZIMBABWE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "557319",
+    "country": "ZIMBABWE",
+    "bank": "KINGDOM BANK AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

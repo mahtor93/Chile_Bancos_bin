@@ -1,0 +1,34 @@
+[
+    {
+        "BUTTERFIELD_BANK_GUERNSEY_LTD._-_JERSEY": [
+            {
+                "Numero BIN/IIN": "524410",
+                "Pais": "JERSEY",
+                "Nombre del emisor / Banco": "BUTTERFIELD BANK GUERNSEY, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "CITIBANK_N.A._JERSEY_BRANCH_-_JERSEY": [
+            {
+                "Numero BIN/IIN": "557431",
+                "Pais": "JERSEY",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., JERSEY BRANCH",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557432",
+                "Pais": "JERSEY",
+                "Nombre del emisor / Banco": "CITIBANK, N.A., JERSEY BRANCH",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    }
+]

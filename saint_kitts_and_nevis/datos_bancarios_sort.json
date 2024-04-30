@@ -1,0 +1,722 @@
+[
+  {
+    "bin": "223140",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "404565",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "THE BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404855",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "408202",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "RBTT BANK (SKN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418682",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "THE BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419723",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419724",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422420",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422420",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423624",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "423653",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423657",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430386",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430386",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432602",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "THE BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433162",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "THE BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434784",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434784",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441725",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441725",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443938",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443938",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443939",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443939",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451263",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451263",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451267",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451267",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451273",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451273",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451795",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451795",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451882",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451882",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452361",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452361",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457686",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANCO BRADESCO CARTOES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457687",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANCO BRADESCO CARTOES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "468133",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK (EC), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469260",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469260",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469261",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473122",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "RBTT BANK (SKN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "473286",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK (EC), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479476",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479476",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486148",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "THE BANK OF NEVIS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "512206",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NEVIS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "513080",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "513797",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515728",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "518147",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "525600",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526542",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "526542",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "535862",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543510",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545259",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546785",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546786",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546787",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546788",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546789",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546793",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546794",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546795",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546796",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546797",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547523",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548545",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548546",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548547",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548548",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548549",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548551",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548552",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548553",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548560",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548561",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548562",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548563",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548574",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548609",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548610",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "549889",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550367",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "BANK OF NEVIS LIMITED (THE)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "551984",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "CARIBBEAN CREDIT CARD CORPORATION LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555628",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555742",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "REPUBLIC BANK EC, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557896",
+    "country": "SAINT KITTS AND NEVIS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  }
+]

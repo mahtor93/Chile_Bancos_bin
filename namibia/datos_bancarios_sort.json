@@ -1,0 +1,954 @@
+[
+  {
+    "bin": "360976",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK NAMIBIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360977",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK NAMIBIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "400480",
+    "country": "NAMIBIA",
+    "bank": "BANK BIC NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400888",
+    "country": "NAMIBIA",
+    "bank": "BANK BIC NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402824",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402824",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403581",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403581",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406878",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406878",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406879",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406879",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406883",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406883",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406890",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406890",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408388",
+    "country": "NAMIBIA",
+    "bank": "BANK BIC NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411664",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411664",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411665",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "411665",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "411666",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411666",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411667",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411667",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417307",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417307",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417460",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417460",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417732",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417732",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420403",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424578",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427281",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "427281",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "427282",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "427282",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "430311",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430311",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434456",
+    "country": "NAMIBIA",
+    "bank": "NAMPOST, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444565",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450087",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450087",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450854",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450854",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450855",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450855",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450856",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450856",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457808",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458728",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458728",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458729",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458729",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458730",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458730",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459264",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459264",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459265",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459265",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463019",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "463019",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "465802",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465802",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465824",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465824",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465825",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465825",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "474203",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474203",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476982",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476982",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476983",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476983",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476984",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476984",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476985",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476985",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479053",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479053",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479057",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479057",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "480855",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "480855",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "484849",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484849",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484850",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484850",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484851",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484851",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484852",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484852",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484853",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484853",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486291",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486291",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493447",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493447",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494106",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494106",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494107",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494107",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517450",
+    "country": "NAMIBIA",
+    "bank": "EBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517451",
+    "country": "NAMIBIA",
+    "bank": "EBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522207",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522207",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522819",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526202",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "527005",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "527005",
+    "country": "NAMIBIA",
+    "bank": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "529427",
+    "country": "NAMIBIA",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530939",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536159",
+    "country": "NAMIBIA",
+    "bank": "LETSHEGO NAMIBIA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542488",
+    "country": "NAMIBIA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544795",
+    "country": "NAMIBIA",
+    "bank": "NEDBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550777",
+    "country": "NAMIBIA",
+    "bank": "BANCO PRIVADO ATLANTICO EUROPA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "632852",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "632853",
+    "country": "NAMIBIA",
+    "bank": "BANK WINDHOEK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "637707",
+    "country": "NAMIBIA",
+    "bank": "MOBIPAY",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "BANK_OF_GUAM_-_MICRONESIA_FEDERATED_STATES_OF": [
+            {
+                "Numero BIN/IIN": "483784",
+                "Pais": "MICRONESIA, FEDERATED STATES OF",
+                "Nombre del emisor / Banco": "BANK OF GUAM",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_THE_FEDERATED_STATES_OF_MICRONESIA_-_MICRONESIA_FEDERATED_STATES_OF": [
+            {
+                "Numero BIN/IIN": "451755",
+                "Pais": "MICRONESIA, FEDERATED STATES OF",
+                "Nombre del emisor / Banco": "BANK OF THE FEDERATED STATES OF MICRONESIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472627",
+                "Pais": "MICRONESIA, FEDERATED STATES OF",
+                "Nombre del emisor / Banco": "BANK OF THE FEDERATED STATES OF MICRONESIA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "FIFTH_THIRD_BANK_-_MICRONESIA_FEDERATED_STATES_OF": [
+            {
+                "Numero BIN/IIN": "466569",
+                "Pais": "MICRONESIA, FEDERATED STATES OF",
+                "Nombre del emisor / Banco": "FIFTH THIRD BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

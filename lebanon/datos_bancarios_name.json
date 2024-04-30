@@ -1,0 +1,4658 @@
+[
+    {
+        "ALLIED_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "418854",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ALLIED BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418855",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ALLIED BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "AM_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "406899",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410251",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "425875",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "427887",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "459217",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "521323",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "534318",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "537048",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "537052",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542205",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "542212",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542951",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544041",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "544759",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "546572",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "546573",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "ARAB_BANK_PLC_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "417081",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "432592",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "432593",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "447524",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "447528",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "486087",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "ARAB BANK PLC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "AREEBA_L_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "512052",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512061",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "512373",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "514028",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "514075",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "516073",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517623",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518485",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518649",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "519316",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "519964",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "520398",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "521072",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522197",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522425",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "522817",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "522986",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "523485",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524062",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "524145",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524350",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524668",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525555",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            },
+            {
+                "Numero BIN/IIN": "525851",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "526405",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526406",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "526407",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "526409",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526432",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526909",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "527709",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "527742",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529722",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "529724",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "529954",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "530398",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "530916",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE EXCLUSIVE"
+            },
+            {
+                "Numero BIN/IIN": "531042",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531248",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531392",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "531653",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "532733",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            },
+            {
+                "Numero BIN/IIN": "533222",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "534398",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534421",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537856",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "542675",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "552258",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "552304",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "552868",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "553595",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "554928",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "555218",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "559873",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "559977",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA S.A.L",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "AREEBA_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "405355",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "409709",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433007",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AREEBA SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "AUDI_SARADAR_PRIVATE_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "429940",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AUDI SARADAR PRIVATE BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "429949",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AUDI SARADAR PRIVATE BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "431716",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AUDI SARADAR PRIVATE BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "460333",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "AUDI SARADAR PRIVATE BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANK_AUDI_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "528646",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "552275",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            }
+        ]
+    },
+    {
+        "BANK_AUDI_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "403563",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "404950",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "407448",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "410769",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "414057",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "420283",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "421970",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "440717",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "474185",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "484882",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK AUDI SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANK_OF_BEIRUT_AND_THE_ARAB_COUNTRIESL._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "518575",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT AND THE ARAB COUNTRIESS.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_BEIRUT_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "447316",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447317",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "447390",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "469515",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANK_OF_BEIRUT_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "409787",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "409793",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "416901",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416976",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "428745",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "433813",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "433836",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440033",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "440034",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "440037",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "440038",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "469532",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "469581",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "469582",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "472266",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "489009",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANK_OF_BEIRUT_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "520065",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520433",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "550023",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANK_OF_BEIRUT_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "409786",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "409791",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481952",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "UHNW"
+            },
+            {
+                "Numero BIN/IIN": "515773",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "533781",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "533782",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "533783",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "536923",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "536926",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANK OF BEIRUT, SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANKMED_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "418828",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "429110",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433808",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "464418",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "476015",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "489093",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANKMED_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "410736",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410737",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410790",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417350",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "418822",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "418825",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "418856",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "423805",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "423832",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "423899",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "429111",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "433825",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457527",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "464401",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464402",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "464403",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "464493",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464499",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "471483",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "497143",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "528499",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "529128",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541261",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544091",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "547850",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "549836",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANKMED SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            }
+        ]
+    },
+    {
+        "BANQUE_AUDI_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "440714",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANQUE AUDI S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440789",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANQUE AUDI S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANQUE_NATIONALE_DE_PARIS_INTERCONTINENTALE_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "422875",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422876",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BBAC_L_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "404354",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "404355",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "404357",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440662",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "440663",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "448319",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "465223",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "465224",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "465244",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "465271",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "465282",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "476522",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BBAC_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "510085",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517941",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "517994",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518107",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526774",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BBAC S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BLC_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "543937",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLC BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "552231",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLC BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "554485",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLC BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554516",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLC BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BLOM_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "487952",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BLOM_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "401352",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "402485",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "406969",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "410467",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "UHNW"
+            },
+            {
+                "Numero BIN/IIN": "411654",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "413050",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "414566",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "425179",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "425681",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "429816",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "440545",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "440786",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "440788",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "445150",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS ENHANCED"
+            },
+            {
+                "Numero BIN/IIN": "462018",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "462211",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "462212",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "465561",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "469398",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "470351",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "476873",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "487052",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "520771",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "545642",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "554688",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BLOM_BANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "514443",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522053",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522133",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "523408",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "524065",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "524334",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524520",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "528496",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "531279",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "537163",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "540254",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID PLATINUM TRAVEL"
+            },
+            {
+                "Numero BIN/IIN": "542845",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "552108",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "557681",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BLOM BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BNP_PARIBAS_INTERCONTINENTALE_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "417078",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BNP PARIBAS INTERCONTINENTALE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            }
+        ]
+    },
+    {
+        "BYBLOS_BANK_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "412771",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "441773",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            }
+        ]
+    },
+    {
+        "BYBLOS_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "428559",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BYBLOS_BANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "401335",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "403258",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "403527",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "412772",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "419516",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "419517",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "419518",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421044",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "426805",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445149",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464121",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "468548",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "489189",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "BYBLOS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "CEDRUS_BANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "404545",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CEDRUS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "460033",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CEDRUS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "460060",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CEDRUS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "499823",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CEDRUS BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE BUSINESS"
+            }
+        ]
+    },
+    {
+        "CREDIT_LIBANAIS_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "402516",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "404359",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "404847",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "409737",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "409738",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "412767",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "414694",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "414695",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "415349",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "417082",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "417255",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "417486",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "417734",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417735",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "418899",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "424534",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "424565",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "426867",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "426868",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "426869",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "426870",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428229",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428230",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "428231",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "429559",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "429928",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "429929",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "432556",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433008",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "433803",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "437494",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "437495",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "439962",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "443182",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447180",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "447767",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "447768",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "448339",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "456078",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "457285",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464518",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "466798",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "474141",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "474143",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "474144",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "477508",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "477509",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478725",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "478732",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "478735",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "478740",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "480305",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "483952",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "489336",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "491726",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "511767",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512751",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "512798",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517704",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "518059",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "520200",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "522430",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524235",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "525369",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "527478",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "530031",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "530393",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "531183",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "534673",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535821",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "538793",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "544302",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "544332",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544334",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554600",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "555897",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557672",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "559894",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDIT LIBANAIS S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD BUSINESS"
+            }
+        ]
+    },
+    {
+        "CREDITCARD_SERVICES_COMPANY_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "543958",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CREDITCARD SERVICES COMPANY S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CSC_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "621234",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "622356",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "CSCBANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "405765",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "416020",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "426337",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "432253",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "433982",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "471357",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "480285",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "518750",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518883",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "519451",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "521949",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "541059",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542824",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542910",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542912",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544122",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544894",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544956",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544978",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545980",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547136",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "548972",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "549758",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549767",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549773",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549961",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "549962",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "553186",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE EXECUTIVE"
+            },
+            {
+                "Numero BIN/IIN": "554449",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554450",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554451",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554559",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "554605",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "554757",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "555943",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557673",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557757",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "559411",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "CSCBANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "411040",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "423265",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "429425",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "429427",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "433980",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433981",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433983",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "445956",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "459218",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "460081",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464120",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472859",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "483295",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "510531",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "510533",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "511841",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512263",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512301",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512339",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "512404",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "512994",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "515562",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "516343",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517568",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "517658",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518162",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "519441",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "519857",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "520107",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "520150",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "521082",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524160",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524194",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524195",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524215",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "524269",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "525924",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "526902",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "526932",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528493",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "528810",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "529622",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "530933",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531131",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531132",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531134",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531135",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531136",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531139",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531151",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531184",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "533750",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "533758",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "533761",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "535952",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536625",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "536626",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "537791",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "539963",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542164",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "543413",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "544010",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544011",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544523",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "544524",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544525",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "547085",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "549761",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549791",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "552009",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "552056",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "552369",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "553425",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "554448",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD FOR BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "555937",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557616",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557618",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "557760",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "559303",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "559315",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "623495",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "CSCBANK SAL",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "EMIRATES_LEBANON_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "459044",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "EMIRATES LEBANON BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "EMIRATES_LEBANON_BANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "415302",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "EMIRATES LEBANON BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "415303",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "EMIRATES LEBANON BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "459043",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "EMIRATES LEBANON BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "459045",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "EMIRATES LEBANON BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "459046",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "EMIRATES LEBANON BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "FRANSABANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "404605",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "407985",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "410173",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "414617",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "421119",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "423684",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "424478",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "425194",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "425195",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "439073",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "440568",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "440569",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "458561",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "476028",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "476029",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "476030",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489337",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "489338",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "510479",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "512252",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529895",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "548896",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "FRANSABANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "222702",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "510451",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "510459",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "514734",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "522020",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "526928",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "529749",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "529977",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537809",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "543786",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "544129",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "546328",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "546329",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "548178",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548179",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "548599",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "548881",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "548905",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548916",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549819",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "550496",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "552045",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "554560",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "557005",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "557778",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "558283",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "558820",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "FRANSABANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "HSBC_BANK_MIDDLE_EAST_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "426394",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "HSBC BANK MIDDLE EAST",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "IBL_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "484174",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "IBL BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484175",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "IBL BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "484176",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "IBL BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            }
+        ]
+    },
+    {
+        "JAMMAL_TRUST_BANK_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "486099",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "JAMMAL TRUST BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "486100",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "JAMMAL TRUST BANK S.A.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "LEBANON_AND_GULF_BANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "445960",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "LEBANON AND GULF BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448300",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "LEBANON AND GULF BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448302",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "LEBANON AND GULF BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "465219",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "LEBANON AND GULF BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "467903",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "LEBANON AND GULF BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "540710",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "LEBANON AND GULF BANK SAL",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "QATAR_NATIONAL_BANK_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "520620",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "QATAR NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "522427",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "QATAR NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524078",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "QATAR NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "524246",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "QATAR NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "555883",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "QATAR NATIONAL BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "SARADAR_BANK_SAL_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "464698",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SARADAR BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483144",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SARADAR BANK SAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "ULTRA HIGH NET WORTH"
+            }
+        ]
+    },
+    {
+        "SOCIETE_GENERALE_DE_BANQUE_AU_LIBAN_L_(SGBL)_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "414672",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "414673",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "414674",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "417077",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "445955",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457230",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "457231",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "461120",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SOCIETE_GENERALE_DE_BANQUE_AU_LIBAN_L._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "515770",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "516440",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "517577",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "517995",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "518108",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "519060",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "523475",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526330",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "527408",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "527570",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531114",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "531716",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "539269",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD FOR BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "539920",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "540030",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542920",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549914",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "552062",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "556622",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "SOCIETE_GENERALE_DE_BANQUE_AU_LIBAN_SAL._-_LEBANON": [
+            {
+                "Numero BIN/IIN": "544356",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "SOCIETE GENERALE DE BANQUE AU LIBAN SAL.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PAYPASS"
+            }
+        ]
+    },
+    {
+        "STANDARD_CHARTERED_BANK_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "461665",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "461666",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461667",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "471451",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "520124",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "WEDGE_BANK_MIDDLE_EAST_L_-_LEBANON": [
+            {
+                "Numero BIN/IIN": "464429",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "WEDGE BANK MIDDLE EAST S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "464430",
+                "Pais": "LEBANON",
+                "Nombre del emisor / Banco": "WEDGE BANK MIDDLE EAST S.A.L",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    }
+]

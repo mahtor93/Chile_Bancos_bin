@@ -1,0 +1,6194 @@
+[
+  {
+    "bin": "223119",
+    "country": "SWITZERLAND",
+    "bank": "WORLDLINE SCHWEIZ AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "360956",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360957",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360958",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360959",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360960",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360961",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360962",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360963",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360964",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360965",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361014",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361018",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361020",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361021",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361032",
+    "country": "SWITZERLAND",
+    "bank": "DC GBP SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361033",
+    "country": "SWITZERLAND",
+    "bank": "DC GBP SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361034",
+    "country": "SWITZERLAND",
+    "bank": "DC GBP SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361035",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361070",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361071",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361123",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361124",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361125",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361126",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361127",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361128",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361157",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361158",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361159",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361161",
+    "country": "SWITZERLAND",
+    "bank": "DC GBP SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361162",
+    "country": "SWITZERLAND",
+    "bank": "DC GBP SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361163",
+    "country": "SWITZERLAND",
+    "bank": "DC GBP SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365232",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365233",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365234",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365235",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365236",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365237",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365238",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365239",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365242",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365243",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365244",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365245",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365246",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365247",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365248",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365249",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365250",
+    "country": "SWITZERLAND",
+    "bank": "DC SWITZERLAND",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401157",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402730",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403601",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "404240",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "404701",
+    "country": "SWITZERLAND",
+    "bank": "VISECA CARD SERVICES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404702",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404703",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404704",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404705",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404706",
+    "country": "SWITZERLAND",
+    "bank": "VISECA CARD SERVICES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404707",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404708",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404792",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404793",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405911",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405912",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406377",
+    "country": "SWITZERLAND",
+    "bank": "TELEKURS MULTIPAY AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406755",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406756",
+    "country": "SWITZERLAND",
+    "bank": "TELEKURS MULTIPAY AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407571",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408583",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408584",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409424",
+    "country": "SWITZERLAND",
+    "bank": "BONUSCARD.CH AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "410300",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410300",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410302",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "410302",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "412536",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "412536",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "412538",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412538",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412539",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "412590",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412590",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412596",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412596",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412599",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412599",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412993",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "412993",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "413391",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413392",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413393",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413500",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413500",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413596",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413596",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413599",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413599",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416598",
+    "country": "SWITZERLAND",
+    "bank": "REVOLUT, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419372",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419372",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419373",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "419373",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "419374",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419374",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419375",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419375",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419990",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427331",
+    "country": "SWITZERLAND",
+    "bank": "CREDIT SUISSE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427345",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427346",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427347",
+    "country": "SWITZERLAND",
+    "bank": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431430",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "431430",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "431431",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431431",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432322",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434735",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "434960",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434961",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "435044",
+    "country": "SWITZERLAND",
+    "bank": "REVOLUT BANK UAB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "435378",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "435379",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436604",
+    "country": "SWITZERLAND",
+    "bank": "AIRWALLEX (NETHERLANDS) B.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL PAYMENTS"
+  },
+  {
+    "bin": "439590",
+    "country": "SWITZERLAND",
+    "bank": "ZUERCHER KANTONALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439697",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439697",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439738",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "439739",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "439743",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439772",
+    "country": "SWITZERLAND",
+    "bank": "FORIS MT, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440653",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440654",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440655",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440656",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443592",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443593",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443611",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "443612",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "447882",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "447883",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "448433",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448434",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448575",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "453162",
+    "country": "SWITZERLAND",
+    "bank": "BONUSCARD.CH AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453163",
+    "country": "SWITZERLAND",
+    "bank": "BONUSCARD.CH AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454713",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454945",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454945",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457025",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457026",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459485",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "459485",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "459570",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459571",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459572",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459613",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "459613",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "462722",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "462723",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "463383",
+    "country": "SWITZERLAND",
+    "bank": "REVOLUT, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "463385",
+    "country": "SWITZERLAND",
+    "bank": "REVOLUT, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "463387",
+    "country": "SWITZERLAND",
+    "bank": "REVOLUT BANK UAB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464232",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464233",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465967",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "465968",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466219",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "466219",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "466274",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466274",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466296",
+    "country": "SWITZERLAND",
+    "bank": "ZUERCHER KANTONALBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "466508",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466509",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466510",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466510",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466557",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466558",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466559",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467210",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "467277",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "467296",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467297",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467298",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467299",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467406",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467407",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "467408",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467440",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467441",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467442",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "467443",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "467444",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467445",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "467446",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "467447",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "468769",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468769",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468937",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468938",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468939",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469720",
+    "country": "SWITZERLAND",
+    "bank": "AIRWALLEX (NETHERLANDS) B.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473104",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474124",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474249",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474249",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474250",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474250",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474254",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474254",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474255",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "474255",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "476310",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "476311",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANQUE (LUXEMBOURG), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "476314",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "476326",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "478531",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "478580",
+    "country": "SWITZERLAND",
+    "bank": "YAPEAL AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478595",
+    "country": "SWITZERLAND",
+    "bank": "**PROVISIONAL BID** FLOWBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478978",
+    "country": "SWITZERLAND",
+    "bank": "SCHWYZER KANTONALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481133",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "485745",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485746",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485747",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485748",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485750",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485751",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485752",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485753",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "487152",
+    "country": "SWITZERLAND",
+    "bank": "ZUGER KANTONALBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487157",
+    "country": "SWITZERLAND",
+    "bank": "REVOLUT, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "487820",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487821",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487822",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487823",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487824",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487825",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487826",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487827",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487828",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487829",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487847",
+    "country": "SWITZERLAND",
+    "bank": "UAB PAYRNET",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "487860",
+    "country": "SWITZERLAND",
+    "bank": "ALPIAN SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487880",
+    "country": "SWITZERLAND",
+    "bank": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487881",
+    "country": "SWITZERLAND",
+    "bank": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487883",
+    "country": "SWITZERLAND",
+    "bank": "WIR BANK GENOSSENSCHAFT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "487899",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "VPAY"
+  },
+  {
+    "bin": "489402",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489432",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489433",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489440",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489442",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489443",
+    "country": "SWITZERLAND",
+    "bank": "TOPCARD SERVICE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489446",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "490117",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490118",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "490935",
+    "country": "SWITZERLAND",
+    "bank": "UBS AG (UNION BANK OF SWITZERLAND)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492013",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492113",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493406",
+    "country": "SWITZERLAND",
+    "bank": "YAPEAL AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494118",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495000",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495000",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495005",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495006",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495006",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495008",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495008",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495014",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495014",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495016",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495016",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495017",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495017",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495018",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495018",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495019",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495019",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495020",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495020",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495021",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495021",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495022",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495022",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495026",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495026",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495027",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "495027",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "495028",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495028",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495029",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495029",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495031",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495031",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495033",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495033",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495034",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495034",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495035",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495035",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495036",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "495036",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "495037",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495037",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "495038",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495038",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495039",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495039",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495040",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495040",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495041",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495041",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495042",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495042",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495043",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495043",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495044",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495044",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495045",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495045",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495046",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495046",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495047",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495047",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495048",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495048",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495049",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495049",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495051",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "495051",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "495052",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "495053",
+    "country": "SWITZERLAND",
+    "bank": "SWISS NATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495054",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495054",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495055",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495055",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495056",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495056",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495057",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495057",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495058",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495058",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495059",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495059",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495060",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495060",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495061",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495061",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495062",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495062",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495063",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495063",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "495064",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495064",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495068",
+    "country": "SWITZERLAND",
+    "bank": "MYPOS PAYMENTS, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "495069",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495069",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495070",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495070",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495071",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495071",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495072",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495072",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495073",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495073",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495074",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495074",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495075",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495075",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "495076",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495076",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495077",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495077",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495078",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495078",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495079",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495079",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495080",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495080",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495081",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495081",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495082",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495082",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495083",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495083",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495084",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495084",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495085",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495085",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495086",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495086",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495087",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495087",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495088",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495088",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495089",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495089",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495095",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495095",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495096",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495096",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495097",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495097",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495098",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495098",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495099",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "495099",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498391",
+    "country": "SWITZERLAND",
+    "bank": "AIRWALLEX (NETHERLANDS) B.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510009",
+    "country": "SWITZERLAND",
+    "bank": "EUROPAY (SWITZERLAND), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "510021",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510022",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510039",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510058",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510101",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510103",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510197",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510199",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510200",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510203",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510207",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "510527",
+    "country": "SWITZERLAND",
+    "bank": "HYPOTHEKARBANK LENZBURG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "510576",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510847",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511396",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511625",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "511625",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "511688",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511688",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512167",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513659",
+    "country": "SWITZERLAND",
+    "bank": "CEMBRA MONEY BANK AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515441",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "515511",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516221",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516397",
+    "country": "SWITZERLAND",
+    "bank": "WORLDLINE SCHWEIZ AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516682",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "516984",
+    "country": "SWITZERLAND",
+    "bank": "WORLDLINE SCHWEIZ AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517071",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517743",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "518264",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518735",
+    "country": "SWITZERLAND",
+    "bank": "DEUTSCHE CARD SERVICES GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "519350",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519942",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "519942",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "520335",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521167",
+    "country": "SWITZERLAND",
+    "bank": "VISECA CARD SERVICES, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521424",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521841",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521842",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522077",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522077",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522469",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522469",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522882",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522882",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523486",
+    "country": "SWITZERLAND",
+    "bank": "BCC CORPORATE, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523490",
+    "country": "SWITZERLAND",
+    "bank": "BCC CORPORATE, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523494",
+    "country": "SWITZERLAND",
+    "bank": "BCC CORPORATE, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523498",
+    "country": "SWITZERLAND",
+    "bank": "BCC CORPORATE, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523514",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523514",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "525331",
+    "country": "SWITZERLAND",
+    "bank": "CBH COMPAGNIE BANCAIRE HELVETIQUE SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525816",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "525816",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526127",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "526127",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "526750",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527261",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "527261",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "527285",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "527285",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "528411",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528411",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528412",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528412",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528413",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528413",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529562",
+    "country": "SWITZERLAND",
+    "bank": "SWISS4",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "529566",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "529783",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529946",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529947",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530517",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530517",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530772",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530804",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530826",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531548",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531548",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531549",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531549",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531850",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531964",
+    "country": "SWITZERLAND",
+    "bank": "PPRO FINANCIAL, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "533255",
+    "country": "SWITZERLAND",
+    "bank": "WIR BANK GENOSSENSCHAFT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533292",
+    "country": "SWITZERLAND",
+    "bank": "PAYSAFECARD.COM SCHWEIZ GMBH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533867",
+    "country": "SWITZERLAND",
+    "bank": "MONAVATE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "534357",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534357",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534359",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534359",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534659",
+    "country": "SWITZERLAND",
+    "bank": "CBH COMPAGNIE BANCAIRE HELVETIQUE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534985",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "UNEMBOSSED"
+  },
+  {
+    "bin": "535146",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535147",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535220",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535222",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535235",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535264",
+    "country": "SWITZERLAND",
+    "bank": "HYPOTHEKARBANK LENZBURG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535423",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535443",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535444",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535445",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535560",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535561",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535872",
+    "country": "SWITZERLAND",
+    "bank": "SWISSQUOTE BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "536676",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "537072",
+    "country": "SWITZERLAND",
+    "bank": "HYPOTHEKARBANK LENZBURG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537073",
+    "country": "SWITZERLAND",
+    "bank": "CBH COMPAGNIE BANCAIRE HELVETIQUE SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537247",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538704",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538705",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539252",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539454",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539831",
+    "country": "SWITZERLAND",
+    "bank": "ACCARDA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539973",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "539973",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "539976",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539976",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539977",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539977",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540089",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540107",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540114",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540148",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540339",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540443",
+    "country": "SWITZERLAND",
+    "bank": "EUROPAY (SWITZERLAND), S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540444",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540445",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540446",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540448",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540490",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540659",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540752",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540752",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540780",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540939",
+    "country": "SWITZERLAND",
+    "bank": "HYPOTHEKARBANK LENZBURG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "540948",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540950",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541122",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PROFESSIONAL"
+  },
+  {
+    "bin": "541245",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541245",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541257",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541257",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541472",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541674",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "542210",
+    "country": "SWITZERLAND",
+    "bank": "EMIGRANT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "542417",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "542569",
+    "country": "SWITZERLAND",
+    "bank": "CBH COMPAGNIE BANCAIRE HELVETIQUE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "542730",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "542809",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543142",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "543598",
+    "country": "SWITZERLAND",
+    "bank": "WORLDLINE SCHWEIZ AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "544222",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544354",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544432",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544535",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "544623",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544624",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "544677",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544677",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544691",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544694",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544694",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544756",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544806",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544919",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544977",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "545165",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545166",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545167",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545415",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "545494",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "545564",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "545573",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545668",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "545952",
+    "country": "SWITZERLAND",
+    "bank": "SIX PAYMENT SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "546131",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546362",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "546887",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547034",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547188",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547199",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "547426",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547427",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547428",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547823",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547869",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547988",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547989",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547990",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547991",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548501",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "548659",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548659",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548719",
+    "country": "SWITZERLAND",
+    "bank": "POSTFINANCE AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549160",
+    "country": "SWITZERLAND",
+    "bank": "UBS SWITZERLAND AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549729",
+    "country": "SWITZERLAND",
+    "bank": "CBH COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549863",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549863",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549894",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550018",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550020",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550021",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550022",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550026",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550107",
+    "country": "SWITZERLAND",
+    "bank": "BANQUE CANTONALE NEUCHATELOISE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550137",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550138",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550139",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550140",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550141",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "551084",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552509",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552870",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "552870",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "552871",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "552871",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "553009",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "553011",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "553404",
+    "country": "SWITZERLAND",
+    "bank": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554371",
+    "country": "SWITZERLAND",
+    "bank": "VISECA CARD SERVICES, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554529",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "554839",
+    "country": "SWITZERLAND",
+    "bank": "VISECA CARD SERVICES, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554983",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554984",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554985",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554986",
+    "country": "SWITZERLAND",
+    "bank": "VISECA CARD SERVICES, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555581",
+    "country": "SWITZERLAND",
+    "bank": "SWISSQUOTE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "555592",
+    "country": "SWITZERLAND",
+    "bank": "SWISSQUOTE BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555968",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557452",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557488",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557735",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "558265",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558266",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558484",
+    "country": "SWITZERLAND",
+    "bank": "SWISSCARD AECS GMBH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558579",
+    "country": "SWITZERLAND",
+    "bank": "SWISSQUOTE BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558609",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558609",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558610",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558610",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558611",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558611",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558612",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558612",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558613",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558613",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558614",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558614",
+    "country": "SWITZERLAND",
+    "bank": "CORNER BANCA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558782",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559784",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "559790",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "559791",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "559922",
+    "country": "SWITZERLAND",
+    "bank": "VISECA PAYMENT SERVICES SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576789",
+    "country": "SWITZERLAND",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585200",
+    "country": "SWITZERLAND",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "650852",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650853",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650854",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650855",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650856",
+    "country": "SWITZERLAND",
+    "bank": "DC CHF SWITZERLAND",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650857",
+    "country": "SWITZERLAND",
+    "bank": "DC EUR SWITZERLAND",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "671000",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "671001",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671002",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671003",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671004",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671005",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671006",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671007",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671008",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671009",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671010",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671011",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671012",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671013",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671014",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671015",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671016",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671017",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671018",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671019",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671020",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671021",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671022",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671023",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671024",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671025",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671026",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671027",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671028",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671029",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671030",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671031",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671032",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671033",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671034",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671035",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671036",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671037",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671038",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671039",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671040",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671041",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671042",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671043",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671044",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671045",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671046",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671047",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671048",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671049",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671050",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671051",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671052",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671053",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671054",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671055",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671056",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671057",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671058",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671059",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671060",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671061",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671062",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671063",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671064",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671065",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671066",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671067",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671068",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671069",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671070",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671071",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671072",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671073",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671074",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671075",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671076",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671077",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671078",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671079",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671080",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671081",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671082",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671083",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671084",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671085",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671086",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671087",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671088",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671089",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671090",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671091",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671092",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671093",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671094",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671095",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671096",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671097",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671098",
+    "country": "SWITZERLAND",
+    "bank": "SWISSKEY AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671099",
+    "country": "SWITZERLAND",
+    "bank": "SIX BBS AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677134",
+    "country": "SWITZERLAND",
+    "bank": "SWISS BANKERS PREPAID SERVICES AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677198",
+    "country": "SWITZERLAND",
+    "bank": "CEMBRA MONEY BANK AG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

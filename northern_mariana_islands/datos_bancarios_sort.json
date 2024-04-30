@@ -1,0 +1,42 @@
+[
+  {
+    "bin": "465483",
+    "country": "NORTHERN MARIANA ISLANDS",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468039",
+    "country": "NORTHERN MARIANA ISLANDS",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470164",
+    "country": "NORTHERN MARIANA ISLANDS",
+    "bank": "FIFTH THIRD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "483782",
+    "country": "NORTHERN MARIANA ISLANDS",
+    "bank": "BANK OF GUAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "552949",
+    "country": "NORTHERN MARIANA ISLANDS",
+    "bank": "BANZPAY TECHNOLOGY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

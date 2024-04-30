@@ -1,0 +1,850 @@
+[
+  {
+    "bin": "403312",
+    "country": "SENEGAL",
+    "bank": "BGFIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403570",
+    "country": "SENEGAL",
+    "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404109",
+    "country": "SENEGAL",
+    "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404886",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE DAKAR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404890",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE DAKAR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406086",
+    "country": "SENEGAL",
+    "bank": "FBNBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406613",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406614",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406615",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406627",
+    "country": "SENEGAL",
+    "bank": "LA BANQUE AGRICOLE (LBA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406740",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406741",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407542",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408054",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408102",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413145",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414608",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "415495",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417625",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417626",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417844",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "420176",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "422194",
+    "country": "SENEGAL",
+    "bank": "CBAO GROUPE ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422195",
+    "country": "SENEGAL",
+    "bank": "CBAO GROUPE ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423236",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426364",
+    "country": "SENEGAL",
+    "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU SENEGAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427405",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427437",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE DAKAR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428120",
+    "country": "SENEGAL",
+    "bank": "LA BANQUE AGRICOLE (LBA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428121",
+    "country": "SENEGAL",
+    "bank": "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (CNCAS)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "430509",
+    "country": "SENEGAL",
+    "bank": "BNDE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432421",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432422",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438686",
+    "country": "SENEGAL",
+    "bank": "LA BANQUE AGRICOLE (LBA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438693",
+    "country": "SENEGAL",
+    "bank": "LA BANQUE AGRICOLE (LBA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440231",
+    "country": "SENEGAL",
+    "bank": "CBAO GROUPE ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440623",
+    "country": "SENEGAL",
+    "bank": "FBNBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440840",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE (CBAO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443459",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450656",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "450697",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "453529",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE DAKAR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458116",
+    "country": "SENEGAL",
+    "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458119",
+    "country": "SENEGAL",
+    "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458200",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458201",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458202",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458203",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "465472",
+    "country": "SENEGAL",
+    "bank": "CREDIT INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "469634",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "471422",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472451",
+    "country": "SENEGAL",
+    "bank": "ECOBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472530",
+    "country": "SENEGAL",
+    "bank": "BANQUE ATLANTIQUE SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472531",
+    "country": "SENEGAL",
+    "bank": "BANQUE ATLANTIQUE SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472532",
+    "country": "SENEGAL",
+    "bank": "BANQUE ATLANTIQUE SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472533",
+    "country": "SENEGAL",
+    "bank": "BANQUE ATLANTIQUE SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472534",
+    "country": "SENEGAL",
+    "bank": "BANQUE ATLANTIQUE SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472661",
+    "country": "SENEGAL",
+    "bank": "BGFIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472854",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472855",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "475782",
+    "country": "SENEGAL",
+    "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478751",
+    "country": "SENEGAL",
+    "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481209",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC/PLATINUM"
+  },
+  {
+    "bin": "481210",
+    "country": "SENEGAL",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481211",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484165",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "484177",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484686",
+    "country": "SENEGAL",
+    "bank": "ECOBANK SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484862",
+    "country": "SENEGAL",
+    "bank": "BANQUE ISLAMIQUE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489036",
+    "country": "SENEGAL",
+    "bank": "CREDIT INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489037",
+    "country": "SENEGAL",
+    "bank": "CREDIT INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489038",
+    "country": "SENEGAL",
+    "bank": "CREDIT INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489039",
+    "country": "SENEGAL",
+    "bank": "CREDIT INTERNATIONAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489589",
+    "country": "SENEGAL",
+    "bank": "BANQUE ISLAMIQUE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489590",
+    "country": "SENEGAL",
+    "bank": "BANQUE ISLAMIQUE DU SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "492108",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA SENEGAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499149",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499194",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499198",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "499800",
+    "country": "SENEGAL",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "511866",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521607",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528018",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528735",
+    "country": "SENEGAL",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531164",
+    "country": "SENEGAL",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532635",
+    "country": "SENEGAL",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536206",
+    "country": "SENEGAL",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536889",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540654",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542014",
+    "country": "SENEGAL",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543412",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543609",
+    "country": "SENEGAL",
+    "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543985",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "545978",
+    "country": "SENEGAL",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "547174",
+    "country": "SENEGAL",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547458",
+    "country": "SENEGAL",
+    "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "549649",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "549651",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "549656",
+    "country": "SENEGAL",
+    "bank": "CREDIT DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "551608",
+    "country": "SENEGAL",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553830",
+    "country": "SENEGAL",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555546",
+    "country": "SENEGAL",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555999",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557636",
+    "country": "SENEGAL",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559107",
+    "country": "SENEGAL",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "559961",
+    "country": "SENEGAL",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  }
+]

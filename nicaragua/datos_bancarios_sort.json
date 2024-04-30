@@ -1,0 +1,1538 @@
+[
+  {
+    "bin": "360001",
+    "country": "NICARAGUA",
+    "bank": "DC NICARAGUA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365164",
+    "country": "NICARAGUA",
+    "bank": "DC NICARAGUA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "402680",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402680",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402681",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402681",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402682",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402682",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402683",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402683",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402684",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402684",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403132",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403883",
+    "country": "NICARAGUA",
+    "bank": "AVAL CARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404103",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "404104",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404145",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404146",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404284",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404734",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405721",
+    "country": "NICARAGUA",
+    "bank": "BANCO AVANZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407393",
+    "country": "NICARAGUA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "407862",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408437",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408438",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408439",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409305",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409305",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409846",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409847",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409848",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409849",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410831",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410832",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411805",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411826",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411827",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412462",
+    "country": "NICARAGUA",
+    "bank": "BANCO CITIBANK DE NICARAGUA S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "412608",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415304",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421455",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421671",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421672",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421673",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422251",
+    "country": "NICARAGUA",
+    "bank": "BANCO AVANZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422659",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422659",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423696",
+    "country": "NICARAGUA",
+    "bank": "AVAL CARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424955",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425442",
+    "country": "NICARAGUA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425667",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "425905",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA EXPORTACION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428149",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428351",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428352",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428361",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428362",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428363",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428364",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "429459",
+    "country": "NICARAGUA",
+    "bank": "CREDICARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431073",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431074",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431075",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "431916",
+    "country": "NICARAGUA",
+    "bank": "BANCO PROCREDIT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432083",
+    "country": "NICARAGUA",
+    "bank": "BANCO PROCREDIT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432447",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432950",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434789",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "434790",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "434792",
+    "country": "NICARAGUA",
+    "bank": "BANCO AVANZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434917",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435098",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "435098",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "435099",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435099",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435162",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "436692",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438057",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439175",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439176",
+    "country": "NICARAGUA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440824",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444044",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444045",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444046",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "445020",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445892",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448151",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "449578",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450410",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "450424",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450428",
+    "country": "NICARAGUA",
+    "bank": "BANCO CITIBANK DE NICARAGUA, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450432",
+    "country": "NICARAGUA",
+    "bank": "BANCO CITIBANK DE NICARAGUA, S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450568",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450787",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450787",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450813",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455152",
+    "country": "NICARAGUA",
+    "bank": "BANCO ATLANTIDA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "455264",
+    "country": "NICARAGUA",
+    "bank": "FINANCIA CAPITAL SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455367",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455369",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457422",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457501",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457541",
+    "country": "NICARAGUA",
+    "bank": "BANCO CITIBANK DE NICARAGUA S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457610",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457610",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458953",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458954",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458955",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458956",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "459469",
+    "country": "NICARAGUA",
+    "bank": "TELEDOLAR SOCIEDAD ANONIMA (NICARAGUA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468577",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468578",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "469819",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469897",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469898",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469899",
+    "country": "NICARAGUA",
+    "bank": "BANCO CITIBANK DE NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470430",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477368",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "477371",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "477371",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "481280",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "481280",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE FINANZAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483076",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "487508",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "487509",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "490013",
+    "country": "NICARAGUA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490014",
+    "country": "NICARAGUA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491291",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491292",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491684",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491685",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "491686",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491687",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "498458",
+    "country": "NICARAGUA",
+    "bank": "BANCO MERCANTIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510846",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512209",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512221",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512738",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514991",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515449",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515631",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517321",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517609",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519295",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519950",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520056",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521709",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522612",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523054",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "523282",
+    "country": "NICARAGUA",
+    "bank": "TRANSFERENCIAS ELECTRONICAS DE CENTROAMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523785",
+    "country": "NICARAGUA",
+    "bank": "TRANSFERENCIAS ELECTRONICAS DE CENTROAMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524442",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524619",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525648",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "526946",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527340",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527600",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "528200",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529699",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "530300",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530301",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530302",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530303",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530304",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530305",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530306",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530307",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530308",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530309",
+    "country": "NICARAGUA",
+    "bank": "CREDITO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "534175",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535053",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536169",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536777",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537873",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540228",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "540291",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540394",
+    "country": "NICARAGUA",
+    "bank": "BANCO LAFISE BANCENTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "540775",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542267",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542948",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543622",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547051",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547877",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548040",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548264",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550864",
+    "country": "NICARAGUA",
+    "bank": "TRANSFERENCIAS ELECTRONICAS DE CENTROAMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "552451",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552799",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554468",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554490",
+    "country": "NICARAGUA",
+    "bank": "CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554843",
+    "country": "NICARAGUA",
+    "bank": "BANCO DE LA PRODUCCION, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554942",
+    "country": "NICARAGUA",
+    "bank": "BANCO FICOHSA NICARAGUA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "bin": "400138",
+    "country": "ALGERIA",
+    "bank": "NATIXIS ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400148",
+    "country": "ALGERIA",
+    "bank": "NATIXIS ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400622",
+    "country": "ALGERIA",
+    "bank": "NATIXIS ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417203",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417217",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417231",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417241",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417248",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417273",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417289",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417295",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417296",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417297",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417298",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417299",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425670",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426880",
+    "country": "ALGERIA",
+    "bank": "BANQUE NATIONALE D'ALGERIE SPA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437709",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437710",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437711",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440522",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454491",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455696",
+    "country": "ALGERIA",
+    "bank": "TRUST BANK ALGERIA J.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458759",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "463021",
+    "country": "ALGERIA",
+    "bank": "AL BARAKA BANK OF ALGERIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483435",
+    "country": "ALGERIA",
+    "bank": "TRUST BANK ALGERIA J.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483436",
+    "country": "ALGERIA",
+    "bank": "TRUST BANK ALGERIA J.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483437",
+    "country": "ALGERIA",
+    "bank": "TRUST BANK ALGERIA J.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484015",
+    "country": "ALGERIA",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "512617",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "516442",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516691",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517207",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "517613",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517808",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518862",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519189",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "519876",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521021",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522796",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526275",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527035",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "527298",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530365",
+    "country": "ALGERIA",
+    "bank": "BANQUE EXTERIEURE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531497",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532090",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "535860",
+    "country": "ALGERIA",
+    "bank": "TRUST BANK ALGERIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536976",
+    "country": "ALGERIA",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "538146",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543088",
+    "country": "ALGERIA",
+    "bank": "CREDIT POPULAIRE D'ALGERIE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "546134",
+    "country": "ALGERIA",
+    "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "546562",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546979",
+    "country": "ALGERIA",
+    "bank": "GULF BANK ALGERIE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554950",
+    "country": "ALGERIA",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "585624",
+    "country": "ALGERIA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

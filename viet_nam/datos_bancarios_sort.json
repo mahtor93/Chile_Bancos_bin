@@ -1,0 +1,5498 @@
+[
+  {
+    "bin": "161087",
+    "country": "VIET NAM",
+    "bank": "SAIGONBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "222806",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222935",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "223385",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ACH FOR CONSUMER"
+  },
+  {
+    "bin": "223385",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ACH FOR CONSUMER"
+  },
+  {
+    "bin": "271763",
+    "country": "VIET NAM",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "272727",
+    "country": "VIET NAM",
+    "bank": "AGRIBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "272728",
+    "country": "VIET NAM",
+    "bank": "AGRIBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "272729",
+    "country": "VIET NAM",
+    "bank": "AGRIBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "353301",
+    "country": "VIET NAM",
+    "bank": "ACB",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "356062",
+    "country": "VIET NAM",
+    "bank": "SACOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "ULTIMATE"
+  },
+  {
+    "bin": "356394",
+    "country": "VIET NAM",
+    "bank": "TECHCOM",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356395",
+    "country": "VIET NAM",
+    "bank": "TECHCOM",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356418",
+    "country": "VIET NAM",
+    "bank": "MB",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356419",
+    "country": "VIET NAM",
+    "bank": "MB",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356433",
+    "country": "VIET NAM",
+    "bank": "MB",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356435",
+    "country": "VIET NAM",
+    "bank": "VIETCOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356438",
+    "country": "VIET NAM",
+    "bank": "KIENLONGBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356480",
+    "country": "VIET NAM",
+    "bank": "SACOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356481",
+    "country": "VIET NAM",
+    "bank": "SACOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356505",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356513",
+    "country": "VIET NAM",
+    "bank": "EXIM BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356515",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356519",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356526",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356554",
+    "country": "VIET NAM",
+    "bank": "FE CREDIT",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356586",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356587",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356592",
+    "country": "VIET NAM",
+    "bank": "BIDV",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "ULTIMATE"
+  },
+  {
+    "bin": "356593",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356680",
+    "country": "VIET NAM",
+    "bank": "EXIM BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356681",
+    "country": "VIET NAM",
+    "bank": "EXIM BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356725",
+    "country": "VIET NAM",
+    "bank": "MCREDIT",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356758",
+    "country": "VIET NAM",
+    "bank": "AN BINH BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356769",
+    "country": "VIET NAM",
+    "bank": "VIETCOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356770",
+    "country": "VIET NAM",
+    "bank": "VIETCOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356771",
+    "country": "VIET NAM",
+    "bank": "VIETCOMBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356780",
+    "country": "VIET NAM",
+    "bank": "AGRIBANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356790",
+    "country": "VIET NAM",
+    "bank": "VIETIN BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356791",
+    "country": "VIET NAM",
+    "bank": "VIETIN BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356792",
+    "country": "VIET NAM",
+    "bank": "VIETIN BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356793",
+    "country": "VIET NAM",
+    "bank": "VIETIN BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "356794",
+    "country": "VIET NAM",
+    "bank": "ACB",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356795",
+    "country": "VIET NAM",
+    "bank": "ACB",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "357112",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL BANK",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "357113",
+    "country": "VIET NAM",
+    "bank": "KIENLONGBANK",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "357115",
+    "country": "VIET NAM",
+    "bank": "SACOMBANK",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "357120",
+    "country": "VIET NAM",
+    "bank": "AGRIBANK",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "357123",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST BANK",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "357126",
+    "country": "VIET NAM",
+    "bank": "BIDV",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "357134",
+    "country": "VIET NAM",
+    "bank": "AN BINH BANK",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "357703",
+    "country": "VIET NAM",
+    "bank": "ACB",
+    "network": "JCB",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361121",
+    "country": "VIET NAM",
+    "bank": "VIETIN BANK ISSUER",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361122",
+    "country": "VIET NAM",
+    "bank": "VIETIN BANK ISSUER",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375547",
+    "country": "VIET NAM",
+    "bank": "MATCHMOVE VN",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "375553",
+    "country": "VIET NAM",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401286",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "401520",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "401559",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "402204",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402215",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402460",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402649",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403013",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403277",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403610",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403686",
+    "country": "VIET NAM",
+    "bank": "KIEN LONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403687",
+    "country": "VIET NAM",
+    "bank": "KIEN LONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403716",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "403913",
+    "country": "VIET NAM",
+    "bank": "LOTTE FINANCE VIETNAM COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403950",
+    "country": "VIET NAM",
+    "bank": "CIMB VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404169",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404184",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404185",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405082",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405280",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405280",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405367",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405367",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405467",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405468",
+    "country": "VIET NAM",
+    "bank": "KIEN LONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405561",
+    "country": "VIET NAM",
+    "bank": "HONG LEONG BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405573",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405620",
+    "country": "VIET NAM",
+    "bank": "HONG LEONG BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "405624",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405626",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405712",
+    "country": "VIET NAM",
+    "bank": "CIMB VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405806",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405813",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405910",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406019",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406092",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406220",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406242",
+    "country": "VIET NAM",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406453",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406453",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406598",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406771",
+    "country": "VIET NAM",
+    "bank": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407672",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "408601",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "408904",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408905",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408906",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409168",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409696",
+    "country": "VIET NAM",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409697",
+    "country": "VIET NAM",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410742",
+    "country": "VIET NAM",
+    "bank": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410747",
+    "country": "VIET NAM",
+    "bank": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410768",
+    "country": "VIET NAM",
+    "bank": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411061",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411153",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412189",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "412472",
+    "country": "VIET NAM",
+    "bank": "HONG LEONG BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412540",
+    "country": "VIET NAM",
+    "bank": "HONG LEONG BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "412647",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412725",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412946",
+    "country": "VIET NAM",
+    "bank": "JS COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412975",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412976",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412977",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413524",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "413534",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413535",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414152",
+    "country": "VIET NAM",
+    "bank": "EASTERN ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414587",
+    "country": "VIET NAM",
+    "bank": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415815",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415815",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416259",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417354",
+    "country": "VIET NAM",
+    "bank": "PUBLIC BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "418248",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418560",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "419661",
+    "country": "VIET NAM",
+    "bank": "DONGA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419662",
+    "country": "VIET NAM",
+    "bank": "DONGA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419834",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419834",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420003",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420417",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "420692",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420694",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421193",
+    "country": "VIET NAM",
+    "bank": "JACCS INTERNATIONAL VIETNAM FINANCE COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "421194",
+    "country": "VIET NAM",
+    "bank": "JACCS INTERNATIONAL VIETNAM FINANCE COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421494",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421538",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421554",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421595",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422109",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422151",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422589",
+    "country": "VIET NAM",
+    "bank": "CIMB VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422924",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "422926",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423238",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423325",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "423865",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426021",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426088",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCKBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426671",
+    "country": "VIET NAM",
+    "bank": "SAIGON BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426926",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427126",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427624",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427624",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428310",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428472",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428477",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428478",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428695",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429389",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429418",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430389",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430646",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "431742",
+    "country": "VIET NAM",
+    "bank": "EASTERN ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432517",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "432816",
+    "country": "VIET NAM",
+    "bank": "PUBLIC BANK VIETNAM , LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432997",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "433070",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "433286",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434483",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435365",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "435367",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "435374",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "436309",
+    "country": "VIET NAM",
+    "bank": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436361",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436438",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436445",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "436467",
+    "country": "VIET NAM",
+    "bank": "OCEAN COMMERCIAL ONE MEMBER LIMITED LIABILITY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436468",
+    "country": "VIET NAM",
+    "bank": "OCEAN COMMERCIAL ONE MEMBER LIMITED LIABILITY BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436545",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436546",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436547",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436548",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436579",
+    "country": "VIET NAM",
+    "bank": "CITI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436599",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436762",
+    "country": "VIET NAM",
+    "bank": "BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "437373",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "437374",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437375",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437420",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437421",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437422",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "437423",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437841",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437893",
+    "country": "VIET NAM",
+    "bank": "PROSPERITY AND GROWTH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437894",
+    "country": "VIET NAM",
+    "bank": "PROSPERITY AND GROWTH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437895",
+    "country": "VIET NAM",
+    "bank": "PETROLIMEX GROUP COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438103",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "439198",
+    "country": "VIET NAM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "442845",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444418",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445093",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445094",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445238",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446197",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "446325",
+    "country": "VIET NAM",
+    "bank": "SAIGON COMMERCIAL JS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446892",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447964",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450180",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450181",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450214",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450255",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450482",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450642",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450659",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451361",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451361",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451395",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "451774",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452057",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "452057",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "452404",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452999",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452999",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453618",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453920",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453920",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454078",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454084",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454107",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454107",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454119",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454119",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454844",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "455372",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "455372",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "455376",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457271",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457327",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457328",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457328",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457485",
+    "country": "VIET NAM",
+    "bank": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457560",
+    "country": "VIET NAM",
+    "bank": "OCEAN COMMERCIAL ONE MEMBER LIMITED LIABILITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457561",
+    "country": "VIET NAM",
+    "bank": "OCEAN COMMERCIAL ONE MEMBER LIMITED LIABILITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458440",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458486",
+    "country": "VIET NAM",
+    "bank": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458584",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458584",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458761",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458768",
+    "country": "VIET NAM",
+    "bank": "PEOPLES TRUST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "458775",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458814",
+    "country": "VIET NAM",
+    "bank": "COMMONWEALTH BANK OF AUSTRALIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459220",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459221",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459804",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459817",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460066",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460066",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "461136",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461137",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "461138",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "461139",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "461140",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "461206",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461930",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461932",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461937",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462478",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462842",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM LIMITED.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462843",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462844",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462881",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463720",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464384",
+    "country": "VIET NAM",
+    "bank": "HOME CREDIT VIETNAM FINANCE COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464462",
+    "country": "VIET NAM",
+    "bank": "CITIBANK VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464932",
+    "country": "VIET NAM",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465162",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466236",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "466237",
+    "country": "VIET NAM",
+    "bank": "GREAT TRUST JSCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466238",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "466243",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "466582",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466583",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466584",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466585",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467964",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "468789",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468948",
+    "country": "VIET NAM",
+    "bank": "SACOMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "469165",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "469173",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469174",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469374",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469654",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469671",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469672",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469673",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469674",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469675",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469676",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469677",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469678",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469682",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469683",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469684",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469685",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470451",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470460",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470570",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470751",
+    "country": "VIET NAM",
+    "bank": "LOTTE FINANCE VIETNAM COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470970",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470971",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472074",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472075",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472265",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472615",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472616",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472623",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472626",
+    "country": "VIET NAM",
+    "bank": "CIMB VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472674",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472815",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474649",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474866",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474866",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475771",
+    "country": "VIET NAM",
+    "bank": "PUBLIC BANK VIETNAM, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476632",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476633",
+    "country": "VIET NAM",
+    "bank": "JS COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "476636",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477389",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477390",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "478668",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478668",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478669",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478873",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479138",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479139",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479140",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479155",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479973",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "480246",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480295",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "480699",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481610",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483542",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483542",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483946",
+    "country": "VIET NAM",
+    "bank": "LOTTE FINANCE VIETNAM COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483960",
+    "country": "VIET NAM",
+    "bank": "LOTTE FINANCE VIETNAM COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483977",
+    "country": "VIET NAM",
+    "bank": "HD SAISON FINANCE CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484098",
+    "country": "VIET NAM",
+    "bank": "LOTTE FINANCE VIETNAM COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "484803",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484804",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484805",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "484806",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486265",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486279",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486280",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486282",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486283",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486373",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486383",
+    "country": "VIET NAM",
+    "bank": "AN BINH COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486862",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486863",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489501",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489516",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489517",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489518",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490017",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490240",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "490241",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "492236",
+    "country": "VIET NAM",
+    "bank": "HOME CREDIT VIETNAM FINANCE COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493404",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493434",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494333",
+    "country": "VIET NAM",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "496614",
+    "country": "VIET NAM",
+    "bank": "HOME CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496616",
+    "country": "VIET NAM",
+    "bank": "HOME CREDIT VIETNAM FINANCE COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496694",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "497966",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498766",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498767",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498768",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498769",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498794",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "498795",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "498796",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "510235",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510417",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "510511",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "510995",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511409",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "511957",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512341",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512414",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512454",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512701",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JSCB FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512824",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513094",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513892",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514003",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515110",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515131",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515487",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515629",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516101",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516101",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516294",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516995",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517107",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517416",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517453",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517522",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "517866",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518966",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518966",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519298",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519298",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519930",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "519930",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "520032",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520070",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520395",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520395",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520399",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520399",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520792",
+    "country": "VIET NAM",
+    "bank": "SHINHAN VIETNAM FINANCE COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520980",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521251",
+    "country": "VIET NAM",
+    "bank": "SHINHAN VIETNAM FINANCE COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521317",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "521377",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521377",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521731",
+    "country": "VIET NAM",
+    "bank": "SHINHAN VIETNAM FINANCE COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521976",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522081",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522384",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522384",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522398",
+    "country": "VIET NAM",
+    "bank": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523472",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523538",
+    "country": "VIET NAM",
+    "bank": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523611",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523705",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523705",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523975",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523975",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524083",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524187",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524188",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524394",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524394",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524470",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524680",
+    "country": "VIET NAM",
+    "bank": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524862",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "525766",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525766",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526079",
+    "country": "VIET NAM",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526181",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "526181",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "526242",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526287",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "526287",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "526339",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526418",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526790",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526830",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526887",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527359",
+    "country": "VIET NAM",
+    "bank": "LIENVIET POST JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527663",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "527773",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527913",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528083",
+    "country": "VIET NAM",
+    "bank": "SHBANK FINANCE COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528626",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528626",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528643",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528645",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529136",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529168",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529183",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529212",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "529766",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530416",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "530515",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530572",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530581",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531167",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531828",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531922",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531948",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531948",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531979",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "531979",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532004",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532137",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532451",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533024",
+    "country": "VIET NAM",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533147",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533333",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533773",
+    "country": "VIET NAM",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533825",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533948",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "533968",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534146",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534281",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534393",
+    "country": "VIET NAM",
+    "bank": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534437",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534763",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535048",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535048",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535827",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536032",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536156",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536287",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536708",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537018",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537127",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "537158",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538193",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539146",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539146",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539389",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "539390",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "539422",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539463",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK VIETNAM, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539597",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539597",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540392",
+    "country": "VIET NAM",
+    "bank": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540540",
+    "country": "VIET NAM",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "542172",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542251",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542726",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "542830",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543245",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543846",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544083",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544226",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "544939",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545570",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545579",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545960",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545968",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546022",
+    "country": "VIET NAM",
+    "bank": "HSBC BANK (VIETNAM) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "546034",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546034",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546079",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546235",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546278",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546284",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546285",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546327",
+    "country": "VIET NAM",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "546555",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546734",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547043",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "547139",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547439",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547451",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547587",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547886",
+    "country": "VIET NAM",
+    "bank": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548362",
+    "country": "VIET NAM",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548471",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548489",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JSCB FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548566",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548936",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549054",
+    "country": "VIET NAM",
+    "bank": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549244",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549289",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549743",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549794",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550017",
+    "country": "VIET NAM",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "550737",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550796",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552332",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552760",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "553383",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "553632",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554413",
+    "country": "VIET NAM",
+    "bank": "TIEN PHONG COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "554571",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554602",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554627",
+    "country": "VIET NAM",
+    "bank": "SAI GON JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554833",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554955",
+    "country": "VIET NAM",
+    "bank": "BAC A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555512",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555512",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555664",
+    "country": "VIET NAM",
+    "bank": "CITIBANK N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555715",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "556599",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "558018",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558261",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "558755",
+    "country": "VIET NAM",
+    "bank": "BAC A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559045",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559045",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559073",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559073",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559258",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559260",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559270",
+    "country": "VIET NAM",
+    "bank": "NAM A COMMERCIAL JOINT STOCK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559312",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559314",
+    "country": "VIET NAM",
+    "bank": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "559463",
+    "country": "VIET NAM",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559532",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559881",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559881",
+    "country": "VIET NAM",
+    "bank": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559890",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559929",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK (VIETNAM), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "564380",
+    "country": "VIET NAM",
+    "bank": "KIENLONGBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "570519",
+    "country": "VIET NAM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "571513",
+    "country": "VIET NAM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576843",
+    "country": "VIET NAM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585281",
+    "country": "VIET NAM",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "620009",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "620046",
+    "country": "VIET NAM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA HANOI",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "620160",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620162",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620163",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620164",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620165",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620166",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620168",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620169",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "621055",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621295",
+    "country": "VIET NAM",
+    "bank": "VIETCOM BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621369",
+    "country": "VIET NAM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA HANOI",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621638",
+    "country": "VIET NAM",
+    "bank": "BANK OF CHINA (HO CHI MINH CITY)",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621763",
+    "country": "VIET NAM",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA HANOI BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624318",
+    "country": "VIET NAM",
+    "bank": "ICBC INTERNATIONAL HANOI BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "625124",
+    "country": "VIET NAM",
+    "bank": "VIETCOMBANK VIETNAM",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625154",
+    "country": "VIET NAM",
+    "bank": "VIETCOMBANK VIETNAM",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625922",
+    "country": "VIET NAM",
+    "bank": "ICBC HANOI",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "626243",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629212",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "686868",
+    "country": "VIET NAM",
+    "bank": "BANK FOR FOREIGN TRADE",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "707070",
+    "country": "VIET NAM",
+    "bank": "EXIMBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970400",
+    "country": "VIET NAM",
+    "bank": "SGB BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970401",
+    "country": "VIET NAM",
+    "bank": "MHB BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970402",
+    "country": "VIET NAM",
+    "bank": "LIENVIET POST BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970403",
+    "country": "VIET NAM",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970405",
+    "country": "VIET NAM",
+    "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970406",
+    "country": "VIET NAM",
+    "bank": "DONGA BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970407",
+    "country": "VIET NAM",
+    "bank": "TECHCOM BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970408",
+    "country": "VIET NAM",
+    "bank": "GLOBAL PETRO COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970409",
+    "country": "VIET NAM",
+    "bank": "TECHCOMBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970410",
+    "country": "VIET NAM",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970414",
+    "country": "VIET NAM",
+    "bank": "OCEAN BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970415",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST COMMERCIAL JOINT STOCK BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970416",
+    "country": "VIET NAM",
+    "bank": "ASIA COMMERCIAL BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970417",
+    "country": "VIET NAM",
+    "bank": "SOUTHERN BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970418",
+    "country": "VIET NAM",
+    "bank": "BIDV BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970419",
+    "country": "VIET NAM",
+    "bank": "NCB BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "970420",
+    "country": "VIET NAM",
+    "bank": "DONGABANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970421",
+    "country": "VIET NAM",
+    "bank": "BIDV BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970422",
+    "country": "VIET NAM",
+    "bank": "MILITARY COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970423",
+    "country": "VIET NAM",
+    "bank": "TIENPHONG BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970424",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970425",
+    "country": "VIET NAM",
+    "bank": "ABBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970426",
+    "country": "VIET NAM",
+    "bank": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970427",
+    "country": "VIET NAM",
+    "bank": "VIETNAM ASIA COMMERCIAL JOINT STOCK BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970428",
+    "country": "VIET NAM",
+    "bank": "NAMABANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970429",
+    "country": "VIET NAM",
+    "bank": "SAIGON COMMERCIAL JS BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970430",
+    "country": "VIET NAM",
+    "bank": "PG BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970431",
+    "country": "VIET NAM",
+    "bank": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970432",
+    "country": "VIET NAM",
+    "bank": "COMMERCIAL JOINTSTOCK FOR PRIVATE ENTERPRISES BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970433",
+    "country": "VIET NAM",
+    "bank": "VIETBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970434",
+    "country": "VIET NAM",
+    "bank": "INDOVINA BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970435",
+    "country": "VIET NAM",
+    "bank": "SHINHAN BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970436",
+    "country": "VIET NAM",
+    "bank": "BANK FOR FOREIGN TRADE",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970437",
+    "country": "VIET NAM",
+    "bank": "HDBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970438",
+    "country": "VIET NAM",
+    "bank": "BAOVIETBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970439",
+    "country": "VIET NAM",
+    "bank": "PUBLIC BANK VIETNAM, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970440",
+    "country": "VIET NAM",
+    "bank": "SEABANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970441",
+    "country": "VIET NAM",
+    "bank": "VIETNAM INTERNATIONAL COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970442",
+    "country": "VIET NAM",
+    "bank": "HONG LEONG BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970443",
+    "country": "VIET NAM",
+    "bank": "SAIGON HANOI COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "970444",
+    "country": "VIET NAM",
+    "bank": "VIETNAM CONSTRUCT BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970445",
+    "country": "VIET NAM",
+    "bank": "HABUBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970448",
+    "country": "VIET NAM",
+    "bank": "ORIENT COMMERCIAL JSB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970449",
+    "country": "VIET NAM",
+    "bank": "LIEN VIET POST COMMERCIAL JOINT STOCK BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970450",
+    "country": "VIET NAM",
+    "bank": "SACOMBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970451",
+    "country": "VIET NAM",
+    "bank": "MDBBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970452",
+    "country": "VIET NAM",
+    "bank": "KIENLONGBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970454",
+    "country": "VIET NAM",
+    "bank": "VCCB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970458",
+    "country": "VIET NAM",
+    "bank": "UNITED OVERSEAS BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970462",
+    "country": "VIET NAM",
+    "bank": "KOOKMIN HANOI BRANCH",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970488",
+    "country": "VIET NAM",
+    "bank": "BIDV",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970489",
+    "country": "VIET NAM",
+    "bank": "VIETINBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "970499",
+    "country": "VIET NAM",
+    "bank": "AGRIBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "981957",
+    "country": "VIET NAM",
+    "bank": "COMMERCIAL JOINTSTOCK FOR PRIVATE ENTERPRISES BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

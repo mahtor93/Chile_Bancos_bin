@@ -1,0 +1,1002 @@
+[
+    {
+        "ADDIKO_BANK_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "510014",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADDIKO BANK AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "515696",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADDIKO BANK AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "535505",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADDIKO BANK AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535625",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADDIKO BANK AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "677438",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADDIKO BANK AD PODGORICA",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ADRIATIC_BANK_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "406151",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADRIATIC BANK AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "406231",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADRIATIC BANK AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "406249",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ADRIATIC BANK AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "ATLAS_BANKA_A.D._-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "511357",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "522952",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "526804",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "536438",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "545949",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547756",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "553035",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "557490",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "677187",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA A.D.",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "ATLAS_BANKA_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "431206",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "473860",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "486090",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "486329",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLAS BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "ATLASMONT_BANKA_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "431203",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLASMONT BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "431204",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLASMONT BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "431205",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ATLASMONT BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "CRNOGORSKA_KOMERCIJALNA_BANKA_A.D._PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "402660",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "402661",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "410210",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410211",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417989",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "530934",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532094",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537453",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537515",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537516",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "540863",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547745",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "547759",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PREFERRED BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "550010",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "552628",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "554212",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557461",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "557462",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "676906",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA A.D., PODGORICA",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "CRNOGORSKA_KOMERCIJALNA_BANKA_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "407506",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "417465",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "421860",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421861",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "433330",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "433462",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "ERSTE_BANK_A.D._PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "520646",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ERSTE BANK A.D. PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "531319",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ERSTE BANK A.D. PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "537433",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ERSTE BANK A.D. PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "547316",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ERSTE BANK A.D. PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "547357",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ERSTE BANK A.D. PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "676982",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "ERSTE BANK A.D. PODGORICA",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "FIRST_FINANCIAL_BANK_JSC_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "466054",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "FIRST FINANCIAL BANK JSC PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "HIPOTEKARNA_BANKA_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "408352",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "408353",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "408354",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "408355",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "408356",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "408357",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "408358",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "421357",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "516971",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "522722",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "529244",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "535462",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "538730",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "538814",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "546353",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "557486",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "559452",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "559503",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "670875",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "HIPOTEKARNA BANKA AD PODGORICA",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "KOMERCIJALNA_BANKA_A.D._BEOGRAD_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "523517",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "670897",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "KOMERCIJALNA_BANKA_AD_BUDVA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "424275",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "KOMERCIJALNA BANKA AD BUDVA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "424276",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "KOMERCIJALNA BANKA AD BUDVA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "424277",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "KOMERCIJALNA BANKA AD BUDVA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "424278",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "KOMERCIJALNA BANKA AD BUDVA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "LOVCEN_BANKA_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "516396",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "LOVCEN BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "525796",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "LOVCEN BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "535224",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "LOVCEN BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535225",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "LOVCEN BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "536382",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "LOVCEN BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "559291",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "LOVCEN BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "MAESTRO_INTERNATIONAL_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "571306",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "MAESTRO INTERNATIONAL",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "NLB_BANKA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "404921",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "410559",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "410616",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410617",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "410618",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410619",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "NLB_BANKA_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "518842",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "520917",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535214",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "558608",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA AD PODGORICA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "677383",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "NLB BANKA AD PODGORICA",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "PIRAEUS_BANK_A.D._BEOGRAD_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "444009",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PIRAEUS BANK A.D. BEOGRAD",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "PJSC_BANK_VOSTOK_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "535587",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PJSC BANK VOSTOK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535588",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PJSC BANK VOSTOK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "535589",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PJSC BANK VOSTOK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "PODGORICKA_BANKA_AD_PODGORICA_MEMBER_OF_OTP_GROUP_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "677642",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PODGORICKA BANKA AD PODGORICA, MEMBER OF OTP GROUP",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "PRVA_BANKA_CG_AD_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "525237",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PRVA BANKA CG AD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543078",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PRVA BANKA CG AD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "548751",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PRVA BANKA CG AD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "553582",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PRVA BANKA CG AD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "557463",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PRVA BANKA CG AD",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "677313",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "PRVA BANKA CG AD",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "UNIVERSAL_CAPITAL_BANK_AD_PODGORICA_-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "466053",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "UNIVERSAL CAPITAL BANK AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "466056",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "UNIVERSAL CAPITAL BANK AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "470343",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "UNIVERSAL CAPITAL BANK AD PODGORICA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "UNIVERZAL_BANKA_A.D._-_MONTENEGRO": [
+            {
+                "Numero BIN/IIN": "450024",
+                "Pais": "MONTENEGRO",
+                "Nombre del emisor / Banco": "UNIVERZAL BANKA A.D.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

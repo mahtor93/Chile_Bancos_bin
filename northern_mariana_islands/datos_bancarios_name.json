@@ -1,0 +1,58 @@
+[
+    {
+        "BANK_OF_AMERICA_N.A._-_NORTHERN_MARIANA_ISLANDS": [
+            {
+                "Numero BIN/IIN": "465483",
+                "Pais": "NORTHERN MARIANA ISLANDS",
+                "Nombre del emisor / Banco": "BANK OF AMERICA, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "468039",
+                "Pais": "NORTHERN MARIANA ISLANDS",
+                "Nombre del emisor / Banco": "BANK OF AMERICA, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_GUAM_-_NORTHERN_MARIANA_ISLANDS": [
+            {
+                "Numero BIN/IIN": "483782",
+                "Pais": "NORTHERN MARIANA ISLANDS",
+                "Nombre del emisor / Banco": "BANK OF GUAM",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANZPAY_TECHNOLOGY_LTD._-_NORTHERN_MARIANA_ISLANDS": [
+            {
+                "Numero BIN/IIN": "552949",
+                "Pais": "NORTHERN MARIANA ISLANDS",
+                "Nombre del emisor / Banco": "BANZPAY TECHNOLOGY, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "FIFTH_THIRD_BANK_-_NORTHERN_MARIANA_ISLANDS": [
+            {
+                "Numero BIN/IIN": "470164",
+                "Pais": "NORTHERN MARIANA ISLANDS",
+                "Nombre del emisor / Banco": "FIFTH THIRD BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

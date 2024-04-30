@@ -1,0 +1,554 @@
+[
+  {
+    "bin": "244005",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "255000",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403761",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407327",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407327",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409079",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409079",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430328",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430382",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430920",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430920",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430964",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "CIBC CARIBBEAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430966",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "CIBC CARIBBEAN, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434777",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434777",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443948",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443948",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443961",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443961",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443974",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443974",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446438",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446439",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "451264",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451268",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451274",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453680",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453680",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468139",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "RBC ROYAL BANK (BAHAMAS) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469277",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469277",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479482",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479482",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483071",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "INTERNATIONAL BANKING GROUP (TCI), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498492",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "CIBC BAHAMAS, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512122",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512200",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512559",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513786",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "RBC ROYAL BANK (BAHAMAS), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514039",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515730",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "SCOTIABANK (TURKS & CAICOS) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "515852",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "SCOTIABANK (TURKS & CAICOS) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516204",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517803",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518942",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "COMPASS TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519028",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519164",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519717",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "COMPASS TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522188",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523582",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527589",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "SCOTIABANK (TURKS & CAICOS) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528840",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529125",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530391",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PAYROLL"
+  },
+  {
+    "bin": "536566",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "COMPASS TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536959",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538810",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540267",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541564",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "541564",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "542032",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "SCOTIABANK (TURKS & CAICOS) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546618",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "SCOTIABANK (TURKS & CAICOS) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "547529",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "SCOTIABANK (TURKS & CAICOS) LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548374",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550582",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "COMPASS TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554519",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554528",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554789",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559835",
+    "country": "TURKS AND CAICOS ISLANDS",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  }
+]

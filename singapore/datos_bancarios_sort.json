@@ -1,0 +1,7170 @@
+[
+  {
+    "bin": "222966",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223439",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "223449",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223465",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223486",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223490",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223495",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223523",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223544",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223551",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223599",
+    "country": "SINGAPORE",
+    "bank": "AGODA COMPANY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "223605",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "228001",
+    "country": "SINGAPORE",
+    "bank": "WOTRANSFER PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "230198",
+    "country": "SINGAPORE",
+    "bank": "ADYEN SINGAPORE PTE., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "230679",
+    "country": "SINGAPORE",
+    "bank": "STRIPE PAYMENTS SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "230693",
+    "country": "SINGAPORE",
+    "bank": "STRIPE PAYMENTS SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356240",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356240",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "356241",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "356241",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "356242",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "356242",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "356243",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356243",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "360002",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360003",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360004",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360005",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360006",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360007",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360008",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360009",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360010",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360011",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360021",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360022",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360023",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360024",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360025",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360026",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360027",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360028",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360029",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360030",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360155",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360156",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360157",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360158",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360159",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360160",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360161",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360162",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360163",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360164",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360337",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360338",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360339",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360340",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360341",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360363",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360364",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360365",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360366",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360367",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360368",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360369",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360370",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360371",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360372",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360375",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360376",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360377",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360378",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360379",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360380",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360381",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360382",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360383",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360384",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360385",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360386",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360387",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360388",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360389",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360390",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360391",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360392",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360393",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360394",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360419",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360420",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360421",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360422",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360423",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360424",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360425",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360426",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360427",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360428",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360429",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360430",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360431",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360432",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360433",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360434",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360435",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360436",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360437",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360438",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360439",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360440",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360441",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360442",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360443",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360444",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360445",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360446",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360447",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360448",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361221",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361222",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361223",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361330",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361479",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361538",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361539",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361540",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361541",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361542",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361543",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361544",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361545",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361546",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361547",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361548",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361549",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361550",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361551",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361552",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361553",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361554",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361555",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361556",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361557",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361697",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361698",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361780",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361781",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361782",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361783",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361784",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361785",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361786",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361787",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361788",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361789",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361886",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361887",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361888",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361889",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361890",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362061",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362196",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362354",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362355",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362628",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363331",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363332",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363537",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363538",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363539",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363540",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363541",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363542",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363543",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363544",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363545",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363546",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364166",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364282",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364283",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364285",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364312",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364313",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364402",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364403",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364406",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364407",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364408",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364418",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364419",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364494",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364495",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364591",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364592",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365140",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365141",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365142",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365143",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365144",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365487",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365599",
+    "country": "SINGAPORE",
+    "bank": "DC SINGAPORE",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "375546",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE SG",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "376296",
+    "country": "SINGAPORE",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "376297",
+    "country": "SINGAPORE",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "376298",
+    "country": "SINGAPORE",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "376299",
+    "country": "SINGAPORE",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "377145",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL PLATINUM REVOLVE"
+  },
+  {
+    "bin": "377145",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL PLATINUM REVOLVE"
+  },
+  {
+    "bin": "377145",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL PLATINUM REVOLVE"
+  },
+  {
+    "bin": "377902",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377903",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377904",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377905",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377906",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377907",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377908",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377912",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377913",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377914",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377915",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377916",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377917",
+    "country": "SINGAPORE",
+    "bank": "DBS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400682",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400682",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400891",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400962",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401636",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "401893",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "401893",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "404337",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "404901",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405315",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405526",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405526",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405526",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405630",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "405631",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "405632",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "405682",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "405929",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "406463",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406790",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407157",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407331",
+    "country": "SINGAPORE",
+    "bank": "INTERPAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "407514",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "407514",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "407661",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408410",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "408410",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "408989",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408989",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409636",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "409636",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "409763",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "410308",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411902",
+    "country": "SINGAPORE",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411903",
+    "country": "SINGAPORE",
+    "bank": "ATLAS CONSOLIDATED PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411908",
+    "country": "SINGAPORE",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411911",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "411911",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "412925",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "414156",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414156",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414746",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "416506",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "417971",
+    "country": "SINGAPORE",
+    "bank": "TRUST BANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "418238",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418238",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418239",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "418239",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "418594",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419031",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419031",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419941",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419941",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421610",
+    "country": "SINGAPORE",
+    "bank": "XFERS PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421809",
+    "country": "SINGAPORE",
+    "bank": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423179",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425895",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "425895",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "426569",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426588",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426588",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427693",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428424",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428424",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428425",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428425",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428426",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428426",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428447",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428448",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428910",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "429385",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "429512",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "430092",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431151",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "431151",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "431152",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431152",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433035",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433241",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433241",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "435720",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "436324",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "436326",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436327",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436343",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436564",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436564",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436565",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436565",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436566",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436566",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436567",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436567",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436568",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436568",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436569",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436569",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436571",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436571",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436586",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436586",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "436589",
+    "country": "SINGAPORE",
+    "bank": "WEX BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL"
+  },
+  {
+    "bin": "436591",
+    "country": "SINGAPORE",
+    "bank": "WEX BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL"
+  },
+  {
+    "bin": "436767",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "437322",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438174",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438174",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438202",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438202",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438213",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "438213",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "438214",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438218",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "438585",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "438647",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438647",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438647",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438650",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438650",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438650",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438690",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438746",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438746",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438758",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439182",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "440437",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441591",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "442343",
+    "country": "SINGAPORE",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "442430",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442430",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443205",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443267",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447299",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "447742",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448137",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "448196",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448488",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448533",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448533",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "450306",
+    "country": "SINGAPORE",
+    "bank": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450539",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450540",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450541",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450542",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450667",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450873",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450934",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451297",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451318",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "451362",
+    "country": "SINGAPORE",
+    "bank": "XFERS PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "452050",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452050",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452432",
+    "country": "SINGAPORE",
+    "bank": "WIREX PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "453256",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454182",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454182",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454183",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454183",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454415",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454416",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454718",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "454718",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "454750",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455227",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455228",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455606",
+    "country": "SINGAPORE",
+    "bank": "OVERSEAS UNION BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455621",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455621",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455622",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455622",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456598",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "456598",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "456599",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "456881",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457234",
+    "country": "SINGAPORE",
+    "bank": "WEX BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL"
+  },
+  {
+    "bin": "457516",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457516",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458555",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458556",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458557",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458558",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458802",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459862",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459863",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459864",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459865",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "460507",
+    "country": "SINGAPORE",
+    "bank": "FORIS ASIA PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460517",
+    "country": "SINGAPORE",
+    "bank": "FORIS ASIA PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "460743",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "461135",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "461153",
+    "country": "SINGAPORE",
+    "bank": "BIGPAY SINGAPORE PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "461199",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "461320",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461664",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "461799",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "461799",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462845",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462845",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462854",
+    "country": "SINGAPORE",
+    "bank": "ROYAL BANK OF SCOTLAND, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462894",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464095",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "464096",
+    "country": "SINGAPORE",
+    "bank": "XFERS PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465951",
+    "country": "SINGAPORE",
+    "bank": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "465952",
+    "country": "SINGAPORE",
+    "bank": "WALLEX TECHNOLOGIES PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "466517",
+    "country": "SINGAPORE",
+    "bank": "XFERS PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467845",
+    "country": "SINGAPORE",
+    "bank": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467870",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "467871",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467946",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "467946",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469350",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469351",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469352",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "469364",
+    "country": "SINGAPORE",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469551",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469551",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469551",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469552",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469619",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "470551",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "470551",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "471236",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "471262",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "471299",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "471440",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "471542",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "471542",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "472051",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "472202",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "472203",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "472205",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "472238",
+    "country": "SINGAPORE",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "472239",
+    "country": "SINGAPORE",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "474120",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "474225",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "474516",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "474516",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "475517",
+    "country": "SINGAPORE",
+    "bank": "XFERS PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "476074",
+    "country": "SINGAPORE",
+    "bank": "WALLEX TECHNOLOGIES PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476135",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "476996",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "476996",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "479134",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "479134",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "479148",
+    "country": "SINGAPORE",
+    "bank": "CITICORP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "481132",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481524",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "481525",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481852",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "481852",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "481852",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483026",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483026",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483196",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "483196",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "483448",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "483448",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "483585",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484765",
+    "country": "SINGAPORE",
+    "bank": "SINGAPORE LIFE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484784",
+    "country": "SINGAPORE",
+    "bank": "STATE BANK OF INDIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486338",
+    "country": "SINGAPORE",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486338",
+    "country": "SINGAPORE",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486374",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "486374",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "486418",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "486419",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "486431",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486480",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "486518",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "488936",
+    "country": "SINGAPORE",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489029",
+    "country": "SINGAPORE",
+    "bank": "MALAYAN BANKING BERHAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489085",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "492160",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492513",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492513",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492514",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "492514",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "492515",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "492515",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "493467",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493467",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493468",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493468",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493469",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "493723",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "493723",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "493724",
+    "country": "SINGAPORE",
+    "bank": "SUNRATE PTE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID B2B VIRTUAL"
+  },
+  {
+    "bin": "493725",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "493725",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "493727",
+    "country": "SINGAPORE",
+    "bank": "DEVELOPMENT BANK OF SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "494083",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494083",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494084",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "494084",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "496643",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "496645",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498793",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "508243",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508243",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508243",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508244",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508244",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508244",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508245",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508245",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508245",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510443",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRONIC"
+  },
+  {
+    "bin": "510498",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "510507",
+    "country": "SINGAPORE",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "511401",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512043",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512134",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512134",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512170",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512170",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512194",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512194",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512195",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512195",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512219",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512655",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512655",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512899",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "512972",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512972",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513097",
+    "country": "SINGAPORE",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "513478",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514063",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "514853",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "514853",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "514897",
+    "country": "SINGAPORE",
+    "bank": "WISE ASIA PACIFIC PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514916",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515440",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515670",
+    "country": "SINGAPORE",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "515705",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "515705",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "516081",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516240",
+    "country": "SINGAPORE",
+    "bank": "YOU TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "516258",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516672",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516672",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517860",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517973",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518424",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518424",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518426",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518426",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518427",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518427",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518610",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518610",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518757",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "518834",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519607",
+    "country": "SINGAPORE",
+    "bank": "STATE BANK OF INDIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519787",
+    "country": "SINGAPORE",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "519788",
+    "country": "SINGAPORE",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "519978",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519978",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520235",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520723",
+    "country": "SINGAPORE",
+    "bank": "ABN AMRO BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "520903",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520903",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520903",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521118",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521118",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521191",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521393",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521393",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521393",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521503",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521503",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521503",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521560",
+    "country": "SINGAPORE",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "522274",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522274",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522274",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522421",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523240",
+    "country": "SINGAPORE",
+    "bank": "PAYRNET PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "523260",
+    "country": "SINGAPORE",
+    "bank": "PAYRNET PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "523534",
+    "country": "SINGAPORE",
+    "bank": "PAYRNET PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523682",
+    "country": "SINGAPORE",
+    "bank": "YOU TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523820",
+    "country": "SINGAPORE",
+    "bank": "PAYRNET PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524110",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524355",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524356",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524357",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524358",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524597",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524597",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "525532",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "525578",
+    "country": "SINGAPORE",
+    "bank": "GXS BANK PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526471",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526471",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526514",
+    "country": "SINGAPORE",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "527351",
+    "country": "SINGAPORE",
+    "bank": "GPAY NETWORK (S) PTE., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "527704",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "528171",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "528172",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "528600",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "528786",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528786",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528786",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528906",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528907",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528908",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528909",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528927",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528930",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528957",
+    "country": "SINGAPORE",
+    "bank": "ANZ SINGAPORE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529196",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "529223",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529494",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "529852",
+    "country": "SINGAPORE",
+    "bank": "RAPYD HOLDINGS PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529989",
+    "country": "SINGAPORE",
+    "bank": "AGODA COMPANY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "530068",
+    "country": "SINGAPORE",
+    "bank": "WISE ASIA PACIFIC PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530486",
+    "country": "SINGAPORE",
+    "bank": "DCS CARD CENTRE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "530613",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "530638",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530664",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "530810",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531218",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "531218",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "531219",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "531219",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "531469",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531469",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531473",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "531588",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531588",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "532218",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "532278",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "532357",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532374",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532654",
+    "country": "SINGAPORE",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "534612",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534778",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535357",
+    "country": "SINGAPORE",
+    "bank": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "535410",
+    "country": "SINGAPORE",
+    "bank": "HL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535835",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536140",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536260",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "536260",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "536285",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "536285",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "536316",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536316",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536395",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "536587",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "538612",
+    "country": "SINGAPORE",
+    "bank": "TRAVELEX SINGAPORE CARD SERVICES PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "538696",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539078",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539700",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540042",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540042",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540188",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540188",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540188",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540191",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "540191",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "540275",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540350",
+    "country": "SINGAPORE",
+    "bank": "OPTAL SINGAPORE PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "540528",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540543",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540543",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540571",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540571",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540877",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540877",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541044",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541126",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541126",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541129",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541129",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541287",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541834",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "541856",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "541884",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "541929",
+    "country": "SINGAPORE",
+    "bank": "RAPYD HOLDINGS PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541999",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "542023",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "542089",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542089",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542113",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542125",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542125",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542213",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542222",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542249",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542550",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542550",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542550",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542597",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542768",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542957",
+    "country": "SINGAPORE",
+    "bank": "RAPYD HOLDINGS PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "543055",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543087",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543092",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543106",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543111",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "543125",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543127",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543203",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543262",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543264",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543283",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543284",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543296",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543324",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543326",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543370",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543396",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543415",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543419",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543428",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543506",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543518",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543519",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543531",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543533",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543538",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543545",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543550",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543574",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543575",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543581",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543613",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543653",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543659",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543671",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543698",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543718",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543814",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543837",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543854",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543929",
+    "country": "SINGAPORE",
+    "bank": "TRIPLINK INTERNATIONAL PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544234",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544411",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "544426",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544426",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545009",
+    "country": "SINGAPORE",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545234",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545496",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545496",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545831",
+    "country": "SINGAPORE",
+    "bank": "OVERSEAS UNION BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "547466",
+    "country": "SINGAPORE",
+    "bank": "YOU TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548021",
+    "country": "SINGAPORE",
+    "bank": "MARIBANK SINGAPORE PRIVATE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548301",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "548301",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "548486",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549335",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "549834",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549934",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550252",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550252",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552038",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552038",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552092",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552092",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552150",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552163",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552163",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552253",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552253",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552352",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552581",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552581",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552581",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552592",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "552592",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "552630",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552664",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "552728",
+    "country": "SINGAPORE",
+    "bank": "REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552777",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552777",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552777",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552924",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "552929",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "553132",
+    "country": "SINGAPORE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553381",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553385",
+    "country": "SINGAPORE",
+    "bank": "ANZ BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553385",
+    "country": "SINGAPORE",
+    "bank": "ANZ BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553402",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553954",
+    "country": "SINGAPORE",
+    "bank": "HL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554094",
+    "country": "SINGAPORE",
+    "bank": "RAPYD HOLDINGS PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "554230",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554704",
+    "country": "SINGAPORE",
+    "bank": "MAYBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554797",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554797",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554827",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554827",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554939",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555017",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555226",
+    "country": "SINGAPORE",
+    "bank": "WEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "555285",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555293",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555299",
+    "country": "SINGAPORE",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555313",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555418",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555433",
+    "country": "SINGAPORE",
+    "bank": "WEX FINANCE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555552",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555552",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555615",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555615",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555623",
+    "country": "SINGAPORE",
+    "bank": "AGODA COMPANY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "555691",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555797",
+    "country": "SINGAPORE",
+    "bank": "AGODA COMPANY PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "555862",
+    "country": "SINGAPORE",
+    "bank": "NIUM PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "556561",
+    "country": "SINGAPORE",
+    "bank": "JPMORGAN CHASE BANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "556975",
+    "country": "SINGAPORE",
+    "bank": "FOMO PAY PTE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "557682",
+    "country": "SINGAPORE",
+    "bank": "STATE BANK OF INDIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557800",
+    "country": "SINGAPORE",
+    "bank": "YOU TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "557813",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557813",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557872",
+    "country": "SINGAPORE",
+    "bank": "MATCHMOVE PAY PTE., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557937",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "557938",
+    "country": "SINGAPORE",
+    "bank": "CIMB BANK BERHAD",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "558702",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "558702",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "558715",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK N.A., SINGAPORE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558778",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558778",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558778",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558804",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558804",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558855",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "558957",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "558957",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "558964",
+    "country": "SINGAPORE",
+    "bank": "STANDARD CHARTERED BANK (SINGAPORE), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559221",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559221",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559533",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559533",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559731",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559731",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559731",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559732",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559732",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559732",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559733",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559733",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559733",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559734",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559734",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559734",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559842",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559842",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559842",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559862",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559862",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "559862",
+    "country": "SINGAPORE",
+    "bank": "CITIBANK SINGAPORE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "571150",
+    "country": "SINGAPORE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "571591",
+    "country": "SINGAPORE",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "589460",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "620094",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SINGAPORE",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "620186",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SINGAPORE",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "621052",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621052",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621719",
+    "country": "SINGAPORE",
+    "bank": "ICBC SINGAPORE BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621765",
+    "country": "SINGAPORE",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SINGAPORE",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "622158",
+    "country": "SINGAPORE",
+    "bank": "ICBC SINGAPORE BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "622433",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "622433",
+    "country": "SINGAPORE",
+    "bank": "UNITED OVERSEAS BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "622790",
+    "country": "SINGAPORE",
+    "bank": "BOC SINGAPORE BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623415",
+    "country": "SINGAPORE",
+    "bank": "SINOPAY (SINGAPORE) PTE, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624391",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624391",
+    "country": "SINGAPORE",
+    "bank": "DBS BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624405",
+    "country": "SINGAPORE",
+    "bank": "BANK OF CHINA (SINGAPORE)",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "625917",
+    "country": "SINGAPORE",
+    "bank": "ICBC SINGAPORE BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "629295",
+    "country": "SINGAPORE",
+    "bank": "ALETA PLANET PTE. LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "815200",
+    "country": "SINGAPORE",
+    "bank": "SINOPAY (SINGAPORE) PTE, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "918838",
+    "country": "SINGAPORE",
+    "bank": "HSBC BANK (SINGAPORE), LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "970200",
+    "country": "SINGAPORE",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  }
+]

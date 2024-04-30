@@ -1,0 +1,4186 @@
+[
+    {
+        "ATLANTIC_BANK_CO._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "622432",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "ATLANTIC BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "623064",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "ATLANTIC BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANCO_COMERCIAL_DE_MACAU-_MACAO": [
+            {
+                "Numero BIN/IIN": "426584",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428343",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437717",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437729",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453264",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461741",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "461742",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464792",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464793",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472047",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "472048",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "473194",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479151",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "489669",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489670",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489672",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489673",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489675",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489676",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "489677",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "513499",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "521365",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524146",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "543919",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "621254",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "621255",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANCO_COMERCIAL_DE_MACAU-_MACAO": [
+            {
+                "Numero BIN/IIN": "426584",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428343",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437717",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437729",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453264",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461741",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "461742",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464792",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464793",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472047",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "472048",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "473194",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479151",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "489669",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489670",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489672",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489673",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489675",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489676",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "489677",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "513499",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "521365",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524146",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "543919",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "621254",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "621255",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANCO_COMERCIAL_DE_MACAU-_MACAO": [
+            {
+                "Numero BIN/IIN": "426584",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "428343",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437717",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437729",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "453264",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "461741",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "461742",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "464792",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "464793",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472047",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "472048",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "473194",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "479151",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "489669",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489670",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489672",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489673",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489675",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489676",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "489677",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "513499",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "521365",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524146",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "543919",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "621254",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "621255",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO COMERCIAL DE MACAU, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANCO_NACIONAL_ULTRAMARINO_-_MACAO": [
+            {
+                "Numero BIN/IIN": "621247",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "623043",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624371",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624372",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624398",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANCO_NACIONAL_ULTRAMARINO-_MACAO": [
+            {
+                "Numero BIN/IIN": "400363",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "420188",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "435361",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "451187",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "451188",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455277",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "480216",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "489967",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "510722",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "518402",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "521985",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "523024",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529611",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541366",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "543641",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543692",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "550603",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550604",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550632",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "621232",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_NACIONAL_ULTRAMARINO-_MACAO": [
+            {
+                "Numero BIN/IIN": "400363",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "420188",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "435361",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "451187",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "451188",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455277",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "480216",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "489967",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "510722",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "518402",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "521985",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "523024",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529611",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541366",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "543641",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543692",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "550603",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550604",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550632",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "621232",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_NACIONAL_ULTRAMARINO-_MACAO": [
+            {
+                "Numero BIN/IIN": "400363",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "420188",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "435361",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "451187",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "451188",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455277",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "480216",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "489967",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "510722",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "518402",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "521985",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "523024",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529611",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541366",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "543641",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543692",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "550603",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550604",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "550632",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "621232",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO NACIONAL ULTRAMARINO, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_WELL_LINK-_MACAO": [
+            {
+                "Numero BIN/IIN": "403655",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WELL LINK, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481373",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WELL LINK, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "629221",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WELL LINK, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "OTHER"
+            }
+        ]
+    },
+    {
+        "BANCO_WELL_LINK-_MACAO": [
+            {
+                "Numero BIN/IIN": "403655",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WELL LINK, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481373",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WELL LINK, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "629221",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WELL LINK, S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "OTHER"
+            }
+        ]
+    },
+    {
+        "BANCO_WELL_LINK_-_MACAO": [
+            {
+                "Numero BIN/IIN": "626295",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WELL LINK,S.A.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_WENG_HANG-_MACAO": [
+            {
+                "Numero BIN/IIN": "402067",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "445281",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "451433",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "457503",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "457504",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "457507",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "530945",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541492",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541501",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541552",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_WENG_HANG-_MACAO": [
+            {
+                "Numero BIN/IIN": "402067",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "445281",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "451433",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "457503",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "457504",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "457507",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "530945",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541492",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541501",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541552",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANCO WENG HANG, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_-_MACAO": [
+            {
+                "Numero BIN/IIN": "433663",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_(MACAU)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "403181",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "470941",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "470942",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "491356",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_(MACAU)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "403181",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "470941",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "470942",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "491356",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_LIMITED_MACAU_BRANCH_-_MACAO": [
+            {
+                "Numero BIN/IIN": "622380",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA LIMITED MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "626200",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA LIMITED MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_LIMITEDMACAU_BRANCH_-_MACAO": [
+            {
+                "Numero BIN/IIN": "624485",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA LIMITED,MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_MO_-_MACAO": [
+            {
+                "Numero BIN/IIN": "620204",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA MO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "620205",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA MO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "620210",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA MO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "620211",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA MO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "620531",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA MO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "405715",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "430268",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "433643",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "451178",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "451179",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "490857",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490858",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "521655",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "522646",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANK_OF_CHINA_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "405715",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "430268",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "433643",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "451178",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "451179",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "490857",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490858",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "521655",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "522646",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF CHINA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANK_OF_COMMUNICATIONS_-_MACAO": [
+            {
+                "Numero BIN/IIN": "621335",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF COMMUNICATIONS",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANK_OF_EAST_ASIA_MACAU_BRANCH_-_MACAO": [
+            {
+                "Numero BIN/IIN": "621411",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF EAST ASIA MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BANK_OF_EAST_ASIA_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "431902",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF EAST ASIA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "512621",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF EAST ASIA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BANK_OF_EAST_ASIA_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "431902",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BANK OF EAST ASIA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "512621",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK OF EAST ASIA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BANK_SINOPAC_-_MACAO": [
+            {
+                "Numero BIN/IIN": "461784",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BANK SINOPAC",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            }
+        ]
+    },
+    {
+        "BOC_CREDIT_(INTERNATIONAL)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "624474",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT (INTERNATIONAL), LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "BOC_CREDIT_CARD_-_MACAO": [
+            {
+                "Numero BIN/IIN": "625141",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625143",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BOC_CREDIT_CARD_(INTERNATIONAL)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "419970",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "430267",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "433647",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433661",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433665",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "437592",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "459556",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "459559",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "490859",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "490860",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "492441",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "514947",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "514948",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "519326",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "530168",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "530169",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "541533",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541550",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "541558",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541561",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "541573",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541583",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541584",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542852",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542869",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542870",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542880",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542904",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "544107",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "544109",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "552739",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "552740",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "BOC_CREDIT_CARD_(INTERNATIONAL)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "419970",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "430267",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "433647",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433661",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433665",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "437592",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "459556",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "459559",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "490859",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "490860",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "492441",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "514947",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "514948",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "519326",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "530168",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "530169",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "541533",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541550",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "541558",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541561",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "541573",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541583",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541584",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542852",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542869",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542870",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542880",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542904",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "544107",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "544109",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "552739",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "552740",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "BOC_CREDIT_CARD_(INTERNATIONAL)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "419970",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "430267",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "433647",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433661",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "433665",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "437592",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "459556",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "459559",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "490859",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "490860",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "492441",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "514947",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "514948",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "519326",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "530168",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "530169",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "541533",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "541550",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "541558",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541561",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "541573",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541583",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541584",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542852",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542869",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542870",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542880",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542904",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "544107",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "544109",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "552739",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "552740",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "CHINA_CONSTRUCTION_BANK_(MACAU)_CO.LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "621084",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA CONSTRUCTION BANK (MACAU) CO.LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "CHINA_CONSTRUCTION_BANK_(MACAU)_CORP._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "442750",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA CONSTRUCTION BANK (MACAU) CORP., LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "CHINA_CONSTRUCTION_BANK_CORPORATION_MACAU_BRANCH_-_MACAO": [
+            {
+                "Numero BIN/IIN": "623350",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624412",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "CHINA_GUANGFA_BANK_MACAU_BRANCH_-_MACAO": [
+            {
+                "Numero BIN/IIN": "623365",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA GUANGFA BANK, MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "623366",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA GUANGFA BANK, MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "629286",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CHINA GUANGFA BANK, MACAU BRANCH",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "OTHER"
+            }
+        ]
+    },
+    {
+        "CITIBANK_N.A._-_MACAO": [
+            {
+                "Numero BIN/IIN": "488925",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "CITIBANK, N.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DAFENG_BANK_CO._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "620072",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "DAFENG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "625196",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "DAFENG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625198",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "DAFENG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "DAFENG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "622547",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "DAFENG BANK, LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "622548",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "DAFENG BANK, LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "DBS_BANK_HONG_KONG_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "544774",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "DBS BANK HONG KONG, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "FAYSAL_ISLAMIC_BANK_OF_BAHRAIN_E.C._-_MACAO": [
+            {
+                "Numero BIN/IIN": "548931",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "FAYSAL ISLAMIC BANK OF BAHRAIN E.C.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "HANG_SENG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "418279",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428152",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "525943",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "550436",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "HANG_SENG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "418279",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428152",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "525943",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "550436",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "HANG_SENG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "418279",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "428152",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "525943",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "550436",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HANG SENG BANK, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            }
+        ]
+    },
+    {
+        "HONG_KONG_AND_SHANGHAI_BANKING_CORP._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "432709",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "513095",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542530",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "589425",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "HONG_KONG_AND_SHANGHAI_BANKING_CORP._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "432709",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "513095",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542530",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "589425",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "MAESTRO",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "HONGKONG_AND_SHANGHAI_BANKING_CORP._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "428151",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PROPRIETARY ATM"
+            },
+            {
+                "Numero BIN/IIN": "489603",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ICBC_-_MACAO": [
+            {
+                "Numero BIN/IIN": "625017",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "ICBC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625018",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "ICBC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625019",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "ICBC",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_-_MACAO": [
+            {
+                "Numero BIN/IIN": "620124",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "621732",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "621733",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_(MACAU)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "437765",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "457410",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "475695",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "483790",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "491886",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491887",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518824",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526864",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "530506",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531581",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542895",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544016",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_(MACAU)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "437765",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "457410",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "475695",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "483790",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "491886",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491887",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518824",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526864",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "530506",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531581",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542895",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544016",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_(MACAU)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "437765",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "457410",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "475695",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "483790",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "491886",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491887",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518824",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "526864",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "530506",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531581",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "542895",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544016",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_MACAU_-_MACAO": [
+            {
+                "Numero BIN/IIN": "622927",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MACAU",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "622928",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MACAU",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "622930",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MACAU",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "622931",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MACAU",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_MO_-_MACAO": [
+            {
+                "Numero BIN/IIN": "620183",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MO",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "LIU_CHONG_HING_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "438077",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LIU CHONG HING BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "LUSO_INTERNATIONAL_BANKING_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "624407",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624408",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "LUSO_INTERNATIONAL_BANKING_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "410507",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410508",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "411909",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "411910",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "524134",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541370",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541396",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541419",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541422",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "547352",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "LUSO_INTERNATIONAL_BANKING_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "410507",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410508",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "411909",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "411910",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "524134",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541370",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541396",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541419",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541422",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "547352",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "LUSO_INTERNATIONAL_BANKING_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "410507",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410508",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "411909",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "411910",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "524134",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "541370",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "541396",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "541419",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541422",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            },
+            {
+                "Numero BIN/IIN": "547352",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "LUSO INTERNATIONAL BANKING, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "MACAO_COMMERCIAL_BANK_-_MACAO": [
+            {
+                "Numero BIN/IIN": "625014",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO COMMERCIAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "625016",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO COMMERCIAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "MACAO_CONNECT_CO._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "620126",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO CONNECT CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MACAO_DAFENG_BANK_-_MACAO": [
+            {
+                "Numero BIN/IIN": "625147",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO DAFENG BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "MACAO_INTERNATIONAL_BANK_-_MACAO": [
+            {
+                "Numero BIN/IIN": "622435",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO INTERNATIONAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "622436",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO INTERNATIONAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "MACAO_PASS_-_MACAO": [
+            {
+                "Numero BIN/IIN": "620532",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO PASS",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MACAO_PASS_CO._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "620537",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAO PASS CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "MACAU_BDA_-_MACAO": [
+            {
+                "Numero BIN/IIN": "621324",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU BDA",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "MACAU_COMMERCIAL_BANK_-_MACAO": [
+            {
+                "Numero BIN/IIN": "621253",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU COMMERCIAL BANK",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "RMB CARD"
+            }
+        ]
+    },
+    {
+        "MACAU_WING_HANG_BANK_CO._LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "622775",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU WING HANG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "622785",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU WING HANG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "622861",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU WING HANG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "REWARDS"
+            },
+            {
+                "Numero BIN/IIN": "622862",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU WING HANG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "622932",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "MACAU WING HANG BANK CO., LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "OCBC_BANK_(MACAU)_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "405232",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "430487",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "444095",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "445983",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "455350",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "455351",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "543656",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD ELITE"
+            },
+            {
+                "Numero BIN/IIN": "552227",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "WORLD"
+            },
+            {
+                "Numero BIN/IIN": "554644",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "554728",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "OCBC BANK (MACAU), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "TITANIUM"
+            }
+        ]
+    },
+    {
+        "OCBC_WING_HANG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "624300",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "OCBC WING HANG BANK, LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624302",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "OCBC WING HANG BANK, LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624308",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "OCBC WING HANG BANK, LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            },
+            {
+                "Numero BIN/IIN": "624309",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "OCBC WING HANG BANK, LTD.",
+                "Marca de carro": "CHINA UNION PAY",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PERSONAL"
+            }
+        ]
+    },
+    {
+        "STANDARD_CHARTERED_BANK_-_MACAO": [
+            {
+                "Numero BIN/IIN": "498483",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "STANDARD CHARTERED BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "TAI_FUNG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "490902",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "TAI FUNG BANK LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "SIGNATURE"
+            },
+            {
+                "Numero BIN/IIN": "493777",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "TAI FUNG BANK LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "TAI_FUNG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "406052",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "TAI FUNG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "466074",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "TAI FUNG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "TAI_FUNG_BANK_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "406052",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "TAI FUNG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "466074",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "TAI FUNG BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "THE_BANK_OF_EAST_ASIA_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "455450",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE BANK OF EAST ASIA, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "THE_HONGKONG_AND_SHANGHAI_BANKING_CORPORATION_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "475515",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "475516",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490866",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490867",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "513467",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518305",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518325",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544517",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544594",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "THE_HONGKONG_AND_SHANGHAI_BANKING_CORPORATION_LTD._-_MACAO": [
+            {
+                "Numero BIN/IIN": "475515",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "475516",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490866",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "490867",
+                "Pais": "MACAU",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "513467",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "518305",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "518325",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544517",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544594",
+                "Pais": "MACAO",
+                "Nombre del emisor / Banco": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    }
+]

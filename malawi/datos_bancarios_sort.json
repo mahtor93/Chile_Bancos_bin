@@ -1,0 +1,354 @@
+[
+  {
+    "bin": "405989",
+    "country": "MALAWI",
+    "bank": "FIRST CAPITAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406297",
+    "country": "MALAWI",
+    "bank": "FDH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406298",
+    "country": "MALAWI",
+    "bank": "FDH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406916",
+    "country": "MALAWI",
+    "bank": "STANDARD BANK LIMITED MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406923",
+    "country": "MALAWI",
+    "bank": "STANDARD BANK LIMITED MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406924",
+    "country": "MALAWI",
+    "bank": "STANDARD BANK LIMITED MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406925",
+    "country": "MALAWI",
+    "bank": "STANBIC BANK MALAWI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406927",
+    "country": "MALAWI",
+    "bank": "STANDARD BANK LIMITED MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "408103",
+    "country": "MALAWI",
+    "bank": "ECOBANK MALAWI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411511",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412145",
+    "country": "MALAWI",
+    "bank": "NBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416746",
+    "country": "MALAWI",
+    "bank": "FIRST CAPITAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "425619",
+    "country": "MALAWI",
+    "bank": "CENTENARY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444563",
+    "country": "MALAWI",
+    "bank": "STANDARD BANK LIMITED MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446315",
+    "country": "MALAWI",
+    "bank": "STANDARD BANK LIMITED MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447728",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450044",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450045",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450046",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450047",
+    "country": "MALAWI",
+    "bank": "NBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452509",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458248",
+    "country": "MALAWI",
+    "bank": "ECOBANK MALAWI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "458757",
+    "country": "MALAWI",
+    "bank": "FIRST CAPITAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459823",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "459826",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459832",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459835",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460079",
+    "country": "MALAWI",
+    "bank": "NBS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464112",
+    "country": "MALAWI",
+    "bank": "ECOBANK MALAWI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "469577",
+    "country": "MALAWI",
+    "bank": "NBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472820",
+    "country": "MALAWI",
+    "bank": "FIRST CAPITAL BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481445",
+    "country": "MALAWI",
+    "bank": "ECOBANK MALAWI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486349",
+    "country": "MALAWI",
+    "bank": "NBS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "513487",
+    "country": "MALAWI",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517206",
+    "country": "MALAWI",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518720",
+    "country": "MALAWI",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520227",
+    "country": "MALAWI",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521057",
+    "country": "MALAWI",
+    "bank": "OPPORTUNITY INTERNATIONAL BANK OF MALAWI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532506",
+    "country": "MALAWI",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538411",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539368",
+    "country": "MALAWI",
+    "bank": "NBS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544074",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "555745",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558125",
+    "country": "MALAWI",
+    "bank": "NATIONAL BANK OF MALAWI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

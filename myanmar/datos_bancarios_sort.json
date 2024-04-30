@@ -1,0 +1,642 @@
+[
+  {
+    "bin": "222803",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223440",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "223450",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "223511",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "223520",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "223592",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL TRADE PROGRAM"
+  },
+  {
+    "bin": "223642",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL TRADE PROGRA"
+  },
+  {
+    "bin": "223703",
+    "country": "MYANMAR",
+    "bank": "PAYPLUS COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL TRADE PROGRAM"
+  },
+  {
+    "bin": "405264",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405518",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405734",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406716",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407999",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408152",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408164",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413471",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "413536",
+    "country": "MYANMAR",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "416273",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419960",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADDY FARMERS DEVELOPMENT BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "421686",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422501",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "427947",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431010",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439012",
+    "country": "MYANMAR",
+    "bank": "ASIA GREEN DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439015",
+    "country": "MYANMAR",
+    "bank": "ASIA GREEN DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "443695",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453765",
+    "country": "MYANMAR",
+    "bank": "MYANMAR CITIZENS BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "454083",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "455085",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "455107",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460287",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462230",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADDY FARMERS DEVELOPMENT BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468785",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468955",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "468993",
+    "country": "MYANMAR",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "483863",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483864",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483887",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484135",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "510586",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512624",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512868",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "514233",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515169",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516234",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516247",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516263",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517354",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519430",
+    "country": "MYANMAR",
+    "bank": "YOMA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519502",
+    "country": "MYANMAR",
+    "bank": "MYANMAR CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519503",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520355",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523710",
+    "country": "MYANMAR",
+    "bank": "ASIA GREEN DEVELOPMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524288",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524698",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524699",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527530",
+    "country": "MYANMAR",
+    "bank": "YOMA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528672",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528673",
+    "country": "MYANMAR",
+    "bank": "MYANMAR CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528675",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533435",
+    "country": "MYANMAR",
+    "bank": "YOMA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537674",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543741",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547566",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "551580",
+    "country": "MYANMAR",
+    "bank": "YOMA BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "555700",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "558588",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "623433",
+    "country": "MYANMAR",
+    "bank": "ASIA GREEN DEVELOPMENT BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623466",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623476",
+    "country": "MYANMAR",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623493",
+    "country": "MYANMAR",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "624419",
+    "country": "MYANMAR",
+    "bank": "CB BANK PCL",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624430",
+    "country": "MYANMAR",
+    "bank": "AYEYARWADY BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624431",
+    "country": "MYANMAR",
+    "bank": "MYANMAR ORIENTAL BANK LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624445",
+    "country": "MYANMAR",
+    "bank": "KANBAWZA BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624469",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624496",
+    "country": "MYANMAR",
+    "bank": "GTB",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626220",
+    "country": "MYANMAR",
+    "bank": "MYANMA APEX BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629133",
+    "country": "MYANMAR",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629214",
+    "country": "MYANMAR",
+    "bank": "UAB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  }
+]

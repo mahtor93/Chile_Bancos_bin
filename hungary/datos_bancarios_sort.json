@@ -1,0 +1,2802 @@
+[
+  {
+    "bin": "222905",
+    "country": "HUNGARY",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223531",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "377947",
+    "country": "HUNGARY",
+    "bank": "OTP HUNGARIAN NATIONAL SAVINGS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL BLUE REVOLVE"
+  },
+  {
+    "bin": "400259",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400260",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402110",
+    "country": "HUNGARY",
+    "bank": "MKB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402111",
+    "country": "HUNGARY",
+    "bank": "MKB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403503",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403560",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403561",
+    "country": "HUNGARY",
+    "bank": "FHB KERESKEDELMI BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403837",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "406210",
+    "country": "HUNGARY",
+    "bank": "OTP BANK NYRT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406342",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409360",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410067",
+    "country": "HUNGARY",
+    "bank": "OTP BANK RT (NATIONAL SAVINGS AND COMMERCIAL BANK LTD.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412097",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "413032",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413130",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "414099",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "414292",
+    "country": "HUNGARY",
+    "bank": "OTP BANK NYRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414610",
+    "country": "HUNGARY",
+    "bank": "BUDAPEST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "415484",
+    "country": "HUNGARY",
+    "bank": "K BANK RT. (KERESKEDELMI ES HITELBANK RT)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416098",
+    "country": "HUNGARY",
+    "bank": "CIB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416583",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418045",
+    "country": "HUNGARY",
+    "bank": "FHB KERESKEDELMI BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418046",
+    "country": "HUNGARY",
+    "bank": "FHB KERESKEDELMI BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418834",
+    "country": "HUNGARY",
+    "bank": "CIB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419677",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419678",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420579",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421597",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422861",
+    "country": "HUNGARY",
+    "bank": "ING BANK RT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "423759",
+    "country": "HUNGARY",
+    "bank": "AXA BANK EUROPE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424441",
+    "country": "HUNGARY",
+    "bank": "CREDIGEN BANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425659",
+    "country": "HUNGARY",
+    "bank": "MKB BANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425726",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "426122",
+    "country": "HUNGARY",
+    "bank": "TAKAREK KERESKEDELMI BANK ZRT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426123",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426124",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426274",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "427351",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427710",
+    "country": "HUNGARY",
+    "bank": "KDB BANK (HUNGARY), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427720",
+    "country": "HUNGARY",
+    "bank": "MKB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427762",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428312",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428753",
+    "country": "HUNGARY",
+    "bank": "MKB BANK RT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428942",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428993",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432084",
+    "country": "HUNGARY",
+    "bank": "CIB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432085",
+    "country": "HUNGARY",
+    "bank": "CIB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432528",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432528",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432529",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432530",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433311",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433312",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433313",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433340",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433374",
+    "country": "HUNGARY",
+    "bank": "CIB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433947",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433978",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434674",
+    "country": "HUNGARY",
+    "bank": "DIPOCKET UAB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "434847",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435028",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "435230",
+    "country": "HUNGARY",
+    "bank": "MKB BANK ZRT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438979",
+    "country": "HUNGARY",
+    "bank": "HVB BANK HUNGARY RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440220",
+    "country": "HUNGARY",
+    "bank": "KDB BANK (HUNGARY), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440221",
+    "country": "HUNGARY",
+    "bank": "KDB BANK EUROPA ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440222",
+    "country": "HUNGARY",
+    "bank": "KDB BANK (HUNGARY), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440223",
+    "country": "HUNGARY",
+    "bank": "KDB BANK (HUNGARY), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440234",
+    "country": "HUNGARY",
+    "bank": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440235",
+    "country": "HUNGARY",
+    "bank": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440236",
+    "country": "HUNGARY",
+    "bank": "ING BANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440327",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440542",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY RT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440549",
+    "country": "HUNGARY",
+    "bank": "KDB BANK (HUNGARY), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440551",
+    "country": "HUNGARY",
+    "bank": "MKB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440552",
+    "country": "HUNGARY",
+    "bank": "MKB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440554",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440580",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440601",
+    "country": "HUNGARY",
+    "bank": "OTP BANK NYRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440602",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440618",
+    "country": "HUNGARY",
+    "bank": "MKB BANK NYRT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "445964",
+    "country": "HUNGARY",
+    "bank": "MKB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "446147",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "446147",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "447631",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK (MAGYARORSZAG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "447632",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447632",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447958",
+    "country": "HUNGARY",
+    "bank": "OTP BANK NYRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448310",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "448311",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451128",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451168",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451180",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY RT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455022",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455026",
+    "country": "HUNGARY",
+    "bank": "K BANK RT. (KERESKEDELMI ES HITELBANK RT)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455052",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455356",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455602",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455648",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457253",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "459303",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459339",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459540",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459541",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459542",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459543",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462496",
+    "country": "HUNGARY",
+    "bank": "KDB BANK EUROPE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462497",
+    "country": "HUNGARY",
+    "bank": "KDB BANK EUROPE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462498",
+    "country": "HUNGARY",
+    "bank": "KDB BANK EUROPE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "462499",
+    "country": "HUNGARY",
+    "bank": "KDB BANK EUROPE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "464498",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469813",
+    "country": "HUNGARY",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "469814",
+    "country": "HUNGARY",
+    "bank": "AXABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469815",
+    "country": "HUNGARY",
+    "bank": "VISA BELGIUM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "474563",
+    "country": "HUNGARY",
+    "bank": "MAGYAR TAKAREKSZOVETKEZETI BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "477589",
+    "country": "HUNGARY",
+    "bank": "MKB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477933",
+    "country": "HUNGARY",
+    "bank": "CIB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477935",
+    "country": "HUNGARY",
+    "bank": "CIB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "478708",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "478712",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "478715",
+    "country": "HUNGARY",
+    "bank": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478716",
+    "country": "HUNGARY",
+    "bank": "SBERBANK MAGYARORSZAG ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "478717",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "478736",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478738",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479079",
+    "country": "HUNGARY",
+    "bank": "CIB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479097",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479685",
+    "country": "HUNGARY",
+    "bank": "CIB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479686",
+    "country": "HUNGARY",
+    "bank": "CIB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480248",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480248",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480249",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480249",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "482919",
+    "country": "HUNGARY",
+    "bank": "MKB BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483048",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "483078",
+    "country": "HUNGARY",
+    "bank": "MAGYAR TAKAREKSZOVETKEZETI BANK ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "483840",
+    "country": "HUNGARY",
+    "bank": "OTP BANK NYRT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "487030",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487484",
+    "country": "HUNGARY",
+    "bank": "POST BANK AND SAVINGS BANK CORPORATION (POSTABANK RT.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490826",
+    "country": "HUNGARY",
+    "bank": "MKB BANK NYRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490827",
+    "country": "HUNGARY",
+    "bank": "ABN AMRO (MAGYAR) BANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490828",
+    "country": "HUNGARY",
+    "bank": "ABN AMRO (MAGYAR) BANK RT.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490836",
+    "country": "HUNGARY",
+    "bank": "OTP BANK NYRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490982",
+    "country": "HUNGARY",
+    "bank": "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491762",
+    "country": "HUNGARY",
+    "bank": "BUDAPEST BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "494049",
+    "country": "HUNGARY",
+    "bank": "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZRT.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "508114",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510019",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510121",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511230",
+    "country": "HUNGARY",
+    "bank": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512578",
+    "country": "HUNGARY",
+    "bank": "BUDAPEST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512580",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512598",
+    "country": "HUNGARY",
+    "bank": "MAGYAR TAKAREKSZOVETKEZETI BANK RT. (BANK OF HUNGARIAN SAVINGS COOPERATIVES)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512649",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513044",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514755",
+    "country": "HUNGARY",
+    "bank": "MKB BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515481",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515548",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "516050",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517794",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "518051",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "518051",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "519006",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "519627",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519631",
+    "country": "HUNGARY",
+    "bank": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519997",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520151",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520633",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "SALARY"
+  },
+  {
+    "bin": "520918",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521061",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521183",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521440",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PROFESSIONAL"
+  },
+  {
+    "bin": "521448",
+    "country": "HUNGARY",
+    "bank": "GRANIT BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "522035",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522035",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522253",
+    "country": "HUNGARY",
+    "bank": "POST BANK AND SAVINGS BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "522610",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522994",
+    "country": "HUNGARY",
+    "bank": "FHB COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "524829",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "SALARY"
+  },
+  {
+    "bin": "524836",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525642",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525853",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526210",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526210",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526254",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "526255",
+    "country": "HUNGARY",
+    "bank": "GRANIT BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "527417",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527417",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527436",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527436",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529161",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530995",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531190",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ISIC"
+  },
+  {
+    "bin": "531460",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531558",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531558",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531807",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "531814",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532180",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532327",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533023",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533418",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533945",
+    "country": "HUNGARY",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "534122",
+    "country": "HUNGARY",
+    "bank": "GRANIT BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536242",
+    "country": "HUNGARY",
+    "bank": "GRANIT BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "536247",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536442",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536810",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537225",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537510",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537866",
+    "country": "HUNGARY",
+    "bank": "DIPOCKET, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538762",
+    "country": "HUNGARY",
+    "bank": "EML PAYMENTS EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "540004",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540010",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "540623",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540623",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540719",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540720",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541668",
+    "country": "HUNGARY",
+    "bank": "FHB COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541704",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542110",
+    "country": "HUNGARY",
+    "bank": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "542436",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "542776",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542866",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542866",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543595",
+    "country": "HUNGARY",
+    "bank": "BUDAPEST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543758",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544403",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544403",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544404",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544404",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544537",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544617",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545296",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545548",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "545700",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546563",
+    "country": "HUNGARY",
+    "bank": "BNP PARIBAS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546735",
+    "country": "HUNGARY",
+    "bank": "K AND H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547289",
+    "country": "HUNGARY",
+    "bank": "MAGYAR TAKAREKSZOVEKEZETI BANK RT. (BANK OF HUNGARIAN SAVINGS COOPERAT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547337",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "547373",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "547373",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "547381",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547425",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547454",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547595",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547595",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547709",
+    "country": "HUNGARY",
+    "bank": "BUDAPEST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "547717",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547717",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547731",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548209",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548209",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549063",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "549357",
+    "country": "HUNGARY",
+    "bank": "K AND H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "549542",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549717",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549718",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550069",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550355",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550525",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LTD COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550647",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN FOREIGN TRADE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550839",
+    "country": "HUNGARY",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "551971",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "551972",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "551977",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "551986",
+    "country": "HUNGARY",
+    "bank": "BNP PARIBAS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "551987",
+    "country": "HUNGARY",
+    "bank": "BOSTON SAFE DEPOSIT AND TRUST COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552071",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552071",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552650",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552687",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552860",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552890",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552896",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552960",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553032",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553067",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "553600",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553940",
+    "country": "HUNGARY",
+    "bank": "MAGYAR TAKAREKSZOVEKEZETI BANK RT. (BANK OF HUNGARIAN SAVINGS COOPERAT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553943",
+    "country": "HUNGARY",
+    "bank": "AXA BANK EUROPE, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553970",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553975",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554203",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD/CORPORATE"
+  },
+  {
+    "bin": "554204",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554420",
+    "country": "HUNGARY",
+    "bank": "DEUTSCHE BANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554522",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554533",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "556037",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556038",
+    "country": "HUNGARY",
+    "bank": "CITIBANK RT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556619",
+    "country": "HUNGARY",
+    "bank": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557700",
+    "country": "HUNGARY",
+    "bank": "ERZSEBET UTALVANYFORGALMAZO ZRT. (EUF)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "557704",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557707",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "557739",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557837",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "558280",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558301",
+    "country": "HUNGARY",
+    "bank": "MAGNET MAGYAR KOZOSSEGI BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558357",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558371",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558389",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558397",
+    "country": "HUNGARY",
+    "bank": "BNP PARIBAS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558398",
+    "country": "HUNGARY",
+    "bank": "BNP PARIBAS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558429",
+    "country": "HUNGARY",
+    "bank": "AXA BANK EUROPE, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558438",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558644",
+    "country": "HUNGARY",
+    "bank": "GRANIT BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558647",
+    "country": "HUNGARY",
+    "bank": "GRANIT BANK ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "558654",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "559079",
+    "country": "HUNGARY",
+    "bank": "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559458",
+    "country": "HUNGARY",
+    "bank": "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZRT.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559529",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559529",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559536",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559536",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "582100",
+    "country": "HUNGARY",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585351",
+    "country": "HUNGARY",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "589121",
+    "country": "HUNGARY",
+    "bank": "KERESKEDELMI BANK RT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "589308",
+    "country": "HUNGARY",
+    "bank": "ING BANK RT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "601451",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "610131",
+    "country": "HUNGARY",
+    "bank": "MKB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "623485",
+    "country": "HUNGARY",
+    "bank": "BANK OF CHINA (HUNGARY) CLOSE LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "637043",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "670598",
+    "country": "HUNGARY",
+    "bank": "SBERBANK HUNGARY, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "675752",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "675753",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "675753",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "675754",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "675757",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY RT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "675761",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "675762",
+    "country": "HUNGARY",
+    "bank": "OTP BANK PLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676173",
+    "country": "HUNGARY",
+    "bank": "BNP PARIBAS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676236",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676236",
+    "country": "HUNGARY",
+    "bank": "UNICREDIT BANK HUNGARY ZRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676337",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676390",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676427",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676506",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676615",
+    "country": "HUNGARY",
+    "bank": "ALTALANOS ERTEKFORGALMI BANK RT. (GENERAL BANKING AND TRUST",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676680",
+    "country": "HUNGARY",
+    "bank": "K AND H BANK ZRT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676818",
+    "country": "HUNGARY",
+    "bank": "RAIFFEISEN BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676890",
+    "country": "HUNGARY",
+    "bank": "ERSTE BANK HUNGARY ZRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676897",
+    "country": "HUNGARY",
+    "bank": "MAGYAR CETELEM BANK RT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677511",
+    "country": "HUNGARY",
+    "bank": "MBH BANK NYRT.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677516",
+    "country": "HUNGARY",
+    "bank": "HUNGARIAN VOLKSBANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677676",
+    "country": "HUNGARY",
+    "bank": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "677711",
+    "country": "HUNGARY",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "679120",
+    "country": "HUNGARY",
+    "bank": "K&H BANK ZRT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "821335",
+    "country": "HUNGARY",
+    "bank": "OTP BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

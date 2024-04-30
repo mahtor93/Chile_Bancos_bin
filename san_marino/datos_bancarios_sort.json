@@ -1,0 +1,258 @@
+[
+  {
+    "bin": "475246",
+    "country": "SAN MARINO",
+    "bank": "CASSA DI RISPARMIO DELLA REPUBBLICA DI SAN MARINO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483045",
+    "country": "SAN MARINO",
+    "bank": "CASSA DI RISPARMIO DELLA REPUBBLICA DI SAN MARINO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "487717",
+    "country": "SAN MARINO",
+    "bank": "BANCA DI SAN MARINO S.P.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "488080",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO BANCARIO SANMARINESE S.P.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "V PAY"
+  },
+  {
+    "bin": "488081",
+    "country": "SAN MARINO",
+    "bank": "EURO COMMERCIAL BANK S.P.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "VPAY"
+  },
+  {
+    "bin": "512469",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED BIN"
+  },
+  {
+    "bin": "513962",
+    "country": "SAN MARINO",
+    "bank": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514859",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515664",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "517232",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "524675",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525679",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525742",
+    "country": "SAN MARINO",
+    "bank": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530817",
+    "country": "SAN MARINO",
+    "bank": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531539",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533989",
+    "country": "SAN MARINO",
+    "bank": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535112",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535579",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537391",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539910",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539912",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "541817",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "542815",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543558",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544542",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547135",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "547455",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549720",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550746",
+    "country": "SAN MARINO",
+    "bank": "ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "553229",
+    "country": "SAN MARINO",
+    "bank": "BKN301 S.P.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "670524",
+    "country": "SAN MARINO",
+    "bank": "BANCA SAMMARINESE DI INVESTIMENTO SPA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676581",
+    "country": "SAN MARINO",
+    "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO S.P.A.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

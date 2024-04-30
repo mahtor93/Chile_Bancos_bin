@@ -1,0 +1,658 @@
+[
+  {
+    "bin": "223433",
+    "country": "CAMEROON",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "402078",
+    "country": "CAMEROON",
+    "bank": "ECOBANK CAMEROUN, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "404113",
+    "country": "CAMEROON",
+    "bank": "BGFIBANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "405836",
+    "country": "CAMEROON",
+    "bank": "CREDIT COMMUNAUTAIRE D'AFRIQUE BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406607",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406608",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406609",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN (SCB CAMEROUN)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408067",
+    "country": "CAMEROON",
+    "bank": "ECOBANK CAMEROUN, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408998",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409614",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409615",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411715",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411716",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412769",
+    "country": "CAMEROON",
+    "bank": "BANGE BANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416491",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417060",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417079",
+    "country": "CAMEROON",
+    "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "417199",
+    "country": "CAMEROON",
+    "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417839",
+    "country": "CAMEROON",
+    "bank": "COMMERCIAL BANK OF CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417840",
+    "country": "CAMEROON",
+    "bank": "ACCESS BANK CAMEROON PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418762",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420956",
+    "country": "CAMEROON",
+    "bank": "BANQUE ATLANTIQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422523",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423330",
+    "country": "CAMEROON",
+    "bank": "BANQUE ATLANTIQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424597",
+    "country": "CAMEROON",
+    "bank": "BGFIBANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430506",
+    "country": "CAMEROON",
+    "bank": "BANGE BANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432547",
+    "country": "CAMEROON",
+    "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432573",
+    "country": "CAMEROON",
+    "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433022",
+    "country": "CAMEROON",
+    "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433583",
+    "country": "CAMEROON",
+    "bank": "BANQUE ATLANTIQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440611",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441342",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441343",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441344",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "441345",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441346",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441347",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441348",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "441653",
+    "country": "CAMEROON",
+    "bank": "BGFIBANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441654",
+    "country": "CAMEROON",
+    "bank": "BGFIBANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441655",
+    "country": "CAMEROON",
+    "bank": "BGFIBANK CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445538",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445539",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "445540",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "458244",
+    "country": "CAMEROON",
+    "bank": "CREDIT COMMUNAUTAIRE D'AFRIQUE BANK SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "464171",
+    "country": "CAMEROON",
+    "bank": "COMMERCIAL BANK OF CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464172",
+    "country": "CAMEROON",
+    "bank": "COMMERCIAL BANK OF CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "474139",
+    "country": "CAMEROON",
+    "bank": "ECOBANK CAMEROUN, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "480366",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481201",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "481219",
+    "country": "CAMEROON",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481220",
+    "country": "CAMEROON",
+    "bank": "ECOBANK CAMEROUN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483456",
+    "country": "CAMEROON",
+    "bank": "ECOBANK CAMEROUN, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484675",
+    "country": "CAMEROON",
+    "bank": "ECOBANK CAMEROUN, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486029",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486030",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489170",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489171",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489172",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489174",
+    "country": "CAMEROON",
+    "bank": "SOCIETE COMMERCIALE DE BANQUE CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490999",
+    "country": "CAMEROON",
+    "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491941",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA CAMEROON",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "518187",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524250",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "526101",
+    "country": "CAMEROON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "526191",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "529594",
+    "country": "CAMEROON",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531024",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531986",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "532621",
+    "country": "CAMEROON",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532736",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532805",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534400",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536117",
+    "country": "CAMEROON",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536167",
+    "country": "CAMEROON",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541360",
+    "country": "CAMEROON",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550128",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "551877",
+    "country": "CAMEROON",
+    "bank": "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553725",
+    "country": "CAMEROON",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555796",
+    "country": "CAMEROON",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557637",
+    "country": "CAMEROON",
+    "bank": "AFRILAND FIRST BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557879",
+    "country": "CAMEROON",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

@@ -1,0 +1,1986 @@
+[
+  {
+    "bin": "222881",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "222882",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "229247",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "252500",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252501",
+    "country": "MOROCCO",
+    "bank": "CENTRE MONETIQUE INTERBANCAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252502",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252503",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252504",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252505",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252525",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "401708",
+    "country": "MOROCCO",
+    "bank": "CFG BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401710",
+    "country": "MOROCCO",
+    "bank": "CFG BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401712",
+    "country": "MOROCCO",
+    "bank": "CFG BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401713",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401765",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402412",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404762",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404951",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405039",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405464",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "405525",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405951",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406270",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407447",
+    "country": "MOROCCO",
+    "bank": "CDG CAPITAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407812",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "409572",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409572",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409901",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412610",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412673",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413223",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415383",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417083",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417083",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417343",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417621",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417621",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419644",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419645",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419646",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419799",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419902",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "419903",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419904",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422630",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425897",
+    "country": "MOROCCO",
+    "bank": "CASABLANCA FINANCE MARKETS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "427728",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428394",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428604",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429003",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430338",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431441",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431875",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432431",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432473",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "432474",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433428",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436684",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437776",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437777",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439218",
+    "country": "MOROCCO",
+    "bank": "CENTRE MONETIQUE INTERBANCAIRE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439235",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439375",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439376",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439377",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439378",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439379",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439380",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "440390",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440584",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440585",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "442435",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "442436",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443964",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "445439",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "446362",
+    "country": "MOROCCO",
+    "bank": "CDG CAPITAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446363",
+    "country": "MOROCCO",
+    "bank": "CDG CAPITAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446364",
+    "country": "MOROCCO",
+    "bank": "CDG CAPITAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447571",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447582",
+    "country": "MOROCCO",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450614",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450614",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452540",
+    "country": "MOROCCO",
+    "bank": "ARAB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452541",
+    "country": "MOROCCO",
+    "bank": "ARAB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454849",
+    "country": "MOROCCO",
+    "bank": "BANK AL YOUSR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455209",
+    "country": "MOROCCO",
+    "bank": "ARAB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455219",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455241",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455256",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455256",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455282",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455282",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455294",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "455562",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456049",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456062",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456062",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456066",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456067",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456088",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456746",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457466",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "458278",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458717",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458718",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458719",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "461124",
+    "country": "MOROCCO",
+    "bank": "BANK AL YOUSR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462709",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "464697",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465226",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465226",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465236",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "465471",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465471",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468567",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "469292",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "471353",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471438",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472462",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472947",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475878",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476093",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476094",
+    "country": "MOROCCO",
+    "bank": "BANQUE NATIONALE POUR LE DEVELOPPEMENT ECONOMIQUE BNDE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477923",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477931",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477942",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477965",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "477974",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "477978",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "479785",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479799",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481922",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484638",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485013",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485014",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489310",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC SA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "497010",
+    "country": "MOROCCO",
+    "bank": "LA BANQUE POSTALE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "500165",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "510163",
+    "country": "MOROCCO",
+    "bank": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510473",
+    "country": "MOROCCO",
+    "bank": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "510548",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511676",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512726",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513057",
+    "country": "MOROCCO",
+    "bank": "SOCIETE INTERBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "515556",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "515766",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516484",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518225",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "518321",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518822",
+    "country": "MOROCCO",
+    "bank": "CENTRE MONETIQUE INTERBANCAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518860",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518861",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "518930",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "519496",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519693",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520896",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521055",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521062",
+    "country": "MOROCCO",
+    "bank": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521092",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521177",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521185",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522058",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522537",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522676",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523418",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "523488",
+    "country": "MOROCCO",
+    "bank": "CITIBANK MAGHREB S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "523591",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524076",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524082",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524151",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524155",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524252",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524416",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524449",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524685",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "524705",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524889",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524978",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525433",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525676",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525765",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527421",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527435",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527578",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527844",
+    "country": "MOROCCO",
+    "bank": "CITIBANK MAGHREB S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "529347",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "529927",
+    "country": "MOROCCO",
+    "bank": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530110",
+    "country": "MOROCCO",
+    "bank": "AL BARID BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "530552",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530924",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531004",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "531140",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531792",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532114",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532164",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532196",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532331",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533179",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "534317",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534702",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534828",
+    "country": "MOROCCO",
+    "bank": "CITIBANK MAGHREB S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "535503",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536037",
+    "country": "MOROCCO",
+    "bank": "CITIBANK MAGHREB S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "536451",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536520",
+    "country": "MOROCCO",
+    "bank": "LA BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536894",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537003",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537014",
+    "country": "MOROCCO",
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540190",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "540936",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540977",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "541003",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541017",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541024",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541387",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541514",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "541750",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541751",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "541755",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542290",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "546570",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548747",
+    "country": "MOROCCO",
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550953",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552969",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553484",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "555603",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555672",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555716",
+    "country": "MOROCCO",
+    "bank": "CREDIT IMMOBILIER ET. HOTELIER",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557657",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558810",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "558941",
+    "country": "MOROCCO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "558944",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "558945",
+    "country": "MOROCCO",
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "558975",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559247",
+    "country": "MOROCCO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "570100",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "571456",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "574354",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "574497",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "575080",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "577597",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581650",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "583242",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "584228",
+    "country": "MOROCCO",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "601506",
+    "country": "MOROCCO",
+    "bank": "CREDIT DU MAROC",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "602586",
+    "country": "MOROCCO",
+    "bank": "BMCI",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "621983",
+    "country": "MOROCCO",
+    "bank": "CIH",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "627695",
+    "country": "MOROCCO",
+    "bank": "BARID ISS",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

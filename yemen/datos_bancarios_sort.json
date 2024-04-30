@@ -1,0 +1,562 @@
+[
+  {
+    "bin": "411799",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412560",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412561",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414500",
+    "country": "YEMEN",
+    "bank": "TADHAMON BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414501",
+    "country": "YEMEN",
+    "bank": "TADHAMON BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416730",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418360",
+    "country": "YEMEN",
+    "bank": "YEMEN KUWAIT BANK FOR TRADE & INVESTMENT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418361",
+    "country": "YEMEN",
+    "bank": "YEMEN KUWAIT BANK FOR TRADE & INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421391",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422922",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423291",
+    "country": "YEMEN",
+    "bank": "TADHAMON BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427823",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427824",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427825",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427826",
+    "country": "YEMEN",
+    "bank": "TADHAMON BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428124",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428125",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428126",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428127",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "428532",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428533",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431842",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431843",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431844",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431845",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432594",
+    "country": "YEMEN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432595",
+    "country": "YEMEN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447523",
+    "country": "YEMEN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462838",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462924",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474714",
+    "country": "YEMEN",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "483998",
+    "country": "YEMEN",
+    "bank": "TADHAMON BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483999",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484001",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484802",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "485009",
+    "country": "YEMEN",
+    "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512690",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512728",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516344",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516351",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516386",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519685",
+    "country": "YEMEN",
+    "bank": "YEMEN KUWAIT BANK FOR TRADE & INVESTMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "521064",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522850",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524387",
+    "country": "YEMEN",
+    "bank": "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524496",
+    "country": "YEMEN",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "526216",
+    "country": "YEMEN",
+    "bank": "ALKURAIMI ISLAMIC MICROFINANCE BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528012",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528019",
+    "country": "YEMEN",
+    "bank": "CREDIT CARD SERVICES JORDAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "530566",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531221",
+    "country": "YEMEN",
+    "bank": "CREDIT CARD SERVICES JORDAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531402",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531404",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE AGRICULTURAL CREDIT BANK (CAC BANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531669",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534307",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534309",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534314",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537973",
+    "country": "YEMEN",
+    "bank": "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539171",
+    "country": "YEMEN",
+    "bank": "ALKURAIMI ISLAMIC MICROFINANCE BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540697",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541896",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544178",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544483",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548071",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "551231",
+    "country": "YEMEN",
+    "bank": "YEMEN COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552371",
+    "country": "YEMEN",
+    "bank": "INTERNATIONAL BANK OF YEMEN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554930",
+    "country": "YEMEN",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559134",
+    "country": "YEMEN",
+    "bank": "CSCBANK S.A.L.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623380",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE & AGRICULTURAL CREDIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624367",
+    "country": "YEMEN",
+    "bank": "COOPERATIVE & AGRICULTURAL CREDIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "bin": "408986",
+    "country": "TIMOR-LESTE",
+    "bank": "CAIXA GERAL DE DEPOSITOS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408987",
+    "country": "TIMOR-LESTE",
+    "bank": "CAIXA GERAL DE DEPOSITOS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408988",
+    "country": "TIMOR-LESTE",
+    "bank": "CAIXA GERAL DE DEPOSITOS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434400",
+    "country": "TIMOR-LESTE",
+    "bank": "CAIXA GERAL DE DEPOSITOS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437973",
+    "country": "TIMOR-LESTE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438234",
+    "country": "TIMOR-LESTE",
+    "bank": "CAIXA GERAL DE DEPOSITOS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462876",
+    "country": "TIMOR-LESTE",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "518193",
+    "country": "TIMOR-LESTE",
+    "bank": "A/P AUS AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "557571",
+    "country": "TIMOR-LESTE",
+    "bank": "BANCO NACIONAL DE COMERCIO DE TIMOR LESTE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

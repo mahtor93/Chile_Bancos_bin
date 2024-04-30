@@ -1,0 +1,738 @@
+[
+  {
+    "bin": "231015",
+    "country": "HAITI",
+    "bank": "PRISM FINANCIAL SERVICES HAITI SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "244002",
+    "country": "HAITI",
+    "bank": "KESPAM SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "403885",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "403885",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406488",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407328",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407328",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409937",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411760",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411760",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411761",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411761",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411762",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411762",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414293",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414293",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414294",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414294",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414295",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414295",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415517",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421023",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422413",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441532",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441532",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441533",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441533",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441534",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441534",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444020",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "444020",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "446177",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "446177",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450327",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450327",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450328",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450328",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452142",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453503",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453503",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453504",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453504",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453505",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453505",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453681",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "453681",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "459057",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459057",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472267",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472267",
+    "country": "HAITI",
+    "bank": "CAPITAL BANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476876",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476876",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493739",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493740",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493741",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A. (SOGEBANK S.A.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510061",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516619",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516619",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517702",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517711",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "518273",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518273",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522187",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "523580",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "535070",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540178",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540277",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541181",
+    "country": "HAITI",
+    "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542750",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542750",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542752",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542752",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543004",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543004",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543300",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543307",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543330",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543586",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543586",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544607",
+    "country": "HAITI",
+    "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545989",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545989",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546052",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546053",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546054",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547328",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547754",
+    "country": "HAITI",
+    "bank": "SOCIETE GENERALE HAITIENNE DE CARTES DE CREDIT, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "554484",
+    "country": "HAITI",
+    "bank": "BANQUE DE L'UNION HAITIENNE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554565",
+    "country": "HAITI",
+    "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554609",
+    "country": "HAITI",
+    "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "556860",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "556860",
+    "country": "HAITI",
+    "bank": "UNIBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

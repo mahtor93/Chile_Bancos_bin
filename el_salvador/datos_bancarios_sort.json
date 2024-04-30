@@ -1,0 +1,3546 @@
+[
+  {
+    "bin": "230856",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230974",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "231004",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231006",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "231010",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "234000",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234001",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234002",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234003",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234004",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234005",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234006",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234007",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234008",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234009",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "235004",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE RL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "235005",
+    "country": "EL SALVADOR",
+    "bank": "SOCIEDAD DE AHORRO Y CREDITO GENTE SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "236006",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE RL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "237000",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE RL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "238006",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE RL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "265442",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "271350",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "361680",
+    "country": "EL SALVADOR",
+    "bank": "DC EL SALVADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364883",
+    "country": "EL SALVADOR",
+    "bank": "DC EL SALVADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364884",
+    "country": "EL SALVADOR",
+    "bank": "DC EL SALVADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365525",
+    "country": "EL SALVADOR",
+    "bank": "DC EL SALVADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365526",
+    "country": "EL SALVADOR",
+    "bank": "DC EL SALVADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365527",
+    "country": "EL SALVADOR",
+    "bank": "DC EL SALVADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "400726",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AZUL DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400727",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AZUL DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400728",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AZUL DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400729",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AZUL DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400730",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AZUL DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400731",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AZUL DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401663",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401664",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401680",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "401680",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "401969",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402654",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402738",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403329",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403774",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403774",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403858",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403859",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403860",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403861",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403863",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404021",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404021",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404314",
+    "country": "EL SALVADOR",
+    "bank": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404852",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404852",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405933",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405933",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406385",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "406396",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407245",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "407319",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407319",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408440",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408441",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408442",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408518",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "409606",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410015",
+    "country": "EL SALVADOR",
+    "bank": "SCOTIABANK EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410065",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410353",
+    "country": "EL SALVADOR",
+    "bank": "SOCIEDAD DE AHORRO Y CR DITO MULTIMONEY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410721",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410751",
+    "country": "EL SALVADOR",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "410752",
+    "country": "EL SALVADOR",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "411007",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411007",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411201",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411532",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411841",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411841",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412289",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412463",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "412955",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412955",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415946",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415946",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415987",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415988",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416189",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417162",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "417162",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "417705",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417707",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417707",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417708",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417708",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417758",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "417758",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "418859",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418859",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419538",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "420848",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "420848",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421338",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421400",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421400",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421558",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421558",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421559",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421559",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421695",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421695",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422157",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422157",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422237",
+    "country": "EL SALVADOR",
+    "bank": "BANCO ATLANTIDA EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422303",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422794",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422794",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "424993",
+    "country": "EL SALVADOR",
+    "bank": "SAC CREDICOMER, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425129",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425682",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425682",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426210",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426231",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "427217",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428291",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "428322",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428322",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428323",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428323",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428595",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DE FOMENTO AGROPECUARIO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429518",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429519",
+    "country": "EL SALVADOR",
+    "bank": "SAC CREDICOMER, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430417",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430425",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "430425",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "430498",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430498",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431063",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431064",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431065",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431514",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431514",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431825",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROCREDIT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431886",
+    "country": "EL SALVADOR",
+    "bank": "SCOTIABANK EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431992",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431993",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432965",
+    "country": "EL SALVADOR",
+    "bank": "CORPORACION DE CREDITOS Y SERVICIOS S.A.DE C.V. (SERVICREDIT S.A. DE C.V.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433000",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433000",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433036",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434153",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434154",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434502",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434502",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434583",
+    "country": "EL SALVADOR",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "435746",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "435746",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438074",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438074",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438630",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438630",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439001",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439002",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439063",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439067",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439068",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439069",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439072",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439072",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439075",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439075",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439086",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439092",
+    "country": "EL SALVADOR",
+    "bank": "CHEQUEMAX",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439093",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439093",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439150",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439194",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440411",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440411",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440412",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440412",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440675",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440675",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440676",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440676",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440677",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "440677",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "441019",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441019",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441083",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "441182",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441183",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442357",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442358",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "442359",
+    "country": "EL SALVADOR",
+    "bank": "BANCO ATLANTIDA EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443858",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443858",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444671",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444672",
+    "country": "EL SALVADOR",
+    "bank": "SCOTIABANK EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444829",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROCREDIT, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "448447",
+    "country": "EL SALVADOR",
+    "bank": "AVAL CARD, S.A. DE C.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "449764",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449764",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449765",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449765",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450070",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450071",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450072",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450422",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450422",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450426",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACI N DE CAJAS DE CR DITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450430",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450570",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "450571",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450575",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450756",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450756",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450757",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450757",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450820",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450820",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451354",
+    "country": "EL SALVADOR",
+    "bank": "BANCO ATLANTIDA EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451357",
+    "country": "EL SALVADOR",
+    "bank": "BANCO MULTIVALORES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452138",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACIN DE CAJAS DE CRDITO Y DE BANCOS DE LOS TRABAJADORES, S.C. DE C.V. DE R.L. (FEDECREDITO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452140",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455001",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455001",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455004",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455005",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455006",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456051",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456330",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456794",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456794",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456795",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456795",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456796",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456796",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456846",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457369",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457369",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457374",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457384",
+    "country": "EL SALVADOR",
+    "bank": "CREDISIMAN S.A. DE C.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457385",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457385",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457495",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457614",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457614",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457628",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457628",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458137",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "458901",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458901",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459372",
+    "country": "EL SALVADOR",
+    "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459377",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459378",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "462039",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462039",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462931",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462931",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462960",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462960",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464835",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465774",
+    "country": "EL SALVADOR",
+    "bank": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "465826",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465826",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465827",
+    "country": "EL SALVADOR",
+    "bank": "BANCO COOPERATIVO VISIONARIO DE R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465896",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465896",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465897",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465897",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466908",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466908",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467896",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469296",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470141",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470141",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472287",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "473857",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "473857",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476277",
+    "country": "EL SALVADOR",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476279",
+    "country": "EL SALVADOR",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476893",
+    "country": "EL SALVADOR",
+    "bank": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476894",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477119",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO SANTA VICTORIA DE RESPONSABILIDAD LIM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477594",
+    "country": "EL SALVADOR",
+    "bank": "SOCIEDAD DE AHORRO Y CRDITO MULTIMONEY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481531",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481531",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481532",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481532",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481533",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481533",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481534",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481534",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481535",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481535",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "485039",
+    "country": "EL SALVADOR",
+    "bank": "FINANCIA CREDIT SOCIEDAD ANONIMA DE CV",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485514",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "485998",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "489436",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489436",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489983",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491347",
+    "country": "EL SALVADOR",
+    "bank": "SCOTIABANK EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491382",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491383",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491387",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491582",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491949",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492593",
+    "country": "EL SALVADOR",
+    "bank": "SOCIEDAD DE AHORRO Y CR DITO MULTIMONEY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493194",
+    "country": "EL SALVADOR",
+    "bank": "AVAL CARD, S.A. DE C.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493415",
+    "country": "EL SALVADOR",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "496062",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "496062",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "511535",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511816",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511860",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511861",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511862",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511967",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512041",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512921",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512921",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512923",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512923",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512969",
+    "country": "EL SALVADOR",
+    "bank": "BANCO G&T CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513767",
+    "country": "EL SALVADOR",
+    "bank": "BANCO ABANK SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514920",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514942",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515451",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515451",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515666",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515838",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516182",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516296",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516313",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517077",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517323",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517323",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517398",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517589",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517589",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517595",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517595",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518477",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518769",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518845",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519353",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519353",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519377",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "519712",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519712",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "520002",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520002",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520052",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520087",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520087",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520110",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520160",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520392",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN SV, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520393",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521325",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521772",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "521786",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HIPOTECARIO DE EL SALVADOR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522730",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522730",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522763",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523045",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523445",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523573",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523573",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524876",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524938",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525513",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525733",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525733",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526429",
+    "country": "EL SALVADOR",
+    "bank": "BANCO G&T CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526703",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526704",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526705",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526803",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526803",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526823",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "526883",
+    "country": "EL SALVADOR",
+    "bank": "VOLCAN PROCESSING SA DE CV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "526886",
+    "country": "EL SALVADOR",
+    "bank": "VOLCAN PROCESSING SA DE CV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "526934",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526936",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526938",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527428",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528101",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528101",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528506",
+    "country": "EL SALVADOR",
+    "bank": "MOBILE CASH SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528867",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528867",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529332",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529332",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529428",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530299",
+    "country": "EL SALVADOR",
+    "bank": "SCOTIABANK EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530340",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530489",
+    "country": "EL SALVADOR",
+    "bank": "VOLCAN LATAM SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530670",
+    "country": "EL SALVADOR",
+    "bank": "VOLCAN LATAM SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531371",
+    "country": "EL SALVADOR",
+    "bank": "BANCO ABANK SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531670",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "531670",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "532066",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532066",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533551",
+    "country": "EL SALVADOR",
+    "bank": "VOLCAN PROCESSING SA DE CV",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "533762",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534425",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS TRAVEL"
+  },
+  {
+    "bin": "534881",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "535056",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536190",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536190",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536256",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536256",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536561",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536561",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536958",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538396",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "538396",
+    "country": "EL SALVADOR",
+    "bank": "BANCO PROMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "538398",
+    "country": "EL SALVADOR",
+    "bank": "BANCO HSBC SALVADORENO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "540120",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540135",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541629",
+    "country": "EL SALVADOR",
+    "bank": "FEDERACION DE ASOCIACIONES COOPERATIVAS DE AHORRO Y CREDITO DE EL SALV",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541974",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543495",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544207",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE CENTROAMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545276",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545401",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546685",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "547167",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547181",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547615",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548096",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE CENTROAMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548253",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548258",
+    "country": "EL SALVADOR",
+    "bank": "BANCO CUSCATLAN DE EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548275",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548978",
+    "country": "EL SALVADOR",
+    "bank": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549766",
+    "country": "EL SALVADOR",
+    "bank": "BANCO ABANK SOCIEDAD ANONIMA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552796",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE CENTROAMERICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554788",
+    "country": "EL SALVADOR",
+    "bank": "BANCO DAVIVIENDA SALVADORENO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554943",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554943",
+    "country": "EL SALVADOR",
+    "bank": "BANCO AGRICOLA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "600831",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "FLEET"
+  },
+  {
+    "bin": "790780",
+    "country": "EL SALVADOR",
+    "bank": "CREDOMATIC DE EL SALVADOR, S.A.",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "FLEET"
+  }
+]

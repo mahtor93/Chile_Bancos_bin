@@ -1,0 +1,106 @@
+[
+  {
+    "bin": "400661",
+    "country": "GUINEA-BISSAU",
+    "bank": "BANCO DA UNIAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400789",
+    "country": "GUINEA-BISSAU",
+    "bank": "BANCO DA UNIAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420455",
+    "country": "GUINEA-BISSAU",
+    "bank": "ECOBANK GUINEA BISSAU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "422433",
+    "country": "GUINEA-BISSAU",
+    "bank": "ECOBANK GUINEA BISSAU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423000",
+    "country": "GUINEA-BISSAU",
+    "bank": "ECOBANK GUINEA BISSAU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "429356",
+    "country": "GUINEA-BISSAU",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437576",
+    "country": "GUINEA-BISSAU",
+    "bank": "BANCO DA AFRICA OCIDENTAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437577",
+    "country": "GUINEA-BISSAU",
+    "bank": "BANCO DA AFRICA OCIDENTAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "454519",
+    "country": "GUINEA-BISSAU",
+    "bank": "ECOBANK GUINEA BISSAU",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488980",
+    "country": "GUINEA-BISSAU",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "488987",
+    "country": "GUINEA-BISSAU",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488991",
+    "country": "GUINEA-BISSAU",
+    "bank": "ORABANK COTE D'IVOIRE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529150",
+    "country": "GUINEA-BISSAU",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

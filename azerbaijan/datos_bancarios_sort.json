@@ -1,0 +1,3154 @@
+[
+  {
+    "bin": "123000",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "400624",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401862",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "401873",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402116",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402118",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402122",
+    "country": "AZERBAIJAN",
+    "bank": "KREDOBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402865",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405623",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406984",
+    "country": "AZERBAIJAN",
+    "bank": "BANK TECHNIQUE OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "407142",
+    "country": "AZERBAIJAN",
+    "bank": "MUGANBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407606",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408163",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408346",
+    "country": "AZERBAIJAN",
+    "bank": "NBCBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408347",
+    "country": "AZERBAIJAN",
+    "bank": "NBCBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408348",
+    "country": "AZERBAIJAN",
+    "bank": "NBCBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408349",
+    "country": "AZERBAIJAN",
+    "bank": "NBCBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408350",
+    "country": "AZERBAIJAN",
+    "bank": "NBCBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409313",
+    "country": "AZERBAIJAN",
+    "bank": "ZIRAAT BANK AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409809",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409858",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409859",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409860",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "409861",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409862",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "409989",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "410511",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410660",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "410661",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410662",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "410694",
+    "country": "AZERBAIJAN",
+    "bank": "BANK TECHNIQUE OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "411785",
+    "country": "AZERBAIJAN",
+    "bank": "BANK TECHNIQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411976",
+    "country": "AZERBAIJAN",
+    "bank": "NAKHCHIVANBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "412520",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "412720",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412721",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412722",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413436",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413858",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413859",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413860",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415402",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "416973",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416974",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416975",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417061",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417211",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417212",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417358",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417424",
+    "country": "AZERBAIJAN",
+    "bank": "MUGANBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417425",
+    "country": "AZERBAIJAN",
+    "bank": "MUGANBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417426",
+    "country": "AZERBAIJAN",
+    "bank": "COMMERCIAL BANK MUGAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417427",
+    "country": "AZERBAIJAN",
+    "bank": "COMMERCIAL BANK MUGAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417443",
+    "country": "AZERBAIJAN",
+    "bank": "AMRAHBANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417444",
+    "country": "AZERBAIJAN",
+    "bank": "AMRAHBANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417445",
+    "country": "AZERBAIJAN",
+    "bank": "AMRAHBANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417446",
+    "country": "AZERBAIJAN",
+    "bank": "AMRAHBANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417459",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "417889",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418249",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418980",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418981",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418982",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418983",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419255",
+    "country": "AZERBAIJAN",
+    "bank": "PREMIUM BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419256",
+    "country": "AZERBAIJAN",
+    "bank": "PREMIUM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419257",
+    "country": "AZERBAIJAN",
+    "bank": "PREMIUM BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419278",
+    "country": "AZERBAIJAN",
+    "bank": "KREDOBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419279",
+    "country": "AZERBAIJAN",
+    "bank": "KREDOBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419281",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419282",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419283",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419841",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419842",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419843",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419844",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419845",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419846",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "420370",
+    "country": "AZERBAIJAN",
+    "bank": "ROYALBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420382",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420383",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420384",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420385",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "420459",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "420553",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421070",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "424448",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424449",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424450",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424451",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426087",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426861",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC UNITED CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426863",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426864",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426865",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427276",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK JSB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427317",
+    "country": "AZERBAIJAN",
+    "bank": "JSCB BANK STANDARD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427745",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427746",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427857",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427858",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427859",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "427860",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428613",
+    "country": "AZERBAIJAN",
+    "bank": "MUGANBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "428652",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428653",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429789",
+    "country": "AZERBAIJAN",
+    "bank": "JSCB ATRA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429840",
+    "country": "AZERBAIJAN",
+    "bank": "CJSC YAPI KREDI BANK AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429842",
+    "country": "AZERBAIJAN",
+    "bank": "CJSC YAPI KREDI BANK AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430160",
+    "country": "AZERBAIJAN",
+    "bank": "NAKHCHIVANBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430170",
+    "country": "AZERBAIJAN",
+    "bank": "NAKHCHIVANBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430276",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430296",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "433324",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "435109",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "435160",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "437486",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437487",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "440553",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "444053",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "444466",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444807",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444994",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446512",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446513",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446677",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "447852",
+    "country": "AZERBAIJAN",
+    "bank": "ROYAL BANK OF BAKU JCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447853",
+    "country": "AZERBAIJAN",
+    "bank": "ROYAL BANK OF BAKU JCB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447854",
+    "country": "AZERBAIJAN",
+    "bank": "ROYAL BANK OF BAKU JCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447855",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447856",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447857",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447858",
+    "country": "AZERBAIJAN",
+    "bank": "AZERBAIJAN INDUSTRY BANK OSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "450036",
+    "country": "AZERBAIJAN",
+    "bank": "GANJABANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450037",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450038",
+    "country": "AZERBAIJAN",
+    "bank": "GANJABANK JSCB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450564",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451762",
+    "country": "AZERBAIJAN",
+    "bank": "ZIRAAT BANK AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452052",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457703",
+    "country": "AZERBAIJAN",
+    "bank": "NAKHCHIVANBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457838",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458586",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "458772",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459254",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "461371",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462816",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464149",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "464635",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465473",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "465491",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465492",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "465493",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470448",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471321",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472492",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472493",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472494",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472495",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472496",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472587",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472588",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472589",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC BTB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476019",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476845",
+    "country": "AZERBAIJAN",
+    "bank": "BANK AVRASIYA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476846",
+    "country": "AZERBAIJAN",
+    "bank": "BANK AVRASIYA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476847",
+    "country": "AZERBAIJAN",
+    "bank": "BANK AVRASIYA OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476848",
+    "country": "AZERBAIJAN",
+    "bank": "BANK AVRASIYA OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476872",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "478796",
+    "country": "AZERBAIJAN",
+    "bank": "JSCB BANK STANDARD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "481785",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484705",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484706",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484707",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484708",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484867",
+    "country": "AZERBAIJAN",
+    "bank": "DEKA BANK CB OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484868",
+    "country": "AZERBAIJAN",
+    "bank": "DEKA BANK CB OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "484870",
+    "country": "AZERBAIJAN",
+    "bank": "DEKA BANK CB OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486020",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486021",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486022",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486024",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486082",
+    "country": "AZERBAIJAN",
+    "bank": "PREMIUM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486083",
+    "country": "AZERBAIJAN",
+    "bank": "PREMIUM BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "486089",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "486317",
+    "country": "AZERBAIJAN",
+    "bank": "BANK VTB AZERBAIJAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486350",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC PASHA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487400",
+    "country": "AZERBAIJAN",
+    "bank": "LIMITED LIABILITY COMPANY AZERPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488940",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488941",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488942",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "488943",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "488944",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "488945",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488946",
+    "country": "AZERBAIJAN",
+    "bank": "AFB BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "490717",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "493253",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC XALQ BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494155",
+    "country": "AZERBAIJAN",
+    "bank": "JSCB BANK STANDARD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "510222",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510306",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510307",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510515",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510880",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510884",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "511661",
+    "country": "AZERBAIJAN",
+    "bank": "AZERPOST LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "511776",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512093",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512435",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "512567",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512768",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "514432",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514919",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515116",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "515860",
+    "country": "AZERBAIJAN",
+    "bank": "AZERPOST LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516192",
+    "country": "AZERBAIJAN",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516751",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516752",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516753",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516816",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516823",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516935",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519300",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519362",
+    "country": "AZERBAIJAN",
+    "bank": "AZERPOST LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520656",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521668",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "521839",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522121",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "522572",
+    "country": "AZERBAIJAN",
+    "bank": "BAMBORA AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522667",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522668",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522671",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522897",
+    "country": "AZERBAIJAN",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522953",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523522",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523915",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524157",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524287",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524349",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524375",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524389",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524748",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524810",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524811",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524942",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525234",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525710",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525711",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526163",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526998",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527161",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "527575",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "528039",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528615",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "528702",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529019",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529254",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529319",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "529855",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530093",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530095",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530099",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530181",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530499",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "531018",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531046",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531535",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531846",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532803",
+    "country": "AZERBAIJAN",
+    "bank": "AZERPOST LLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533369",
+    "country": "AZERBAIJAN",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "533573",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533599",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533613",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534032",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534191",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534440",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535115",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535294",
+    "country": "AZERBAIJAN",
+    "bank": "BAMBORA AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535295",
+    "country": "AZERBAIJAN",
+    "bank": "BAMBORA AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535464",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535580",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535591",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535732",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535741",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535994",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536238",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536239",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537215",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537462",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537533",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537540",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537556",
+    "country": "AZERBAIJAN",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "537609",
+    "country": "AZERBAIJAN",
+    "bank": "AZERPOST LLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538200",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "539279",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539722",
+    "country": "AZERBAIJAN",
+    "bank": "ROYALBANK OPEN STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540110",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "540269",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540408",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540774",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540844",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541124",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541673",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541735",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541746",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541920",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541945",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541947",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542166",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542559",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542671",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543172",
+    "country": "AZERBAIJAN",
+    "bank": "RESPUBLIKA JSCB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544323",
+    "country": "AZERBAIJAN",
+    "bank": "DEMIRBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544459",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545184",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545221",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545230",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545704",
+    "country": "AZERBAIJAN",
+    "bank": "J.S.C.B. BANK STANDARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545705",
+    "country": "AZERBAIJAN",
+    "bank": "J.S.C.B. BANK STANDARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546263",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547224",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "547453",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "547507",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547559",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547569",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547724",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547764",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547811",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548290",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "549026",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549027",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549236",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549868",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550222",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550358",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550465",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550466",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550578",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552005",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552209",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552229",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552675",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552706",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554474",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557533",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557806",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557927",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "558390",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558393",
+    "country": "AZERBAIJAN",
+    "bank": "J.S.C.B. BANK STANDARD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558496",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558641",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558649",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559278",
+    "country": "AZERBAIJAN",
+    "bank": "BANK TECHNIQUE OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559646",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559647",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559651",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559852",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "620024",
+    "country": "AZERBAIJAN",
+    "bank": "ROYAL BANK OPEN STOCK COMPANY",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "621344",
+    "country": "AZERBAIJAN",
+    "bank": "ROYAL BANK OPEN STOCK COMPANY",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623344",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623346",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "625004",
+    "country": "AZERBAIJAN",
+    "bank": "ROYAL BANK OPEN STOCK COMPANY",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "629154",
+    "country": "AZERBAIJAN",
+    "bank": "MUGANBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670570",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670648",
+    "country": "AZERBAIJAN",
+    "bank": "EXPRESSBANK OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670675",
+    "country": "AZERBAIJAN",
+    "bank": "AZERPOST LLC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670836",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF AZERBAIJAN OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670871",
+    "country": "AZERBAIJAN",
+    "bank": "ATABANK OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670905",
+    "country": "AZERBAIJAN",
+    "bank": "OPEN JOINT STOCK SOCIETY MUGANBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670993",
+    "country": "AZERBAIJAN",
+    "bank": "ACCESSBANK CLOSED JOINT STOCK COMPANY",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "671173",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "676261",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676289",
+    "country": "AZERBAIJAN",
+    "bank": "J.S.C.B. BANK STANDARD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676379",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676393",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676408",
+    "country": "AZERBAIJAN",
+    "bank": "AZERIGAZBANK OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676867",
+    "country": "AZERBAIJAN",
+    "bank": "KAPITAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676991",
+    "country": "AZERBAIJAN",
+    "bank": "BANK RESPUBLIKA OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676994",
+    "country": "AZERBAIJAN",
+    "bank": "YAPI KREDI BANK AZERBAIJAN CJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677178",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677249",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK COMMERCIAL BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677264",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677265",
+    "country": "AZERBAIJAN",
+    "bank": "RABITABANK OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677316",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677362",
+    "country": "AZERBAIJAN",
+    "bank": "BANK TECHNIQUE OJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677385",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677591",
+    "country": "AZERBAIJAN",
+    "bank": "INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677614",
+    "country": "AZERBAIJAN",
+    "bank": "PASHA BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677615",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677631",
+    "country": "AZERBAIJAN",
+    "bank": "ROYALBANK OPEN STOCK COMPANY",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677645",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677700",
+    "country": "AZERBAIJAN",
+    "bank": "OJSC DEMIRBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "679035",
+    "country": "AZERBAIJAN",
+    "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "903121",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "903131",
+    "country": "AZERBAIJAN",
+    "bank": "BANK OF BAKU",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "929292",
+    "country": "AZERBAIJAN",
+    "bank": "UNIBANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

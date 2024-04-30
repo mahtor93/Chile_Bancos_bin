@@ -1,0 +1,26 @@
+[
+  {
+    "bin": "448714",
+    "country": "MONTSERRAT",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "521520",
+    "country": "MONTSERRAT",
+    "bank": "ROYAL BANK OF CANADA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557617",
+    "country": "MONTSERRAT",
+    "bank": "SGB TRUST INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  }
+]

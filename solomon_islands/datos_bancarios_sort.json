@@ -1,0 +1,90 @@
+[
+  {
+    "bin": "421841",
+    "country": "SOLOMON ISLANDS",
+    "bank": "WESTPAC BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428719",
+    "country": "SOLOMON ISLANDS",
+    "bank": "BRED (VANUATU), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436530",
+    "country": "SOLOMON ISLANDS",
+    "bank": "BRED (VANUATU), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "437971",
+    "country": "SOLOMON ISLANDS",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451815",
+    "country": "SOLOMON ISLANDS",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462875",
+    "country": "SOLOMON ISLANDS",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463718",
+    "country": "SOLOMON ISLANDS",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "467949",
+    "country": "SOLOMON ISLANDS",
+    "bank": "BANK OF SOUTH PACIFIC, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "469529",
+    "country": "SOLOMON ISLANDS",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481268",
+    "country": "SOLOMON ISLANDS",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "542685",
+    "country": "SOLOMON ISLANDS",
+    "bank": "ANZ BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  }
+]

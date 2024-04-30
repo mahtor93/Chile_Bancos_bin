@@ -1,0 +1,98 @@
+[
+  {
+    "bin": "400071",
+    "country": "TURKMENISTAN",
+    "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422488",
+    "country": "TURKMENISTAN",
+    "bank": "HALKBANK STATE COMMERCIAL BANK OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430823",
+    "country": "TURKMENISTAN",
+    "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "434403",
+    "country": "TURKMENISTAN",
+    "bank": "HALKBANK STATE COMMERCIAL BANK OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440251",
+    "country": "TURKMENISTAN",
+    "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440252",
+    "country": "TURKMENISTAN",
+    "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "466565",
+    "country": "TURKMENISTAN",
+    "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "478719",
+    "country": "TURKMENISTAN",
+    "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "541981",
+    "country": "TURKMENISTAN",
+    "bank": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544242",
+    "country": "TURKMENISTAN",
+    "bank": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547873",
+    "country": "TURKMENISTAN",
+    "bank": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "677695",
+    "country": "TURKMENISTAN",
+    "bank": "THE STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

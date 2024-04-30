@@ -1,0 +1,2090 @@
+[
+  {
+    "bin": "401751",
+    "country": "OMAN",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402532",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "402772",
+    "country": "OMAN",
+    "bank": "THAWANI TECHNOLOGIES LLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403803",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404029",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "404743",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404747",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405706",
+    "country": "OMAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406956",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407545",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410356",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410357",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410358",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410359",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410360",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410469",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410494",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "411651",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411688",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK, SAOC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411993",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "412465",
+    "country": "OMAN",
+    "bank": "AHLI BANK LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413292",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "413293",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413298",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "416370",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417245",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK, SAOC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417610",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417611",
+    "country": "OMAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417612",
+    "country": "OMAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417652",
+    "country": "OMAN",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417653",
+    "country": "OMAN",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419241",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419242",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419243",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419244",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419291",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419595",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419596",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "420460",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421360",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421478",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422537",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422610",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422681",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422704",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422820",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422821",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422822",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422823",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422914",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423189",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "423195",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "423328",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "425851",
+    "country": "OMAN",
+    "bank": "STANDARD CHARTERED BANK OMAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "426112",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426371",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426372",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "428257",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429524",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431188",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "432410",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432415",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432607",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432853",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "433084",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433236",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "433379",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "433435",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433436",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "433478",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433783",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "433829",
+    "country": "OMAN",
+    "bank": "BANK OF BEIRUT SAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433916",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433917",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433918",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434173",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434479",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435723",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "435949",
+    "country": "OMAN",
+    "bank": "BANK OF BARODA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436637",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437425",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437426",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437427",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437569",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "438083",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439097",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS SIGNATURE"
+  },
+  {
+    "bin": "439357",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "439950",
+    "country": "OMAN",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447168",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447477",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447479",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "447627",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "449315",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "449316",
+    "country": "OMAN",
+    "bank": "AHLI BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "451387",
+    "country": "OMAN",
+    "bank": "BANK SOHAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453932",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453933",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455242",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456595",
+    "country": "OMAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457325",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457904",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "460012",
+    "country": "OMAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460466",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "460468",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "461280",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "463941",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "463952",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "464156",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464157",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464175",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464425",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464426",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464427",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465000",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "465001",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467063",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467362",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468554",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471453",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472450",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "473820",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474295",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "475184",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476023",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476032",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476320",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "476674",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "479089",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK (S.A.O.C)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479710",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LIMITED (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483429",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT LTD. (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483430",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483791",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484130",
+    "country": "OMAN",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484131",
+    "country": "OMAN",
+    "bank": "FIRST ABU DHABI BANK (PJSC)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484172",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487406",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489075",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489076",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "489090",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "489091",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR (S.A.O.G.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490903",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490905",
+    "country": "OMAN",
+    "bank": "BANKMUSCAT (SAOG)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490921",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "491419",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK SAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493192",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK (S.A.O.G)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510062",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510461",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510723",
+    "country": "OMAN",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511393",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "514297",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514533",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515400",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515722",
+    "country": "OMAN",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515846",
+    "country": "OMAN",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516539",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "519454",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "519861",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519887",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "520379",
+    "country": "OMAN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520793",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "520798",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521027",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521211",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521233",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521429",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "521490",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "521534",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "521538",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK S.A.O.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "522380",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "522596",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523672",
+    "country": "OMAN",
+    "bank": "STATE BANK OF INDIA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523677",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "524080",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524153",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524154",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524245",
+    "country": "OMAN",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524251",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524278",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524340",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524513",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524515",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525114",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525121",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525174",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525520",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "525570",
+    "country": "OMAN",
+    "bank": "SOHAR INTERNATIONAL BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526150",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526813",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "526816",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527358",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "527896",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528162",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "528647",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528669",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528693",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529061",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533117",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533745",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "533776",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "534227",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534417",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535981",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536026",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "536028",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "536033",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536329",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537797",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537996",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "539150",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "539179",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539188",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "539540",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540044",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "540048",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540549",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540910",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540911",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "541148",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542160",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543094",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "544098",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544110",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT AL AHLI AL OMANI LTD. (S.A.O.G.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544189",
+    "country": "OMAN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545071",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545218",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545466",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK S.A.O.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545626",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546568",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "546803",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547561",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT AL AHLI AL OMANI LTD. (S.A.O.G.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548112",
+    "country": "OMAN",
+    "bank": "OMAN ARAB BANK S.A.O.C.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548587",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548769",
+    "country": "OMAN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548966",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT LTD. (S.A.O.G.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "549131",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549184",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550061",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550254",
+    "country": "OMAN",
+    "bank": "BANK NIZWA SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550304",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552029",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552104",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552190",
+    "country": "OMAN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552295",
+    "country": "OMAN",
+    "bank": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553136",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "553400",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "555275",
+    "country": "OMAN",
+    "bank": "BANK MUSCAT (SAOG)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "555377",
+    "country": "OMAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555907",
+    "country": "OMAN",
+    "bank": "BANK DHOFAR SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "555944",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555945",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555948",
+    "country": "OMAN",
+    "bank": "HSBC BANK OMAN S.A.O.G",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558947",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "559071",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559308",
+    "country": "OMAN",
+    "bank": "QATAR NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559406",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559407",
+    "country": "OMAN",
+    "bank": "NATIONAL BANK OF OMAN (SAOG)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "559753",
+    "country": "OMAN",
+    "bank": "ALIZZ ISLAMIC BANK SAOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "564147",
+    "country": "OMAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589454",
+    "country": "OMAN",
+    "bank": "HSBC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "601722",
+    "country": "OMAN",
+    "bank": "BANK MELLI IRAN",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "951200",
+    "country": "OMAN",
+    "bank": "HSBC",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  }
+]

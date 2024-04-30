@@ -1,0 +1,826 @@
+[
+  {
+    "bin": "370193",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400273",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401359",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403555",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE HOUSING BANK FOR TRADE & FINANCE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405011",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB ISLAMIC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405807",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405986",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406103",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "416953",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF JORDAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424434",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF JORDAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424435",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF JORDAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428188",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "428192",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431376",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF JORDAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432506",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432506",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432509",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432509",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432512",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE HOUSING BANK FOR TRADE & FINANCE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432584",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "432584",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "432598",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432598",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432599",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432599",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433456",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE HOUSING BANK FOR TRADE & FINANCE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447513",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447513",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448782",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE INVESTMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448783",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE INVESTMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458589",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458589",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458590",
+    "country": "PALESTINE, STATE OF",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "458590",
+    "country": "PALESTINE, STATE OF",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "461682",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "463637",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463638",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463639",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465976",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465977",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470915",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "474715",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474715",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476801",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB ISLAMIC BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476802",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB ISLAMIC BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478771",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF JORDAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483439",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484167",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "510113",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512781",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513132",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515897",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "516600",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518093",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518094",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "JORDAN AHLI BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520008",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520701",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD PAYROLL"
+  },
+  {
+    "bin": "521579",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521800",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522011",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522642",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523723",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "JORDAN AHLI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523733",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523733",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524692",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525115",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525900",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "527155",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527280",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "528470",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528922",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529361",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531092",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531648",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "536162",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536282",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "536282",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "ARAB BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "536299",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536331",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536339",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536906",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "537194",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538845",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE BANK OF JORDAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539256",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541529",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541771",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541881",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "BANK OF PALESTINE LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542606",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542716",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MIDDLE EAST PAYMENT SERVICES LIMITED CO.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542945",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "PALESTINE ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548492",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "INTERNATIONAL CARD CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550766",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "552174",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554558",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "554968",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE NATIONAL BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555550",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "THE BANK OF JORDAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "558969",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "CAIRO AMMAN BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "570746",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "578694",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581802",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581803",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581804",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581806",
+    "country": "PALESTINIAN TERRITORY, OCCUPIED",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

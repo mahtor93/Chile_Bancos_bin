@@ -1,0 +1,98 @@
+[
+    {
+        "AFRILAND_FIRST_BANK_-_SOUTH_SUDAN": [
+            {
+                "Numero BIN/IIN": "514078",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "AFRILAND FIRST BANK",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "ECOBANK_NIGERIA_PLC_-_SOUTH_SUDAN": [
+            {
+                "Numero BIN/IIN": "533886",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "ECOBANK_SOUTH_SUDAN_LTD._-_SOUTH_SUDAN": [
+            {
+                "Numero BIN/IIN": "483120",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "ECOBANK SOUTH SUDAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484070",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "ECOBANK SOUTH SUDAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "EQUITY_BANK_(SOUTHERN_SUDAN)_LTD._-_SOUTH_SUDAN": [
+            {
+                "Numero BIN/IIN": "437746",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "EQUITY BANK (SOUTHERN SUDAN), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "484865",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "EQUITY BANK (SOUTHERN SUDAN), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "KCB_BANK_SOUTH_SUDAN_LTD._-_SOUTH_SUDAN": [
+            {
+                "Numero BIN/IIN": "462066",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "KCB BANK SOUTH SUDAN, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "KENYA_COMMERCIAL_BANK_LTD._-_SOUTH_SUDAN": [
+            {
+                "Numero BIN/IIN": "462065",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "KENYA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "462067",
+                "Pais": "SOUTH SUDAN",
+                "Nombre del emisor / Banco": "KENYA COMMERCIAL BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    }
+]

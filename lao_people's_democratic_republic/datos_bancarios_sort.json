@@ -1,0 +1,546 @@
+[
+  {
+    "bin": "406358",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "412639",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412689",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419468",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "INDOCHINA BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428469",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428470",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428471",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436315",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436419",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436805",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436806",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437849",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "451257",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO DEVELOPMENT BANK (LDB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452053",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452054",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457573",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462234",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "ANZ BANK (LAO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462833",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462834",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462840",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "462841",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468127",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "INDOCHINA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468757",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468768",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "INDUSTRIAL & COMMERCIAL BANK OF CHINA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468946",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468947",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470479",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470530",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470531",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470532",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474813",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474815",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "474825",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "479935",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PUBLIC BANK BERHAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479936",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PUBLIC BANK BERHAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479937",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483388",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO DEVELOPMENT BANK (LDB)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517468",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BIC BANK LAO CO., LTD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518924",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520066",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520120",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521577",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BIC BANK LAO CO., LTD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527677",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "529409",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529472",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529490",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "ANZ BANK (LAO), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531459",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "533978",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545027",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547321",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "MARUHAN JAPAN BANK LAO CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549628",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550066",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "621354",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621433",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "ICBC VIENTIANE BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621794",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623383",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO CHINA BANK CO., LTD",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623386",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO CHINA BANK CO., LTD",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623388",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO CHINA BANK CO., LTD",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623479",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "LAO DEVELOPMENT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624352",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624353",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624354",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "625944",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "PHONGSAVANH BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "625986",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "ICBC VIENTIANE BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "626204",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK CO., LTD",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629135",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629143",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "BANK OF CHINA(LAOS)",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "629158",
+    "country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "bank": "JOINT DEVELOPMENT BANK CO., LTD",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  }
+]

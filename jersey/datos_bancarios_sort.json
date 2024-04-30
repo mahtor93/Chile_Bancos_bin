@@ -1,0 +1,26 @@
+[
+  {
+    "bin": "524410",
+    "country": "JERSEY",
+    "bank": "BUTTERFIELD BANK GUERNSEY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557431",
+    "country": "JERSEY",
+    "bank": "CITIBANK, N.A., JERSEY BRANCH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557432",
+    "country": "JERSEY",
+    "bank": "CITIBANK, N.A., JERSEY BRANCH",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  }
+]

@@ -1,0 +1,2906 @@
+[
+  {
+    "bin": "400149",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "400659",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400662",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400963",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400963",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401587",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401587",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401630",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401764",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401764",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401828",
+    "country": "GHANA",
+    "bank": "STANBIC BANK UGANDA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401872",
+    "country": "GHANA",
+    "bank": "STANBIC BANK UGANDA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401912",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401912",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401919",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401919",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401942",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401942",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401948",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401948",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "401989",
+    "country": "GHANA",
+    "bank": "STANBIC BANK UGANDA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402088",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402088",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402092",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402092",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402144",
+    "country": "GHANA",
+    "bank": "OMNIBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402860",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402992",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403708",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403731",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "404214",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404214",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404215",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404215",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404216",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404216",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404217",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "404217",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "404299",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404587",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404587",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406910",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406910",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406929",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406929",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406931",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406931",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406942",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406942",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407210",
+    "country": "GHANA",
+    "bank": "OMNIBSIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407356",
+    "country": "GHANA",
+    "bank": "INTERPAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "407471",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408319",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409628",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409630",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409631",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411740",
+    "country": "GHANA",
+    "bank": "REPUBLIC BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411741",
+    "country": "GHANA",
+    "bank": "REPUBLIC BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411742",
+    "country": "GHANA",
+    "bank": "REPUBLIC BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411893",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412030",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412031",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412032",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "413102",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414564",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "414564",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "415230",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "420409",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420496",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422043",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422043",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422170",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422170",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422508",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422508",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422679",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "422734",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "422800",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "422800",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "422804",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID HORIZON CLASSIC"
+  },
+  {
+    "bin": "422804",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID HORIZON CLASSIC"
+  },
+  {
+    "bin": "422805",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "424288",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424288",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426520",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "426520",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "429058",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430466",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430466",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430541",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430541",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430545",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "430545",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431357",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431359",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432246",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432246",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432247",
+    "country": "GHANA",
+    "bank": "OMNIBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432248",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432248",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432249",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "432249",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "434470",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434470",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436666",
+    "country": "GHANA",
+    "bank": "FBNBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437358",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437358",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438287",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438298",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439957",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "439957",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "440480",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "444569",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444569",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445598",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445598",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445617",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445619",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "445823",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445824",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445825",
+    "country": "GHANA",
+    "bank": "ACCESS BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "447689",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447725",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "448191",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448191",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448334",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448335",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "449976",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449976",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450006",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450009",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452340",
+    "country": "GHANA",
+    "bank": "UT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452341",
+    "country": "GHANA",
+    "bank": "UT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452342",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453107",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453108",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453109",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453110",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453111",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453153",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "456790",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457648",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457649",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457721",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457721",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458235",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459318",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459318",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459319",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "459319",
+    "country": "GHANA",
+    "bank": "STANBIC BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "459364",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "459364",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "459923",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459923",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "460525",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460525",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461636",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "461636",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462228",
+    "country": "GHANA",
+    "bank": "BANK OF AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462238",
+    "country": "GHANA",
+    "bank": "BANK OF AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462750",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "462750",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "463478",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "463480",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463484",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "463485",
+    "country": "GHANA",
+    "bank": "ABSA BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464422",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464422",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464898",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464898",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "464899",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464899",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465220",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465220",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465742",
+    "country": "GHANA",
+    "bank": "BARCLAYS BANK OF GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466038",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466038",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466039",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466039",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467365",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "467365",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "467797",
+    "country": "GHANA",
+    "bank": "BARCLAYS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "467942",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467944",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467944",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469637",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470474",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470615",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "470657",
+    "country": "GHANA",
+    "bank": "BARCLAYS BANK OF GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "471473",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471474",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471475",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472889",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "472901",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "473979",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476442",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "476500",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "476512",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476520",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476986",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476986",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476987",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476987",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476988",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476988",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477054",
+    "country": "GHANA",
+    "bank": "ENERGY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477055",
+    "country": "GHANA",
+    "bank": "ENERGY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "477056",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479354",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479355",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479356",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "479357",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479358",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "479359",
+    "country": "GHANA",
+    "bank": "FIRST NATIONAL BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "483132",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483133",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483134",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483321",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483329",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483988",
+    "country": "GHANA",
+    "bank": "GCB BANK PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484678",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484680",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484680",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484681",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484681",
+    "country": "GHANA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484689",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "484721",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484770",
+    "country": "GHANA",
+    "bank": "SOCIETE GENERALE GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485445",
+    "country": "GHANA",
+    "bank": "FBNBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486037",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "486037",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "486039",
+    "country": "GHANA",
+    "bank": "ACCESS BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486056",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486056",
+    "country": "GHANA",
+    "bank": "STANDARD CHARTERED BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486348",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486726",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486727",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486728",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486729",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486730",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "488995",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489033",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489177",
+    "country": "GHANA",
+    "bank": "BANK OF AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489178",
+    "country": "GHANA",
+    "bank": "BANK OF AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489179",
+    "country": "GHANA",
+    "bank": "BANK OF AFRICA GHANA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "490458",
+    "country": "GHANA",
+    "bank": "REPUBLIC BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "492101",
+    "country": "GHANA",
+    "bank": "REPUBLIC BANK (GHANA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "499978",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "499979",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "506156",
+    "country": "GHANA",
+    "bank": "ACCESS BANK PLC (GHANA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506190",
+    "country": "GHANA",
+    "bank": "VERVE PREPAID GHANA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "506198",
+    "country": "GHANA",
+    "bank": "FIRST BANK GHANA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "507804",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507804",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510290",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512573",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "512943",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512958",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513798",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515752",
+    "country": "GHANA",
+    "bank": "NATIONAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516098",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "516142",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516142",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516211",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516211",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516246",
+    "country": "GHANA",
+    "bank": "GN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517491",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517491",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518095",
+    "country": "GHANA",
+    "bank": "HERITAGE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518097",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519024",
+    "country": "GHANA",
+    "bank": "GN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519194",
+    "country": "GHANA",
+    "bank": "HERITAGE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "519832",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519870",
+    "country": "GHANA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521101",
+    "country": "GHANA",
+    "bank": "FIRST BANK OF NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521795",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "522310",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "522321",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "522437",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522443",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522613",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523109",
+    "country": "GHANA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "523111",
+    "country": "GHANA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "523221",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523655",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523734",
+    "country": "GHANA",
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "524534",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525390",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "526445",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527118",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527118",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527126",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527311",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527328",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527389",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527488",
+    "country": "GHANA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "528259",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528481",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528481",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528572",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529070",
+    "country": "GHANA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "529240",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "529502",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529765",
+    "country": "GHANA",
+    "bank": "NATIONAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530578",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "530936",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531019",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531149",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531149",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531168",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531168",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532370",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532537",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532631",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533826",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533826",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534403",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534569",
+    "country": "GHANA",
+    "bank": "NATIONAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "534584",
+    "country": "GHANA",
+    "bank": "ACCESS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD REWARDS"
+  },
+  {
+    "bin": "535844",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535978",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "536340",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537019",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537019",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537062",
+    "country": "GHANA",
+    "bank": "FIRST ATLANTIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537981",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538432",
+    "country": "GHANA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "539010",
+    "country": "GHANA",
+    "bank": "GN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542183",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542221",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543945",
+    "country": "GHANA",
+    "bank": "ZENITH BANK (GHANA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544529",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545441",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546335",
+    "country": "GHANA",
+    "bank": "NATIONAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "547937",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "547937",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "549240",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549240",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549570",
+    "country": "GHANA",
+    "bank": "CONSOLIDATED BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551387",
+    "country": "GHANA",
+    "bank": "NATIONAL INVESTMENT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553302",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553302",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553305",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553305",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554271",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "555454",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "555454",
+    "country": "GHANA",
+    "bank": "CAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "555511",
+    "country": "GHANA",
+    "bank": "FIDELITY BANK GHANA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "ENTERPRISE SOLUTIONS"
+  },
+  {
+    "bin": "555830",
+    "country": "GHANA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "555891",
+    "country": "GHANA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "557658",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557658",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557663",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557663",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558996",
+    "country": "GHANA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "623399",
+    "country": "GHANA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "623483",
+    "country": "GHANA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623484",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623484",
+    "country": "GHANA",
+    "bank": "GCB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629147",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629151",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629178",
+    "country": "GHANA",
+    "bank": "PRUDENTIAL BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629281",
+    "country": "GHANA",
+    "bank": "UNIVERSAL MERCHANT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "CORPORATE"
+  }
+]

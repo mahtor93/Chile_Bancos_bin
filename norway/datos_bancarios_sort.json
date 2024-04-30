@@ -1,0 +1,5026 @@
+[
+  {
+    "bin": "222895",
+    "country": "NORWAY",
+    "bank": "EML PAYMENTS EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "361482",
+    "country": "NORWAY",
+    "bank": "DC NORWAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361487",
+    "country": "NORWAY",
+    "bank": "DC NORWAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "375400",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375401",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375402",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375403",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375404",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375405",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375406",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375407",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375408",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375409",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375410",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375411",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375412",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375413",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375417",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "GNS GREEN CHARGE"
+  },
+  {
+    "bin": "375418",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375419",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375421",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375422",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375423",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375424",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375425",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375426",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375427",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375428",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375429",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375430",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375431",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375432",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375433",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375434",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375435",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375436",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375437",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375438",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375439",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375440",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375441",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375442",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375443",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375444",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375445",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375446",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375447",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375448",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375449",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375450",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375451",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375452",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375453",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375454",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375455",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375456",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375457",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375458",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375459",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375460",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375461",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375462",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375463",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375464",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375465",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375466",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375467",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375468",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375469",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375470",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375471",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375472",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375473",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375474",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375475",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375476",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375477",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375478",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375479",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375480",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375481",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375482",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375483",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375484",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375485",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375486",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375487",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375488",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375489",
+    "country": "NORWAY",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400192",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400216",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400277",
+    "country": "NORWAY",
+    "bank": "LANDKREDITT BANK AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400288",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "401068",
+    "country": "NORWAY",
+    "bank": "EKSPRES BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401397",
+    "country": "NORWAY",
+    "bank": "EASYBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402115",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "402176",
+    "country": "NORWAY",
+    "bank": "NETS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "402431",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402839",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "402960",
+    "country": "NORWAY",
+    "bank": "DNB BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403064",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403846",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403847",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404712",
+    "country": "NORWAY",
+    "bank": "FANA SPAREBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405208",
+    "country": "NORWAY",
+    "bank": "OBOSBANKEN AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405209",
+    "country": "NORWAY",
+    "bank": "OBOSBANKEN, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "406336",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406573",
+    "country": "NORWAY",
+    "bank": "HELGELAND SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "406676",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407169",
+    "country": "NORWAY",
+    "bank": "ELAVON FINANCIAL SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410624",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410651",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410651",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410652",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410652",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411002",
+    "country": "NORWAY",
+    "bank": "IKANO BANK AB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412491",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414283",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415054",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "416257",
+    "country": "NORWAY",
+    "bank": "TROGSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416493",
+    "country": "NORWAY",
+    "bank": "SANTANDER CONSUMER BANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416515",
+    "country": "NORWAY",
+    "bank": "STOREBRAND BANK ASA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416985",
+    "country": "NORWAY",
+    "bank": "BN BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417229",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417310",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417311",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN OST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417312",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417313",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417314",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN OST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417315",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417316",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417317",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN OST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417318",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417333",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417333",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417333",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417473",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417728",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417729",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417730",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417731",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418744",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419376",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419377",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420376",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420376",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420376",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420377",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420377",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420377",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420378",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420378",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420378",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420773",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422651",
+    "country": "NORWAY",
+    "bank": "BNP PARIBAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422939",
+    "country": "NORWAY",
+    "bank": "TROGSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423283",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424327",
+    "country": "NORWAY",
+    "bank": "SKANDIABANKEN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424812",
+    "country": "NORWAY",
+    "bank": "KLP BANKEN AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424942",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425714",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427238",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOGN OG FJORDANE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427279",
+    "country": "NORWAY",
+    "bank": "STOREBRAND BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427280",
+    "country": "NORWAY",
+    "bank": "STOREBRAND BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429596",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429597",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA HK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429941",
+    "country": "NORWAY",
+    "bank": "TROGSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429942",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "430266",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430372",
+    "country": "NORWAY",
+    "bank": "SANTANDER CONSUMER BANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431083",
+    "country": "NORWAY",
+    "bank": "SPARESKILLINGSBANKEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431084",
+    "country": "NORWAY",
+    "bank": "SPARESKILLINGSBANKEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431085",
+    "country": "NORWAY",
+    "bank": "SPARESKILLINGSBANKEN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431086",
+    "country": "NORWAY",
+    "bank": "FANA SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431087",
+    "country": "NORWAY",
+    "bank": "FANA SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431090",
+    "country": "NORWAY",
+    "bank": "VOSS SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431091",
+    "country": "NORWAY",
+    "bank": "VOSS SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431092",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431208",
+    "country": "NORWAY",
+    "bank": "HANDELSBANKEN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431209",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB (PUBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431310",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431311",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431312",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431313",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN MORE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431314",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN MORE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431315",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN MORE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431316",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431317",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431318",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431362",
+    "country": "NORWAY",
+    "bank": "HAUGESUND SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431363",
+    "country": "NORWAY",
+    "bank": "HAUGESUND SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432286",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432287",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434687",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434696",
+    "country": "NORWAY",
+    "bank": "SANTANDER CONSUMER BANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434697",
+    "country": "NORWAY",
+    "bank": "SANTANDER CONSUMER BANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434812",
+    "country": "NORWAY",
+    "bank": "CULTURA SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437837",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "439516",
+    "country": "NORWAY",
+    "bank": "NORDEA DIRECT BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439517",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "439518",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "441014",
+    "country": "NORWAY",
+    "bank": "LANDKREDITT BANK AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441020",
+    "country": "NORWAY",
+    "bank": "KLP BANKEN AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441026",
+    "country": "NORWAY",
+    "bank": "KLP BANKEN AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441266",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444228",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444229",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444230",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444231",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "445035",
+    "country": "NORWAY",
+    "bank": "SOGNE OG GREIPSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445036",
+    "country": "NORWAY",
+    "bank": "SOGNE OG GREIPSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445037",
+    "country": "NORWAY",
+    "bank": "SOGNE OG GREIPSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447386",
+    "country": "NORWAY",
+    "bank": "SKANDINAVISKA ENSKILDA BANKEN AB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447387",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448180",
+    "country": "NORWAY",
+    "bank": "CULTURA SPAREBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448181",
+    "country": "NORWAY",
+    "bank": "CULTURA SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448424",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448428",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "450487",
+    "country": "NORWAY",
+    "bank": "ELAVON FINANCIAL SERVICES DESIGNATED ACTIVITY COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "450533",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB (PUBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451466",
+    "country": "NORWAY",
+    "bank": "NORDEA DIRECT BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455833",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456900",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456901",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456902",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456903",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456904",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456905",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456906",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456909",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456910",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456911",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456912",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456913",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456914",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456915",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456916",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456917",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456919",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456922",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456923",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456927",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456929",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456930",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456932",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456934",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456938",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456942",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456943",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456951",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456952",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456953",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456957",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456963",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456965",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456968",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456969",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456970",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456971",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456972",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456974",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456975",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456978",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456980",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456982",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456984",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456992",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456993",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456994",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456995",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456996",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456997",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456998",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456999",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457258",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457258",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457258",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457259",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457259",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457259",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457910",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457911",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457912",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457913",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457914",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457915",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457916",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457917",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457923",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457926",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457929",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457931",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457933",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457934",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457936",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457944",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457945",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457946",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457948",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457982",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "459390",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459508",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOGN OG FJORDANE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459509",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOR HK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "459875",
+    "country": "NORWAY",
+    "bank": "NORDEA DIRECT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462424",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB (PUBL)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "462484",
+    "country": "NORWAY",
+    "bank": "SANDNES SPAREBANK HK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "465995",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466288",
+    "country": "NORWAY",
+    "bank": "BB FINANS ASA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466395",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "467496",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "468954",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468954",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468976",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "468977",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469096",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469279",
+    "country": "NORWAY",
+    "bank": "NOBA BANK GROUP AB (PUBL)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469691",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "471676",
+    "country": "NORWAY",
+    "bank": "KLARNA BANK AB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472955",
+    "country": "NORWAY",
+    "bank": "TYSNES SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474860",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "474860",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "477122",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477123",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477124",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477125",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477268",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478510",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478511",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478512",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478541",
+    "country": "NORWAY",
+    "bank": "HAUGESUND SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478542",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOGN OG FJORDANE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478792",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN OST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479674",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN SOR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480440",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "480442",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "482429",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483058",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483065",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA HK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "483621",
+    "country": "NORWAY",
+    "bank": "TROGSTAD SPAREBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483653",
+    "country": "NORWAY",
+    "bank": "BN BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483720",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "485601",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485642",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485670",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485808",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485809",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486442",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486443",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486447",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "487158",
+    "country": "NORWAY",
+    "bank": "NORGESGRUPPEN FINANS AS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490179",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490180",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490181",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490182",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490183",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490184",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490185",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490186",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490187",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490188",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490189",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490190",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490192",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490193",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490194",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA HK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490195",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490196",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490197",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490198",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490199",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491818",
+    "country": "NORWAY",
+    "bank": "TELENOR GROUP",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "492500",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492501",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492502",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492503",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492504",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492505",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492506",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492507",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492508",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492509",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492510",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492516",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492517",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492518",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492519",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492520",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492524",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492525",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492530",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492531",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492532",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492533",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492534",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492535",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492536",
+    "country": "NORWAY",
+    "bank": "SPAREBANKEN VEST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492538",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492539",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492540",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492541",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492542",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492543",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492544",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITTKORT AS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492545",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492546",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492547",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492548",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492549",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492550",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492551",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492552",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492553",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492554",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492555",
+    "country": "NORWAY",
+    "bank": "DNB NOR BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492556",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492557",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492558",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492559",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492560",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492561",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492562",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492563",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492564",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492565",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492567",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492568",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492569",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492570",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492571",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492572",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492573",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492574",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492575",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492576",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492578",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492579",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492580",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492581",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492582",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492583",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492585",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492588",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492589",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492599",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494610",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494616",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494619",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494620",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494626",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494648",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494650",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494651",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494652",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494653",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494654",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494655",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494656",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494657",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494658",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "494659",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494660",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA HK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494661",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494662",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494663",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494664",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494665",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494666",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA HK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494667",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494668",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494669",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494670",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494671",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494672",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494673",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494674",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494675",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494676",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494677",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494678",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494679",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494680",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494681",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494682",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494684",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494685",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494686",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494687",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494688",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494689",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494691",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494692",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494693",
+    "country": "NORWAY",
+    "bank": "VISA NORGE A/S",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498502",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK ABP",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "511103",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "511871",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511871",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511871",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512083",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512437",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512437",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512437",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512608",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512688",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512688",
+    "country": "NORWAY",
+    "bank": "SPAREBANK 1 KREDITT AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513149",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "513436",
+    "country": "NORWAY",
+    "bank": "EUROCONEX TECHNOLOGIES NORDIC, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513473",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514775",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515431",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516026",
+    "country": "NORWAY",
+    "bank": "IKANO BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516205",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517376",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519156",
+    "country": "NORWAY",
+    "bank": "EEDENBULL AS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "520028",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520680",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520682",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "520962",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521348",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521812",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521812",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521812",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521823",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521835",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521837",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522054",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "523833",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524879",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524943",
+    "country": "NORWAY",
+    "bank": "ST1 FINANCE OY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525300",
+    "country": "NORWAY",
+    "bank": "EUROPAY NORGE, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "525305",
+    "country": "NORWAY",
+    "bank": "EUROPAY NORGE, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "525306",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525311",
+    "country": "NORWAY",
+    "bank": "EUROPAY NORGE, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "525388",
+    "country": "NORWAY",
+    "bank": "EUROPAY NORGE, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "526792",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526792",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526792",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526849",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526948",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527107",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527272",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527299",
+    "country": "NORWAY",
+    "bank": "OPTAL FINANCIAL EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "528021",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528022",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528023",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528202",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528257",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529943",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529945",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530677",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "530677",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "530677",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "532284",
+    "country": "NORWAY",
+    "bank": "EEDENBULL AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532833",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534489",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535179",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535198",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537596",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537597",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538985",
+    "country": "NORWAY",
+    "bank": "MORROW BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539155",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539457",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "539851",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540022",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540123",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540185",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540414",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540415",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540466",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540481",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540618",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540925",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540996",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541063",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541169",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541207",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541224",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541249",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541306",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543494",
+    "country": "NORWAY",
+    "bank": "NETS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543514",
+    "country": "NORWAY",
+    "bank": "NETS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543977",
+    "country": "NORWAY",
+    "bank": "EML MONEY DAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544084",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545082",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545161",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545161",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545161",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545185",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545445",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545478",
+    "country": "NORWAY",
+    "bank": "DNB BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547305",
+    "country": "NORWAY",
+    "bank": "DNB NOR BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547581",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547581",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547581",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547643",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547865",
+    "country": "NORWAY",
+    "bank": "TELLER, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548039",
+    "country": "NORWAY",
+    "bank": "MOORWAND, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548093",
+    "country": "NORWAY",
+    "bank": "NETS DENMARK A S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548389",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548733",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548741",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550096",
+    "country": "NORWAY",
+    "bank": "EUROPAY NORGE, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552519",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK AB (PUBL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552575",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552575",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552575",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552598",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552707",
+    "country": "NORWAY",
+    "bank": "ENTERCARD GROUP AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552765",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554489",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555009",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555014",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555951",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "DEFERRED DEBIT"
+  },
+  {
+    "bin": "556612",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556653",
+    "country": "NORWAY",
+    "bank": "NORDEA BANK NORGE ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556662",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557053",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557082",
+    "country": "NORWAY",
+    "bank": "SEB KORT BANK AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557385",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557385",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557385",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557476",
+    "country": "NORWAY",
+    "bank": "RESURS BANK AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558349",
+    "country": "NORWAY",
+    "bank": "EIKA KREDITTBANK AS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "DEFERRED DEBIT"
+  },
+  {
+    "bin": "558785",
+    "country": "NORWAY",
+    "bank": "DNB NOR BANK ASA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559667",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559805",
+    "country": "NORWAY",
+    "bank": "SVENSKA HANDELSBANKEN AB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "COMMERCIAL"
+  },
+  {
+    "bin": "677262",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677262",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677262",
+    "country": "NORWAY",
+    "bank": "DANSKE BANK A/S",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  }
+]

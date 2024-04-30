@@ -1,0 +1,3786 @@
+[
+  {
+    "bin": "223557",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232007",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232024",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232025",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232026",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232030",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "232034",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233039",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK, N.A., PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "234060",
+    "country": "PUERTO RICO",
+    "bank": "BANPLUS INTERNATIONAL BANK, INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "234080",
+    "country": "PUERTO RICO",
+    "bank": "GENERAL ELECTRIC EMPLOYEES FEDERAL CREDIT UNION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250001",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "377930",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER DE PUERTO RICO",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN REVOLVE"
+  },
+  {
+    "bin": "377931",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER DE PUERTO RICO",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GOLD REVOLVE"
+  },
+  {
+    "bin": "401639",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "401639",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402628",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "403606",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK DBA BONNEVILLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403607",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK DBA BONNEVILLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "404161",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "405025",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406728",
+    "country": "PUERTO RICO",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406730",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407560",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407919",
+    "country": "PUERTO RICO",
+    "bank": "WELLS FARGO BANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "408060",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE ISABELA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411190",
+    "country": "PUERTO RICO",
+    "bank": "THE BANCORP BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "411191",
+    "country": "PUERTO RICO",
+    "bank": "TBBK CARD SERVICES, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411192",
+    "country": "PUERTO RICO",
+    "bank": "TBBK CARD SERVICES, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411358",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411751",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CASH"
+  },
+  {
+    "bin": "411845",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411847",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411848",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411855",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CASH"
+  },
+  {
+    "bin": "412986",
+    "country": "PUERTO RICO",
+    "bank": "CITICORP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID TRAVEL MONEY"
+  },
+  {
+    "bin": "414977",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416068",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416444",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416445",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "418067",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "418068",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418069",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL FINANCIAL GROUP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418070",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL FINANCIAL GROUP",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418610",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BY SYNOVUS BANK 8667957597",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419295",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE CAMUY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419910",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE ARECIBO (COOPACA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419911",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE AGUADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419912",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO BARRANQUITAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419913",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO CIALES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419914",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO VEGA ALTA (VEGACOOP)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419915",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO MOROVENA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419916",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LARES Y REGION CENTRAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419917",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO NAGUABENA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419919",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE AGUAS BUENAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419920",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO CARIBE COOP",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419921",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ORIENTAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419922",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419923",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE MAUNABO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419924",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419925",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO SAN JOSE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421976",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421976",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421977",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421977",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421978",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421978",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421979",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "421979",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "421980",
+    "country": "PUERTO RICO",
+    "bank": "TOTAL SYSTEM SERVICES, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424308",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424308",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424710",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424710",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425495",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK DBA BONNEVILLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "425968",
+    "country": "PUERTO RICO",
+    "bank": "FIA CARD SERVICES PR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425969",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425969",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426319",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE MANATI, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427204",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430460",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431928",
+    "country": "PUERTO RICO",
+    "bank": "ZENUS BANK INTERNATIONAL, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433445",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434997",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437305",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "438097",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439255",
+    "country": "PUERTO RICO",
+    "bank": "INTERCAM BANCO INTERNACIONAL INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439386",
+    "country": "PUERTO RICO",
+    "bank": "THE BANCORP BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "440047",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440047",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440054",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440064",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "440687",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441585",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441590",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442332",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "446532",
+    "country": "PUERTO RICO",
+    "bank": "CB INTERNATIONAL BANK LLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446851",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK DBA BONNEVILLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448577",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448757",
+    "country": "PUERTO RICO",
+    "bank": "BANCOLOMBIA PUERTO RICO INTERNACIONAL INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448758",
+    "country": "PUERTO RICO",
+    "bank": "ZENUS BANK INTERNATIONAL, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448786",
+    "country": "PUERTO RICO",
+    "bank": "BAXTER CREDIT UNION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449099",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "449099",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "449746",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK DBA BONNEVILLE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449939",
+    "country": "PUERTO RICO",
+    "bank": "BAXTER CREDIT UNION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450671",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450672",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450673",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450682",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450683",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450684",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450686",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450688",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450689",
+    "country": "PUERTO RICO",
+    "bank": "FV BANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450690",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450693",
+    "country": "PUERTO RICO",
+    "bank": "FV BANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450821",
+    "country": "PUERTO RICO",
+    "bank": "CB INTERNATIONAL BANK LLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450872",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450884",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450932",
+    "country": "PUERTO RICO",
+    "bank": "FACEBANK INTERNATIONAL CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450940",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450963",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450968",
+    "country": "PUERTO RICO",
+    "bank": "FIA CARD SERVICES PR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451255",
+    "country": "PUERTO RICO",
+    "bank": "JPMORGAN CHASE BANK PR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451256",
+    "country": "PUERTO RICO",
+    "bank": "FLEET NATIONAL BANK MERCHANT SERVICES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451381",
+    "country": "PUERTO RICO",
+    "bank": "PATHWARD, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451486",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451737",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451738",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451797",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451802",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453963",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SAN JUAN INTERNACIONAL, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453964",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454177",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454189",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454900",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454901",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454902",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454903",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "454904",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454905",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454906",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454907",
+    "country": "PUERTO RICO",
+    "bank": "ZENUS BANK INTERNATIONAL, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454908",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454910",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454911",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454912",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454913",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454914",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454915",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454916",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454917",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454918",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454919",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454920",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454921",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "454922",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454923",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454924",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SAN JUAN INTERNACIONAL, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454925",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454926",
+    "country": "PUERTO RICO",
+    "bank": "NIMBUS LLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "454927",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454928",
+    "country": "PUERTO RICO",
+    "bank": "ASOCIACION DE EMPLEADOS DEL ESTADO LIBRE ASOCIADO DE PUERTO RICO (AEELA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454930",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454931",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454932",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454933",
+    "country": "PUERTO RICO",
+    "bank": "FV BANK INTERNATIONAL INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454934",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454937",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454940",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454950",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454951",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454952",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454953",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454954",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454955",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454956",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454957",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454963",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454964",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454979",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454980",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454986",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454987",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454988",
+    "country": "PUERTO RICO",
+    "bank": "NIMBUS LLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "454990",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454991",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454992",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454993",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454994",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454995",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454996",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454997",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454998",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454999",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455145",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456345",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456346",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456493",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457539",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "457813",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459032",
+    "country": "PUERTO RICO",
+    "bank": "FIRST NATIONAL BANK OF OMAHA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459033",
+    "country": "PUERTO RICO",
+    "bank": "FIRST NATIONAL BANK OF OMAHA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459034",
+    "country": "PUERTO RICO",
+    "bank": "FIRST NATIONAL BANK OF OMAHA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459073",
+    "country": "PUERTO RICO",
+    "bank": "METABANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459503",
+    "country": "PUERTO RICO",
+    "bank": "WELLS FARGO BANK, N.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459910",
+    "country": "PUERTO RICO",
+    "bank": "FIFTH THIRD BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "460698",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "464146",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE CABO ROJO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464644",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE CABO ROJO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465542",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465767",
+    "country": "PUERTO RICO",
+    "bank": "METABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "465768",
+    "country": "PUERTO RICO",
+    "bank": "METABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467796",
+    "country": "PUERTO RICO",
+    "bank": "METABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468037",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468568",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468568",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468705",
+    "country": "PUERTO RICO",
+    "bank": "ZENUS BANK INTERNATIONAL, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472290",
+    "country": "PUERTO RICO",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE MANATI, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472864",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472864",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "473261",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK AND TRUST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "473278",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474409",
+    "country": "PUERTO RICO",
+    "bank": "FIA CARD SERVICES PR",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476422",
+    "country": "PUERTO RICO",
+    "bank": "FACEBANK INTERNATIONAL CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476423",
+    "country": "PUERTO RICO",
+    "bank": "ALLIANCE CAPITAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476525",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "477149",
+    "country": "PUERTO RICO",
+    "bank": "EVERTEC, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "478686",
+    "country": "PUERTO RICO",
+    "bank": "ALLIANCE CAPITAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480683",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481134",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481156",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481157",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481158",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481159",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481160",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481161",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481559",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481560",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481561",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481562",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481563",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483183",
+    "country": "PUERTO RICO",
+    "bank": "TD BANK USA NORDSTROM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483203",
+    "country": "PUERTO RICO",
+    "bank": "ZENUS BANK INTERNATIONAL, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484151",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484152",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484153",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484154",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "487038",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487038",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487039",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487039",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487045",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "487045",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "487505",
+    "country": "PUERTO RICO",
+    "bank": "PATHWARD, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489205",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489206",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489207",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489358",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489359",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489360",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489361",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489362",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489363",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489364",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489365",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489473",
+    "country": "PUERTO RICO",
+    "bank": "METABANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "490100",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490104",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490151",
+    "country": "PUERTO RICO",
+    "bank": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491515",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492200",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "492411",
+    "country": "PUERTO RICO",
+    "bank": "ALLIANCE CAPITAL INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492413",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "494200",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "494200",
+    "country": "PUERTO RICO",
+    "bank": "FIRSTBANK PUERTO RICO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "496675",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499858",
+    "country": "PUERTO RICO",
+    "bank": "DEUTSCHE BANK AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "500139",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "510083",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510095",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "510256",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510752",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510912",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511026",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511858",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511898",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512233",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512274",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512348",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK AND TRUST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512457",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512497",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512699",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513567",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513694",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "514866",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "515227",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515496",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515528",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515581",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515820",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "515948",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516388",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517265",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517363",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517533",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517664",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "517910",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518110",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518447",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518920",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519231",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519287",
+    "country": "PUERTO RICO",
+    "bank": "PATHWARD, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519999",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520003",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520030",
+    "country": "PUERTO RICO",
+    "bank": "WELLS FARGO BANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520050",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520145",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520198",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520608",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520818",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "521385",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521713",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522085",
+    "country": "PUERTO RICO",
+    "bank": "AXOS BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522213",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522583",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "522703",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523428",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "523508",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523560",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "523561",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "524073",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524391",
+    "country": "PUERTO RICO",
+    "bank": "SYNCHRONY BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524392",
+    "country": "PUERTO RICO",
+    "bank": "CHASE BANK USA, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524432",
+    "country": "PUERTO RICO",
+    "bank": "THE BANCORP BANK NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "524755",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "525173",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "525381",
+    "country": "PUERTO RICO",
+    "bank": "METABANK, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "525466",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525479",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525674",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525675",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "526985",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527133",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "527152",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527287",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527332",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527546",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527586",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "527605",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "528627",
+    "country": "PUERTO RICO",
+    "bank": "THE BANCORP BANK NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529776",
+    "country": "PUERTO RICO",
+    "bank": "BANPLUS INTERNATIONAL BANK, INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529880",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530028",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "530196",
+    "country": "PUERTO RICO",
+    "bank": "WELLS FARGO BANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531050",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531051",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531052",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531054",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531055",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531056",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531057",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531058",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "531059",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531069",
+    "country": "PUERTO RICO",
+    "bank": "METABANK, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531076",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK, N.A., PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "531110",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531111",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531112",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531113",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "532167",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "532435",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533314",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533321",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533907",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "534158",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534603",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "534655",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534679",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "534762",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "534765",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534771",
+    "country": "PUERTO RICO",
+    "bank": "THE BANCORP BANK NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535370",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536251",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "536276",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536646",
+    "country": "PUERTO RICO",
+    "bank": "METABANK, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "538173",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538796",
+    "country": "PUERTO RICO",
+    "bank": "GREEN DOT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "539282",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539283",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539284",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539285",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539286",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539287",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539288",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539289",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539290",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539291",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539292",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539293",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "539294",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539295",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539296",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539297",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539298",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539299",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "539300",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539301",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539303",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539304",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539305",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540039",
+    "country": "PUERTO RICO",
+    "bank": "PROMOCION Y OPERACION, S.A. DE C.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540425",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540665",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540865",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540867",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540868",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540869",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540870",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540871",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540873",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540874",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540920",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "540982",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "541476",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541478",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541480",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541481",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541898",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541899",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542139",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542396",
+    "country": "PUERTO RICO",
+    "bank": "FIRST NATIONAL BANK OF OMAHA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542561",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK AND TRUST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542850",
+    "country": "PUERTO RICO",
+    "bank": "THE BANCORP BANK NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "543605",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543891",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544019",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544020",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544031",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544032",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544515",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "544813",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545771",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "545821",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546002",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "546323",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "546532",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546695",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "548094",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548135",
+    "country": "PUERTO RICO",
+    "bank": "ORIENTAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548749",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549017",
+    "country": "PUERTO RICO",
+    "bank": "PATHWARD, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549041",
+    "country": "PUERTO RICO",
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549064",
+    "country": "PUERTO RICO",
+    "bank": "METABANK, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549154",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549727",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550162",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550305",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550559",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "551417",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552196",
+    "country": "PUERTO RICO",
+    "bank": "BANCO POPULAR DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552528",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552636",
+    "country": "PUERTO RICO",
+    "bank": "FIRST BANK PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553516",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK, N.A., PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554712",
+    "country": "PUERTO RICO",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554859",
+    "country": "PUERTO RICO",
+    "bank": "BANPLUS INTERNATIONAL BANK, INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554864",
+    "country": "PUERTO RICO",
+    "bank": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555056",
+    "country": "PUERTO RICO",
+    "bank": "CITIBANK, N.A., PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "556039",
+    "country": "PUERTO RICO",
+    "bank": "BANCO COOPERATIVO DE PUERTO RICO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "556816",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557608",
+    "country": "PUERTO RICO",
+    "bank": "PAYBLR, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559117",
+    "country": "PUERTO RICO",
+    "bank": "CAPITAL ONE, NATIONAL ASSOCIATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "574085",
+    "country": "PUERTO RICO",
+    "bank": "BANCO SANTANDER",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

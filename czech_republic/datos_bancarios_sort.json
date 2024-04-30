@@ -1,0 +1,4026 @@
+[
+  {
+    "bin": "124292",
+    "country": "CZECH REPUBLIC",
+    "bank": "CSOB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "360493",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361709",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361756",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361763",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361764",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361766",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361843",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361844",
+    "country": "CZECH REPUBLIC",
+    "bank": "DC CZECH REP",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "375500",
+    "country": "CZECH REPUBLIC",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375501",
+    "country": "CZECH REPUBLIC",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "375502",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400141",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402370",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405235",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "406132",
+    "country": "CZECH REPUBLIC",
+    "bank": "VISA EUROPE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406457",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408359",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408359",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408359",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408360",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408360",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408360",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408361",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408361",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408361",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408362",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408362",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408362",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408363",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408363",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408363",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408364",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "408364",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "408364",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410733",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410764",
+    "country": "CZECH REPUBLIC",
+    "bank": "VOLKSBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410765",
+    "country": "CZECH REPUBLIC",
+    "bank": "VOLKSBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410766",
+    "country": "CZECH REPUBLIC",
+    "bank": "VOLKSBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410767",
+    "country": "CZECH REPUBLIC",
+    "bank": "VOLKSBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412500",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "412501",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412750",
+    "country": "CZECH REPUBLIC",
+    "bank": "HVB BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413015",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "413093",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413093",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413093",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "414092",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414667",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414667",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414667",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415012",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415461",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415461",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415461",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416386",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416393",
+    "country": "CZECH REPUBLIC",
+    "bank": "PARTNERS BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416559",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416562",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416606",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PRIVATE LABEL ENHANCED"
+  },
+  {
+    "bin": "416606",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PRIVATE LABEL ENHANCED"
+  },
+  {
+    "bin": "417658",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417658",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "418063",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418609",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418609",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418609",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418803",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418808",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418808",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418808",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418809",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418809",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418809",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418842",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418843",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418845",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418865",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418865",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418865",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418883",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418884",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419783",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419785",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419786",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419787",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "420853",
+    "country": "CZECH REPUBLIC",
+    "bank": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI SA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "420964",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421577",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423157",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "424336",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427731",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427732",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427848",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428990",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429009",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429041",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429932",
+    "country": "CZECH REPUBLIC",
+    "bank": "ABN AMRO BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430119",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432289",
+    "country": "CZECH REPUBLIC",
+    "bank": "VISA EUROPE, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433361",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNION BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433738",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434359",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "438155",
+    "country": "CZECH REPUBLIC",
+    "bank": "HVB BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438156",
+    "country": "CZECH REPUBLIC",
+    "bank": "HVB BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439504",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "440507",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "440508",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440558",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440579",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "440616",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440678",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440752",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440752",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440753",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440753",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440754",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445965",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "445966",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446151",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446153",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446155",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446157",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446514",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446515",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "447565",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447565",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447565",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "447567",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448337",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449319",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "449320",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450083",
+    "country": "CZECH REPUBLIC",
+    "bank": "VOLKSBANK CZ, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451158",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451160",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451161",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455734",
+    "country": "CZECH REPUBLIC",
+    "bank": "TRINITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456803",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456817",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "456820",
+    "country": "CZECH REPUBLIC",
+    "bank": "TRINITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457049",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459017",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "459018",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459018",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459850",
+    "country": "CZECH REPUBLIC",
+    "bank": "AIR BANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459876",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460083",
+    "country": "CZECH REPUBLIC",
+    "bank": "AXA BANK EUROPE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "460317",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464461",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "465221",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469799",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469800",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469801",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469802",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "469803",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK EUROPE PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470602",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472685",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472688",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472941",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472941",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472941",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472942",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472942",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472942",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472943",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472943",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472943",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472944",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472944",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472944",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475200",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477975",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477996",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477997",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478544",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "478553",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479073",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480234",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "480257",
+    "country": "CZECH REPUBLIC",
+    "bank": "ABN AMRO BANK, N.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481036",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483053",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483730",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483731",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483737",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485725",
+    "country": "CZECH REPUBLIC",
+    "bank": "SOCIETE GENERALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487494",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487494",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490729",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491011",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491011",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491080",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "491080",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "491701",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491779",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491825",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "491825",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "494068",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "494358",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "494360",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "494360",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498542",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498568",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC & SLOVAKIA, A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "502250",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "502250",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "502250",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "507857",
+    "country": "CZECH REPUBLIC",
+    "bank": "CETELEM CR, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "508194",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510129",
+    "country": "CZECH REPUBLIC",
+    "bank": "DEUTSCHE BANK AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510130",
+    "country": "CZECH REPUBLIC",
+    "bank": "DEUTSCHE BANK AG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510225",
+    "country": "CZECH REPUBLIC",
+    "bank": "INTERBANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "510629",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510629",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510629",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "510658",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512179",
+    "country": "CZECH REPUBLIC",
+    "bank": "AIR BANK AS.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512588",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512588",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512588",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512710",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512710",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514289",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514878",
+    "country": "CZECH REPUBLIC",
+    "bank": "AIR BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515065",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516034",
+    "country": "CZECH REPUBLIC",
+    "bank": "OBERBANK AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516143",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516165",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "516165",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "516301",
+    "country": "CZECH REPUBLIC",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516757",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516757",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516757",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516772",
+    "country": "CZECH REPUBLIC",
+    "bank": "TWISTO PAYMENTS AS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516779",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516833",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516833",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516834",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516834",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516844",
+    "country": "CZECH REPUBLIC",
+    "bank": "AIR BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516872",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516872",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516872",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516885",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516885",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516891",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516891",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516891",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516892",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516893",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516894",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516955",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517273",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517340",
+    "country": "CZECH REPUBLIC",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "517532",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517579",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518416",
+    "country": "CZECH REPUBLIC",
+    "bank": "ABN AMRO BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518651",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518708",
+    "country": "CZECH REPUBLIC",
+    "bank": "VSEOBECNA UVEROVA BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518998",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519211",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520136",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520637",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520655",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520655",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520655",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521171",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521576",
+    "country": "CZECH REPUBLIC",
+    "bank": "IDT FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522407",
+    "country": "CZECH REPUBLIC",
+    "bank": "UP COOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "523624",
+    "country": "CZECH REPUBLIC",
+    "bank": "AIR BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525471",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "526276",
+    "country": "CZECH REPUBLIC",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "526447",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526447",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526766",
+    "country": "CZECH REPUBLIC",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527062",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S. (CZECH SAVINGS BANK CO.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527365",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527446",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527446",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527446",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527694",
+    "country": "CZECH REPUBLIC",
+    "bank": "BAWAG P.S.K. BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528250",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528250",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528706",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528894",
+    "country": "CZECH REPUBLIC",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529923",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "VIRTUAL"
+  },
+  {
+    "bin": "531314",
+    "country": "CZECH REPUBLIC",
+    "bank": "CETELEM CR, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM/STANDARD"
+  },
+  {
+    "bin": "531336",
+    "country": "CZECH REPUBLIC",
+    "bank": "COFIDIS, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531533",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531533",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531533",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531540",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531540",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531540",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531597",
+    "country": "CZECH REPUBLIC",
+    "bank": "EML MONEY DAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532185",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532193",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532194",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532317",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532591",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "533223",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533229",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533942",
+    "country": "CZECH REPUBLIC",
+    "bank": "PREPAY TECHNOLOGIES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534572",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "534572",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "534949",
+    "country": "CZECH REPUBLIC",
+    "bank": "EXPOBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535121",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535122",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535123",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535157",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535164",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONAVATE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "535300",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535461",
+    "country": "CZECH REPUBLIC",
+    "bank": "IDT FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535467",
+    "country": "CZECH REPUBLIC",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535471",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535471",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535485",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535485",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535486",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535486",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535489",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535489",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535498",
+    "country": "CZECH REPUBLIC",
+    "bank": "BANKA CREDITAS, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535499",
+    "country": "CZECH REPUBLIC",
+    "bank": "BANKA CREDITAS, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535599",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535684",
+    "country": "CZECH REPUBLIC",
+    "bank": "POSTOVA BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535731",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535754",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "535811",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONAVATE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535949",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537416",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537452",
+    "country": "CZECH REPUBLIC",
+    "bank": "WIRECARD CARD SOLUTIONS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537484",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537512",
+    "country": "CZECH REPUBLIC",
+    "bank": "BANKA CREDITAS, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537521",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538706",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538706",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "538953",
+    "country": "CZECH REPUBLIC",
+    "bank": "EURONET 360 FINANCE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "539835",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540206",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540298",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "540452",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540452",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540483",
+    "country": "CZECH REPUBLIC",
+    "bank": "GE CAPITAL BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540718",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541934",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541934",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541934",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541963",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541963",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541963",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543402",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "IMMEDIATE DEBIT"
+  },
+  {
+    "bin": "543455",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543455",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543463",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543463",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543554",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543769",
+    "country": "CZECH REPUBLIC",
+    "bank": "EQUA BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544208",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544208",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544208",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544322",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544490",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "544494",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544494",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544738",
+    "country": "CZECH REPUBLIC",
+    "bank": "EQUA BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544920",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "NEW WORLD"
+  },
+  {
+    "bin": "545119",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545119",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545736",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545854",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546882",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547055",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547056",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547360",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547360",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547361",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547361",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547375",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547375",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547411",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547431",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547438",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547516",
+    "country": "CZECH REPUBLIC",
+    "bank": "COMMERZBANK AKTIENGESELLSCHAFT PRAGUE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547533",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547698",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547872",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547872",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547872",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547894",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547982",
+    "country": "CZECH REPUBLIC",
+    "bank": "EQUA BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548066",
+    "country": "CZECH REPUBLIC",
+    "bank": "COMMERZBANK AKTIENGESELLSCHAFT PRAGUE BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548163",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548163",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548163",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548299",
+    "country": "CZECH REPUBLIC",
+    "bank": "MAX BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548300",
+    "country": "CZECH REPUBLIC",
+    "bank": "MAX BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549077",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549315",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549315",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549546",
+    "country": "CZECH REPUBLIC",
+    "bank": "DIRECT FIDOO PAYMENTS SRO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "549599",
+    "country": "CZECH REPUBLIC",
+    "bank": "ING BANK, N.V.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549725",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549851",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549851",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550131",
+    "country": "CZECH REPUBLIC",
+    "bank": "INTERCARD FINANCE A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550157",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550157",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550157",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550289",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S. (CZECH SAVINGS BANK CO.)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "550447",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S. (CZECH SAVINGS BANK CO.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "551970",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552682",
+    "country": "CZECH REPUBLIC",
+    "bank": "365.BANK, A. S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552705",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552733",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552857",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552861",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552974",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553061",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553163",
+    "country": "CZECH REPUBLIC",
+    "bank": "OBERBANK AG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553613",
+    "country": "CZECH REPUBLIC",
+    "bank": "CASHFLOWS EUROPE, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID MEAL"
+  },
+  {
+    "bin": "553619",
+    "country": "CZECH REPUBLIC",
+    "bank": "INTERCARD FINANCE A.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "553937",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554275",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554275",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554286",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554354",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554354",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554355",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554355",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554585",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554645",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554645",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "556071",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556071",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556072",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557018",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557018",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "557019",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "557019",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "557392",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "557392",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "557458",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557459",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557470",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557471",
+    "country": "CZECH REPUBLIC",
+    "bank": "SBERBANK CZ, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557500",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557508",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557512",
+    "country": "CZECH REPUBLIC",
+    "bank": "MBANK, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557705",
+    "country": "CZECH REPUBLIC",
+    "bank": "BNP PARIBAS PERSONAL FINANCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "557711",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557890",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "558270",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558270",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558270",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558286",
+    "country": "CZECH REPUBLIC",
+    "bank": "MAX BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558387",
+    "country": "CZECH REPUBLIC",
+    "bank": "PPF BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558399",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "558499",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558623",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558623",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559816",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559816",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "589200",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "589230",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589230",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589231",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589231",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589531",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "589531",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "589531",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "601871",
+    "country": "CZECH REPUBLIC",
+    "bank": "TESCO CARD",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "603246",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITIBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "627568",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "627665",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "670504",
+    "country": "CZECH REPUBLIC",
+    "bank": "EQUA BANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670547",
+    "country": "CZECH REPUBLIC",
+    "bank": "CITFIN SPORITELNI DRUZSTVO",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670831",
+    "country": "CZECH REPUBLIC",
+    "bank": "FIO BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676107",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676110",
+    "country": "CZECH REPUBLIC",
+    "bank": "MONETA MONEY BANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676114",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676116",
+    "country": "CZECH REPUBLIC",
+    "bank": "KOMERCNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676165",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676165",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676224",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676224",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676233",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676233",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676254",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676357",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676357",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676369",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676369",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676369",
+    "country": "CZECH REPUBLIC",
+    "bank": "RAIFFEISENBANK, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676405",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676580",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676580",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677085",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677085",
+    "country": "CZECH REPUBLIC",
+    "bank": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "677196",
+    "country": "CZECH REPUBLIC",
+    "bank": "EXPOBANK CZ, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "679145",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA, A.S.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "679923",
+    "country": "CZECH REPUBLIC",
+    "bank": "CESKA SPORITELNA A.S. (CZECH SAVINGS BANK CO.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "900502",
+    "country": "CZECH REPUBLIC",
+    "bank": "GE CAPITAL BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "900504",
+    "country": "CZECH REPUBLIC",
+    "bank": "GE CAPITAL BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "900600",
+    "country": "CZECH REPUBLIC",
+    "bank": "GE CAPITAL BANK",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "IDENTITY"
+  }
+]

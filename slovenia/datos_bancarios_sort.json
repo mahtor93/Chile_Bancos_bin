@@ -1,0 +1,1530 @@
+[
+  {
+    "bin": "204138",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "377550",
+    "country": "SLOVENIA",
+    "bank": "BANKA KOPER",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN CHARGE"
+  },
+  {
+    "bin": "377553",
+    "country": "SLOVENIA",
+    "bank": "BANKA KOPER",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GOLD CHARGE"
+  },
+  {
+    "bin": "400474",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400864",
+    "country": "SLOVENIA",
+    "bank": "TRAVEL UNION UAB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402430",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409664",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410669",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414387",
+    "country": "SLOVENIA",
+    "bank": "PAYNETICS EAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "414490",
+    "country": "SLOVENIA",
+    "bank": "BANK FRICK & CO. AG",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "416276",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416277",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416278",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417085",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417085",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417379",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425752",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANK SLOVENIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "429560",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432416",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433343",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433348",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440640",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "440641",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440642",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440713",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443855",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "447645",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447648",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448313",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "448320",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "448340",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448341",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448342",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "449369",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454346",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457039",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457722",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457722",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459444",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459444",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459942",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459943",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459944",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460058",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462734",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465235",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467018",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "467301",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467303",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467304",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467305",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469721",
+    "country": "SLOVENIA",
+    "bank": "YOURSAFE B.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474819",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476139",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476139",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476656",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478100",
+    "country": "SLOVENIA",
+    "bank": "TRADE REPUBLIC BANK GMBH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483081",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "483787",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490940",
+    "country": "SLOVENIA",
+    "bank": "STRIPE TECHNOLOGY EUROPE LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "492304",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D. LJUBLJANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "497118",
+    "country": "SLOVENIA",
+    "bank": "SPENDESK FINANCIAL SERVICES SAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "497233",
+    "country": "SLOVENIA",
+    "bank": "AIRWALLEX (NETHERLANDS) B.V.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "B2B VIRTUAL PAYMENTS"
+  },
+  {
+    "bin": "498392",
+    "country": "SLOVENIA",
+    "bank": "AIRWALLEX (NETHERLANDS) B.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498527",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498527",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498528",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498528",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498529",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498529",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498708",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "515076",
+    "country": "SLOVENIA",
+    "bank": "N BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515880",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "515880",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "516262",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "516787",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516825",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516865",
+    "country": "SLOVENIA",
+    "bank": "GORENJSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516923",
+    "country": "SLOVENIA",
+    "bank": "N BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516946",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517540",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517610",
+    "country": "SLOVENIA",
+    "bank": "BAWAG P.S.K. BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517880",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "518663",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520912",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521697",
+    "country": "SLOVENIA",
+    "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522272",
+    "country": "SLOVENIA",
+    "bank": "PAYWISER DOO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523878",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527205",
+    "country": "SLOVENIA",
+    "bank": "N BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527577",
+    "country": "SLOVENIA",
+    "bank": "MBILLS DOO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528063",
+    "country": "SLOVENIA",
+    "bank": "MBILLS DOO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528270",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "528501",
+    "country": "SLOVENIA",
+    "bank": "COREMATRIX, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528878",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529230",
+    "country": "SLOVENIA",
+    "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "529958",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530535",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533041",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "533890",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533890",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534691",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535236",
+    "country": "SLOVENIA",
+    "bank": "COREMATRIX, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535242",
+    "country": "SLOVENIA",
+    "bank": "COREMATRIX, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535620",
+    "country": "SLOVENIA",
+    "bank": "WIRECARD CARD SOLUTIONS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535708",
+    "country": "SLOVENIA",
+    "bank": "N BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535719",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535727",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535768",
+    "country": "SLOVENIA",
+    "bank": "MBILLS DOO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535780",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535782",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535783",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535795",
+    "country": "SLOVENIA",
+    "bank": "GORENJSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535866",
+    "country": "SLOVENIA",
+    "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "535886",
+    "country": "SLOVENIA",
+    "bank": "N BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536288",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536504",
+    "country": "SLOVENIA",
+    "bank": "GORENJSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536909",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "536909",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537024",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537140",
+    "country": "SLOVENIA",
+    "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537203",
+    "country": "SLOVENIA",
+    "bank": "PAYWISER DOO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537469",
+    "country": "SLOVENIA",
+    "bank": "GORENJSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537607",
+    "country": "SLOVENIA",
+    "bank": "GORENJSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "537714",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538133",
+    "country": "SLOVENIA",
+    "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539732",
+    "country": "SLOVENIA",
+    "bank": "GORENJSKA BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540951",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541268",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541268",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541809",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542487",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543137",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543201",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543661",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543686",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543827",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543827",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544227",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545042",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545175",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545963",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547302",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547423",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547534",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547611",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548417",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550145",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550881",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551916",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "552109",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552677",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552730",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554251",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554586",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554852",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "556551",
+    "country": "SLOVENIA",
+    "bank": "MBILLS DOO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557034",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557344",
+    "country": "SLOVENIA",
+    "bank": "PAYWISER DOO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558166",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558430",
+    "country": "SLOVENIA",
+    "bank": "PAYWISER DOO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "558444",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558505",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558661",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558680",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559516",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559517",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559518",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "560233",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "560234",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589789",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670507",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670660",
+    "country": "SLOVENIA",
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D. MARIBOR",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676214",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676226",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676268",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676270",
+    "country": "SLOVENIA",
+    "bank": "SKB BANKA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676324",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "676325",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676326",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676327",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676385",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676412",
+    "country": "SLOVENIA",
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "677014",
+    "country": "SLOVENIA",
+    "bank": "BANKA SPARKASSE DD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677141",
+    "country": "SLOVENIA",
+    "bank": "ABANKA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "677143",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D. LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677152",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "677163",
+    "country": "SLOVENIA",
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677192",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "677192",
+    "country": "SLOVENIA",
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "SMALL BUSINESS"
+  },
+  {
+    "bin": "677728",
+    "country": "SLOVENIA",
+    "bank": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "883377",
+    "country": "SLOVENIA",
+    "bank": "NOVA KBM",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  }
+]

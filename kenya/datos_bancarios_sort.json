@@ -1,0 +1,3650 @@
+[
+  {
+    "bin": "230027",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230027",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "365417",
+    "country": "KENYA",
+    "bank": "DC KENYA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365418",
+    "country": "KENYA",
+    "bank": "DC KENYA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365419",
+    "country": "KENYA",
+    "bank": "DC KENYA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365621",
+    "country": "KENYA",
+    "bank": "DC KENYA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365634",
+    "country": "KENYA",
+    "bank": "DC KENYA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "365635",
+    "country": "KENYA",
+    "bank": "DC KENYA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400955",
+    "country": "KENYA",
+    "bank": "SIDIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400976",
+    "country": "KENYA",
+    "bank": "SIDIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401100",
+    "country": "KENYA",
+    "bank": "FIDELITY COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "401334",
+    "country": "KENYA",
+    "bank": "SIDIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402030",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402030",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402036",
+    "country": "KENYA",
+    "bank": "DIB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402046",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "402048",
+    "country": "KENYA",
+    "bank": "DIB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402536",
+    "country": "KENYA",
+    "bank": "COMMERCIAL BANK OF AFRICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402537",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402644",
+    "country": "KENYA",
+    "bank": "ACCESS BANK (KENYA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403321",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403745",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "403745",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "403984",
+    "country": "KENYA",
+    "bank": "ACCESS BANK (KENYA) PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404192",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404709",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "405089",
+    "country": "KENYA",
+    "bank": "FAULU MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405387",
+    "country": "KENYA",
+    "bank": "UBA KENYA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "405457",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406035",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "406904",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406904",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406905",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406905",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406906",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406906",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406908",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406908",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "407413",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407413",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407741",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409034",
+    "country": "KENYA",
+    "bank": "COMMERCIAL BANK OF AFRICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409347",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "409347",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410033",
+    "country": "KENYA",
+    "bank": "FIDELITY COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410382",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "410382",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "410486",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "410488",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410734",
+    "country": "KENYA",
+    "bank": "MIDDLE EAST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410739",
+    "country": "KENYA",
+    "bank": "GUARDIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410740",
+    "country": "KENYA",
+    "bank": "HFC, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "410741",
+    "country": "KENYA",
+    "bank": "IMPERIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "411059",
+    "country": "KENYA",
+    "bank": "MIDDLE EAST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411629",
+    "country": "KENYA",
+    "bank": "FIDELITY COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411729",
+    "country": "KENYA",
+    "bank": "SAFARICOM PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411999",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412550",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "412552",
+    "country": "KENYA",
+    "bank": "CREDIT BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "413085",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "413270",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413271",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413272",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "415049",
+    "country": "KENYA",
+    "bank": "BANK OF INDIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415450",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415450",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415675",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415675",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416203",
+    "country": "KENYA",
+    "bank": "UBA KENYA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416704",
+    "country": "KENYA",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (CIB) KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416705",
+    "country": "KENYA",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416706",
+    "country": "KENYA",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416793",
+    "country": "KENYA",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416794",
+    "country": "KENYA",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417360",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "417361",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "417362",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "417363",
+    "country": "KENYA",
+    "bank": "INVESTMENTS AND MORTGAGES BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417482",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417491",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417491",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417492",
+    "country": "KENYA",
+    "bank": "FIDELITY COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417923",
+    "country": "KENYA",
+    "bank": "BANK OF BARODA KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "418087",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418088",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418995",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419195",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420187",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "420193",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420345",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420345",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420346",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420346",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420400",
+    "country": "KENYA",
+    "bank": "FAULU MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420966",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420966",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420977",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420977",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421121",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421154",
+    "country": "KENYA",
+    "bank": "SALAAM MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422065",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "422065",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "422122",
+    "country": "KENYA",
+    "bank": "GUARDIAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422272",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422273",
+    "country": "KENYA",
+    "bank": "BARCLAYS BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422409",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422409",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422414",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422414",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423101",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423101",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423180",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423932",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423933",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423934",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "424108",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424109",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424110",
+    "country": "KENYA",
+    "bank": "CHASE KENYA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "424112",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424145",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424145",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424313",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "424314",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424315",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424316",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424485",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424485",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425197",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425198",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425199",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426086",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "426212",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426212",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426339",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426399",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427769",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427769",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427881",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "428505",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428506",
+    "country": "KENYA",
+    "bank": "M ORIENTAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429063",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "429063",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "430140",
+    "country": "KENYA",
+    "bank": "HFC, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "430878",
+    "country": "KENYA",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431029",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431029",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431411",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431424",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431440",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432115",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432116",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433597",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "434432",
+    "country": "KENYA",
+    "bank": "GULF AFRICAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434450",
+    "country": "KENYA",
+    "bank": "GULF AFRICAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437393",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438278",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438965",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439381",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440041",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440755",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440785",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440785",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "441129",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442461",
+    "country": "KENYA",
+    "bank": "KENYA POST OFFICE SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444567",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444567",
+    "country": "KENYA",
+    "bank": "STANBIC BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445141",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445141",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "445971",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445971",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446989",
+    "country": "KENYA",
+    "bank": "GULF AFRICAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447663",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "447663",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "447770",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447770",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447815",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447815",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447816",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "447816",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "448946",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448946",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452241",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452241",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452242",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452242",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452243",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452243",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452244",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452244",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453169",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453177",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "453178",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453179",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "453180",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453181",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453182",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454490",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454490",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454681",
+    "country": "KENYA",
+    "bank": "CREDIT BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454740",
+    "country": "KENYA",
+    "bank": "VICTORIA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457277",
+    "country": "KENYA",
+    "bank": "UBA KENYA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457786",
+    "country": "KENYA",
+    "bank": "IMPERIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457787",
+    "country": "KENYA",
+    "bank": "IMPERIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457788",
+    "country": "KENYA",
+    "bank": "IMPERIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458409",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458492",
+    "country": "KENYA",
+    "bank": "KENYA POST OFFICE SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458542",
+    "country": "KENYA",
+    "bank": "KENYA POST OFFICE SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459253",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "459925",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "460163",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460626",
+    "country": "KENYA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460627",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460628",
+    "country": "KENYA",
+    "bank": "ECOBANK GHANA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "460629",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460630",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461746",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "462063",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462064",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462435",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462435",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462450",
+    "country": "KENYA",
+    "bank": "SBM BANK (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "462821",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462821",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462822",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "462822",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "463460",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "463460",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "463461",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463461",
+    "country": "KENYA",
+    "bank": "BANK OF AFRICA (KENYA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464122",
+    "country": "KENYA",
+    "bank": "BANK OF BARODA KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464147",
+    "country": "KENYA",
+    "bank": "CREDIT BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464160",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464166",
+    "country": "KENYA",
+    "bank": "M ORIENTAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "465926",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465926",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466138",
+    "country": "KENYA",
+    "bank": "FIRST COMMUNITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469359",
+    "country": "KENYA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "469636",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469636",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469881",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "469895",
+    "country": "KENYA",
+    "bank": "BARCLAYS BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "470112",
+    "country": "KENYA",
+    "bank": "HABIB BANK AG ZURICH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470120",
+    "country": "KENYA",
+    "bank": "HABIB BANK AG ZURICH",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471371",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "471391",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "471391",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472463",
+    "country": "KENYA",
+    "bank": "BANKA CREDINS KOSOVE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472465",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472466",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472639",
+    "country": "KENYA",
+    "bank": "COMMERCIAL INTERNATIONAL BANK (CIB) KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472846",
+    "country": "KENYA",
+    "bank": "M ORIENTAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472920",
+    "country": "KENYA",
+    "bank": "ECOBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476111",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476111",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478393",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "478393",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "478394",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478394",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478683",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478737",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478737",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479331",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479331",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481791",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "481791",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "484655",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "484679",
+    "country": "KENYA",
+    "bank": "ECOBANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486041",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486041",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486042",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "486067",
+    "country": "KENYA",
+    "bank": "UBA KENYA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486068",
+    "country": "KENYA",
+    "bank": "UBA KENYA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486506",
+    "country": "KENYA",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "487429",
+    "country": "KENYA",
+    "bank": "SALAAM MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487461",
+    "country": "KENYA",
+    "bank": "BARCLAYS BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488997",
+    "country": "KENYA",
+    "bank": "COMMERCIAL BANK OF AFRICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488998",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488999",
+    "country": "KENYA",
+    "bank": "COMMERCIAL BANK OF AFRICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489000",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489001",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489002",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489301",
+    "country": "KENYA",
+    "bank": "PREMIER BANK KENYA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492053",
+    "country": "KENYA",
+    "bank": "UBA KENYA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493443",
+    "country": "KENYA",
+    "bank": "PRIME BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493580",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493580",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498625",
+    "country": "KENYA",
+    "bank": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498705",
+    "country": "KENYA",
+    "bank": "SAFARICOM PLC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "499963",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499963",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "506183",
+    "country": "KENYA",
+    "bank": "INTERSWITCH (KENYA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506185",
+    "country": "KENYA",
+    "bank": "VERVE PAYCODE ON POS KENYA",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "506192",
+    "country": "KENYA",
+    "bank": "INTERSWITCH (KENYA)",
+    "network": "VERVE",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511624",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511624",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512143",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512143",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "512471",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512627",
+    "country": "KENYA",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513328",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513328",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515450",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516229",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516229",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516342",
+    "country": "KENYA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516377",
+    "country": "KENYA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517051",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517051",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517290",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517290",
+    "country": "KENYA",
+    "bank": "NATIONAL BANK OF KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517314",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517322",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517335",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517500",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517889",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518196",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518196",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518819",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518819",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519349",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "519349",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "519601",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519601",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519621",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519914",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520193",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520420",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520709",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520740",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521121",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521121",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521122",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "521122",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "521362",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "521790",
+    "country": "KENYA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "522057",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522374",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522395",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523523",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523523",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523799",
+    "country": "KENYA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "524024",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524406",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "524406",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "524550",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "524550",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "524634",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "524681",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524911",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "524925",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "525456",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525693",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525693",
+    "country": "KENYA",
+    "bank": "STANDARD CHARTERED BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "525921",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "525921",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "525988",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "527172",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527316",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "527775",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527843",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528855",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529076",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "529098",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529552",
+    "country": "KENYA",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529750",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529750",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530197",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531145",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531494",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531494",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531506",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531507",
+    "country": "KENYA",
+    "bank": "EQUATORIAL COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531692",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531692",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531738",
+    "country": "KENYA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532106",
+    "country": "KENYA",
+    "bank": "CSCBANK SAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "532373",
+    "country": "KENYA",
+    "bank": "PARAMOUNT UNIVERSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532632",
+    "country": "KENYA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532680",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "532680",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "532747",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532950",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "532950",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533029",
+    "country": "KENYA",
+    "bank": "CITIBANK NA KENYA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533042",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "533432",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533471",
+    "country": "KENYA",
+    "bank": "EMERGING MARKETS PAYMENTS AFRICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533472",
+    "country": "KENYA",
+    "bank": "NETWORK INTERNATIONAL PAYMENT SERVICES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533887",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534198",
+    "country": "KENYA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534250",
+    "country": "KENYA",
+    "bank": "AFRICAN BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534320",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534407",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534431",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534431",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534596",
+    "country": "KENYA",
+    "bank": "EMERGING MARKETS PAYMENTS AFRICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534665",
+    "country": "KENYA",
+    "bank": "PARAMOUNT UNIVERSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535976",
+    "country": "KENYA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536137",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536137",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536173",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536687",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "536774",
+    "country": "KENYA",
+    "bank": "NCBA BANK KENYA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537093",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "539273",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539817",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "539817",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "540147",
+    "country": "KENYA",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541120",
+    "country": "KENYA",
+    "bank": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541683",
+    "country": "KENYA",
+    "bank": "TRUST BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541992",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542016",
+    "country": "KENYA",
+    "bank": "ABSA BANK KENYA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542460",
+    "country": "KENYA",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542619",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "542619",
+    "country": "KENYA",
+    "bank": "EQUITY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "542693",
+    "country": "KENYA",
+    "bank": "FIRST NATIONAL BANK OF DONA ANA COUNTY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543053",
+    "country": "KENYA",
+    "bank": "COMMERCIAL BANK OF AFRICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545858",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546567",
+    "country": "KENYA",
+    "bank": "BARCLAYS BANK PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "547743",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548977",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "548977",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "549771",
+    "country": "KENYA",
+    "bank": "SPIRE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552114",
+    "country": "KENYA",
+    "bank": "GUARANTY TRUST BANK PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553511",
+    "country": "KENYA",
+    "bank": "EQUATORIAL COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553540",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "554089",
+    "country": "KENYA",
+    "bank": "AFRICAN BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554353",
+    "country": "KENYA",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "555064",
+    "country": "KENYA",
+    "bank": "CITIBANK NA KENYA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555065",
+    "country": "KENYA",
+    "bank": "CITIBANK NA KENYA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555429",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555458",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555493",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "555541",
+    "country": "KENYA",
+    "bank": "AFRICAN BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555846",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555846",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556552",
+    "country": "KENYA",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "556576",
+    "country": "KENYA",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556591",
+    "country": "KENYA",
+    "bank": "MAURITIUS COMMERCIAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "556630",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557084",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557084",
+    "country": "KENYA",
+    "bank": "DIAMOND TRUST BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "558113",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558133",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "558252",
+    "country": "KENYA",
+    "bank": "I & M BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "558363",
+    "country": "KENYA",
+    "bank": "FAMILY BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559335",
+    "country": "KENYA",
+    "bank": "CHASE BANK (KENYA), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "559748",
+    "country": "KENYA",
+    "bank": "KCB BANK KENYA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "623428",
+    "country": "KENYA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623429",
+    "country": "KENYA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623440",
+    "country": "KENYA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623441",
+    "country": "KENYA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623448",
+    "country": "KENYA",
+    "bank": "HABIB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623487",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624415",
+    "country": "KENYA",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629284",
+    "country": "KENYA",
+    "bank": "KENYA COMMERCIAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  }
+]

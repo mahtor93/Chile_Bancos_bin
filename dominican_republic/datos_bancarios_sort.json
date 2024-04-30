@@ -1,0 +1,4754 @@
+[
+  {
+    "bin": "223528",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "243000",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "243001",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "250036",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO ATLANTICO DE AHORRO Y CREDITO S A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "400193",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400193",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400194",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "400194",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "400258",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400267",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400308",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400309",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400483",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400483",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400484",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400484",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400485",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400485",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400588",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400589",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400750",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400883",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "401172",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401623",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402108",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402108",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402143",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403309",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403380",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "PROCECARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404034",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404088",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404093",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "404488",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404489",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404490",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404494",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REPBLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404495",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REPBLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404497",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REPBLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404499",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404830",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404831",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405259",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405260",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405889",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405977",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405978",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406203",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406206",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406258",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "406259",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406400",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406416",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406645",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407500",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407537",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407537",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407546",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407664",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407664",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407673",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407674",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "EGEBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407675",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "407676",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407677",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407678",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407855",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE DE LAS AMERICAS S.A. (BANCAMERICA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407861",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407861",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407978",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409038",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD LEON, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "409045",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409046",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409306",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "409936",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "410513",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410534",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410535",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411031",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411800",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411875",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413766",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "416501",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416687",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417497",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417702",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "417880",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417881",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418666",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418666",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418667",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418667",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419180",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419180",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419181",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419181",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419182",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419182",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419412",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LAFISE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "419414",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LAFISE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419415",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LAFISE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419416",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LAFISE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419417",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LAFISE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419594",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419890",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419891",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419892",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419893",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420462",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420463",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "420565",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "CMP, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "420568",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION BARAHONA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "420758",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420759",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420760",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420761",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421302",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421303",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO VIMENCA C. POR A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421383",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421384",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421385",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421488",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "421499",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO VIMENCA C. POR A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421505",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421505",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421514",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421805",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421807",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FIHOGAR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421921",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421969",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422135",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422135",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422136",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422136",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422137",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422137",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422223",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422595",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422595",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423053",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423054",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423055",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423056",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423324",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423470",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423497",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423606",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423640",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "423986",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DUARTE DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424907",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424907",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424959",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424959",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424960",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424960",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424961",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424961",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425676",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428309",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FIHOGAR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "429511",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "430310",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430310",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430329",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430329",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430903",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430904",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431197",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DUARTE DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431999",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432017",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432354",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION PERAVIA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432460",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432461",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432462",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432463",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE DE LAS AMERICAS S.A. (BANCAMERICA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433448",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433449",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434091",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD LEON, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434092",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD LEON, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434791",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434834",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434911",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FONDESA, S.A. (BANFONDESA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435084",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438080",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "438081",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438085",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438086",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438087",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438283",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438434",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "439477",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441028",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "441079",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442409",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ALPHA FINANZAS S.A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443079",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443564",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "443575",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "PLATCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "443956",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444058",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444059",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444321",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444321",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445899",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "446196",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "446818",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "446880",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447562",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "447562",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "448176",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450420",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "CMP, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450566",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450573",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MERCANTIL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450598",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450699",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO NACIONAL DE CREDITO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450839",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450840",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450908",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450909",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450970",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450971",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450974",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REP BLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450975",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REP BLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451320",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451491",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451492",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451493",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451494",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451495",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451700",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451726",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LAFISE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451734",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451735",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451744",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO GERENCIAL AND FIDUCIARIO DOMINICANO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451789",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451794",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ALPHA FINANZAS S.A.S.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452099",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION PERAVIA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452100",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION PERAVIA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452101",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION PERAVIA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452134",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453683",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453683",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "453771",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "454046",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO PANAMERICANO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454047",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO PANAMERICANO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454080",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454089",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REP BLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454093",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO ANTILLANO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454098",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454341",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DEL CARIBE DOMINICANO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454342",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454720",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454721",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454722",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454724",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454725",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOVERNMENT PURCHASING"
+  },
+  {
+    "bin": "455738",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO UNIVERSAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456003",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456027",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456039",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456044",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456334",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457620",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457620",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457621",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457621",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457622",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457622",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457738",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458945",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459382",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460195",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "460195",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "461167",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION MOCANA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461211",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "462005",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462006",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462007",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462008",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462964",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462983",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462991",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "462992",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "462993",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "464133",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464664",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "EGEBANK, A.S.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464669",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464669",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464680",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464680",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464689",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464689",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464690",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464690",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "465562",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465577",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "CONSORCIO DE TARJETAS DOMINICANAS S.A. (CARDNET)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "465739",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466905",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467863",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467863",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467866",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DUARTE DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467867",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DUARTE DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468204",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "468575",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "468901",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468902",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468903",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468926",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468930",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468931",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468933",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468934",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468935",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468944",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468951",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468953",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468956",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468960",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468962",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468964",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468965",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468967",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468969",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468970",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468971",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468972",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468975",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468981",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468982",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468983",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468984",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468985",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468990",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468991",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468992",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468996",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468997",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468998",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "468999",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469566",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "469858",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469859",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "470097",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470603",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "471275",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471275",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471276",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471276",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472071",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO ALTAS CUMBRES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472072",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO ALTAS CUMBRES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472073",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472073",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473237",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "473883",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "473883",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474214",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474567",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474567",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476398",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476807",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476807",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476874",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "476875",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477048",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477253",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477254",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE ADEMI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "477365",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477365",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477380",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478293",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479304",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479360",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MERCANTIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479381",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479381",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "479409",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479410",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479411",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "480426",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "480854",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "480856",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "480861",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "480861",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "480867",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "480867",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "481371",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481376",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REP BLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481522",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481522",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481523",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481523",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481542",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481543",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "482406",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "SCOTIABANK REPBLICA DOMINICANA, S.A. BANCA MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "482431",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "482431",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "482495",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DUARTE DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483057",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483095",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483106",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "483181",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484644",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "485072",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485073",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "485074",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "485075",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "485076",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "485912",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "485912",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "485937",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "485957",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING WITH FLEET"
+  },
+  {
+    "bin": "485967",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486385",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS SIGNATURE"
+  },
+  {
+    "bin": "486439",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486561",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486680",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486680",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486681",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BHD S.A. BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "487276",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487276",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487277",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487277",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487278",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487278",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487279",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487279",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487601",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489357",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489425",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489425",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489450",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489468",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489490",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489491",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ATH DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489641",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489912",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "489951",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489952",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491308",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491309",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491310",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "491311",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO NACIONAL DE CREDITO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "491312",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491313",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491404",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491556",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "491697",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492118",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO JMMB BANK, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492195",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492196",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE VIMENCA, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492197",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "QIK BANCO DIGITAL DOMINICANO S.A. BANCO MULTIPLE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492201",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492202",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "492209",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492410",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492452",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "493198",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493788",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S. A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "494056",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494057",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "496000",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496057",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOVERNMENT PURCHASING"
+  },
+  {
+    "bin": "496082",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "496082",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO BDI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "496087",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496088",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498475",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE LEON, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498508",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498508",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "498557",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498557",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "500050",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "510041",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "510193",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "512604",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO ATLANTICO DE AHORRO Y CREDITO S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512938",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513566",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513709",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514928",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516115",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "516708",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO ATLANTICO DE AHORRO Y CREDITO S A",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517333",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517362",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517375",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517380",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517476",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "518865",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518887",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518892",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519229",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519419",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519483",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519781",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "520005",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521555",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "521783",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522716",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522739",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522776",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522779",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523578",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523695",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "524234",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524463",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524613",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526133",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "527776",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527788",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527837",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528879",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "528896",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529733",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529760",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "529854",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530222",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530227",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530862",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531077",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "531079",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531128",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "531290",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "531957",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532798",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533368",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534595",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534635",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535893",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536058",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536069",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536155",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537815",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "537971",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO ATLANTICO DE AHORRO Y CREDITO S A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538004",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "539416",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539609",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540083",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540666",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS PARA LA VIVIENDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540747",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541012",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541087",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541227",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541368",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541547",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541551",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541599",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541941",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541941",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542722",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542758",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542907",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542919",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "543838",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543980",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANESCO BANCO MULTIPLE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544007",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544287",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544297",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544519",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544762",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545940",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545941",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546334",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546334",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546464",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546714",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547325",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547983",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548140",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548465",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548718",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548864",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO PERAVIA DE AHORRO Y CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "548876",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548877",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548878",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548879",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549823",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO PERAVIA DE AHORRO Y CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550163",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550511",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO INTERCONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552314",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552691",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552967",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO PERAVIA DE AHORRO Y CREDITO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554159",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554198",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554206",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554206",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554207",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554207",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANK OF NOVA SCOTIA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554444",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554445",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554446",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554909",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554915",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554938",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554941",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555174",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO DE AHORRO Y CREDITO FEDERAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "558938",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "BANCO MULTIPLE BHD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "575690",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "580937",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581609",
+    "country": "DOMINICAN REPUBLIC",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

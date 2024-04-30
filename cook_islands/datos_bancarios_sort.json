@@ -1,0 +1,90 @@
+[
+  {
+    "bin": "421852",
+    "country": "COOK ISLANDS",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421859",
+    "country": "COOK ISLANDS",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437966",
+    "country": "COOK ISLANDS",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438223",
+    "country": "COOK ISLANDS",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462872",
+    "country": "COOK ISLANDS",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469527",
+    "country": "COOK ISLANDS",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470612",
+    "country": "COOK ISLANDS",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "476051",
+    "country": "COOK ISLANDS",
+    "bank": "ANZ BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "481267",
+    "country": "COOK ISLANDS",
+    "bank": "BSP FINANCIAL GROUP, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517849",
+    "country": "COOK ISLANDS",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "553807",
+    "country": "COOK ISLANDS",
+    "bank": "BANZPAY TECHNOLOGY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

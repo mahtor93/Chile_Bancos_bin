@@ -1,0 +1,794 @@
+[
+  {
+    "bin": "230705",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "230748",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ALEJMAA ALARABI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "230778",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "LIBYAN ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404343",
+    "country": "LIBYA",
+    "bank": "SAHARA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404343",
+    "country": "LIBYA",
+    "bank": "SAHARA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406403",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE & DEVELOPMENT JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408411",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "WAHDA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "408412",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "WAHDA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417275",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE & DEVELOPMENT JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417276",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE & DEVELOPMENT JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417277",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "GUMHOURIA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417991",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE & DEVELOPMENT JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "424310",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "426871",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426872",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "GUMHOURIA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "428047",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "WAHDA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428148",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "GUMHOURIA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434973",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437476",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE & DEVELOPMENT JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458732",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "GUMHOURIA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458733",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "UNITED BANK FOR COMMERCE & INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458787",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "WAHDA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458844",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458845",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458846",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "458847",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "458848",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462057",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462057",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462252",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467801",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NURAN BANK J.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467802",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NURAN BANK J.S.C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "470489",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "UNITED BANK FOR COMMERCE & INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470490",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "UNITED BANK FOR COMMERCE & INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "472498",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "484846",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "486334",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NORTH AFRICA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "510338",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "511618",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ALEJMAA ALARABI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "512725",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512744",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516550",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "JUMHOURIA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516665",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "MEDITERRANEAN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517371",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "LIBYAN ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517907",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521693",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521698",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522749",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "YAQEEN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "522959",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523422",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "524409",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524409",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525338",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525389",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "525389",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE EXECUTIVE"
+  },
+  {
+    "bin": "525545",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NORTH AFRICA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525759",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "YAQEEN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "526543",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527011",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "528524",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "JUMHOURIA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "529451",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "529526",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "MOAMALAT FINANCIAL SERVICES CO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530568",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NORTH AFRICA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531354",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531811",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531912",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532101",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532543",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ANDALUS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532792",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "MEDITERRANEAN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "534919",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "MOAMALAT FINANCIAL SERVICES CO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535103",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "JUMHOURIA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536011",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537727",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AL TADHAMUN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "539219",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "MEDITERRANEAN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "539262",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ALEJMAA ALARABI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "539950",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "539950",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "SAHARA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541212",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "541237",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "541986",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "YAQEEN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543205",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "544057",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "545613",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "549664",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "549918",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT (ABCI)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "550433",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ALEJMAA ALARABI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550468",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "553763",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "LIBYAN ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "553796",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "JUMHOURIA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554771",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NATIONAL COMMERCIAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "555535",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555549",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555896",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555910",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555913",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "NORTH AFRICA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "557046",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "LIBYAN ISLAMIC BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "557904",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "558998",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "BANK OF COMMERCE AND DEVELOPMENT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559420",
+    "country": "LIBYAN ARAB JAMAHIRIYA",
+    "bank": "ALEJMAA ALARABI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  }
+]

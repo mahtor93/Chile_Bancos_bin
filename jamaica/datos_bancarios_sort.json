@@ -1,0 +1,1498 @@
+[
+  {
+    "bin": "231029",
+    "country": "JAMAICA",
+    "bank": "JN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232012",
+    "country": "JAMAICA",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232023",
+    "country": "JAMAICA",
+    "bank": "JN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233007",
+    "country": "JAMAICA",
+    "bank": "JN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "404603",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404603",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405751",
+    "country": "JAMAICA",
+    "bank": "RBC ROYAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407344",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "407344",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "407421",
+    "country": "JAMAICA",
+    "bank": "CORNERSTONE TRUST & MERCHANT BANK LIMITED (CTMB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410514",
+    "country": "JAMAICA",
+    "bank": "RBTT BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410515",
+    "country": "JAMAICA",
+    "bank": "RBTT BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411931",
+    "country": "JAMAICA",
+    "bank": "JMMB BANK (JAMAICA) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417975",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417975",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417976",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417976",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417977",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "417977",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421835",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421835",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421836",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421836",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423806",
+    "country": "JAMAICA",
+    "bank": "JMMB BANK (JAMAICA) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424115",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424115",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425626",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425626",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426367",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426367",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426368",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426368",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430196",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "430196",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "430321",
+    "country": "JAMAICA",
+    "bank": "THE BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430390",
+    "country": "JAMAICA",
+    "bank": "THE BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430998",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430998",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432356",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432356",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432429",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "432429",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "434481",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434481",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434566",
+    "country": "JAMAICA",
+    "bank": "JN BANK LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434567",
+    "country": "JAMAICA",
+    "bank": "JN BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "434771",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434771",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "435094",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "435094",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "443944",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443944",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443945",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "443945",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448793",
+    "country": "JAMAICA",
+    "bank": "THE BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448794",
+    "country": "JAMAICA",
+    "bank": "THE BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "449582",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449582",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449940",
+    "country": "JAMAICA",
+    "bank": "LASCO FINANCIAL SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "449944",
+    "country": "JAMAICA",
+    "bank": "JMMB BANK (JAMAICA) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451483",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451483",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452176",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452176",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452359",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452359",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "452549",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452549",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453785",
+    "country": "JAMAICA",
+    "bank": "TFOB (2021), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453849",
+    "country": "JAMAICA",
+    "bank": "VICTORIA MUTUAL BUILDING SOCIETY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "454310",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454310",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454604",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454604",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455162",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455348",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455970",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455971",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456545",
+    "country": "JAMAICA",
+    "bank": "JMMB BANK (JAMAICA) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457071",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457071",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459071",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459071",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459072",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "459072",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "459307",
+    "country": "JAMAICA",
+    "bank": "THE BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462809",
+    "country": "JAMAICA",
+    "bank": "JN BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462810",
+    "country": "JAMAICA",
+    "bank": "JN BANK LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463467",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463467",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "463646",
+    "country": "JAMAICA",
+    "bank": "JMMB BANK (JAMAICA) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "464688",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "469272",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469272",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469273",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469273",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469757",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469757",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472230",
+    "country": "JAMAICA",
+    "bank": "VICTORIA MUTUAL BUILDING SOCIETY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "473868",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "473868",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "474490",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "474490",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "479470",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479470",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479471",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479471",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490790",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490792",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491431",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491431",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498469",
+    "country": "JAMAICA",
+    "bank": "JMMB BANK (JAMAICA) LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499953",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499953",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "512322",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512323",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512416",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513333",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513333",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "515693",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "517154",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "517154",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "519534",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520129",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520176",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520178",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520228",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520228",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520821",
+    "country": "JAMAICA",
+    "bank": "FIDELITY INTERNATIONAL RESOURCE MANAGEMENT INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521255",
+    "country": "JAMAICA",
+    "bank": "FIDELITY INTERNATIONAL RESOURCE MANAGEMENT INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522329",
+    "country": "JAMAICA",
+    "bank": "FIDELITY INTERNATIONAL RESOURCE MANAGEMENT INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522732",
+    "country": "JAMAICA",
+    "bank": "FIDELITY INTERNATIONAL RESOURCE MANAGEMENT INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523280",
+    "country": "JAMAICA",
+    "bank": "CAPITAL & CREDIT MERCHANT BANK LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524939",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524939",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525156",
+    "country": "JAMAICA",
+    "bank": "FIDELITY INTERNATIONAL RESOURCE MANAGEMENT INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525394",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525394",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525888",
+    "country": "JAMAICA",
+    "bank": "FIDELITY INTERNATIONAL RESOURCE MANAGEMENT INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533716",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "534171",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "535856",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "536586",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537386",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537386",
+    "country": "JAMAICA",
+    "bank": "FIRST GLOBAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "538393",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "538943",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "538943",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539005",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539005",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "540179",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540522",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540671",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541258",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541258",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541924",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "541924",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "542094",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "542094",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "542227",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542227",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543009",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543009",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543067",
+    "country": "JAMAICA",
+    "bank": "HALLMARK TRUST, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "543430",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543640",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543720",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544310",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544311",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545016",
+    "country": "JAMAICA",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "546658",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546723",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "547441",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548958",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548959",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549608",
+    "country": "JAMAICA",
+    "bank": "SAGICOR BANK JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "552059",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552454",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552455",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552487",
+    "country": "JAMAICA",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "553587",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554944",
+    "country": "JAMAICA",
+    "bank": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557838",
+    "country": "JAMAICA",
+    "bank": "ALLIANCE FINANCIAL SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "574468",
+    "country": "JAMAICA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "601343",
+    "country": "JAMAICA",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "622003",
+    "country": "JAMAICA",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "669001",
+    "country": "JAMAICA",
+    "bank": "NATIONAL COMMERCIAL BANK JAMAICA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

@@ -1,0 +1,4818 @@
+[
+  {
+    "bin": "21080",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "222670",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223020",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223021",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223044",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223051",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223066",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "223067",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "223386",
+    "country": "ECUADOR",
+    "bank": "BANCO DESARROLLO DE LOS PUEBLOS SA CODESARROLLO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223415",
+    "country": "ECUADOR",
+    "bank": "EURONET EPAY MEXICO S DE R L DE C V",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223416",
+    "country": "ECUADOR",
+    "bank": "CARDTECH ECUATORIANA SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "223481",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231003",
+    "country": "ECUADOR",
+    "bank": "BANCO DELBANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "231005",
+    "country": "ECUADOR",
+    "bank": "BANCO DELBANK SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231007",
+    "country": "ECUADOR",
+    "bank": "BANCO DELBANK SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231008",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231009",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231011",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231012",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231013",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231014",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "231021",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "231023",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232003",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "232005",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "232006",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "232008",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "232009",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "232011",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "232018",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232019",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232020",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232021",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232027",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "232200",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "233001",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "233002",
+    "country": "ECUADOR",
+    "bank": "BANECUADOR BP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233037",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233038",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "234010",
+    "country": "ECUADOR",
+    "bank": "BANCO DESARROLLO DE LOS PUEBLOS SA CODESARROLLO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234017",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234018",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "234023",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234093",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "234094",
+    "country": "ECUADOR",
+    "bank": "CARDTECH ECUATORIANA SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "234095",
+    "country": "ECUADOR",
+    "bank": "CARDTECH ECUATORIANA SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250050",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250052",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "250053",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "252513",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "360041",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360138",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360218",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "360219",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360492",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360857",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360858",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360859",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360860",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360871",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360872",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360885",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360888",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361138",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "361171",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361178",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361179",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361180",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361181",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361182",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361183",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361184",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361186",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361187",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "361329",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361349",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361526",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "361865",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361866",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361867",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361868",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361869",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362062",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "362620",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362621",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "362622",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "363999",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364170",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364171",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364172",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364173",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364190",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364234",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364261",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364444",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364522",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364700",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364701",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364702",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364703",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364716",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364717",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364719",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365001",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365023",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365025",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365026",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365147",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365166",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365167",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365168",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365169",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365181",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365253",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365254",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365255",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365256",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365420",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365421",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365422",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365423",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365424",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365425",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365426",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365427",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365428",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365429",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365453",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365454",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365488",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "367092",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "400925",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400929",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "400931",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402395",
+    "country": "ECUADOR",
+    "bank": "BANCO UNIVERSAL S.A. UNIBANCO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402479",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402479",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402748",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402749",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403378",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404472",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404473",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404474",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404475",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404476",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404477",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404478",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404480",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404480",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404482",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404483",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404808",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "404837",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404838",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "404839",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "404840",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405786",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405987",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407345",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407346",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407426",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407850",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407851",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408386",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "408386",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410283",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410284",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410285",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410887",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JARDIN AZUAYO LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411076",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411077",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411078",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "411078",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412221",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "414757",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414760",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414760",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414785",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415465",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415788",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "416682",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416683",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416684",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416685",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416797",
+    "country": "ECUADOR",
+    "bank": "CREDIMATIC, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "417074",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417883",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418263",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418788",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419017",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419017",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "419343",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419560",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419561",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420569",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420714",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "420855",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "420855",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "420856",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420856",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421581",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421745",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421746",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421883",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421883",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421906",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421907",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421907",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422139",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422139",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422140",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422148",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422226",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422249",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422282",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "422602",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422602",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "422603",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "422603",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "423140",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423140",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423141",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423141",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423142",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CR DITO DE LA PEQUE A EMPRESA DE PASTAZA LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423144",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423144",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423216",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423771",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423988",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424285",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424709",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CR DITO DE LA PEQUE A EMPRESA DE PASTAZA LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426018",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "426155",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CR DITO DE LA PEQUE A EMPRESA DE PASTAZA LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427698",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDALUCIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428089",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "428103",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428150",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428596",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CR DITO DE LA PEQUE A EMPRESA DE PASTAZA LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428930",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431996",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CR DITO DE LA PEQUE A EMPRESA DE PASTAZA LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432448",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433425",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "433426",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433437",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "433820",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433897",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434900",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434901",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "434962",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "434962",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "435491",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "435491",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "436402",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436403",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438076",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438107",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438108",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439098",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439471",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439471",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439472",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439472",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439473",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439473",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439474",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "440699",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440699",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440826",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "440826",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "442013",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442288",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442289",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "442290",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "444088",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO PILAHUIN TIO LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445444",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445445",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445446",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445447",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "446004",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446005",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446141",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "446687",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446687",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447889",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447890",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449620",
+    "country": "ECUADOR",
+    "bank": "BANCO COMERCIAL DE MANABI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449741",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449741",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449742",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449742",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449743",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "449743",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450059",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450080",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450081",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450661",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450791",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450806",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451375",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451415",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451432",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451714",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451715",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "451717",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451717",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "451718",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451718",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451798",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453774",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "454063",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454064",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454086",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454729",
+    "country": "ECUADOR",
+    "bank": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454730",
+    "country": "ECUADOR",
+    "bank": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454731",
+    "country": "ECUADOR",
+    "bank": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454819",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454820",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454824",
+    "country": "ECUADOR",
+    "bank": "FILANBANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454854",
+    "country": "ECUADOR",
+    "bank": "FILIAL LATINOAMERICANA DE TARJETAS DE CREDITO FILA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455177",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455178",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455179",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455587",
+    "country": "ECUADOR",
+    "bank": "FILANBANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455898",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "455898",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "456358",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456358",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456359",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456359",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456363",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "456509",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO 29 DE OCTUBRE LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456510",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "456512",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "456787",
+    "country": "ECUADOR",
+    "bank": "BANCO COMERCIAL DE MANABI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456788",
+    "country": "ECUADOR",
+    "bank": "BANCO COMERCIAL DE MANABI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456789",
+    "country": "ECUADOR",
+    "bank": "BANCO COMERCIAL DE MANABI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456867",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "456872",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456889",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456898",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "456899",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459353",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459424",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462222",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462222",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462943",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465725",
+    "country": "ECUADOR",
+    "bank": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDITO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "465775",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "465775",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "468570",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468570",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468571",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "468571",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "469706",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDALUCIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "469716",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469717",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473293",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473294",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473295",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473296",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "473882",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474182",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475394",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDALUCIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475395",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475398",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476397",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476397",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476409",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LOJA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476824",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476843",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDALUCIA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "476860",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476861",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "476862",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476942",
+    "country": "ECUADOR",
+    "bank": "BANCO GUAYAQUIL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477044",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477045",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477046",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477047",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477179",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477275",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477276",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477281",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "478029",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "COMMERCIAL AGRICULTURE"
+  },
+  {
+    "bin": "479305",
+    "country": "ECUADOR",
+    "bank": "BANCO GENERAL RUMINAHUI, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "481351",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481379",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484696",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484696",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484697",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO PILAHUIN TIO LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489956",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489957",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489958",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491659",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "491659",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492418",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492522",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492523",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCIONS.A. (PRODUBANCO)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493128",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "493129",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493129",
+    "country": "ECUADOR",
+    "bank": "BANCO AMAZONAS, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493176",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493176",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493779",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493849",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493850",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "496602",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498892",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "499801",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "499802",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "499883",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO PILAHUIN TIO LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510127",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "510604",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "510604",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "511054",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512102",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512294",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512401",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513744",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "514072",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "514440",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514440",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514513",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515535",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515638",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515638",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515826",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "516986",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "517122",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "517466",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517943",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517943",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518030",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518086",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518114",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518115",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518172",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518923",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518968",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519169",
+    "country": "ECUADOR",
+    "bank": "BANCO PROCREDIT ECUADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519209",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520081",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "520133",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520777",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "521309",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521329",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521384",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521557",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522200",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "522409",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522504",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522827",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "522827",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523042",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523042",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523506",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523768",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524097",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524489",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524568",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "524607",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525371",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "525427",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525457",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525595",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525627",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525812",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "526006",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526257",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "526990",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527492",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527498",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527498",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527617",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "528569",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529573",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529777",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530054",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530219",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531089",
+    "country": "ECUADOR",
+    "bank": "BANCO PROCREDIT ECUADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "531950",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533686",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534272",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "535325",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536031",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536031",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536768",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536768",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536781",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536781",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537701",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537701",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538970",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539024",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "539706",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540765",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540771",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541326",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542258",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542400",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542989",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543393",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543393",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544366",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544686",
+    "country": "ECUADOR",
+    "bank": "PACIFICARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545178",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545195",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "545320",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "545465",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545783",
+    "country": "ECUADOR",
+    "bank": "BANCO PROCREDIT ECUADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546435",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "546605",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "546838",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546843",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546843",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547081",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547430",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "547649",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547662",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547663",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548146",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548244",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548244",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549145",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549145",
+    "country": "ECUADOR",
+    "bank": "BANCO DE GUAYAQUIL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549568",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549618",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550014",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550015",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550227",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550469",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550470",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550488",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550495",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550497",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550975",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551925",
+    "country": "ECUADOR",
+    "bank": "ASOCIACION MUTUALISTA DE A/C PARA LA VIVIENDA PICHINCHA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552036",
+    "country": "ECUADOR",
+    "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552536",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552995",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552995",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL AUSTRO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553634",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553660",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553660",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553677",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553736",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "553953",
+    "country": "ECUADOR",
+    "bank": "CAJA CENTRAL FINANCOOP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554277",
+    "country": "ECUADOR",
+    "bank": "BANCO DE MACHALA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554436",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554439",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554510",
+    "country": "ECUADOR",
+    "bank": "MASTERCARD ECUADOR",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554511",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554574",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "554597",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PACIFICO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555067",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "DISTRIBUTION"
+  },
+  {
+    "bin": "556542",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE BUSINESS"
+  },
+  {
+    "bin": "556553",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "556614",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "556614",
+    "country": "ECUADOR",
+    "bank": "BANCO INTERNACIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "556953",
+    "country": "ECUADOR",
+    "bank": "BANCO PROCREDIT ECUADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558035",
+    "country": "ECUADOR",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558284",
+    "country": "ECUADOR",
+    "bank": "BANCO PICHINCHA C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "558423",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558633",
+    "country": "ECUADOR",
+    "bank": "BANCO DINERS CLUB DEL ECUADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558659",
+    "country": "ECUADOR",
+    "bank": "BANCO DEL PICHINCHA, C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "626289",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626293",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626294",
+    "country": "ECUADOR",
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "650155",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650162",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650163",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650164",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650165",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650166",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650458",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650460",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650841",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650842",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650843",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650844",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650845",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650863",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650864",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650979",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "650980",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "650981",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "650982",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "650983",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "650984",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "655059",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655060",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655061",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655500",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655501",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655732",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655733",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655734",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655735",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655736",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655737",
+    "country": "ECUADOR",
+    "bank": "DISCOVER ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655951",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "658064",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "658068",
+    "country": "ECUADOR",
+    "bank": "DC ECUADOR",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": ""
+  }
+]

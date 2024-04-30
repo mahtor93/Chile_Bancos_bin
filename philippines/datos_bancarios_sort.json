@@ -1,0 +1,4530 @@
+[
+  {
+    "bin": "11300",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11301",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11302",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11303",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11304",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11305",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11306",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11308",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "11309",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "360999",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK INC",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361000",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK INC",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361001",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK INC",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361002",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK INC",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "361693",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361694",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361849",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361850",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361851",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361852",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361853",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361854",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361856",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361857",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361858",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361859",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "361861",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361862",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361863",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "361864",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "362611",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "362612",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364480",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364568",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364569",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364704",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364705",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364706",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364708",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365120",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365121",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365122",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365123",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365124",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365125",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365127",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365128",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365129",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365132",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365133",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365134",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365135",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365136",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365137",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365138",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365148",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365149",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365150",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365151",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365152",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365153",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365154",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365155",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365156",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365157",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365158",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "365197",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365198",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365199",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365200",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365201",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365202",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365203",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365204",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365205",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365206",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "365619",
+    "country": "PHILIPPINES",
+    "bank": "DC PHILIPPINES",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "377696",
+    "country": "PHILIPPINES",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "400438",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400438",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400992",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400993",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400996",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "402530",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402843",
+    "country": "PHILIPPINES",
+    "bank": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402892",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402893",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403418",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403419",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403551",
+    "country": "PHILIPPINES",
+    "bank": "CITY SAVINGS BANK, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405191",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "405460",
+    "country": "PHILIPPINES",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405461",
+    "country": "PHILIPPINES",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405598",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "405599",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406159",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406959",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407170",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408198",
+    "country": "PHILIPPINES",
+    "bank": "CEBUANA LHUILLIER RURAL BANK, INC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409440",
+    "country": "PHILIPPINES",
+    "bank": "HC CONSUMER FINANCE PHILIPPINES, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409461",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410254",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "410705",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "412611",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412612",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413100",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "413101",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "415714",
+    "country": "PHILIPPINES",
+    "bank": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "415764",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416200",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "416295",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416296",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416297",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "416298",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416511",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "417064",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417972",
+    "country": "PHILIPPINES",
+    "bank": "CITY SAVINGS BANK, INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418358",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418358",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418359",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418359",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418542",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418749",
+    "country": "PHILIPPINES",
+    "bank": "ING BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418898",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418903",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421122",
+    "country": "PHILIPPINES",
+    "bank": "WISE PILIPINAS INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "421433",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421434",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID GOLD"
+  },
+  {
+    "bin": "421562",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421564",
+    "country": "PHILIPPINES",
+    "bank": "USSC MONEY SERVICES, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421565",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "421585",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "421679",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "427934",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428303",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428307",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428339",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428346",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428347",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428354",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428355",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428356",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428410",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428428",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428475",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428946",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429253",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429382",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431168",
+    "country": "PHILIPPINES",
+    "bank": "WISE PILIPINAS INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431170",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431179",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431237",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432156",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK SAVINGS, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433699",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434348",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "435346",
+    "country": "PHILIPPINES",
+    "bank": "CITY SAVINGS BANK, INC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "435725",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "436367",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436368",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436446",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436512",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436524",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "436741",
+    "country": "PHILIPPINES",
+    "bank": "CIMB BANK BERHAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436861",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437315",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437507",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437550",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438627",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439196",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439197",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439197",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "440452",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440453",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440454",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445051",
+    "country": "PHILIPPINES",
+    "bank": "UNITED OVERSEAS BANK PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "445052",
+    "country": "PHILIPPINES",
+    "bank": "UNITED OVERSEAS BANK PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "445086",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446509",
+    "country": "PHILIPPINES",
+    "bank": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "447381",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "447779",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448458",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448458",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "449174",
+    "country": "PHILIPPINES",
+    "bank": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "449377",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "449915",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450177",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "450367",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450852",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451194",
+    "country": "PHILIPPINES",
+    "bank": "BANK DE ORO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "453035",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453248",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453756",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "453913",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK SAVINGS, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453914",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK SAVINGS, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453915",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "453971",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "453972",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "454494",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454710",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "455366",
+    "country": "PHILIPPINES",
+    "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455448",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455448",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455968",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456434",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "456752",
+    "country": "PHILIPPINES",
+    "bank": "BANK DE ORO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456753",
+    "country": "PHILIPPINES",
+    "bank": "BANK DE ORO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457358",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457453",
+    "country": "PHILIPPINES",
+    "bank": "LAND BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457556",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457557",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457574",
+    "country": "PHILIPPINES",
+    "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457591",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457592",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457593",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457608",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458535",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458803",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458824",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "460186",
+    "country": "PHILIPPINES",
+    "bank": "GOTYME BANK CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460888",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "461166",
+    "country": "PHILIPPINES",
+    "bank": "UNION DIGITAL BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461753",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461761",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461762",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461764",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "461766",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461769",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "461780",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "461782",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "461984",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462267",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462408",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462408",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462464",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462895",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE VETERANS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "463791",
+    "country": "PHILIPPINES",
+    "bank": "CTBC BANK (PHILIPPINES) CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464008",
+    "country": "PHILIPPINES",
+    "bank": "UNITED OVERSEAS BANK PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464020",
+    "country": "PHILIPPINES",
+    "bank": "UNITED OVERSEAS BANK PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464551",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "464571",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "464943",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464944",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464945",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464966",
+    "country": "PHILIPPINES",
+    "bank": "EQUICOM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "464995",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464995",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465117",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465160",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465164",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "465479",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466252",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK SAVINGS, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466253",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466536",
+    "country": "PHILIPPINES",
+    "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466539",
+    "country": "PHILIPPINES",
+    "bank": "BANANA FINTECH SERVICES CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467736",
+    "country": "PHILIPPINES",
+    "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467928",
+    "country": "PHILIPPINES",
+    "bank": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467929",
+    "country": "PHILIPPINES",
+    "bank": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468767",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "468816",
+    "country": "PHILIPPINES",
+    "bank": "BANANA FINTECH SERVICES CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "468826",
+    "country": "PHILIPPINES",
+    "bank": "BANANA FINTECH SERVICES CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "469622",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES INCORPORATED",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470586",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470676",
+    "country": "PHILIPPINES",
+    "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "470913",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "470913",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "474137",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "474844",
+    "country": "PHILIPPINES",
+    "bank": "LAND BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476407",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476683",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "478267",
+    "country": "PHILIPPINES",
+    "bank": "CIMB BANK BERHAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483442",
+    "country": "PHILIPPINES",
+    "bank": "MAYA PHILIPPINES, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483892",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484063",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484315",
+    "country": "PHILIPPINES",
+    "bank": "CIMB BANK BERHAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484875",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486009",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486038",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486057",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "486290",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486290",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486392",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486638",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "488907",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488908",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488935",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "488957",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488957",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "488960",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489012",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489013",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "489504",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489504",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490236",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "491257",
+    "country": "PHILIPPINES",
+    "bank": "STERLING BANK OF ASIA, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "492164",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492966",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "497225",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "503785",
+    "country": "PHILIPPINES",
+    "bank": "GCASH CARD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510186",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "510266",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510496",
+    "country": "PHILIPPINES",
+    "bank": "ONECARD COMPANY, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "510631",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511736",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRONIC"
+  },
+  {
+    "bin": "512163",
+    "country": "PHILIPPINES",
+    "bank": "UNOBANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512571",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512634",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512872",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "513476",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514921",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515103",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515105",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515463",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515499",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515603",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517080",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE BANK OF COMMUNICATIONS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517356",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "517528",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "517706",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517790",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517968",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517982",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517988",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518027",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518096",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518178",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518217",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518324",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518869",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518886",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519149",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519463",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519597",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519963",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "520315",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520352",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520353",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520365",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520683",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520894",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "520924",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "520954",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "521069",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521387",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521822",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522452",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "522465",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "522604",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522644",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522839",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "523091",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523550",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523736",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE BANK OF COMMUNICATIONS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523759",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523994",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524005",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524046",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524067",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524128",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524202",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524224",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524260",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524301",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524302",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524318",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524326",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524405",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524633",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "524736",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525617",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526491",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526548",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "526727",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526737",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527196",
+    "country": "PHILIPPINES",
+    "bank": "ZED PHILIPPINES INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "527366",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527507",
+    "country": "PHILIPPINES",
+    "bank": "BINANGONAN RURAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "527643",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "528204",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "528557",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528667",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528862",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529247",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "529416",
+    "country": "PHILIPPINES",
+    "bank": "SEABANK PHILIPPINES INC A RURAL BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529543",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A., PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529763",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529967",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529978",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530050",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530063",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530220",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530526",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530570",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530800",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531193",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ISIC"
+  },
+  {
+    "bin": "531210",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531228",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531229",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A., PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531272",
+    "country": "PHILIPPINES",
+    "bank": "LAND BANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531405",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531406",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531440",
+    "country": "PHILIPPINES",
+    "bank": "BINANGONAN RURAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531826",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531832",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531864",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531888",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531946",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532310",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "532375",
+    "country": "PHILIPPINES",
+    "bank": "BINANGONAN RURAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532808",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532910",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "533325",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE BANK OF COMMUNICATIONS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533639",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533653",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533830",
+    "country": "PHILIPPINES",
+    "bank": "LAND BANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533847",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533924",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533946",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A., PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534154",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534172",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534187",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534189",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534195",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534399",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534507",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534915",
+    "country": "PHILIPPINES",
+    "bank": "BINANGONAN RURAL BANK INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "535888",
+    "country": "PHILIPPINES",
+    "bank": "LAND BANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535892",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536151",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536257",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536301",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536306",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536307",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536334",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536343",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536344",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536345",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536347",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536348",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536499",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536789",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536910",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "537007",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537726",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538752",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "539229",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539276",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539543",
+    "country": "PHILIPPINES",
+    "bank": "NETBANK (A RURAL BANK), INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539580",
+    "country": "PHILIPPINES",
+    "bank": "NETBANK (A RURAL BANK), INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539599",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539915",
+    "country": "PHILIPPINES",
+    "bank": "UNOBANK INC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "540076",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540127",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540295",
+    "country": "PHILIPPINES",
+    "bank": "MAYA PHILIPPINES, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540379",
+    "country": "PHILIPPINES",
+    "bank": "OWN BANK, THE RURAL BANK OF CAVITE CITY, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540396",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "541280",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541408",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE"
+  },
+  {
+    "bin": "541436",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541572",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "541702",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541720",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK NA PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "541781",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "541788",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541788",
+    "country": "PHILIPPINES",
+    "bank": "BANCO DE ORO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541990",
+    "country": "PHILIPPINES",
+    "bank": "BANC DE ORO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542339",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542375",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542458",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542482",
+    "country": "PHILIPPINES",
+    "bank": "MAYA PHILIPPINES, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542551",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542594",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543431",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543761",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543788",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544044",
+    "country": "PHILIPPINES",
+    "bank": "GPAY NETWORK PH INC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "544538",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "544635",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544651",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544757",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544758",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545008",
+    "country": "PHILIPPINES",
+    "bank": "DEBIT ISIS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "545143",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545235",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545275",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545420",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545512",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545595",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545635",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545636",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546069",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546497",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "546498",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547150",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES, INCORPORATED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547152",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547322",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548095",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548352",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548353",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548487",
+    "country": "PHILIPPINES",
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548509",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548550",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548774",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548786",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "548809",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548924",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549419",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549832",
+    "country": "PHILIPPINES",
+    "bank": "SECURITY BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550214",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF COMMERCE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550317",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "552097",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552280",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552366",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552413",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552414",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552829",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "553233",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "FLEET"
+  },
+  {
+    "bin": "553283",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE FLEET"
+  },
+  {
+    "bin": "553286",
+    "country": "PHILIPPINES",
+    "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE FLEET"
+  },
+  {
+    "bin": "553294",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE FLEET"
+  },
+  {
+    "bin": "553532",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A., PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554045",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "554165",
+    "country": "PHILIPPINES",
+    "bank": "MAYBANK PHILIPPINES INCORPORATED",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "554541",
+    "country": "PHILIPPINES",
+    "bank": "LAND BANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554550",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554601",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555021",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A., PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555260",
+    "country": "PHILIPPINES",
+    "bank": "CITIBANK, N.A., PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555562",
+    "country": "PHILIPPINES",
+    "bank": "TONIK DIGITAL BANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556628",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "556658",
+    "country": "PHILIPPINES",
+    "bank": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557315",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557317",
+    "country": "PHILIPPINES",
+    "bank": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557751",
+    "country": "PHILIPPINES",
+    "bank": "BDO UNIBANK, INC.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "557753",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "558208",
+    "country": "PHILIPPINES",
+    "bank": "ASIA UNITED BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558569",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558769",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "558999",
+    "country": "PHILIPPINES",
+    "bank": "EAST WEST BANKING CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559169",
+    "country": "PHILIPPINES",
+    "bank": "ROBINSONS BANK CORPORATION",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559744",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559919",
+    "country": "PHILIPPINES",
+    "bank": "UNIONBANK OF THE PHILIPPINES",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "571261",
+    "country": "PHILIPPINES",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "578058",
+    "country": "PHILIPPINES",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "578096",
+    "country": "PHILIPPINES",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "581915",
+    "country": "PHILIPPINES",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "589558",
+    "country": "PHILIPPINES",
+    "bank": "CHINA BANKING CORPORATION",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589721",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "590141",
+    "country": "PHILIPPINES",
+    "bank": "UNION BANK OF THE PHILIPPINES",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "621231",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF CHINA LIMITED MANILA BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "622145",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "622934",
+    "country": "PHILIPPINES",
+    "bank": "ALLBANK INC.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623302",
+    "country": "PHILIPPINES",
+    "bank": "PVB CARD CORPORATION",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623303",
+    "country": "PHILIPPINES",
+    "bank": "PVB CARD CORPORATION",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623324",
+    "country": "PHILIPPINES",
+    "bank": "PVB CARD CORPORATION",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623349",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY INC.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623398",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY INC.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623492",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY INC.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "625007",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE RCBC",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625013",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE NATIONAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625033",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE BDO",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625035",
+    "country": "PHILIPPINES",
+    "bank": "PHILIPPINE BDO",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "628082",
+    "country": "PHILIPPINES",
+    "bank": "BANK OF THE PHILIPPINE ISLANDS",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "629115",
+    "country": "PHILIPPINES",
+    "bank": "CEBUANA LHUILLIER RURAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "650202",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY PHILIPPINES INC",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650203",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY PHILIPPINES INC",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650204",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY PHILIPPINES INC",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "650205",
+    "country": "PHILIPPINES",
+    "bank": "OMNIPAY PHILIPPINES INC",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "bin": "405068",
+    "country": "BURUNDI",
+    "bank": "BANQUE DE CREDIT DE BUJUMBURA (BCB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "408321",
+    "country": "BURUNDI",
+    "bank": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408322",
+    "country": "BURUNDI",
+    "bank": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "408323",
+    "country": "BURUNDI",
+    "bank": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408324",
+    "country": "BURUNDI",
+    "bank": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "411743",
+    "country": "BURUNDI",
+    "bank": "KCB BANK BURUNDI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419228",
+    "country": "BURUNDI",
+    "bank": "BANQUE DE CREDIT DE BUJUMBURA (BCB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419886",
+    "country": "BURUNDI",
+    "bank": "BANQUE DE CREDIT DE BUJUMBURA (BCB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "419887",
+    "country": "BURUNDI",
+    "bank": "BANQUE DE CREDIT DE BUJUMBURA (BCB)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "454564",
+    "country": "BURUNDI",
+    "bank": "ECOBANK BURUNDI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464106",
+    "country": "BURUNDI",
+    "bank": "ECOBANK BURUNDI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "464684",
+    "country": "BURUNDI",
+    "bank": "KCB BANK BURUNDI, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464685",
+    "country": "BURUNDI",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "464686",
+    "country": "BURUNDI",
+    "bank": "KENYA COMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "471281",
+    "country": "BURUNDI",
+    "bank": "CRDB BANK BURUNDI S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471282",
+    "country": "BURUNDI",
+    "bank": "CRDB BANK BURUNDI S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471283",
+    "country": "BURUNDI",
+    "bank": "CRDB BANK BURUNDI S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "476285",
+    "country": "BURUNDI",
+    "bank": "CRDB BANK BURUNDI S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481456",
+    "country": "BURUNDI",
+    "bank": "ECOBANK BURUNDI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483424",
+    "country": "BURUNDI",
+    "bank": "COMMERCIAL BANK OF BURUNDI (BANCOBU)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483425",
+    "country": "BURUNDI",
+    "bank": "COMMERCIAL BANK OF BURUNDI (BANCOBU)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483426",
+    "country": "BURUNDI",
+    "bank": "COMMERCIAL BANK OF BURUNDI (BANCOBU)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "528663",
+    "country": "BURUNDI",
+    "bank": "CRDB BANK BURUNDI S.A",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532516",
+    "country": "BURUNDI",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537968",
+    "country": "BURUNDI",
+    "bank": "BANQUE COMMERCIALE DU BURUNDI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551278",
+    "country": "BURUNDI",
+    "bank": "INTERBANK BURUNDI, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554211",
+    "country": "BURUNDI",
+    "bank": "BANQUE COMMERCIALE DU BURUNDI",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557796",
+    "country": "BURUNDI",
+    "bank": "BANQUE COMMERCIALE DU BURUNDI",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  }
+]

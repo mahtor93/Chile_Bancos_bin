@@ -1,0 +1,118 @@
+[
+    {
+        "ANZ_BANK_LTD._-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "451815",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "ANZ BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "463718",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "ANZ BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "ANZ_BANKING_GROUP_LTD._-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "542685",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "ANZ BANKING GROUP, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "AUSTRALIA_AND_NEW_ZEALAND_BANKING_GROUP_LTD._-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "437971",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "462875",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANK_OF_SOUTH_PACIFIC_LTD._-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "467949",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "BANK OF SOUTH PACIFIC, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BRED_(VANUATU)_LTD._-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "428719",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "BRED (VANUATU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "436530",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "BRED (VANUATU), LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "BSP_FINANCIAL_GROUP_LTD._-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "469529",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "BSP FINANCIAL GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481268",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "BSP FINANCIAL GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "WESTPAC_BANKING_CORPORATION_-_SOLOMON_ISLANDS": [
+            {
+                "Numero BIN/IIN": "421841",
+                "Pais": "SOLOMON ISLANDS",
+                "Nombre del emisor / Banco": "WESTPAC BANKING CORPORATION",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    }
+]

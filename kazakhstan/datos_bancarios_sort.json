@@ -1,0 +1,3570 @@
+[
+  {
+    "bin": "220428",
+    "country": "KAZAKHSTAN",
+    "bank": "SB SBERBANK JSC",
+    "network": "NSPK MIR",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220436",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK",
+    "network": "NSPK MIR",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "360970",
+    "country": "KAZAKHSTAN",
+    "bank": "DC KAZAKHSTAN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360971",
+    "country": "KAZAKHSTAN",
+    "bank": "DC KAZAKHSTAN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360972",
+    "country": "KAZAKHSTAN",
+    "bank": "DC KAZAKHSTAN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360973",
+    "country": "KAZAKHSTAN",
+    "bank": "DC KAZAKHSTAN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360974",
+    "country": "KAZAKHSTAN",
+    "bank": "DC KAZAKHSTAN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "360975",
+    "country": "KAZAKHSTAN",
+    "bank": "DC KAZAKHSTAN",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "379894",
+    "country": "KAZAKHSTAN",
+    "bank": "KKB",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "379895",
+    "country": "KAZAKHSTAN",
+    "bank": "KKB",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "PERSONAL GREEN REVOLVE"
+  },
+  {
+    "bin": "400289",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "400303",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "400307",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400356",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "400377",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "400777",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402134",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "402135",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402171",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403167",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403259",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "404135",
+    "country": "KAZAKHSTAN",
+    "bank": "ALTYN BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404242",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404243",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "404244",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "404245",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "404363",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404932",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HOME CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "405255",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405256",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405257",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405258",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405465",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405709",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405772",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407107",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "408577",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "409625",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409663",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409872",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410708",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410726",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410727",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410728",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410729",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410799",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412464",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413261",
+    "country": "KAZAKHSTAN",
+    "bank": "TSESNABANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413262",
+    "country": "KAZAKHSTAN",
+    "bank": "TSESNABANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413263",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413264",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414621",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "414623",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "415602",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "416443",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "417432",
+    "country": "KAZAKHSTAN",
+    "bank": "ASIACREDIT BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417433",
+    "country": "KAZAKHSTAN",
+    "bank": "ASIACREDIT BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417434",
+    "country": "KAZAKHSTAN",
+    "bank": "ASIACREDIT BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417660",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417661",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417662",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417663",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417664",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417665",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK CASPIAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417803",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "418081",
+    "country": "KAZAKHSTAN",
+    "bank": "SO JSC VTB BANK (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "418082",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418838",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC BANK TURANALEM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "418900",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418901",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418973",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418974",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418975",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418976",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418977",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "419394",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419801",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "420363",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420364",
+    "country": "KAZAKHSTAN",
+    "bank": "SB SBERBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "420365",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "421986",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC TEMIRBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422126",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422191",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422192",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422427",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "422440",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422576",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422611",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423196",
+    "country": "KAZAKHSTAN",
+    "bank": "TSESNABANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "423207",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423208",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423300",
+    "country": "KAZAKHSTAN",
+    "bank": "ALTYN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423306",
+    "country": "KAZAKHSTAN",
+    "bank": "ALTYN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "424467",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "424524",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425561",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425562",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425563",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "425564",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425565",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZINVESTBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425680",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "425699",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "425889",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "426343",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "426344",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "426345",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426346",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426668",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426738",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "426739",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426820",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426903",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "426904",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "427067",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "427272",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "427273",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427274",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427704",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427717",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427764",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428600",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428601",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428790",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428954",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428955",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428956",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428957",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC DELTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "429017",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429438",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "429439",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "429440",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429964",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429969",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "430273",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430852",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SHINHAN BANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430857",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SHINHAN BANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431253",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431879",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433017",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433019",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433021",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433029",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433030",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433031",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433098",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433317",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433318",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433319",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "433969",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC TEMIRBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "433984",
+    "country": "KAZAKHSTAN",
+    "bank": "HSBC BANK KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "434140",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SHINHAN BANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "436708",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439087",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "439088",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "439220",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC TEMIRBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439221",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC TEMIRBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439222",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC TEMIRBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439223",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC TEMIRBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439985",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439986",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "439987",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439988",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440043",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440125",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440126",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440127",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440128",
+    "country": "KAZAKHSTAN",
+    "bank": "NURBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "440254",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HOME CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "440256",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440257",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440258",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440259",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HOME CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "440563",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "440565",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "440617",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC BANK TURANALEM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441327",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441328",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "441329",
+    "country": "KAZAKHSTAN",
+    "bank": "TSESNABANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "442464",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442477",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "442478",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442479",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "443864",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443865",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "444077",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HOME CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "444482",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "444499",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446303",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446372",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446373",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446374",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446375",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "446929",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "447176",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447178",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447665",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "447666",
+    "country": "KAZAKHSTAN",
+    "bank": "HOME CREDIT BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448318",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC BANK TURANALEM",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450286",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "452440",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453571",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457436",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457437",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457438",
+    "country": "KAZAKHSTAN",
+    "bank": "FORTEBANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457832",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "457833",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "457834",
+    "country": "KAZAKHSTAN",
+    "bank": "SB SBERBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457835",
+    "country": "KAZAKHSTAN",
+    "bank": "SB SBERBANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457854",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457930",
+    "country": "KAZAKHSTAN",
+    "bank": "ECO CENTER BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457986",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "458260",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458261",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459895",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462000",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "462522",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462523",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462818",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "462819",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "463743",
+    "country": "KAZAKHSTAN",
+    "bank": "TSESNABANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "465819",
+    "country": "KAZAKHSTAN",
+    "bank": "OJSC BANK TURANALEM",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466708",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "466720",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "467783",
+    "country": "KAZAKHSTAN",
+    "bank": "HSBC BANK KAZAKHSTAN JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470713",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "471271",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474807",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "474808",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "474809",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "476283",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "476284",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "478674",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "478755",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478756",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478757",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC SB RBS (KAZAKHSTAN)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "479068",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "483470",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HOME CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483778",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484197",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATF BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484634",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484893",
+    "country": "KAZAKHSTAN",
+    "bank": "TSESNABANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "485625",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486390",
+    "country": "KAZAKHSTAN",
+    "bank": "KASPI BANK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486504",
+    "country": "KAZAKHSTAN",
+    "bank": "CJSC CITIBANK KAZAKHSTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "489199",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HOME CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "489331",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489332",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489333",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489334",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489335",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489351",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489988",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489992",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489993",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTER CREDIT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "490447",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490448",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490449",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490450",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490452",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490453",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490454",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK RBK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490472",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC HALYK BANK OF KAZAKHSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "494332",
+    "country": "KAZAKHSTAN",
+    "bank": "HOME CREDIT BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "497149",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "510145",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510445",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "511063",
+    "country": "KAZAKHSTAN",
+    "bank": "METROTEC, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511574",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "511890",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512095",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512356",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512666",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512769",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "513223",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515453",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515627",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515739",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "515795",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516730",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516778",
+    "country": "KAZAKHSTAN",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "516873",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516948",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516949",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516979",
+    "country": "KAZAKHSTAN",
+    "bank": "SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517327",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517331",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517511",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "517792",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518772",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519170",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520376",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520418",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521050",
+    "country": "KAZAKHSTAN",
+    "bank": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521431",
+    "country": "KAZAKHSTAN",
+    "bank": "S1LK PAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "521700",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524279",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524345",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "524354",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525244",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "525582",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525752",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526572",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526988",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526994",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "529010",
+    "country": "KAZAKHSTAN",
+    "bank": "TENGRI BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "529818",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529853",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZPOST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530067",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND BANK JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530180",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "530496",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "530554",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "530796",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530935",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531328",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532037",
+    "country": "KAZAKHSTAN",
+    "bank": "SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532424",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532427",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532456",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532483",
+    "country": "KAZAKHSTAN",
+    "bank": "SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532753",
+    "country": "KAZAKHSTAN",
+    "bank": "TENGRI BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "UNEMBOSSED"
+  },
+  {
+    "bin": "533642",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534180",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534183",
+    "country": "KAZAKHSTAN",
+    "bank": "S1LK PAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535188",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535258",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC CAPITAL BANK KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535268",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535269",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535271",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535288",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535350",
+    "country": "KAZAKHSTAN",
+    "bank": "SB HSBC BANK KAZAKHSTAN JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "535451",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535457",
+    "country": "KAZAKHSTAN",
+    "bank": "T.C. ZIRAAT BANKASI, A.S.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535541",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535581",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535650",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536532",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536685",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "537040",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "537601",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537736",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537825",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "538978",
+    "country": "KAZAKHSTAN",
+    "bank": "KAZEUROMOBILE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539144",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "539215",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539453",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539545",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539588",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC CAPITAL BANK KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "539674",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539813",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "539894",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY NURBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540652",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541414",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "541862",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC CAPITAL BANK KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542364",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542384",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542762",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542999",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543271",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543774",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543783",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "544772",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545222",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "545248",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "546007",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK EDITION"
+  },
+  {
+    "bin": "546347",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JYSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "546875",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546876",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547089",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "547371",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY BANK OF BANK HAPOALIM B.M.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547414",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "547673",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547752",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "547844",
+    "country": "KAZAKHSTAN",
+    "bank": "BEREKE BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "547856",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548000",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548145",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC CAPITAL BANK KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "548318",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548319",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548763",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY NURBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548828",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549831",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549842",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ALTYN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "549886",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY BANK OF BANK HAPOALIM B.M.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550491",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552204",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "553107",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553481",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY NURBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554066",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554532",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC CAPITAL BANK KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555335",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555676",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "557469",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "557834",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557957",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY BANK OF BANK HAPOALIM B.M.)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558291",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559486",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559662",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559672",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559958",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BLACK"
+  },
+  {
+    "bin": "589815",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK TURANALEM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "620187",
+    "country": "KAZAKHSTAN",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ALMATY",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "621375",
+    "country": "KAZAKHSTAN",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ALMATY",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621414",
+    "country": "KAZAKHSTAN",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ALMATY",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "622549",
+    "country": "KAZAKHSTAN",
+    "bank": "KAZAKHSTAN NATIONAL SAVINGS BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "622550",
+    "country": "KAZAKHSTAN",
+    "bank": "KAZAKHSTAN NATIONAL SAVINGS BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "623336",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623337",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623338",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623382",
+    "country": "KAZAKHSTAN",
+    "bank": "SBERBANK KZ",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623417",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623418",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623419",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623420",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623421",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623424",
+    "country": "KAZAKHSTAN",
+    "bank": "JSCHALYK BANK OF KAZAKHSTAN",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623450",
+    "country": "KAZAKHSTAN",
+    "bank": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623467",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624323",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624341",
+    "country": "KAZAKHSTAN",
+    "bank": "NATIONAL SAVINGS BANK OF KAZAKHSTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "624457",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KAZKOMMERTSBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624465",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK CENTERCREDIT",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624495",
+    "country": "KAZAKHSTAN",
+    "bank": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "625914",
+    "country": "KAZAKHSTAN",
+    "bank": "ICBC ALMATY BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "625928",
+    "country": "KAZAKHSTAN",
+    "bank": "ICBC ALMATY",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "626244",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626245",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626258",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626287",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY ALTYN BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626288",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY ALTYN BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626374",
+    "country": "KAZAKHSTAN",
+    "bank": "FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626403",
+    "country": "KAZAKHSTAN",
+    "bank": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "626424",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY ALTYN BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629180",
+    "country": "KAZAKHSTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670990",
+    "country": "KAZAKHSTAN",
+    "bank": "BANK FREEDOM FINANCE KAZAKHSTAN JOINT STOCK COMPANY",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670998",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC EURASIAN BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676200",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676205",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677252",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC ATFBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677282",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677324",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY NURBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677498",
+    "country": "KAZAKHSTAN",
+    "bank": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY BANK OF BANK HAPOALIM B.M.)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677643",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC FORTEBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677650",
+    "country": "KAZAKHSTAN",
+    "bank": "SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677671",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC KASPI BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677679",
+    "country": "KAZAKHSTAN",
+    "bank": "JOINT STOCK COMPANY BANK CENTERCREDIT",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677680",
+    "country": "KAZAKHSTAN",
+    "bank": "JSC BANK OF ASTANA",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  }
+]

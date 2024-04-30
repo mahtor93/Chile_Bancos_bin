@@ -1,0 +1,62 @@
+[
+    {
+        "BGFIBANK_CENTRAFRIQUE_-_CENTRAL_AFRICAN_REPUBLIC": [
+            {
+                "Numero BIN/IIN": "408048",
+                "Pais": "CENTRAL AFRICAN REPUBLIC",
+                "Nombre del emisor / Banco": "BGFIBANK CENTRAFRIQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "ECOBANK_CENTRAFRIQUE_-_CENTRAL_AFRICAN_REPUBLIC": [
+            {
+                "Numero BIN/IIN": "408142",
+                "Pais": "CENTRAL AFRICAN REPUBLIC",
+                "Nombre del emisor / Banco": "ECOBANK CENTRAFRIQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "433804",
+                "Pais": "CENTRAL AFRICAN REPUBLIC",
+                "Nombre del emisor / Banco": "ECOBANK CENTRAFRIQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "464114",
+                "Pais": "CENTRAL AFRICAN REPUBLIC",
+                "Nombre del emisor / Banco": "ECOBANK CENTRAFRIQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD/PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "481448",
+                "Pais": "CENTRAL AFRICAN REPUBLIC",
+                "Nombre del emisor / Banco": "ECOBANK CENTRAFRIQUE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_NIGERIA_PLC_-_CENTRAL_AFRICAN_REPUBLIC": [
+            {
+                "Numero BIN/IIN": "532517",
+                "Pais": "CENTRAL AFRICAN REPUBLIC",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    }
+]

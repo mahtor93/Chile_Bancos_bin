@@ -1,0 +1,3106 @@
+[
+  {
+    "bin": "364092",
+    "country": "SERBIA",
+    "bank": "DINERS CLUB INTERNATIONAL SERBIA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "400362",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "400621",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402284",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD NIS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "402323",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402548",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "402557",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402636",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402671",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402775",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402930",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402965",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402966",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402975",
+    "country": "SERBIA",
+    "bank": "CREDY BANKA AD KRAGUJEVAC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402976",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "402977",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402982",
+    "country": "SERBIA",
+    "bank": "INTERPAYMENT SERVICES, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402989",
+    "country": "SERBIA",
+    "bank": "CACANSKA BANKA A.D. CACAK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402990",
+    "country": "SERBIA",
+    "bank": "CACANSKA BANKA A.D. CACAK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402996",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402997",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402998",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402999",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403098",
+    "country": "SERBIA",
+    "bank": "HALKBANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403243",
+    "country": "SERBIA",
+    "bank": "HALKBANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403358",
+    "country": "SERBIA",
+    "bank": "VOJVODJANSKA BANKA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403781",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403865",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403866",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "403867",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "403868",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "403869",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405216",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405241",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405242",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405243",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "405244",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405441",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405442",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405476",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "405477",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405478",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405479",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405484",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406221",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406222",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406223",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406224",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406225",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406226",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406387",
+    "country": "SERBIA",
+    "bank": "HVB BANKA JUGOSLAVIJA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406445",
+    "country": "SERBIA",
+    "bank": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406446",
+    "country": "SERBIA",
+    "bank": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "407532",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "408404",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK, JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "410061",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411921",
+    "country": "SERBIA",
+    "bank": "PANONSKA BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416911",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "417332",
+    "country": "SERBIA",
+    "bank": "OPPORTUNITY BANK A.D. PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417373",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417374",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417375",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417376",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417377",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "417378",
+    "country": "SERBIA",
+    "bank": "EFG EUROBANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417399",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417466",
+    "country": "SERBIA",
+    "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417475",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417476",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417477",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "417478",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417479",
+    "country": "SERBIA",
+    "bank": "KULSKA BANKA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417613",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417614",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417651",
+    "country": "SERBIA",
+    "bank": "CREDY BANKA AD KRAGUJEVAC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "417764",
+    "country": "SERBIA",
+    "bank": "PANONSKA BANKA A.D. YUGOSLAVIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418339",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418340",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418341",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "418690",
+    "country": "SERBIA",
+    "bank": "API BANK J.S.C. BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418691",
+    "country": "SERBIA",
+    "bank": "API BANK J.S.C. BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418692",
+    "country": "SERBIA",
+    "bank": "API BANK J.S.C. BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418693",
+    "country": "SERBIA",
+    "bank": "API BANK J.S.C. BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "418694",
+    "country": "SERBIA",
+    "bank": "BANK OF MOSCOW BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418695",
+    "country": "SERBIA",
+    "bank": "FINDOMESTIC BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418696",
+    "country": "SERBIA",
+    "bank": "FINDOMESTIC BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418734",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "418735",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "421018",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421108",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421186",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421187",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "421633",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421741",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "422077",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422078",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422615",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423867",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424178",
+    "country": "SERBIA",
+    "bank": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424279",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA AD BUDVA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424280",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424281",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424282",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424317",
+    "country": "SERBIA",
+    "bank": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424549",
+    "country": "SERBIA",
+    "bank": "AGRICULTURAL BANK AGROBANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424550",
+    "country": "SERBIA",
+    "bank": "AGRICULTURAL BANK AGROBANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424566",
+    "country": "SERBIA",
+    "bank": "EFG EUROBANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424567",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425301",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425302",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425303",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425304",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425305",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "425306",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425340",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425348",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425349",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426067",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426068",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427226",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427716",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427809",
+    "country": "SERBIA",
+    "bank": "MARFIN BANK AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427810",
+    "country": "SERBIA",
+    "bank": "ADRIATIC BANK JSC BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427811",
+    "country": "SERBIA",
+    "bank": "LAIKI BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427812",
+    "country": "SERBIA",
+    "bank": "ADRIATIC BANK JSC BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427813",
+    "country": "SERBIA",
+    "bank": "ADRIATIC BANK JSC BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "427814",
+    "country": "SERBIA",
+    "bank": "LAIKI BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "427865",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428227",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK SRBIJA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428943",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429054",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429055",
+    "country": "SERBIA",
+    "bank": "VOJVODJANSKA BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "430277",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430278",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "430891",
+    "country": "SERBIA",
+    "bank": "YUBMES BANK AD BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431207",
+    "country": "SERBIA",
+    "bank": "ATLAS MONT BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431374",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431408",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431476",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "431477",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "431478",
+    "country": "SERBIA",
+    "bank": "NLB CONTINENTAL BANKA AD NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431872",
+    "country": "SERBIA",
+    "bank": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432261",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432262",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432263",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "432406",
+    "country": "SERBIA",
+    "bank": "KBC BANKA AD BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432407",
+    "country": "SERBIA",
+    "bank": "KBC BANKA AD BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "432408",
+    "country": "SERBIA",
+    "bank": "KBC BANKA AD BELGRADE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432409",
+    "country": "SERBIA",
+    "bank": "A BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434060",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "438131",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438132",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438144",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438158",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "438161",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438162",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "438163",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438865",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "439026",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439028",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439029",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439030",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439031",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439036",
+    "country": "SERBIA",
+    "bank": "ZEPTER BANKA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "439037",
+    "country": "SERBIA",
+    "bank": "ZEPTER BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439099",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440538",
+    "country": "SERBIA",
+    "bank": "VOJVODJANSKA BANKA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "440539",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440910",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "443908",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443909",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445038",
+    "country": "SERBIA",
+    "bank": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445039",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447904",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447906",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450021",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450022",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "450023",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA A.D.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450651",
+    "country": "SERBIA",
+    "bank": "PANONSKA BANKA A.D. YUGOSLAVIA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457315",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC BELGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457765",
+    "country": "SERBIA",
+    "bank": "AIK BANKA AD NIS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457814",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458213",
+    "country": "SERBIA",
+    "bank": "MARFIN BANK AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458216",
+    "country": "SERBIA",
+    "bank": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458217",
+    "country": "SERBIA",
+    "bank": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458455",
+    "country": "SERBIA",
+    "bank": "CACANSKA BANKA A.D. CACAK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458593",
+    "country": "SERBIA",
+    "bank": "KBC BANKA AD BELGRADE",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458782",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA A.D.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "466082",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467369",
+    "country": "SERBIA",
+    "bank": "FINDOMESTIC BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "467912",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470662",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D., BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "472253",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475163",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "478779",
+    "country": "SERBIA",
+    "bank": "ALTA BANKA AD BEOGRAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "484187",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486069",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "487031",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487049",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "487077",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK, JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487078",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK, JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "487079",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK, JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "511867",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512251",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512318",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512597",
+    "country": "SERBIA",
+    "bank": "VOJVODJANSKA BANKA AD NOVI SAD, OTP GROUP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512805",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512865",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "513302",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "516476",
+    "country": "SERBIA",
+    "bank": "HALKBANK JSC BELGRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "516743",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516782",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516814",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516934",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516947",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516956",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516966",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516967",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516978",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517005",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "517303",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "518289",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518657",
+    "country": "SERBIA",
+    "bank": "RBA BANKA A.D. NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518660",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518713",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518786",
+    "country": "SERBIA",
+    "bank": "EUROBANK A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518926",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519216",
+    "country": "SERBIA",
+    "bank": "HALKBANK JSC BELGRADE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520059",
+    "country": "SERBIA",
+    "bank": "VOJVODJANSKA BANKA AD NOVI SAD, OTP GROUP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520135",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520308",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520628",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520647",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "520677",
+    "country": "SERBIA",
+    "bank": "RBA BANKA A.D. NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520901",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520930",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520931",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524887",
+    "country": "SERBIA",
+    "bank": "MOBIBANKA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525347",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "525838",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526112",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "528060",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA AD KRAGUJEVAC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529328",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "530991",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530999",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531526",
+    "country": "SERBIA",
+    "bank": "CREDIT AGRICOLE SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "531933",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "532053",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533665",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533667",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533906",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "534698",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "535131",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535152",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535183",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535184",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535202",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535223",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA AD KRAGUJEVAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535250",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535266",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA AD KRAGUJEVAC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535283",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535481",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535482",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535546",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535673",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535683",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535692",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535718",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535736",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "535808",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536749",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "537265",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "537442",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537473",
+    "country": "SERBIA",
+    "bank": "HALKBANK JSC BELGRADE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537474",
+    "country": "SERBIA",
+    "bank": "HALKBANK JSC BELGRADE",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537477",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537491",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "537499",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "538168",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540087",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "541399",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542132",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "543157",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544149",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544241",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK BEOGRAD A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544358",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544428",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "544492",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547273",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK BEOGRAD A.D.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547301",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547387",
+    "country": "SERBIA",
+    "bank": "NLB KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547444",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547618",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "548100",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549396",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "549612",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "550089",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550448",
+    "country": "SERBIA",
+    "bank": "FINDOMESTIC BANKA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552238",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552617",
+    "country": "SERBIA",
+    "bank": "FINDOMESTIC BANKA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552643",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552644",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552718",
+    "country": "SERBIA",
+    "bank": "RBA BANKA A.D. NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552726",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PREFERRED BUSINESS"
+  },
+  {
+    "bin": "552863",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "552883",
+    "country": "SERBIA",
+    "bank": "NLB BANKA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553048",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553093",
+    "country": "SERBIA",
+    "bank": "VOJVODJANSKA BANKA AD NOVI SAD, OTP GROUP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557448",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK AD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "557481",
+    "country": "SERBIA",
+    "bank": "EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557482",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557489",
+    "country": "SERBIA",
+    "bank": "MOBIBANKA AD BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558671",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANK A.D. BEOGRAD",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559838",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "650091",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "650093",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655671",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655672",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655673",
+    "country": "SERBIA",
+    "bank": "BANKA POSTANSKA STEDIONICA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655674",
+    "country": "SERBIA",
+    "bank": "AGROBANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "655675",
+    "country": "SERBIA",
+    "bank": "AIK BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655676",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655677",
+    "country": "SERBIA",
+    "bank": "PRIVREDNA BANKA BEOGRAD",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "655678",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "655679",
+    "country": "SERBIA",
+    "bank": "METALS BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PREMIUM"
+  },
+  {
+    "bin": "655680",
+    "country": "SERBIA",
+    "bank": "HALK BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655681",
+    "country": "SERBIA",
+    "bank": "SOCIETE GENERAL",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655682",
+    "country": "SERBIA",
+    "bank": "KBC BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655683",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655684",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655686",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655687",
+    "country": "SERBIA",
+    "bank": "MARFIN BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655688",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655689",
+    "country": "SERBIA",
+    "bank": "CREDIT AGRICOLE BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655692",
+    "country": "SERBIA",
+    "bank": "EUROBANK EFG",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655693",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655695",
+    "country": "SERBIA",
+    "bank": "OTP BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "655697",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657372",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657373",
+    "country": "SERBIA",
+    "bank": "BANKA POSTANSKA STEDIONICA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657374",
+    "country": "SERBIA",
+    "bank": "AGROBANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "657375",
+    "country": "SERBIA",
+    "bank": "AIK BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657376",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657377",
+    "country": "SERBIA",
+    "bank": "PRIVREDNA BANKA BEOGRAD",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657378",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "657379",
+    "country": "SERBIA",
+    "bank": "METALS BANKA",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "657380",
+    "country": "SERBIA",
+    "bank": "HALK BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657381",
+    "country": "SERBIA",
+    "bank": "SOCIETE GENERAL",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657382",
+    "country": "SERBIA",
+    "bank": "KBC BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657383",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657384",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657386",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657387",
+    "country": "SERBIA",
+    "bank": "MARFIN BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657388",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657389",
+    "country": "SERBIA",
+    "bank": "CREDIT AGRICOLE BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657392",
+    "country": "SERBIA",
+    "bank": "EUROBANK EFG",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657395",
+    "country": "SERBIA",
+    "bank": "OTP BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657396",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657397",
+    "country": "SERBIA",
+    "bank": "ADDIKO BANKA",
+    "network": "DISCOVER",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "657398",
+    "country": "SERBIA",
+    "bank": "POSTAL SAVINGS BANK",
+    "network": "DISCOVER",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "670514",
+    "country": "SERBIA",
+    "bank": "AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676685",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK BEOGRAD A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676688",
+    "country": "SERBIA",
+    "bank": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676696",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676885",
+    "country": "SERBIA",
+    "bank": "DIREKTNA BANKA AD KRAGUJEVAC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "676910",
+    "country": "SERBIA",
+    "bank": "EUROBANK A.D.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676911",
+    "country": "SERBIA",
+    "bank": "UNICREDIT BANK SERBIA JSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "676955",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677016",
+    "country": "SERBIA",
+    "bank": "RBA BANKA A.D. NOVI SAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677061",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677068",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK AD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677070",
+    "country": "SERBIA",
+    "bank": "NLB BANKA AD BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677205",
+    "country": "SERBIA",
+    "bank": "RAIFFEISENBANK A.D. BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677239",
+    "country": "SERBIA",
+    "bank": "OTP BANKA SRBIJA AD NOVI SAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677283",
+    "country": "SERBIA",
+    "bank": "ERSTE BANK AD NOVI SAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "677477",
+    "country": "SERBIA",
+    "bank": "BANCA INTESA AD BEOGRAD",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "989101",
+    "country": "SERBIA",
+    "bank": "BANKA POSTANSKA STEDIONICA",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "989106",
+    "country": "SERBIA",
+    "bank": "SRPSKA BANKA A.D. BEOGRAD",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989107",
+    "country": "SERBIA",
+    "bank": "BACKA POSTANSKA STEDIONICA A.D. BEOGRAD",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989111",
+    "country": "SERBIA",
+    "bank": "BACKA POSTANSKA STEDIONICA A.D. BEOGRAD",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989123",
+    "country": "SERBIA",
+    "bank": "PROCREDIT BANK",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989124",
+    "country": "SERBIA",
+    "bank": "AIK BANKA",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "989125",
+    "country": "SERBIA",
+    "bank": "KBC BANKA",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989127",
+    "country": "SERBIA",
+    "bank": "PIERUS BANK",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989128",
+    "country": "SERBIA",
+    "bank": "UNIVERZAL BANKA",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "989131",
+    "country": "SERBIA",
+    "bank": "ALPHA BANK",
+    "network": "DINACARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "989167",
+    "country": "SERBIA",
+    "bank": "PIRAEUS BANK, S.A.",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "989175",
+    "country": "SERBIA",
+    "bank": "VTB BANKA",
+    "network": "DINACARD",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

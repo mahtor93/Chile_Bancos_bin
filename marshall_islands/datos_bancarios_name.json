@@ -1,0 +1,26 @@
+[
+    {
+        "BANK_OF_GUAM_-_MARSHALL_ISLANDS": [
+            {
+                "Numero BIN/IIN": "483785",
+                "Pais": "MARSHALL ISLANDS",
+                "Nombre del emisor / Banco": "BANK OF GUAM",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "FIFTH_THIRD_BANK_-_MARSHALL_ISLANDS": [
+            {
+                "Numero BIN/IIN": "470163",
+                "Pais": "MARSHALL ISLANDS",
+                "Nombre del emisor / Banco": "FIFTH THIRD BANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

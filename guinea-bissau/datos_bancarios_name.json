@@ -1,0 +1,126 @@
+[
+    {
+        "BANCO_DA_AFRICA_OCIDENTAL_-_GUINEA-BISSAU": [
+            {
+                "Numero BIN/IIN": "437576",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "BANCO DA AFRICA OCIDENTAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "437577",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "BANCO DA AFRICA OCIDENTAL",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "BANCO_DA_UNIAO_-_GUINEA-BISSAU": [
+            {
+                "Numero BIN/IIN": "400661",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "BANCO DA UNIAO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "400789",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "BANCO DA UNIAO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_GUINEA_BISSAU_-_GUINEA-BISSAU": [
+            {
+                "Numero BIN/IIN": "420455",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ECOBANK GUINEA BISSAU",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD/PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "422433",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ECOBANK GUINEA BISSAU",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "423000",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ECOBANK GUINEA BISSAU",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "454519",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ECOBANK GUINEA BISSAU",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECOBANK_NIGERIA_PLC_-_GUINEA-BISSAU": [
+            {
+                "Numero BIN/IIN": "529150",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ECOBANK NIGERIA PLC",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "ORABANK_COTE_D'IVOIRE_-_GUINEA-BISSAU": [
+            {
+                "Numero BIN/IIN": "429356",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488980",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "488987",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "488991",
+                "Pais": "GUINEA-BISSAU",
+                "Nombre del emisor / Banco": "ORABANK COTE D'IVOIRE",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    }
+]

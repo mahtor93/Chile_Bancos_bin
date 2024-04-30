@@ -1,0 +1,5770 @@
+[
+  {
+    "bin": "223107",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "223403",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "230850",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230850",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230892",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230935",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230935",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230970",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "235006",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "235007",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDE NUMERO UNO RL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "250068",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "250072",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "250074",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDE NUMERO UNO RL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "260008",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "270329",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "270329",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "363346",
+    "country": "COSTA RICA",
+    "bank": "DC COSTA RICA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "364886",
+    "country": "COSTA RICA",
+    "bank": "DC COSTA RICA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365538",
+    "country": "COSTA RICA",
+    "bank": "DC COSTA RICA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "365542",
+    "country": "COSTA RICA",
+    "bank": "DC COSTA RICA",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "400943",
+    "country": "COSTA RICA",
+    "bank": "CITITARJETAS DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401610",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401610",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401632",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401681",
+    "country": "COSTA RICA",
+    "bank": "BANCO DEL ISTMO (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401682",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402285",
+    "country": "COSTA RICA",
+    "bank": "CITITARJETAS DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "402478",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402520",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "402560",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402561",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402722",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402751",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "402932",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404144",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404265",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404485",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404485",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404486",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404486",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404487",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404487",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404491",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404491",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "404980",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "405705",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406320",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "406320",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "408064",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS EMPLEADOS DEL MINISTERIO DE EDUCACION PUB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409375",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409376",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409377",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409605",
+    "country": "COSTA RICA",
+    "bank": "PROSIX, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "409627",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409707",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409731",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410154",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410154",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410346",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410347",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410348",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410355",
+    "country": "COSTA RICA",
+    "bank": "TELEDOLAR SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410372",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410443",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410720",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DE PEREZ ZELEDON R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "410758",
+    "country": "COSTA RICA",
+    "bank": "BANCO CMB (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "410759",
+    "country": "COSTA RICA",
+    "bank": "BANCO CMB (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "410864",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411604",
+    "country": "COSTA RICA",
+    "bank": "AVAL CARD (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411610",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A. (IMPESA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "411611",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "411611",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE BUSINESS"
+  },
+  {
+    "bin": "411612",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A. (IMPESA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411613",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411613",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "411757",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "412799",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412799",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "413107",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "413107",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "413890",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413890",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413891",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413891",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413892",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413892",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414282",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414290",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414290",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414452",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414453",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "414454",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414455",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "414561",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "414766",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414766",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414783",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414783",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414787",
+    "country": "COSTA RICA",
+    "bank": "MEDIOS DE PAGO FC COSTA RICA SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "415276",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415277",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415278",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415581",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "415582",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415583",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416826",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416828",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416829",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417335",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417335",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "418083",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418084",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418374",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418374",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418375",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418375",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418376",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418376",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "418929",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418929",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418930",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418930",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419229",
+    "country": "COSTA RICA",
+    "bank": "BANCO CITIBANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419230",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DE PEREZ ZELEDON R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419231",
+    "country": "COSTA RICA",
+    "bank": "CREDISIMAN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419232",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419232",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419549",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "419556",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419882",
+    "country": "COSTA RICA",
+    "bank": "CREDECOOP R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "419884",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "419885",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420550",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420550",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420551",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420551",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421386",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421386",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421387",
+    "country": "COSTA RICA",
+    "bank": "BANCA PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421547",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421548",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421748",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421748",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421909",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421909",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423697",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423697",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424101",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424101",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424102",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424102",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424903",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "424904",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424905",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425484",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425485",
+    "country": "COSTA RICA",
+    "bank": "MEDIOS DE PAGO FC COSTA RICA SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425486",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "425957",
+    "country": "COSTA RICA",
+    "bank": "INVERSIONES FEDEBAN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426016",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426017",
+    "country": "COSTA RICA",
+    "bank": "AVAL CARD (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426074",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427155",
+    "country": "COSTA RICA",
+    "bank": "BANCO CMB (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "427171",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANTONIO VEGA GRANADOS R.L",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428207",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428207",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428292",
+    "country": "COSTA RICA",
+    "bank": "BANCO CITIBANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "430286",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "431069",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431884",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431884",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "431885",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "431885",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "431994",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431994",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432087",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DE PEREZ ZELEDON R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432088",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DE PEREZ ZELEDON R.L.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432131",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432131",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "432394",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432395",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433086",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "433584",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433584",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433585",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433585",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433586",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433586",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434094",
+    "country": "COSTA RICA",
+    "bank": "BANCA PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434096",
+    "country": "COSTA RICA",
+    "bank": "BANCA PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434097",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434097",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434526",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434527",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434679",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434889",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "434891",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "434927",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "435092",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "435092",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "437993",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437994",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437995",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "438078",
+    "country": "COSTA RICA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438098",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438167",
+    "country": "COSTA RICA",
+    "bank": "VALES INTERCONTINENTALES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "438921",
+    "country": "COSTA RICA",
+    "bank": "VALES INTERCONTINENTALES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "439168",
+    "country": "COSTA RICA",
+    "bank": "BANCO UNO, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "439170",
+    "country": "COSTA RICA",
+    "bank": "CITITARJETAS DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "439264",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "439749",
+    "country": "COSTA RICA",
+    "bank": "FINANCIERA MULTIMONEY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441175",
+    "country": "COSTA RICA",
+    "bank": "TARJETAS BCT, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441178",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441178",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441576",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441577",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441586",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441587",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441588",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441589",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441715",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441738",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441739",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441740",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441741",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441742",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441743",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441744",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441745",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441746",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441747",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441748",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "441750",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441751",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A. (IMPESA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "441765",
+    "country": "COSTA RICA",
+    "bank": "CREDIX WORLD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448442",
+    "country": "COSTA RICA",
+    "bank": "CITITARJETAS DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "448705",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448721",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449123",
+    "country": "COSTA RICA",
+    "bank": "BANCA PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "449191",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449194",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449194",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449195",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449195",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449726",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "449830",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449830",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450776",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450777",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "COMMERCIAL AGRICULTURE"
+  },
+  {
+    "bin": "450926",
+    "country": "COSTA RICA",
+    "bank": "VALES INTERCONTINENTALES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "450983",
+    "country": "COSTA RICA",
+    "bank": "VALES INTERCONTINENTALES, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450998",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451124",
+    "country": "COSTA RICA",
+    "bank": "INVERSIONES ITSMICAS BANCRECEN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451125",
+    "country": "COSTA RICA",
+    "bank": "BANCO BANEX, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451314",
+    "country": "COSTA RICA",
+    "bank": "CREDIX INTERNACIONAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451360",
+    "country": "COSTA RICA",
+    "bank": "CREST, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451414",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451418",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "451448",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451477",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451477",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451482",
+    "country": "COSTA RICA",
+    "bank": "CITITARJETAS DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451787",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "451787",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452414",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452414",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452415",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452415",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452418",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452418",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453729",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453729",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "453793",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "453793",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "454406",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454707",
+    "country": "COSTA RICA",
+    "bank": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454726",
+    "country": "COSTA RICA",
+    "bank": "BANCO CITIBANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454736",
+    "country": "COSTA RICA",
+    "bank": "BANCO CITIBANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454737",
+    "country": "COSTA RICA",
+    "bank": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454738",
+    "country": "COSTA RICA",
+    "bank": "BANCO CITIBANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455265",
+    "country": "COSTA RICA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "455736",
+    "country": "COSTA RICA",
+    "bank": "BANCO BANEX, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456337",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456338",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456700",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456701",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456701",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "456907",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A. (IMPESA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "456949",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "456954",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457306",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457306",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457332",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A. (IMPESA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "457333",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A. (IMPESA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "457334",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE SOLUCIONES BANSOL DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457335",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE SOLUCIONES BANSOL DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "457336",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE SOLUCIONES BANSOL DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "457627",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457627",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458103",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "458106",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458107",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458108",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458916",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458946",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458946",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458947",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458948",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "458948",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "459009",
+    "country": "COSTA RICA",
+    "bank": "BANCO GENERAL (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459010",
+    "country": "COSTA RICA",
+    "bank": "BANCO GENERAL (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "459011",
+    "country": "COSTA RICA",
+    "bank": "BANCO GENERAL (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "459012",
+    "country": "COSTA RICA",
+    "bank": "BANCO GENERAL (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "459013",
+    "country": "COSTA RICA",
+    "bank": "BANCO GENERAL (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "461131",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461164",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "462979",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462979",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462980",
+    "country": "COSTA RICA",
+    "bank": "BANCA PROMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464137",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464150",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "468227",
+    "country": "COSTA RICA",
+    "bank": "EVERTEC CENTROAMERICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "468510",
+    "country": "COSTA RICA",
+    "bank": "BANCO BANEX, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472055",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DE PEREZ ZELEDON R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472056",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DE PEREZ ZELEDON R.L.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472057",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "472244",
+    "country": "COSTA RICA",
+    "bank": "VISA ARGENTINA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473213",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473214",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473215",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473216",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "473239",
+    "country": "COSTA RICA",
+    "bank": "AVAL CARD (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473240",
+    "country": "COSTA RICA",
+    "bank": "CITITARJETAS DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "473298",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "473298",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "473299",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "473299",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "474571",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA S.A",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474581",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476038",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476399",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "476821",
+    "country": "COSTA RICA",
+    "bank": "MEDIOS DE PAGO FC COSTA RICA SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477280",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "477370",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477399",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477399",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478019",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "COMMERCIAL AGRICULTURE"
+  },
+  {
+    "bin": "478789",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO (MUCAP)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478790",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO (MUCAP)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478793",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478794",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478924",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478924",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478925",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478925",
+    "country": "COSTA RICA",
+    "bank": "BANCO IMPROSA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "480918",
+    "country": "COSTA RICA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "480919",
+    "country": "COSTA RICA",
+    "bank": "TECNICARD, INC.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "481469",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481469",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481471",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481471",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481472",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481472",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481503",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481503",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "481504",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481504",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481505",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481505",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "481506",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481506",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482128",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482129",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482130",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483073",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483079",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483093",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA S.A",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "483103",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "483126",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483180",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483189",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483190",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "483959",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483959",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483961",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483961",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "483962",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483962",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483963",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483963",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483964",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483964",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484710",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484711",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486405",
+    "country": "COSTA RICA",
+    "bank": "BANCO ELCA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "487029",
+    "country": "COSTA RICA",
+    "bank": "BANCO CATHAY DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "487270",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "487270",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489353",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489771",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489771",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "489931",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489931",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489935",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489937",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489941",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489941",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489942",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489942",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489943",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489943",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491211",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491211",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491261",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491298",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491298",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491299",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491299",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492151",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492158",
+    "country": "COSTA RICA",
+    "bank": "VALES INTERCONTINENTALES, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "492407",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492408",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492409",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492465",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492466",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492467",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "492521",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492521",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493140",
+    "country": "COSTA RICA",
+    "bank": "BANCO INTERFIN, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493141",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493141",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493142",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493142",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493143",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493143",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493144",
+    "country": "COSTA RICA",
+    "bank": "EVERTEC COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493189",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493189",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493190",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493190",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493199",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493199",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "493743",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493744",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493745",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493823",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493824",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498454",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498455",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498456",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498457",
+    "country": "COSTA RICA",
+    "bank": "BANCO BCT SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "498463",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498464",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498465",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498505",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498505",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "498506",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498506",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498507",
+    "country": "COSTA RICA",
+    "bank": "CITIBANK INTERNATIONAL",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "499819",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "499819",
+    "country": "COSTA RICA",
+    "bank": "BANCO LAFISE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "499822",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "499824",
+    "country": "COSTA RICA",
+    "bank": "ATH COSTA RICA, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499825",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499826",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499828",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499829",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499839",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "499840",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "510209",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510714",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510980",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511703",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "511771",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511771",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511806",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "511906",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512684",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512723",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512905",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "513237",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513281",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "513460",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "513695",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513695",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514006",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "514114",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514944",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "514944",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515575",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "515904",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDE NUMERO UNO RL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516083",
+    "country": "COSTA RICA",
+    "bank": "PAY TECH SOLUTIONS SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516327",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516651",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516662",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "516681",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "516777",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517317",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517373",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517390",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517441",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517447",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517484",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517492",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517668",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517717",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517717",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "517784",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517861",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517871",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518146",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518186",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518207",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518209",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518214",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518230",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518231",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518232",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518258",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518259",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518260",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518263",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518269",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518290",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "518439",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "518541",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518678",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "518693",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518716",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518858",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518858",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519618",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519713",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519790",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "519790",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "519827",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519827",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519989",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "519989",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "519995",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519996",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520026",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520055",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520329",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520591",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520638",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "520687",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDE NUMERO UNO RL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521316",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521316",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521771",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "521789",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522048",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522379",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522891",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522891",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523581",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523581",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523587",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "523592",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523671",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523772",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523774",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524308",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524316",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524338",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "524471",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524946",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525843",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525887",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525887",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526062",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526104",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526338",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "526845",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526845",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526982",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526982",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527045",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527391",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527499",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528080",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "528875",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528994",
+    "country": "COSTA RICA",
+    "bank": "PRIVAL BANK COSTA RICA , S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "529060",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529137",
+    "country": "COSTA RICA",
+    "bank": "EURONET EPAY MEXICO S DE R L DE C V",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "529164",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529519",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK EL SALVADOR, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529744",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529753",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529753",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529754",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529754",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530006",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRONIC"
+  },
+  {
+    "bin": "530006",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRONIC"
+  },
+  {
+    "bin": "530045",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530045",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "530310",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "530311",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "530312",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530313",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530314",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530315",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530316",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530317",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530318",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530319",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530344",
+    "country": "COSTA RICA",
+    "bank": "BAC SAN JOSE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530368",
+    "country": "COSTA RICA",
+    "bank": "BAC SAN JOSE",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "530419",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "530709",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531274",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "531504",
+    "country": "COSTA RICA",
+    "bank": "RIDIVI SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "531643",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531689",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "531711",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531711",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531798",
+    "country": "COSTA RICA",
+    "bank": "MUTUAL CARTAGO DE AHORRO Y PRESTAMO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531868",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531990",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "532023",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532023",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532068",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532068",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532699",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "532944",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532944",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533118",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "533240",
+    "country": "COSTA RICA",
+    "bank": "RIDIVI SA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533352",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534177",
+    "country": "COSTA RICA",
+    "bank": "GRUPO FINANCIERO BNS DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534434",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "534434",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "534441",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534566",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "534960",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535414",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "535831",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535831",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "536076",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537099",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537118",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537645",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "537645",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "537784",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537788",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538100",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538100",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538101",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538101",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538917",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539003",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "539129",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539166",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539166",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539235",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO ANDE NUMERO UNO RL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540248",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "540390",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541254",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541602",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "541927",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "542084",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542133",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542178",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "542357",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542582",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543821",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544075",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544075",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544193",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "544197",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544197",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545886",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545887",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545888",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545962",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546571",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546571",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546637",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "547386",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "547398",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547834",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "548510",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "548711",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548813",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549194",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549936",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC INTERNATIONAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "550430",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550459",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO E",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550486",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "551898",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552017",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552195",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552269",
+    "country": "COSTA RICA",
+    "bank": "PRIVAL BANK COSTA RICA , S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552450",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "552882",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "553625",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553625",
+    "country": "COSTA RICA",
+    "bank": "BANCO PROMERICA DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553628",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE FOR BUSINESS"
+  },
+  {
+    "bin": "553654",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554086",
+    "country": "COSTA RICA",
+    "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MICRO BUSINESS"
+  },
+  {
+    "bin": "554367",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554367",
+    "country": "COSTA RICA",
+    "bank": "SCOTIABANK DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554634",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "554850",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555306",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555593",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555690",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555743",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS R L",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "556611",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CENTRAL TRAVEL SOLUTIONS AIR"
+  },
+  {
+    "bin": "557117",
+    "country": "COSTA RICA",
+    "bank": "BANCO BAC SAN JOSE, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "557683",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558600",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558617",
+    "country": "COSTA RICA",
+    "bank": "BANCO DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "558877",
+    "country": "COSTA RICA",
+    "bank": "BANCO DAVIVIENDA COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "559038",
+    "country": "COSTA RICA",
+    "bank": "COOPERATIVA NACIONAL DE EDUCADORES, R.L.(COOPENAE RL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559069",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559237",
+    "country": "COSTA RICA",
+    "bank": "INNOVACION EN MEDIOS DE PAGO ELECTRONICOS S.A.(IMPESA)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "559727",
+    "country": "COSTA RICA",
+    "bank": "BANCO NACIONAL DE COSTA RICA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559762",
+    "country": "COSTA RICA",
+    "bank": "PRIVAL BANK COSTA RICA , S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559776",
+    "country": "COSTA RICA",
+    "bank": "CREDOMATIC DE COSTA RICA, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "582103",
+    "country": "COSTA RICA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "585720",
+    "country": "COSTA RICA",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

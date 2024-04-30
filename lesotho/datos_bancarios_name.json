@@ -1,0 +1,106 @@
+[
+    {
+        "FIRSTRAND_BANK_LTD._-_LESOTHO": [
+            {
+                "Numero BIN/IIN": "416965",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "FIRSTRAND BANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "LESOTHO_POSTBANK_LTD._-_LESOTHO": [
+            {
+                "Numero BIN/IIN": "458482",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "LESOTHO POSTBANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "458797",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "LESOTHO POSTBANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "469284",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "LESOTHO POSTBANK, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "STANDARD_BANK_LESOTHO_LTD._-_LESOTHO": [
+            {
+                "Numero BIN/IIN": "406917",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK LESOTHO, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "414895",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK LESOTHO, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "418840",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK LESOTHO, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "STANDARD_BANK_OF_SOUTH_AFRICA_LTD._-_LESOTHO": [
+            {
+                "Numero BIN/IIN": "517887",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "540334",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541363",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542916",
+                "Pais": "LESOTHO",
+                "Nombre del emisor / Banco": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    }
+]

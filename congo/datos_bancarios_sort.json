@@ -1,0 +1,426 @@
+[
+  {
+    "bin": "403806",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403880",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "403881",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406616",
+    "country": "CONGO",
+    "bank": "CREDIT DU CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406617",
+    "country": "CONGO",
+    "bank": "CREDIT DU CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406618",
+    "country": "CONGO",
+    "bank": "CREDIT DU CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408148",
+    "country": "CONGO",
+    "bank": "ECOBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410691",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415350",
+    "country": "CONGO",
+    "bank": "SOCIETE GENERALE CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "415355",
+    "country": "CONGO",
+    "bank": "SOCIETE GENERALE CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416921",
+    "country": "CONGO",
+    "bank": "SOCIETE GENERALE CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416923",
+    "country": "CONGO",
+    "bank": "SOCIETE GENERALE CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416924",
+    "country": "CONGO",
+    "bank": "SOCIETE GENERALE CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416925",
+    "country": "CONGO",
+    "bank": "SOCIETE GENERALE CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422758",
+    "country": "CONGO",
+    "bank": "BANQUE CONGOLAISE DE L'HABITAT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422759",
+    "country": "CONGO",
+    "bank": "BANQUE CONGOLAISE DE L'HABITAT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422760",
+    "country": "CONGO",
+    "bank": "BANQUE CONGOLAISE DE L'HABITAT",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "438920",
+    "country": "CONGO",
+    "bank": "CREDIT DU CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "440950",
+    "country": "CONGO",
+    "bank": "BSCA.BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "440961",
+    "country": "CONGO",
+    "bank": "BSCA.BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445410",
+    "country": "CONGO",
+    "bank": "BANQUE COMMERCIALE INTERNATIONALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445411",
+    "country": "CONGO",
+    "bank": "BANQUE COMMERCIALE INTERNATIONALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445412",
+    "country": "CONGO",
+    "bank": "BANQUE COMMERCIALE INTERNATIONALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "447688",
+    "country": "CONGO",
+    "bank": "BGFIBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "448328",
+    "country": "CONGO",
+    "bank": "CREDIT DU CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453552",
+    "country": "CONGO",
+    "bank": "LA CONGOLAISE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457935",
+    "country": "CONGO",
+    "bank": "BGFIBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "462901",
+    "country": "CONGO",
+    "bank": "ECOBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "464113",
+    "country": "CONGO",
+    "bank": "ECOBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD/PLATINUM"
+  },
+  {
+    "bin": "465330",
+    "country": "CONGO",
+    "bank": "BGFIBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465331",
+    "country": "CONGO",
+    "bank": "BGFIBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "465332",
+    "country": "CONGO",
+    "bank": "BGFIBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "465333",
+    "country": "CONGO",
+    "bank": "BGFIBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "469368",
+    "country": "CONGO",
+    "bank": "BANK OF AFRICA RDC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "469621",
+    "country": "CONGO",
+    "bank": "BANQUE COMMERCIALE INTERNATIONALE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "470332",
+    "country": "CONGO",
+    "bank": "LA CONGOLAISE DE BANQUE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481446",
+    "country": "CONGO",
+    "bank": "ECOBANK CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "491952",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA CONGO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "517226",
+    "country": "CONGO",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529147",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "532520",
+    "country": "CONGO",
+    "bank": "ECOBANK NIGERIA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533835",
+    "country": "CONGO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534402",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "536178",
+    "country": "CONGO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536678",
+    "country": "CONGO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "538879",
+    "country": "CONGO",
+    "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "541371",
+    "country": "CONGO",
+    "bank": "ATTIJARIWAFA BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542961",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "555545",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "555612",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "555849",
+    "country": "CONGO",
+    "bank": "UNITED BANK FOR AFRICA PLC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "623478",
+    "country": "CONGO",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "624417",
+    "country": "CONGO",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  }
+]

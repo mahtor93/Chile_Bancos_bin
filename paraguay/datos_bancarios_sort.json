@@ -1,0 +1,3370 @@
+[
+  {
+    "bin": "223185",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223192",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223232",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223284",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223327",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223328",
+    "country": "PARAGUAY",
+    "bank": "PREX PARAGUAY EAS UNIPERSONAL",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "223345",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "223345",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "223383",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "223443",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230671",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230671",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "230729",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230729",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230783",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "230861",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "230862",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "233013",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "233013",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "234055",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "234081",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "235009",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "235009",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "364728",
+    "country": "PARAGUAY",
+    "bank": "DC PARAGUAY",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400261",
+    "country": "PARAGUAY",
+    "bank": "FINANCIERA UENO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401611",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA YPACARAI LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401675",
+    "country": "PARAGUAY",
+    "bank": "BANCO DEL PARANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401676",
+    "country": "PARAGUAY",
+    "bank": "BANCO DEL PARANA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403055",
+    "country": "PARAGUAY",
+    "bank": "FINANCIERA UENO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403412",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403412",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403777",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA NAZARETH LTDA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404026",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MBURICAO LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404027",
+    "country": "PARAGUAY",
+    "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "404384",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "404851",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406163",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA SAN CRISTOBAL LTDA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406164",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MEDALLA MILAGROSA LTDA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406243",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406244",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406636",
+    "country": "PARAGUAY",
+    "bank": "BANCO BASA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406637",
+    "country": "PARAGUAY",
+    "bank": "BANCO BASA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406638",
+    "country": "PARAGUAY",
+    "bank": "BANCO BASA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "406664",
+    "country": "PARAGUAY",
+    "bank": "LLOYDS BANK PLC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406699",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406699",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406783",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407847",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "410891",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410891",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411198",
+    "country": "PARAGUAY",
+    "bank": "BANCOP, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "411570",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MEDALLA MILAGROSA LTDA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412616",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "412616",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "414770",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415266",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415266",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415267",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415267",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415689",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415689",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415784",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417995",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA DE CONSUMO AHORRO Y CREDITO YOAYU LTDA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419344",
+    "country": "PARAGUAY",
+    "bank": "BANCO FAMILIAR S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420079",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420079",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421345",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB S.A. (EN PROCESO DE FUSION POR ABSORCION)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422410",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422410",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422411",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "422411",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423027",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423027",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "423156",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "423199",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423243",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB S.A. (EN PROCESO DE FUSION POR ABSORCION)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423621",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB S.A. (EN PROCESO DE FUSION POR ABSORCION)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423622",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB S.A. (EN PROCESO DE FUSION POR ABSORCION)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425678",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA DE CONSUMO AHORRO Y CREDITO YOAYU LTDA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425935",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425936",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425939",
+    "country": "PARAGUAY",
+    "bank": "MULTIBANCO, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426044",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426350",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "426350",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "428189",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA LAMBARE LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429681",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432239",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432239",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432240",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "432240",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433009",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "433120",
+    "country": "PARAGUAY",
+    "bank": "FINANCIERA FINEXPAR SAECA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433170",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433171",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433180",
+    "country": "PARAGUAY",
+    "bank": "BANCO FAMILIAR S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "433181",
+    "country": "PARAGUAY",
+    "bank": "BANCO FAMILIAR S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433185",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA DE AHORRO Y CREDITO, PRODUCCION, CONSUMO Y SERVICIOS C",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433828",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433828",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434194",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA PARAGUAYA DE LA INDUSTRIA DELA CONSTRUCCION LTDA.(COPACONS LTDA.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434511",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434512",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434544",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "434842",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "442605",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA SERRANA LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443076",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443077",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "443078",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446812",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446812",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446813",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA DE AHORRO Y CREDITO, PRODUCCION, CONSUMO Y SERVICIOS C",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446840",
+    "country": "PARAGUAY",
+    "bank": "SOLAR AHORRO Y FINANZAS SAECA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "446863",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA LAMBARE LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446976",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "446976",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "448718",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "448718",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449780",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "449780",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451328",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451329",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451865",
+    "country": "PARAGUAY",
+    "bank": "FINLATINA S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451866",
+    "country": "PARAGUAY",
+    "bank": "FINLATINA S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452143",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453731",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "455161",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE TRABAJADORES",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456976",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456976",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457570",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA CAPIATA LTDA.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457572",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457576",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "457606",
+    "country": "PARAGUAY",
+    "bank": "BANCO REGIONAL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458189",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458189",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458917",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459301",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459326",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459326",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459327",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459327",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "459429",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459429",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459430",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459430",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "459437",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO LUQUE LIMITADA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459438",
+    "country": "PARAGUAY",
+    "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465979",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465979",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "467791",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "467791",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469699",
+    "country": "PARAGUAY",
+    "bank": "HSBC BANK PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "469718",
+    "country": "PARAGUAY",
+    "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470140",
+    "country": "PARAGUAY",
+    "bank": "BANCO ATLAS SOCIEDAD ANONIMA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "470433",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472040",
+    "country": "PARAGUAY",
+    "bank": "BANCO RIO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "472242",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472242",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472243",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472243",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472908",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472908",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472909",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472909",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472910",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472910",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473204",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "473290",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473290",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473291",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473291",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "474793",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA DE CONSUMO AHORRO Y CREDITO YOAYU LTDA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475103",
+    "country": "PARAGUAY",
+    "bank": "BANCO RIO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475104",
+    "country": "PARAGUAY",
+    "bank": "BANCO RIO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475106",
+    "country": "PARAGUAY",
+    "bank": "BANCOP, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "475107",
+    "country": "PARAGUAY",
+    "bank": "BANCOP, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "475108",
+    "country": "PARAGUAY",
+    "bank": "BANCOP, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476062",
+    "country": "PARAGUAY",
+    "bank": "BANCO SUDAMERIS PARAGUAY S.A.E.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477277",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA ISRAELITA LTDA. (OFFBOARDING)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "479348",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479423",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481033",
+    "country": "PARAGUAY",
+    "bank": "XAPO BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "481548",
+    "country": "PARAGUAY",
+    "bank": "FIC S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481549",
+    "country": "PARAGUAY",
+    "bank": "FIC S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483094",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "483094",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "483140",
+    "country": "PARAGUAY",
+    "bank": "BANCO BASA, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "483957",
+    "country": "PARAGUAY",
+    "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483958",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483958",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484144",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484144",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484145",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484145",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484146",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484146",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484164",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA PARAGUAYA DE LA INDUSTRIA DELA CONSTRUCCION LTDA.(COPACONS LTDA.)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484899",
+    "country": "PARAGUAY",
+    "bank": "COOPERATIVA MULTIACTIVA DE AHORRO Y CREDITO Y SERVICIOS DE GRADUADOS EN CIENCIAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486358",
+    "country": "PARAGUAY",
+    "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (GRUPO INTERFISA)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "488234",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "489424",
+    "country": "PARAGUAY",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "489480",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "489480",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "490786",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490786",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490795",
+    "country": "PARAGUAY",
+    "bank": "BANCO ORIENTAL S.A. DE INVERSION Y FOMENTO E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "490796",
+    "country": "PARAGUAY",
+    "bank": "BANCO ORIENTAL S.A. DE INVERSION Y FOMENTO E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491335",
+    "country": "PARAGUAY",
+    "bank": "SOLAR AHORRO Y FINANZAS SAECA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491336",
+    "country": "PARAGUAY",
+    "bank": "SOLAR AHORRO Y FINANZAS SAECA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491971",
+    "country": "PARAGUAY",
+    "bank": "BANCO DO BRASIL, S.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "492001",
+    "country": "PARAGUAY",
+    "bank": "BANCO UNION, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "492136",
+    "country": "PARAGUAY",
+    "bank": "FINLATINA S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493520",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "493521",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493522",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "493523",
+    "country": "PARAGUAY",
+    "bank": "INTERFISA BANCO S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494058",
+    "country": "PARAGUAY",
+    "bank": "SOLAR AHORRO Y FINANZAS SAECA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494059",
+    "country": "PARAGUAY",
+    "bank": "SOLAR AHORRO Y FINANZAS SAECA",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494150",
+    "country": "PARAGUAY",
+    "bank": "BANCO AMAMBAY, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "494174",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494174",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494175",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494175",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494184",
+    "country": "PARAGUAY",
+    "bank": "FIC S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "494185",
+    "country": "PARAGUAY",
+    "bank": "FIC S.A. DE FINANZAS",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494192",
+    "country": "PARAGUAY",
+    "bank": "FINANCIERA FINEXPAR SAECA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494612",
+    "country": "PARAGUAY",
+    "bank": "BANCO GNB S.A. (EN PROCESO DE FUSION POR ABSORCION)",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "498493",
+    "country": "PARAGUAY",
+    "bank": "BANCO DE INVERSIONES DEL PARAGUAY",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "498504",
+    "country": "PARAGUAY",
+    "bank": "VISION BANCO SOCIEDAD ANONIMA EMISORA DECAPITAL ABIERTO",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "499831",
+    "country": "PARAGUAY",
+    "bank": "BANCO FAMILIAR S.A.E.C.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "499890",
+    "country": "PARAGUAY",
+    "bank": "SUDAMERIS BANK S.A.E.C.A.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "510212",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "510596",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "510795",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "510795",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512398",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "512438",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "512565",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512565",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512793",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "513493",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "514310",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "514322",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514322",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514335",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514335",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514338",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514338",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514538",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514538",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514848",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "514848",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "515064",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516267",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516267",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "516400",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516419",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517197",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "517197",
+    "country": "PARAGUAY",
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "517389",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517389",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517573",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517573",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517585",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517585",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517732",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517752",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "517789",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518131",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518141",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518852",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519703",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519705",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "519705",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "520034",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "520573",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520907",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520907",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522344",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522345",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522399",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522415",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522415",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523555",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523555",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527597",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527607",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "527607",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "527615",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "528299",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528299",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529278",
+    "country": "PARAGUAY",
+    "bank": "UENO HOLDING S.A.E.C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "529425",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529425",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529544",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530399",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530399",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530955",
+    "country": "PARAGUAY",
+    "bank": "BANCO NACIONAL DE FOMENTO",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531863",
+    "country": "PARAGUAY",
+    "bank": "CREDICENTRO SAECA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531952",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532771",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "533662",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533662",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533921",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533921",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534061",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534061",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534382",
+    "country": "PARAGUAY",
+    "bank": "CREDICENTRO SAECA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534517",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534882",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534882",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535035",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535035",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535874",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "535896",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535896",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535902",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535902",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535907",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535907",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536082",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536082",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536086",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536086",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536090",
+    "country": "PARAGUAY",
+    "bank": "UENO HOLDING S.A.E.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "536462",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536462",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536473",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536473",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537748",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537780",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537780",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "538726",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538785",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538785",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538868",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "538868",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "538968",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539553",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "539771",
+    "country": "PARAGUAY",
+    "bank": "PREX PARAGUAY EAS UNIPERSONAL",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "540150",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "540285",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540638",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540638",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540883",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540904",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541301",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541863",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542116",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542116",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542300",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542433",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542433",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542621",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542818",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "542856",
+    "country": "PARAGUAY",
+    "bank": "NEGOCIOS TELEFONICOS SA",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542927",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542927",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544177",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544177",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544308",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544415",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544733",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544809",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544809",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544896",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545024",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545032",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545032",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545062",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545090",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD FOR BUSINESS"
+  },
+  {
+    "bin": "545112",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545112",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545288",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545288",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545289",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545289",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545464",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545464",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545489",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545549",
+    "country": "PARAGUAY",
+    "bank": "CITIBANK NA PARAGUAY BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545609",
+    "country": "PARAGUAY",
+    "bank": "CITIBANK NA PARAGUAY BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "546297",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546297",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546477",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "546698",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "546698",
+    "country": "PARAGUAY",
+    "bank": "BANCO ITAU PARAGUAY, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "547177",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547697",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "547697",
+    "country": "PARAGUAY",
+    "bank": "BANCO CONTINENTAL, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "548167",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548167",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "548340",
+    "country": "PARAGUAY",
+    "bank": "INTERBANCO, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "548641",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "548963",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549200",
+    "country": "PARAGUAY",
+    "bank": "CITIBANK NA PARAGUAY BRANCH",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549485",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549485",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549499",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549499",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "549643",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "550193",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "550824",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "553655",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553657",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "553667",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "554262",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554447",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554471",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554471",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554476",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554476",
+    "country": "PARAGUAY",
+    "bank": "PROCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555788",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555930",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "556565",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "556571",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558039",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558502",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "558548",
+    "country": "PARAGUAY",
+    "bank": "UENO HOLDING S.A.E.C.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558549",
+    "country": "PARAGUAY",
+    "bank": "UENO HOLDING S.A.E.C.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558973",
+    "country": "PARAGUAY",
+    "bank": "BANCARD, S.A.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  }
+]

@@ -1,0 +1,1530 @@
+[
+  {
+    "bin": "250019",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "CARDNPAY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "400340",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400340",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "400631",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "400631",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402249",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402249",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "404282",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407390",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "407390",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "409160",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409160",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410757",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410757",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410858",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "410858",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "411360",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "411360",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413763",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413763",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "414310",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414310",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414790",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "414790",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "415631",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415631",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419167",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419553",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "420797",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "JMMB BANK (T&T), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421342",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "INTERCOMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421551",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421667",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "JMMB BANK (T&T), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421755",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421931",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "421953",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423052",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "423052",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "423085",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423085",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423086",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423086",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423636",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "423636",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "424105",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "424634",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424708",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425156",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425178",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425178",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427458",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "427458",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "429514",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "429514",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "430332",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430332",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430395",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430395",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430444",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "430444",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "430877",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431770",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD & TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432348",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432349",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "432350",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "432357",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "433246",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433247",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "434604",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434882",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434883",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437842",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "LATIN AMERICA AND CARIBBEAN REGION",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437843",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437843",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437844",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437844",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437845",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437845",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "441130",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441130",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441171",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441171",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441521",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "INTERCOMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441522",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "INTERCOMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "441560",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "446377",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "446377",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "448795",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450391",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBTT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450392",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBTT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450393",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBTT BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451304",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451304",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "451732",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "451732",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "452110",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "452111",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "452111",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "452403",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "INTERCOMMERCIAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454664",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454664",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454665",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "454665",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "455794",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455795",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456707",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456707",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456708",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "456708",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457059",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "BANK OF COMMERCE TRINIDAD AND TOBAGO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "457571",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "ANSA BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457680",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457681",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "459974",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461147",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "462969",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "462969",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID ELECTRON"
+  },
+  {
+    "bin": "464683",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "464969",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "464969",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "470417",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470442",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470443",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470444",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CARIBBEAN INTERNATIONAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472227",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "489470",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "TSYS CARD TECH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "490149",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490149",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "490150",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490150",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490152",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490152",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490168",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490168",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491262",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "JMMB BANK (T&T), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491534",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491534",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491543",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491543",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491544",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491544",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "491579",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491579",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491644",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "JMMB BANK (T&T), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "512361",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "514071",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514071",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514089",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514089",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "515725",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "515725",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "518395",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518395",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519665",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521878",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "521878",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "522226",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522226",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "525829",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525829",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "525948",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527372",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "527372",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "530839",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530839",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "531509",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "531509",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "534499",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537135",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537135",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540516",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540516",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "540673",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "RBC ROYAL BANK (TRINIDAD & TOBAGO), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543075",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543075",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543639",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543639",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "544382",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544382",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "545751",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545751",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546614",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "546614",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BLACK"
+  },
+  {
+    "bin": "547491",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547491",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "547562",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "547562",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "548526",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548526",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRST CITIZENS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554418",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "554418",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "REPUBLIC BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "559480",
+    "country": "TRINIDAD AND TOBAGO",
+    "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  }
+]

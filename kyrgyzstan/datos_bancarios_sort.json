@@ -1,0 +1,866 @@
+[
+  {
+    "bin": "400541",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "400550",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "401586",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "402182",
+    "country": "KYRGYZSTAN",
+    "bank": "OPEN JOINT STOCK COMPANY KEREMET BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403248",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403609",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405556",
+    "country": "KYRGYZSTAN",
+    "bank": "BANK ASIA CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405557",
+    "country": "KYRGYZSTAN",
+    "bank": "BANK ASIA CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406776",
+    "country": "KYRGYZSTAN",
+    "bank": "KAZKOMMERTZBANK KYRGYZSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412754",
+    "country": "KYRGYZSTAN",
+    "bank": "GREEN TELECOM SERVICE LIMITED LIABILITY COMPANY",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416958",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416959",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416960",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416961",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416962",
+    "country": "KYRGYZSTAN",
+    "bank": "OPEN JOINT STOCK COMPANY KEREMET BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "417219",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417220",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417221",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417222",
+    "country": "KYRGYZSTAN",
+    "bank": "BANK ASIA CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "417747",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "417748",
+    "country": "KYRGYZSTAN",
+    "bank": "THE CJSC FINCA BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "417749",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "419672",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419673",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "419674",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "421589",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421804",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "426882",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426883",
+    "country": "KYRGYZSTAN",
+    "bank": "CC BTA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426884",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "428536",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "436153",
+    "country": "KYRGYZSTAN",
+    "bank": "KOMPANION BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436154",
+    "country": "KYRGYZSTAN",
+    "bank": "KOMPANION BANK CJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443997",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "444673",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444674",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444675",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "444679",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "447819",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455665",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "455695",
+    "country": "KYRGYZSTAN",
+    "bank": "JSC BANK KYRGYZSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "457811",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458466",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458467",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458469",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "458470",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458702",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458703",
+    "country": "KYRGYZSTAN",
+    "bank": "HALYK BANK KYRGYZSTAN OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458818",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "470346",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470639",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470640",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471423",
+    "country": "KYRGYZSTAN",
+    "bank": "THE CJSC FINCA BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "471424",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "471437",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "471470",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472414",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472415",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "472416",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "472417",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472418",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "472888",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "472891",
+    "country": "KYRGYZSTAN",
+    "bank": "KYRGYZKOMMERTSBANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "482134",
+    "country": "KYRGYZSTAN",
+    "bank": "OPEN JOINT STOCK COMPANY KEREMET BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482136",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "482137",
+    "country": "KYRGYZSTAN",
+    "bank": "RSK BANK OJSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "510111",
+    "country": "KYRGYZSTAN",
+    "bank": "JOINT STOCK COMPANY HALYK BANK OF KAZAKHSTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514167",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517667",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517814",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518543",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518636",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520159",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "521569",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521571",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523544",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC RSK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525319",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "526052",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "526081",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528464",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "528525",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530265",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540247",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541158",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "541166",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK OPEN JOINT STOCK COMPANY",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "541658",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544073",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544176",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544653",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "548064",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "548344",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554979",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC RSK BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "558697",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559397",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGYZ INVESTMENT AND CREDIT BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "559648",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "623304",
+    "country": "KYRGYZSTAN",
+    "bank": "PVB CARD CORPORATION",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "623326",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623327",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623339",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC RUSSIAN INVESTMENT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623360",
+    "country": "KYRGYZSTAN",
+    "bank": "OPTIMA BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623461",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624476",
+    "country": "KYRGYZSTAN",
+    "bank": "THE OPEN JOINT STOCK COMPANY KEREMET BANK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629274",
+    "country": "KYRGYZSTAN",
+    "bank": "CJSC KYRGZ INVESTMENT AND CREDIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "670662",
+    "country": "KYRGYZSTAN",
+    "bank": "DEMIR KYRGYZ INTERNATIONAL BANK CJSC",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "670988",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC RSK BANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671167",
+    "country": "KYRGYZSTAN",
+    "bank": "CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "677689",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC KYRGYZKOMMERTSBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "941754",
+    "country": "KYRGYZSTAN",
+    "bank": "OJSC BAKAI BANK",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  }
+]

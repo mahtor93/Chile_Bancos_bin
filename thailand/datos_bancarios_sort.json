@@ -1,0 +1,4146 @@
+[
+  {
+    "bin": "270680",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ACH FOR CONSUMER"
+  },
+  {
+    "bin": "356342",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "356989",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA",
+    "network": "JCB",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "364888",
+    "country": "THAILAND",
+    "bank": "FLAT EGGPLANT",
+    "network": "DINERS CLUB INTERNATIONAL",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "376318",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376361",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376362",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376363",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376366",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376367",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376368",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376369",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376559",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "376877",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS COMPANY",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": "GRMS CORPORATE CONTROL"
+  },
+  {
+    "bin": "377122",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377123",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377125",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377126",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377127",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377129",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377134",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377135",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377136",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377146",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377147",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377148",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377156",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377166",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377173",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377176",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377179",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377180",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377183",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377184",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377188",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377189",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377190",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377191",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377192",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377193",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377194",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377195",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377196",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377197",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377198",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "377199",
+    "country": "THAILAND",
+    "bank": "AMERICAN EXPRESS",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "401367",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402121",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402339",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403375",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403396",
+    "country": "THAILAND",
+    "bank": "AIRWALLEX (SINGAPORE) PTE. LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "404365",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "404870",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404871",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404872",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404873",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404874",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404875",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "404876",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "405016",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405021",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405276",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406230",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "407524",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407539",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "407702",
+    "country": "THAILAND",
+    "bank": "PAYMENT SOLUTION 2008 COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "407901",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "408200",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "409061",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409062",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409303",
+    "country": "THAILAND",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409337",
+    "country": "THAILAND",
+    "bank": "LOTUS'S MONEY SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409338",
+    "country": "THAILAND",
+    "bank": "LOTUS'S MONEY SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "409344",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "409345",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "409346",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410936",
+    "country": "THAILAND",
+    "bank": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "411708",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412436",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412466",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413518",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "413767",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "414167",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "414169",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "415765",
+    "country": "THAILAND",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "416202",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418604",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419956",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420562",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "420757",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "421315",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421354",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421465",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421467",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421583",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421584",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421668",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "421796",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421817",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422072",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422182",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422243",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422428",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "422563",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "424952",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424953",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "424954",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425335",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425336",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "425338",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "426579",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426587",
+    "country": "THAILAND",
+    "bank": "SIAM CITY BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "428319",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428353",
+    "country": "THAILAND",
+    "bank": "2C2P PLUS (THAILAND) COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "428373",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428380",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "429861",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430138",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "430306",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "430445",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "430840",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "431115",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "431116",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "431508",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "431530",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433242",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "433273",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "433518",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434076",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "434087",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434088",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434089",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "434463",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "434940",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "435538",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436415",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436499",
+    "country": "THAILAND",
+    "bank": "HSBC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "436514",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436516",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "436552",
+    "country": "THAILAND",
+    "bank": "VIA CARD (THAILAND) CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "436553",
+    "country": "THAILAND",
+    "bank": "VIA CARD (THAILAND) CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "436759",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "436807",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "437750",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "438096",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "438271",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "438679",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439082",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439084",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439085",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439113",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439114",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439121",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439122",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439127",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439130",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439135",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439137",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439143",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439148",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439151",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439156",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439166",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439167",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439180",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439181",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439184",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439191",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439192",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439193",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439199",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439238",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "440490",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441584",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "441770",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "442424",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "444697",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "447690",
+    "country": "THAILAND",
+    "bank": "CARDX CO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "448427",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "449566",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "449932",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "449933",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "450173",
+    "country": "THAILAND",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450174",
+    "country": "THAILAND",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "450535",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "450578",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "450579",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450580",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450586",
+    "country": "THAILAND",
+    "bank": "T2P CO., LTD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PURCHASING"
+  },
+  {
+    "bin": "451347",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "451419",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451485",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "451806",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "451821",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451822",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451823",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "451824",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "451833",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK OF COMMERCE, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "453214",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "453215",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "453216",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454186",
+    "country": "THAILAND",
+    "bank": "BIG PAY (THAILAND) LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "454325",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454623",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454624",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "454625",
+    "country": "THAILAND",
+    "bank": "OMISE CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "454626",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454627",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454628",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454629",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "454630",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "454631",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454632",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "454852",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "455023",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455024",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455205",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455287",
+    "country": "THAILAND",
+    "bank": "GLOBAL PRIME CORPORATION COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "455293",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "455296",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "455596",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456043",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456723",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "456724",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456793",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "458560",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "459940",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "459941",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "460185",
+    "country": "THAILAND",
+    "bank": "SIAM CITY BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "461122",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "461250",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461779",
+    "country": "THAILAND",
+    "bank": "CIMB THAI BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "462240",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI)PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462287",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462288",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462855",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462856",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462909",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462910",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462932",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462933",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462934",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462936",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462942",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462944",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462951",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462953",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462955",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462959",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462966",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462971",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462972",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462973",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462976",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462977",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462984",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462985",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "462987",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "462988",
+    "country": "THAILAND",
+    "bank": "GLOBAL PRIME CORPORATION COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "462998",
+    "country": "THAILAND",
+    "bank": "SMARTPURSE",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "463208",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK (THAI) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464009",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464021",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465250",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "465890",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "465899",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "466061",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "467307",
+    "country": "THAILAND",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467308",
+    "country": "THAILAND",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "467957",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "468379",
+    "country": "THAILAND",
+    "bank": "CITI",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "468506",
+    "country": "THAILAND",
+    "bank": "UOB RADANASIN BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "469172",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "469348",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "470463",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470464",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "470592",
+    "country": "THAILAND",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470650",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "470680",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "470686",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "471284",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CORPORATE T&E"
+  },
+  {
+    "bin": "472084",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472085",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472086",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472087",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472088",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472858",
+    "country": "THAILAND",
+    "bank": "CARDX CO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473014",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "473252",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "473254",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "473256",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "474847",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "475528",
+    "country": "THAILAND",
+    "bank": "T2P CO., LTD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "476133",
+    "country": "THAILAND",
+    "bank": "VIA CARD (THAILAND) CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476281",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "477025",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477027",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477063",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "477104",
+    "country": "THAILAND",
+    "bank": "T2P CO., LTD",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "477358",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "477376",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "477909",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478445",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "478446",
+    "country": "THAILAND",
+    "bank": "AYUDHYA CAPITAL SERVICES CO., LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478447",
+    "country": "THAILAND",
+    "bank": "AYUDHYA CAPITAL SERVICES CO., LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478448",
+    "country": "THAILAND",
+    "bank": "AYUDHYA CAPITAL SERVICES CO., LTD",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478449",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "478450",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY"
+  },
+  {
+    "bin": "478772",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478867",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "481763",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483099",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "483446",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483868",
+    "country": "THAILAND",
+    "bank": "CIMB THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484089",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484099",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "484830",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484831",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "486275",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486371",
+    "country": "THAILAND",
+    "bank": "THE GOVERNMENT SAVINGS BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS ENHANCED"
+  },
+  {
+    "bin": "486372",
+    "country": "THAILAND",
+    "bank": "CARDX CO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486408",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "486546",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "486639",
+    "country": "THAILAND",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "487000",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "488937",
+    "country": "THAILAND",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "489094",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489502",
+    "country": "THAILAND",
+    "bank": "CIMB THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490256",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490733",
+    "country": "THAILAND",
+    "bank": "CARDX CO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490734",
+    "country": "THAILAND",
+    "bank": "CARDX CO, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490937",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "491006",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "491204",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "491650",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK(THAI) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "492100",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492141",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "492142",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "492433",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "492434",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "492477",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493112",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493113",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493120",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494033",
+    "country": "THAILAND",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "494311",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494312",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494313",
+    "country": "THAILAND",
+    "bank": "VIA CARD (THAILAND) CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PROPRIETARY ATM"
+  },
+  {
+    "bin": "494319",
+    "country": "THAILAND",
+    "bank": "SAWASDEESHOP CO., LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "494320",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494351",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "496612",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "496615",
+    "country": "THAILAND",
+    "bank": "THE SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "499959",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "499960",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "504367",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "508127",
+    "country": "THAILAND",
+    "bank": "CITIBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "510503",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "ELECTRONIC"
+  },
+  {
+    "bin": "510703",
+    "country": "THAILAND",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512037",
+    "country": "THAILAND",
+    "bank": "2C2P PLUS (THAILAND) CO., LTD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "512250",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512445",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "512492",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514950",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "516399",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516684",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517824",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517825",
+    "country": "THAILAND",
+    "bank": "CARD X CO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517828",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517961",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518547",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518875",
+    "country": "THAILAND",
+    "bank": "BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518880",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519167",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519785",
+    "country": "THAILAND",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "520020",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "520339",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520384",
+    "country": "THAILAND",
+    "bank": "MPOWER (INTERNAL ONLY)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520747",
+    "country": "THAILAND",
+    "bank": "2C2P (THAILAND) COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "521537",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521881",
+    "country": "THAILAND",
+    "bank": "CAPITAL OK CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "522129",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522230",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "522440",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "522985",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523088",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523516",
+    "country": "THAILAND",
+    "bank": "GOVERNMENT SAVINGS BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "523683",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "523716",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "523771",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523910",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523913",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "523962",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524172",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524232",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524329",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524704",
+    "country": "THAILAND",
+    "bank": "CAPITAL OK CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "525667",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525668",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525669",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "525720",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "526413",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526532",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "526720",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526721",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "526744",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD BUSINESS"
+  },
+  {
+    "bin": "526875",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527069",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527173",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527392",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527595",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528011",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "528560",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "528835",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529009",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "529082",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM TRAVEL"
+  },
+  {
+    "bin": "529096",
+    "country": "THAILAND",
+    "bank": "2C2P PLUS (THAILAND) CO., LTD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529764",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530392",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531349",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "531712",
+    "country": "THAILAND",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531924",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "532306",
+    "country": "THAILAND",
+    "bank": "BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533153",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533836",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "533951",
+    "country": "THAILAND",
+    "bank": "CARD X CO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533969",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "534442",
+    "country": "THAILAND",
+    "bank": "CARD X CO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "536978",
+    "country": "THAILAND",
+    "bank": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537046",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "537798",
+    "country": "THAILAND",
+    "bank": "GENERAL CARD SERVICES LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "538964",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539197",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "539411",
+    "country": "THAILAND",
+    "bank": "LOTUS'S MONEY SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539505",
+    "country": "THAILAND",
+    "bank": "CARD X CO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539925",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540040",
+    "country": "THAILAND",
+    "bank": "TMB BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540180",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540430",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540432",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540474",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540488",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540492",
+    "country": "THAILAND",
+    "bank": "CARD X CO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "540604",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540605",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "540716",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541029",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "541176",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541496",
+    "country": "THAILAND",
+    "bank": "CARD X CO, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "541690",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541859",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "541878",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541897",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "542380",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "542394",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "542453",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "542521",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542527",
+    "country": "THAILAND",
+    "bank": "2C2P PLUS (THAILAND) CO., LTD",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID BUSINESS"
+  },
+  {
+    "bin": "542691",
+    "country": "THAILAND",
+    "bank": "TMBTHANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "543215",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543420",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "543449",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543673",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "543711",
+    "country": "THAILAND",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "543881",
+    "country": "THAILAND",
+    "bank": "THANACHART BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543974",
+    "country": "THAILAND",
+    "bank": "THAI MILITARY BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "543996",
+    "country": "THAILAND",
+    "bank": "THAI MILITARY BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544416",
+    "country": "THAILAND",
+    "bank": "THAI MILITARY BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544418",
+    "country": "THAILAND",
+    "bank": "THAI MILITARY BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544464",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544469",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544482",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544485",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "544488",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "544572",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546820",
+    "country": "THAILAND",
+    "bank": "CHASE MANHATTAN BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "546848",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "550130",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID PLATINUM"
+  },
+  {
+    "bin": "550161",
+    "country": "THAILAND",
+    "bank": "BANK OF CHINA (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "552165",
+    "country": "THAILAND",
+    "bank": "KRUNGSRIAYUDHYA CARD CO. LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "552804",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "554109",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC CO., LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "555024",
+    "country": "THAILAND",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555157",
+    "country": "THAILAND",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555173",
+    "country": "THAILAND",
+    "bank": "WEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "555289",
+    "country": "THAILAND",
+    "bank": "WEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555295",
+    "country": "THAILAND",
+    "bank": "WEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555296",
+    "country": "THAILAND",
+    "bank": "WEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "B2B"
+  },
+  {
+    "bin": "555678",
+    "country": "THAILAND",
+    "bank": "AEON THANA SINSAP (THAILAND) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555858",
+    "country": "THAILAND",
+    "bank": "WEX BANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "556656",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "557755",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557772",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557784",
+    "country": "THAILAND",
+    "bank": "AYUDHYA CAPITAL SERVICES COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559233",
+    "country": "THAILAND",
+    "bank": "LOTUS'S MONEY SERVICES, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559450",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559745",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "559865",
+    "country": "THAILAND",
+    "bank": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559888",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559925",
+    "country": "THAILAND",
+    "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "578788",
+    "country": "THAILAND",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "580155",
+    "country": "THAILAND",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "586800",
+    "country": "THAILAND",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "621334",
+    "country": "THAILAND",
+    "bank": "BANK OF CHINA BANGKOK BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621367",
+    "country": "THAILAND",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI)",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621395",
+    "country": "THAILAND",
+    "bank": "BANK OF CHINA BANGKOK BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621654",
+    "country": "THAILAND",
+    "bank": "KRUNG THAJ BANK PUBLIC CO., LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "622354",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PCL",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "623355",
+    "country": "THAILAND",
+    "bank": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623422",
+    "country": "THAILAND",
+    "bank": "KIATNAKIN PHATRA BANK PUBLIC COMPANY, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623430",
+    "country": "THAILAND",
+    "bank": "LAND AND HOUSES BANK PUBLIC COMPANY, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "625842",
+    "country": "THAILAND",
+    "bank": "KASIKORN BANK PCL",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "625843",
+    "country": "THAILAND",
+    "bank": "KASIKORN BANK PCL",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "625920",
+    "country": "THAILAND",
+    "bank": "ICBC THAILAND",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "626278",
+    "country": "THAILAND",
+    "bank": "KRUNGTHAI CARD PUBLIC COMPANY L",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626280",
+    "country": "THAILAND",
+    "bank": "KASIKORNBANK PUBLIC COMPANY, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629242",
+    "country": "THAILAND",
+    "bank": "KRUNG THAI BANK PUBLIC COMPANY LMITED",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "750122",
+    "country": "THAILAND",
+    "bank": "TMB",
+    "network": "PRIVATE LABEL",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  }
+]

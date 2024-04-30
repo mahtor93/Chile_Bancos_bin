@@ -1,0 +1,54 @@
+[
+    {
+        "ANZ_BANK_(KIRIBATI)_LTD._-_KIRIBATI": [
+            {
+                "Numero BIN/IIN": "520181",
+                "Pais": "KIRIBATI",
+                "Nombre del emisor / Banco": "ANZ BANK (KIRIBATI), LTD.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "AUSTRALIA_AND_NEW_ZEALAND_BANKING_GROUP_LTD._-_KIRIBATI": [
+            {
+                "Numero BIN/IIN": "437968",
+                "Pais": "KIRIBATI",
+                "Nombre del emisor / Banco": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANK_OF_KIRIBATI_LTD._-_KIRIBATI": [
+            {
+                "Numero BIN/IIN": "437969",
+                "Pais": "KIRIBATI",
+                "Nombre del emisor / Banco": "BANK OF KIRIBATI, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "450587",
+                "Pais": "KIRIBATI",
+                "Nombre del emisor / Banco": "BANK OF KIRIBATI, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "465541",
+                "Pais": "KIRIBATI",
+                "Nombre del emisor / Banco": "BANK OF KIRIBATI, LTD.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    }
+]

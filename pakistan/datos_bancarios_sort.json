@@ -1,0 +1,5986 @@
+[
+  {
+    "bin": "147062",
+    "country": "PAKISTAN",
+    "bank": "MUSLIM COMMERCIAL BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220544",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220544",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220546",
+    "country": "PAKISTAN",
+    "bank": "UBL BANK",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220552",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220552",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220558",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220559",
+    "country": "PAKISTAN",
+    "bank": "BANKISLAMI PAKISTAN, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220575",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220575",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220576",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "220576",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "PAYPAK",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "223616",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "223616",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PRIVATE LABEL"
+  },
+  {
+    "bin": "376294",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "AMERICAN EXPRESS",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "400627",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "400627",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "401769",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "402045",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402541",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "402581",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402582",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "REWARDS"
+  },
+  {
+    "bin": "402583",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402793",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "402805",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402805",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "402818",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "403324",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403324",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "403387",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403387",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403395",
+    "country": "PAKISTAN",
+    "bank": "NAYAPAY (PRIVATE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403523",
+    "country": "PAKISTAN",
+    "bank": "MOBILINK MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "403906",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403906",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403916",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403916",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "403935",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "403935",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405493",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405493",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "405903",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "405903",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "406800",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "406892",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406892",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "406893",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "406893",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "407180",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "407569",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407569",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "407572",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407572",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "407937",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "408413",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "408413",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "409456",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "409456",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410524",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410524",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "410525",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "410525",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "412544",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE BUSINESS"
+  },
+  {
+    "bin": "412656",
+    "country": "PAKISTAN",
+    "bank": "NAYAPAY (PRIVATE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413712",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413712",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "413862",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415118",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "415118",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "415188",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "415188",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416653",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "416929",
+    "country": "PAKISTAN",
+    "bank": "NAYAPAY (PRIVATE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418231",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418231",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418232",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418232",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "418729",
+    "country": "PAKISTAN",
+    "bank": "TELENOR MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "418792",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "419558",
+    "country": "PAKISTAN",
+    "bank": "NAYAPAY (PRIVATE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "420251",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "420262",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420262",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420677",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "420677",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421310",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421339",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421367",
+    "country": "PAKISTAN",
+    "bank": "ABN AMRO BANK, N.V.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421435",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421461",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421461",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421462",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421462",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "421482",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421485",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421485",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421486",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421486",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "421500",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421500",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "421501",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422070",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "422769",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "423124",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "423877",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "426512",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426512",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "427297",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427297",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427476",
+    "country": "PAKISTAN",
+    "bank": "SINDH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "427634",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428273",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428273",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428311",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "428325",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428325",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428344",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428344",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428638",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428638",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428667",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428667",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428668",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428668",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428669",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428669",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428921",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428921",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "428922",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428922",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "428923",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428923",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428924",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "428924",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "429335",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "429975",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "432856",
+    "country": "PAKISTAN",
+    "bank": "BANK AL HABIB, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "432868",
+    "country": "PAKISTAN",
+    "bank": "BANK AL HABIB, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "433393",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "ULTRA HIGH NET WORTH"
+  },
+  {
+    "bin": "434993",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "434993",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "436532",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "436532",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437440",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437440",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "437452",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437453",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437455",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437459",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437460",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437525",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437584",
+    "country": "PAKISTAN",
+    "bank": "BANK AL HABIB, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437585",
+    "country": "PAKISTAN",
+    "bank": "BANK AL HABIB, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437702",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437702",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "437742",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437742",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437743",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437743",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "437791",
+    "country": "PAKISTAN",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "437792",
+    "country": "PAKISTAN",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "437793",
+    "country": "PAKISTAN",
+    "bank": "HONG KONG AND SHANGHAI BANKING CORP., LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "439172",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "441574",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "441574",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "442143",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "442143",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445087",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445087",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "445510",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "445890",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "446951",
+    "country": "PAKISTAN",
+    "bank": "KASB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "446952",
+    "country": "PAKISTAN",
+    "bank": "KASB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "446953",
+    "country": "PAKISTAN",
+    "bank": "KASB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "449701",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "449701",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450084",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450084",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "450086",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450086",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "450385",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452328",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452328",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452337",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452337",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "452402",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452402",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452469",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "452478",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "452947",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "452947",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "454418",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454526",
+    "country": "PAKISTAN",
+    "bank": "SINDH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "454528",
+    "country": "PAKISTAN",
+    "bank": "SINDH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "454535",
+    "country": "PAKISTAN",
+    "bank": "SINDH BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455588",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455863",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455863",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "455864",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "456810",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "456810",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457245",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "457245",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "458163",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "458164",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "458255",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458257",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458258",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "458480",
+    "country": "PAKISTAN",
+    "bank": "KASB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458481",
+    "country": "PAKISTAN",
+    "bank": "KASB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458539",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458540",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458547",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED UB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458548",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED UB",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458574",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "458825",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458826",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "458827",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "458866",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "458866",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461355",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461355",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461688",
+    "country": "PAKISTAN",
+    "bank": "SONERI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461688",
+    "country": "PAKISTAN",
+    "bank": "SONERI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461689",
+    "country": "PAKISTAN",
+    "bank": "TELENOR MICROFINANCE BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "461733",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "461758",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "462882",
+    "country": "PAKISTAN",
+    "bank": "BANKISLAMI PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462883",
+    "country": "PAKISTAN",
+    "bank": "BANKISLAMI PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "462886",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462886",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462891",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462891",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462892",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462892",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462897",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462897",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "462945",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462945",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "462978",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "462978",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "463728",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "464577",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "464577",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "464578",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464578",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464699",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464780",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "464951",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "464952",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464954",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "466062",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "467849",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467849",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "467850",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "467850",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "469340",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CORPORATE T&E"
+  },
+  {
+    "bin": "470556",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "470556",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472439",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472439",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472440",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472441",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472468",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472468",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "472469",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472469",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "472470",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472470",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "472471",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "472471",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "476215",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "476215",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "477052",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "477057",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "477057",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "478278",
+    "country": "PAKISTAN",
+    "bank": "NAYAPAY (PRIVATE), LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478423",
+    "country": "PAKISTAN",
+    "bank": "BANK AL HABIB, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478428",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478428",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "478972",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "478972",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479765",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "479766",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "480448",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, NATIONAL ASSOCIATION",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PURCHASING"
+  },
+  {
+    "bin": "480942",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "482106",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "482106",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "483565",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "483565",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484025",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "484171",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "484838",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "484839",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "484871",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486246",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486246",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486247",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "486248",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID CLASSIC"
+  },
+  {
+    "bin": "486250",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486250",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486251",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "486262",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486262",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "486263",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486263",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486264",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "486264",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "489245",
+    "country": "PAKISTAN",
+    "bank": "HABIB METROPOLITAN BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490245",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490245",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490286",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490286",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490287",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490287",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "490288",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490288",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "490471",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "490471",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493440",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493464",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "493465",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "493465",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494122",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494122",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "494123",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "494123",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "505816",
+    "country": "PAKISTAN",
+    "bank": "OMNICARD ISSUED BY UNITED BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "ATM CARD"
+  },
+  {
+    "bin": "511620",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "511750",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "511750",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "512077",
+    "country": "PAKISTAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512413",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512413",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512654",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "512654",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514010",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "514099",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "514216",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "514216",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515724",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "515907",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "515907",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "516011",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "516011",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "516061",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516062",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516067",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "516193",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517101",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "517296",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "517420",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517420",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "517470",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "517890",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "EXECUTIVE BUSINESS"
+  },
+  {
+    "bin": "518339",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "518496",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518496",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "518804",
+    "country": "PAKISTAN",
+    "bank": "BANKISLAMI PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "518879",
+    "country": "PAKISTAN",
+    "bank": "NATIONAL BANK OF PAKISTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519079",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519249",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519506",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "519510",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519527",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519527",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "519828",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "519992",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "519992",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "520165",
+    "country": "PAKISTAN",
+    "bank": "BANKISLAMI PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "522105",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "522545",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "522886",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523479",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "523819",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "523821",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "523849",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "523969",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524084",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524084",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "524218",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524218",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524438",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524438",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "524521",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "524643",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "524643",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525452",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525452",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526438",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526458",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526458",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "526772",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "526919",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "526922",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "527020",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527042",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "527344",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527361",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "527363",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527363",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527411",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527562",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527562",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "527777",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "527777",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529026",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529026",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529031",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529031",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "529201",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529201",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "529597",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "529729",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529731",
+    "country": "PAKISTAN",
+    "bank": "NIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529779",
+    "country": "PAKISTAN",
+    "bank": "SONERI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529779",
+    "country": "PAKISTAN",
+    "bank": "SONERI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "530324",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "530423",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530423",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "530913",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "531182",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "531182",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE WORLD"
+  },
+  {
+    "bin": "531199",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531199",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531211",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531211",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "531493",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531493",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531786",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "531968",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "531968",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "532126",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "532489",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "532489",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "532544",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "532701",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532709",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "532971",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "533338",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "533838",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "533838",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "534564",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534760",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "534760",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "535846",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "535991",
+    "country": "PAKISTAN",
+    "bank": "NIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "536015",
+    "country": "PAKISTAN",
+    "bank": "NIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "536040",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "536040",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "536072",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536174",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536565",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536565",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536619",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536619",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "536631",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "536632",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "536632",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "537188",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537188",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "537709",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537709",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "537737",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537737",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "537842",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537842",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "537939",
+    "country": "PAKISTAN",
+    "bank": "SONERI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537939",
+    "country": "PAKISTAN",
+    "bank": "SONERI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537975",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "538086",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "538162",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "538967",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539081",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "539136",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539143",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "539160",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539160",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539466",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539476",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539486",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "539645",
+    "country": "PAKISTAN",
+    "bank": "NATIONAL BANK OF PAKISTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "539873",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "539873",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID RELOADABLE"
+  },
+  {
+    "bin": "539989",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "539989",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "540345",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540375",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK LIMITED (UBL)",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "540784",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "540784",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "542513",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542513",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  },
+  {
+    "bin": "542560",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542560",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "542831",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542831",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "542861",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "542861",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "543126",
+    "country": "PAKISTAN",
+    "bank": "BANKISLAMI PAKISTAN, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "544147",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "544147",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "545249",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545249",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "545446",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "545446",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "546369",
+    "country": "PAKISTAN",
+    "bank": "NIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "546524",
+    "country": "PAKISTAN",
+    "bank": "MOBILINK MICROFINANCE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547009",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "547009",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "547175",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547175",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "547583",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547583",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "547753",
+    "country": "PAKISTAN",
+    "bank": "MEEZAN BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "548193",
+    "country": "PAKISTAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "549189",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549189",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "549897",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "549897",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "550376",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "550376",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "551039",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551039",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551073",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551073",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "551829",
+    "country": "PAKISTAN",
+    "bank": "NATIONAL BANK OF PAKISTAN",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "551957",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "551957",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "552116",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552116",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552224",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552233",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552233",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "552461",
+    "country": "PAKISTAN",
+    "bank": "JS BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "552844",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "552922",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "552930",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "553137",
+    "country": "PAKISTAN",
+    "bank": "HSBC BANK MIDDLE EAST",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE"
+  },
+  {
+    "bin": "553161",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "553490",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "553490",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "553876",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "553876",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "554387",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554387",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "554394",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "554394",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "555011",
+    "country": "PAKISTAN",
+    "bank": "CITIBANK, N.A.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "CORPORATE PURCHASING"
+  },
+  {
+    "bin": "555081",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555081",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555411",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "555478",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555478",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555501",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "555575",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555575",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "555699",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555699",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "555752",
+    "country": "PAKISTAN",
+    "bank": "SILKBANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "556574",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "556574",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "TITANIUM"
+  },
+  {
+    "bin": "556577",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "556577",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "556855",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "556855",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "557572",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557572",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "557845",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557845",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557945",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "557945",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "558036",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "558036",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "558437",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "558437",
+    "country": "PAKISTAN",
+    "bank": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "559049",
+    "country": "PAKISTAN",
+    "bank": "THE BANK OF PUNJAB",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559177",
+    "country": "PAKISTAN",
+    "bank": "MOBILINK MICROFINANCE BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "559550",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "559550",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "576019",
+    "country": "PAKISTAN",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "576385",
+    "country": "PAKISTAN",
+    "bank": "MAESTRO INTERNATIONAL",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "588974",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "588974",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589900",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589900",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589906",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589906",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589908",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589908",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589910",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589910",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589911",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589911",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589912",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589912",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589913",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589913",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589914",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589914",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589915",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589915",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589917",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589917",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589918",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589918",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589919",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589919",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589921",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589921",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589923",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589923",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589925",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589925",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589926",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589926",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589927",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589927",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589928",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589928",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589929",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589929",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589930",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589930",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589931",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589931",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589932",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589932",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589933",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589933",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589934",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589934",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589936",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589936",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589937",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589937",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589940",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589940",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589942",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589942",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589943",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589943",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589944",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589944",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589945",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589945",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589946",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589946",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589947",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589947",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589948",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589948",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589949",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589949",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589952",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589952",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589953",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589953",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589954",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589954",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589955",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589955",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589956",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589956",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589957",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589957",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589958",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589958",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589959",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589959",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589960",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589960",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589961",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589961",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589962",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589962",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589964",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589964",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589970",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589970",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589971",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589971",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589972",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589972",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589974",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589974",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589976",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589976",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589978",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589978",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589979",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589979",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589986",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589986",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589987",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589987",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589988",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589988",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589989",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589989",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589990",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589990",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589991",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589991",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589993",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589993",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589998",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589998",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589999",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "589999",
+    "country": "PAKISTAN",
+    "bank": "MCB BANK, LTD.",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "600648",
+    "country": "PAKISTAN",
+    "bank": "BAYNAZIR INCOME SUPPORT PROGRAM",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "621464",
+    "country": "PAKISTAN",
+    "bank": "ICBC KARACHI BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621645",
+    "country": "PAKISTAN",
+    "bank": "PAKISTAN FAYSAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621657",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "621657",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623307",
+    "country": "PAKISTAN",
+    "bank": "U MICROFINANCE BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623312",
+    "country": "PAKISTAN",
+    "bank": "AL BARAKA BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "623359",
+    "country": "PAKISTAN",
+    "bank": "BANK AL HABIB, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623381",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623389",
+    "country": "PAKISTAN",
+    "bank": "SINDH BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623402",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "PERSONAL"
+  },
+  {
+    "bin": "623404",
+    "country": "PAKISTAN",
+    "bank": "MCB ISLAMIC BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623405",
+    "country": "PAKISTAN",
+    "bank": "BANK ALFALAH, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623406",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623407",
+    "country": "PAKISTAN",
+    "bank": "DUBAI ISLAMIC BANK PAKISTAN",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "623408",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623977",
+    "country": "PAKISTAN",
+    "bank": "BANK OF PUNJAB",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "624385",
+    "country": "PAKISTAN",
+    "bank": "NATIONAL BANK OF PAKISTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "624386",
+    "country": "PAKISTAN",
+    "bank": "NATIONAL BANK OF PAKISTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "625942",
+    "country": "PAKISTAN",
+    "bank": "ICBC KARACHI BRANCH",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "626229",
+    "country": "PAKISTAN",
+    "bank": "NATIONAL BANK OF PAKISTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "629100",
+    "country": "PAKISTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629101",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629101",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629111",
+    "country": "PAKISTAN",
+    "bank": "UNITED BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629112",
+    "country": "PAKISTAN",
+    "bank": "FAYSAL BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629113",
+    "country": "PAKISTAN",
+    "bank": "NBP FUND MANAGEMENT, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629116",
+    "country": "PAKISTAN",
+    "bank": "CENTRAL DIRECTORATE OF NATIONAL SAVINGS",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629117",
+    "country": "PAKISTAN",
+    "bank": "ASKARI BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629169",
+    "country": "PAKISTAN",
+    "bank": "TELENOR MICROFINANCE BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629179",
+    "country": "PAKISTAN",
+    "bank": "NRSP MICROFINANCE BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629210",
+    "country": "PAKISTAN",
+    "bank": "SUMMIT BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "629240",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629240",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629241",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "629241",
+    "country": "PAKISTAN",
+    "bank": "ALLIED BANK, LTD.",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "680068",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "680068",
+    "country": "PAKISTAN",
+    "bank": "HABIB BANK, LTD.",
+    "network": "LOCAL BRAND",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "900048",
+    "country": "PAKISTAN",
+    "bank": "SAMBA FINANCIAL GROUP",
+    "network": "LOCAL BRAND",
+    "type": "CREDIT",
+    "level": "MIXED PRODUCT"
+  }
+]

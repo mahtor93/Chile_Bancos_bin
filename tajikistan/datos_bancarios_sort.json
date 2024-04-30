@@ -1,0 +1,514 @@
+[
+  {
+    "bin": "401624",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC ACTIVBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "412626",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "412661",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413208",
+    "country": "TAJIKISTAN",
+    "bank": "TOJIKSODIROTBONK JSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "413209",
+    "country": "TAJIKISTAN",
+    "bank": "TOJIKSODIROTBONK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "413210",
+    "country": "TAJIKISTAN",
+    "bank": "TOJIKSODIROTBONK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "413846",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC ORIENBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "416753",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC ORIENBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416754",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC ORIENBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "416755",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC ORIENBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "416756",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC ORIENBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "423314",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC AGROINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "424614",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "425550",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC AGROINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "425551",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC AGROINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "425552",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC AGROINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "426848",
+    "country": "TAJIKISTAN",
+    "bank": "TJS CBRD TAJPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "426849",
+    "country": "TAJIKISTAN",
+    "bank": "TJS CBRD TAJPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "426850",
+    "country": "TAJIKISTAN",
+    "bank": "TJS CBRD TAJPROMBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "427759",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC SPITAMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "SIGNATURE"
+  },
+  {
+    "bin": "432252",
+    "country": "TAJIKISTAN",
+    "bank": "ALIF BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "434080",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC ORIENBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "439382",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC THE FIRST MICROFINANCE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443919",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC BANK ESKHATA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "443920",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC BANK ESKHATA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "443921",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC BANK ESKHATA",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "444488",
+    "country": "TAJIKISTAN",
+    "bank": "ALIF BANK OJSC",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "444826",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "INFINITE"
+  },
+  {
+    "bin": "445168",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC ACTIVBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445169",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC THE FIRST MICROFINANCE BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "445572",
+    "country": "TAJIKISTAN",
+    "bank": "THE STATE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN (AMONATBONK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "445573",
+    "country": "TAJIKISTAN",
+    "bank": "THE STATE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN (AMONATBONK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "445574",
+    "country": "TAJIKISTAN",
+    "bank": "THE STATE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN (AMONATBONK)",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "457868",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC ACTIVBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460765",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC SPITAMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "CLASSIC"
+  },
+  {
+    "bin": "460768",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC SPITAMEN BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464652",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC AGROINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "464654",
+    "country": "TAJIKISTAN",
+    "bank": "OJSC AGROINVESTBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "ELECTRON"
+  },
+  {
+    "bin": "464655",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC DUSHANBE CITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "466097",
+    "country": "TAJIKISTAN",
+    "bank": "TOJIKSODIROTBONK JSC",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "471338",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC DUSHANBE CITY BANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PREPAID"
+  },
+  {
+    "bin": "473127",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC THE FIRST MICROFINANCE BANK",
+    "network": "VISA",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "478687",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC ACTIVBANK",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "489084",
+    "country": "TAJIKISTAN",
+    "bank": "CLOSED JOINT STOCK COMPANY MICROCREDIT DEPOSIT ORGANIZATION HUMO",
+    "network": "VISA",
+    "type": "DEBIT",
+    "level": "PLATINUM"
+  },
+  {
+    "bin": "519735",
+    "country": "TAJIKISTAN",
+    "bank": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "521809",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC ACTIV BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "523009",
+    "country": "TAJIKISTAN",
+    "bank": "CLOSE JOINT STOCK COMPANY SPITAMEN BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "525820",
+    "country": "TAJIKISTAN",
+    "bank": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "GOLD"
+  },
+  {
+    "bin": "529051",
+    "country": "TAJIKISTAN",
+    "bank": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "537463",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC ACTIV BANK",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD"
+  },
+  {
+    "bin": "540908",
+    "country": "TAJIKISTAN",
+    "bank": "ALIF BANK OJSC",
+    "network": "MASTERCARD",
+    "type": "CREDIT",
+    "level": "STANDARD"
+  },
+  {
+    "bin": "541352",
+    "country": "TAJIKISTAN",
+    "bank": "ALIF BANK OJSC",
+    "network": "MASTERCARD",
+    "type": "DEBIT",
+    "level": "WORLD ELITE"
+  },
+  {
+    "bin": "621649",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC FONONBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "OTHER"
+  },
+  {
+    "bin": "623351",
+    "country": "TAJIKISTAN",
+    "bank": "CJSC SPITAMEN BANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "623368",
+    "country": "TAJIKISTAN",
+    "bank": "TOJIKSODIROTBANK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "623462",
+    "country": "TAJIKISTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "624470",
+    "country": "TAJIKISTAN",
+    "bank": "BANK ESKHATA",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626216",
+    "country": "TAJIKISTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626218",
+    "country": "TAJIKISTAN",
+    "bank": "INTERNATIONAL BANK OF TAJIKISTAN",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626230",
+    "country": "TAJIKISTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626238",
+    "country": "TAJIKISTAN",
+    "bank": "INN FOR UNIONPAY CARD NETWORK",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": ""
+  },
+  {
+    "bin": "626408",
+    "country": "TAJIKISTAN",
+    "bank": "BANK ESKHATA",
+    "network": "CHINA UNION PAY",
+    "type": "CREDIT",
+    "level": "BUSINESS"
+  },
+  {
+    "bin": "670856",
+    "country": "TAJIKISTAN",
+    "bank": "OPEN JOINT STOCK COMPANY TOJIKSODIROTBANK",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  },
+  {
+    "bin": "671157",
+    "country": "TAJIKISTAN",
+    "bank": "THE STATE SAVING BANK REPUBLIC OF TAJIKISTAN 'AMONATBONK'",
+    "network": "MAESTRO",
+    "type": "DEBIT",
+    "level": ""
+  }
+]

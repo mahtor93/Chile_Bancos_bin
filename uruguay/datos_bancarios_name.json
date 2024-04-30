@@ -1,0 +1,2906 @@
+[
+    {
+        "ASOCIACION_NACIONAL_DE_AFILIADOS_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "473103",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "ASOCIACION NACIONAL DE AFILIADOS",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANCO_BANDES_URUGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "418989",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BANDES URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422754",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BANDES URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422755",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BANDES URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422756",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BANDES URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANCO_BILBAO_VIZCAYA_ARGENTARIA_URUGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "401070",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410377",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "422604",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "423476",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "426511",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "ELECTRON"
+            },
+            {
+                "Numero BIN/IIN": "441010",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450786",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "451319",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "458959",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "465469",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491505",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "491548",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491549",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "491555",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "493525",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "493526",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "493771",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "493772",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "493787",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "540606",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BANCO_BILBAO_VIZCAYA_ARGENTARIA-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "460067",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANCO_DE_LA_PROVINCIA_DE_BUENOS_AIRES_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "489991",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANCO_DE_LA_REPUBLICA_ORIENTAL_DEL_URUGUAY_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "403364",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "421821",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "423081",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "440696",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "444781",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "444782",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "444783",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "451366",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "451367",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "455956",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "457643",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "466240",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "485956",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PURCHASING"
+            },
+            {
+                "Numero BIN/IIN": "494007",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "494008",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "494016",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "494044",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "494078",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "494085",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "494095",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BANCO_DE_MONTEVIDEO-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "494197",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO DE MONTEVIDEO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANCO_ITAU_URUGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "401527",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421300",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421301",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448722",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "454884",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "455104",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "455110",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "455148",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "455175",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "455176",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455189",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463308",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "468562",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498524",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "498525",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "499842",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "514877",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "519697",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "522414",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522861",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "530779",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "532413",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "532415",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "EXECUTIVE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "532763",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "548479",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "548726",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548729",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "558997",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANCO_ITAU_URUGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "401527",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421300",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "421301",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448722",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "454884",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "455104",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "455110",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "455148",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "455175",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "455176",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "455189",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "463308",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "468562",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498524",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "498525",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "499842",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "514877",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "519697",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "522414",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522861",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "530779",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "532413",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "532415",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "EXECUTIVE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "532763",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "548479",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "548726",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548729",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "558997",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO ITAU URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "BANCO_REPUBLICA_ORIENTAL_DEL_URUGUAY_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "223136",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "223137",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "223138",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "232004",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "523211",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "523912",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "524663",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "529984",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "533060",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "534880",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "536770",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542580",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE EXECUTIVE"
+            },
+            {
+                "Numero BIN/IIN": "551634",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "551956",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "554530",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "555070",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "556590",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO REPUBLICA ORIENTAL DEL URUGUAY",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANCO_SANTANDER_SOCIEDAD_ANONIMA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "409078",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "437846",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448163",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "491510",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491882",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "491883",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "510198",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "519757",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "521119",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525845",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "527130",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "529130",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "534262",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "534263",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "538983",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "545612",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "545703",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548227",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "552506",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER SOCIEDAD ANONIMA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            }
+        ]
+    },
+    {
+        "BANCO_SANTANDER-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "400773",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "414284",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "430307",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448162",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448164",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472811",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "472812",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "472813",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "481521",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "483114",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "492961",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE T&E"
+            },
+            {
+                "Numero BIN/IIN": "492962",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "492963",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "492964",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "498535",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANCO SANTANDER, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PLATINUM"
+            }
+        ]
+    },
+    {
+        "BANQUE_HERITAGE_(URUGUAY)-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "533238",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BANQUE HERITAGE (URUGUAY), S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "BAUTZEN-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "407596",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "407597",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "417757",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "467909",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "477157",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "477159",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "483087",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "489417",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "496034",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BAUTZEN, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "BLANICO_SA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "559100",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BLANICO SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "559109",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BLANICO SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "BNL_DE_URUGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "467490",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "BNL DE URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "CITIBANK_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "455987",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "CITIBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "455988",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "CITIBANK",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "CITIBANK_N.A._-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "536371",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "CITIBANK N.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "COMPANIA_URUGUAYA_DE_MEDIOS_DE_PROCESAMIENTO-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "491954",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "COMPANIA URUGUAYA DE MEDIOS DE PROCESAMIENTO, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DC_URUGUAY_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "360109",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "361232",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "363452",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "363453",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "363454",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "363455",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "364302",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364303",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364306",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364307",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "364308",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365409",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365410",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365411",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365412",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365452",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365629",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "365649",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "DC_URUGUAY_ITAU_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "363085",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY ITAU",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "363571",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DC URUGUAY ITAU",
+                "Marca de carro": "DINERS CLUB INTERNATIONAL",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "DEBIT_ISIS_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "530608",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DEBIT ISIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "532684",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DEBIT ISIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID RELOADABLE"
+            },
+            {
+                "Numero BIN/IIN": "534983",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DEBIT ISIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "535852",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DEBIT ISIS",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "DINERO_ELECTRONICO_ANDA-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "401620",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DINERO ELECTRONICO ANDA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "410429",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DINERO ELECTRONICO ANDA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "465458",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DINERO ELECTRONICO ANDA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            }
+        ]
+    },
+    {
+        "DISCOUNT_BANK_(LATIN_AMERICA)-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "449749",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "449750",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "449769",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "ECONSTAR_SA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "515845",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "ECONSTAR SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "515861",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "ECONSTAR SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "522128",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "ECONSTAR SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "551200",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "ECONSTAR SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "EDIGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "450986",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "EDIGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491516",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "EDIGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "EDIGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "450986",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "EDIGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491516",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "EDIGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "EXPRINTER_CASA_BANCARIA-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "454602",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "EXPRINTER CASA BANCARIA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "454603",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "EXPRINTER CASA BANCARIA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "FINDARIN_SA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "511604",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "531141",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "533423",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "533860",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "533871",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "533888",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "536670",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "536671",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FINDARIN SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "FIRST_DATA_CONO_SUR_S.R.L._-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "554667",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "FIRST_DATA_CONO_SUR_S.R.L._-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "512538",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "514787",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "515689",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "EXECUTIVE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "515790",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "515830",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "516567",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "520221",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "521889",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "524885",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525407",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525422",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "527602",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "528688",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529032",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "529121",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "531739",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "532398",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532399",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532408",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "532409",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "532411",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "532412",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "532414",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532416",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "532417",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532418",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532419",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "532978",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "536560",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "536814",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "539916",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539918",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "539919",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541235",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541409",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "541753",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "541785",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "542165",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "542189",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "MIXED PRODUCT"
+            },
+            {
+                "Numero BIN/IIN": "546625",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "547278",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "547295",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "547296",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "548333",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "548801",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "549019",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "552161",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "PLATINUM"
+            },
+            {
+                "Numero BIN/IIN": "553445",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "553446",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CORPORATE"
+            },
+            {
+                "Numero BIN/IIN": "557917",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "558930",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "EXECUTIVE BUSINESS"
+            },
+            {
+                "Numero BIN/IIN": "559926",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FIRST DATA CONO SUR, S.R.L.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "FUCAC_VERDE_COOPERATIVA_DE_AHORRO_Y_CREDITO_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "434947",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "FUCAC VERDE COOPERATIVA DE AHORRO Y CREDITO",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "HSBC_BANK_(URUGUAY)-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "401555",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "HSBC BANK (URUGUAY), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "401556",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "HSBC BANK (URUGUAY), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "415723",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "HSBC BANK (URUGUAY), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "473496",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "HSBC BANK (URUGUAY), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "493726",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "HSBC BANK (URUGUAY), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "INTERCONTINENTAL_BANK_(URUGUAY)-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "456357",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "INTERCONTINENTAL BANK (URUGUAY), S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "NUEVO_BANCO_COMERCIAL-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "454053",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUEVO BANCO COMERCIAL, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "454065",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUEVO BANCO COMERCIAL, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "454066",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUEVO BANCO COMERCIAL, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "NUMMI._-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "223047",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUMMI.S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "518787",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUMMI.S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "519185",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUMMI.S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "523055",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUMMI.S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "531179",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUMMI.S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            },
+            {
+                "Numero BIN/IIN": "539110",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "NUMMI.S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    },
+    {
+        "OCA_CASA_FINANCIERA-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "441573",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA CASA FINANCIERA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            }
+        ]
+    },
+    {
+        "OCA-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "421571",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "466241",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491385",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "491669",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491670",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "542991",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549530",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549564",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "549571",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549576",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "OCA-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "421571",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "466241",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491385",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            },
+            {
+                "Numero BIN/IIN": "491669",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491670",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "542991",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549530",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549564",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "549571",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "549576",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "OCA, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "PERSONAS_SANTANDER_EMPRESA_ADMINISTRADORA_DE_CREDITOS-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "422757",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "PERSONAS SANTANDER EMPRESA ADMINISTRADORA DE CREDITOS, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "PROMOTE_SA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "549826",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "PROMOTE SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BUSINESS"
+            }
+        ]
+    },
+    {
+        "RIAS_REDBANC-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "430308",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "RIAS REDBANC, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "SCOTIABANK_URUGUAY-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "412001",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "425677",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "448115",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "INFINITE"
+            },
+            {
+                "Numero BIN/IIN": "450624",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450626",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "450637",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "455134",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "467910",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "467911",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "469703",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "477158",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491394",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491395",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "491396",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "498479",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "CLASSIC"
+            },
+            {
+                "Numero BIN/IIN": "524087",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "BLACK"
+            },
+            {
+                "Numero BIN/IIN": "524093",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            },
+            {
+                "Numero BIN/IIN": "525459",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525460",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525473",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "525486",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543746",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "543753",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            },
+            {
+                "Numero BIN/IIN": "544787",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SCOTIABANK URUGUAY, S.A.",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "GOLD"
+            }
+        ]
+    },
+    {
+        "SISTARBANC_S.R.L._-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "454883",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SISTARBANC S.R.L.",
+                "Marca de carro": "VISA",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": ""
+            }
+        ]
+    },
+    {
+        "SOCUR_SA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "536258",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SOCUR SA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "CREDIT",
+                "Nivel de tarjeta": "STANDARD"
+            }
+        ]
+    },
+    {
+        "SUPER_PAGAMENTOS_E_ADMINISTRACAO_DE_MEIOS_ELETRONICOS_LTDA_-_URUGUAY": [
+            {
+                "Numero BIN/IIN": "555425",
+                "Pais": "URUGUAY",
+                "Nombre del emisor / Banco": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS LTDA",
+                "Marca de carro": "MASTERCARD",
+                "Tipo de tarjeta": "DEBIT",
+                "Nivel de tarjeta": "PREPAID"
+            }
+        ]
+    }
+]

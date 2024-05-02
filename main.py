@@ -36,7 +36,7 @@ async def main():
                     print('Conexión exitosa')
                     soup = BeautifulSoup(response, 'html.parser')
                     name_country = soup.find('h2',attrs={'class':'inline-block px-2 mb-4 text-base font-semibold leading-normal tracking-wide text-gray-800 bg-yellow-200 sm:text-lg'})
-                    name_country = name_country.text.strip().replace(" ","_").lower()
+                    name_country = name_country.text.strip().replace(" ","_").replace(",","").lower()
                     links = soup.find_all('a', attrs={'class': 'flex items-start inline-block gap-3 p-5 space-x-4 transition ease-in-out border rounded-md border-slate-200 duraton-150 hover:border hover:border-blue-400 dark:border-slate-500 dark:hover:border-blue-400 bank'})
                     tasks = []
                     data = []

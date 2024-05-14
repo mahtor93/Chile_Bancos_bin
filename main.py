@@ -23,7 +23,7 @@ async def fetch_data(session, url):
 
 async def main():
     async with aiohttp.ClientSession() as session:
-        web_response = await fetch_data(session, 'https://bincheck.io/es/bin-list')
+        web_response = await fetch_data(session, '')
         if web_response:
             print('Conexión exitosa')
             major_soup = BeautifulSoup(web_response,'html.parser')
